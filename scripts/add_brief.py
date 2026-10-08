@@ -59,7 +59,7 @@ def info(date_text):
         "perek": perek,
         "ref": f"{m['title']} {perek}",
         "file": f"site/data/perakim/{key}.json",
-        "site_url": f"https://mishna-yomit.rosenbaum-jeremy.workers.dev/#{key}",
+        "site_url": f"https://mishna-yomit.dailylearning.workers.dev/#{key}",
         "already_published": done,
     }
 
