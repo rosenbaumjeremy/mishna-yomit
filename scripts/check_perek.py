@@ -1,7 +1,7 @@
 """Check the parts of a Mishnah brief that verify_brief.py does not: the
 topics (musagim) and the links from each item to the words of the mishnah.
 
-    python3 scripts/check_perek.py BRIEF.json "<Sefaria ref of the perek>" [--min-topics 4]
+    python3 scripts/check_perek.py BRIEF.json "<Sefaria ref of the perek>" [--min-topics 5] [--max-topics 8]
 
 Run it after verify_brief.py. It rewrites the brief in place:
 
@@ -13,7 +13,7 @@ Run it after verify_brief.py. It rewrites the brief in place:
 
 English and Hebrew topics are kept in the same order; a topic that fails in
 either language is removed from both. Exits 1 if fewer than --min-topics
-topics survive. Uses the same comparison as verify_brief.py (ignores nikud,
+or more than --max-topics topics survive. Uses the same comparison as verify_brief.py (ignores nikud,
 punctuation, and the vowel letters ו and י).
 """
 
@@ -37,7 +37,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("path")
     parser.add_argument("ref")
-    parser.add_argument("--min-topics", type=int, default=4)
+    parser.add_argument("--min-topics", type=int, default=5)
+    parser.add_argument("--max-topics", type=int, default=8)
     args = parser.parse_args()
 
     brief = json.loads(Path(args.path).read_text(encoding="utf-8"))
@@ -92,6 +93,9 @@ def main():
     print(f"{len(keep)} of {len(en)} topics verified")
     if len(keep) < args.min_topics:
         print(f"FEWER THAN {args.min_topics} VERIFIED TOPICS", file=sys.stderr)
+        sys.exit(1)
+    if len(keep) > args.max_topics:
+        print(f"MORE THAN {args.max_topics} TOPICS: keep the {args.max_topics} a learner most needs", file=sys.stderr)
         sys.exit(1)
 
 

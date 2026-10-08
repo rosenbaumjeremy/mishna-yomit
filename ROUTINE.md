@@ -79,7 +79,7 @@ worth showing.
 **Summary**: 4–6 sentences going through the perek mishnah by mishnah, from
 the text itself.
 
-**Topics (musagim)**: 6–12 terms, institutions, people or concepts a learner
+**Topics (musagim)**: 5–8 terms (no more than 8), institutions, people or concepts a learner
 needs to understand this perek (e.g. tevul yom, the watches of the night,
 seasonal hours, Beit Shammai and Beit Hillel). Each one: a plain explanation in
 2–4 sentences, the mishnah it belongs to, the exact words in that mishnah it
@@ -142,7 +142,8 @@ python3 scripts/source_breadth.py /tmp/brief.json "<ref>"
 
 `verify_brief.py` removes every question, asker or answer whose quote is not in
 its source, and exits 1 under 5 verified questions. `check_perek.py` removes
-topics whose quote or anchors are not found, and exits 1 under 4 topics.
+topics whose quote or anchors are not found, and exits 1 under 5 topics or
+over 8 (if over 8, keep the 8 a learner most needs and run it again).
 `source_breadth.py` exits 1 if anything cited is not a mefaresh on this
 masechet, fewer than 5 distinct works are cited, one work is the only asker of
 more than 3 questions, or one work holds more than 40% of citations.

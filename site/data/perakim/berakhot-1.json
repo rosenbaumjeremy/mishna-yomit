@@ -85,20 +85,6 @@
     ]
    },
    {
-    "term": "Tekhelet, lavan and karti",
-    "explanation": "Tekhelet is wool dyed sky-blue. The morning Shema begins once there is enough light to tell it from the white threads of the tzitzit or, for Rabbi Eliezer, from leek-green, which is closer in colour and so needs more light.",
-    "source": {
-     "name": "Bartenura",
-     "ref": "Bartenura on Mishnah Berakhot 1:2:2",
-     "quote": "צבע התכלת קרוב לגון של כרתי"
-    },
-    "mishnah": 2,
-    "anchors": [
-     "בין תכלת ללבן",
-     "בין תכלת לכרתי"
-    ]
-   },
-   {
     "term": "Netz hachamah and the vatikin",
     "explanation": "Netz is the moment the sun begins to shine on the mountaintops. The vatikin timed the end of their Shema to sunrise so they could join redemption (Ga'al Yisrael) to the Amidah. Even Rabbi Yehoshua agrees this is ideal.",
     "source": {
@@ -125,20 +111,6 @@
     ]
    },
    {
-    "term": "Beit Shammai and Beit Hillel",
-    "explanation": "These are the schools of Shammai's and Hillel's students and their successors. The halakha follows Beit Hillel except in a few listed cases. Beit Hillel, known for humility, would quote Beit Shammai's view first.",
-    "source": {
-     "name": "Lechem Shamayim (Ya'avetz)",
-     "ref": "Lechem Shamayim on Mishnah Berakhot 1:3:6",
-     "quote": "ב\"ש וב\"ה הם סיעת תלמידי שמאי והלל"
-    },
-    "mishnah": 3,
-    "anchors": [
-     "בית שמאי אומרים",
-     "ובית הלל אומרים"
-    ]
-   },
-   {
     "term": "The berakhot of Shema; long and short blessings",
     "explanation": "In the morning: Yotzer Or and Ahavah before, Emet VeYatziv after. In the evening: Ma'ariv Aravim and Ahavat Olam before, Emet VeEmunah and Hashkiveinu after. A \"long\" berakhah opens and closes with Barukh. A \"short\" one only closes with it, because it rides on the berakhah before it.",
     "source": {
@@ -149,19 +121,6 @@
     "mishnah": 4,
     "anchors": [
      "אחת ארוכה ואחת קצרה"
-    ]
-   },
-   {
-    "term": "Parashat tzitzit at night",
-    "explanation": "Tzitzit is not a night-time mitzvah (\"you shall see it\"), but its passage is read in the evening Shema because it mentions the Exodus.",
-    "source": {
-     "name": "Bartenura",
-     "ref": "Bartenura on Mishnah Berakhot 1:5:1",
-     "quote": "ואף על פי שאין לילה זמן ציצית"
-    },
-    "mishnah": 5,
-    "anchors": [
-     "מזכירין יציאת מצרים בלילות"
     ]
    },
    {
@@ -716,20 +675,6 @@
     ]
    },
    {
-    "term": "תכלת, לבן וכרתי",
-    "explanation": "תכלת היא צמר צבוע בצבע הרקיע. זמן קריאת שמע של שחרית מתחיל כשיש די אור להבחין בינה לבין חוטי הלבן שבציצית, ולרבי אליעזר בינה לבין כרתי (ירוק כרישין), הקרוב לה בגוונו.",
-    "source": {
-     "name": "ברטנורא",
-     "ref": "Bartenura on Mishnah Berakhot 1:2:2",
-     "quote": "צבע התכלת קרוב לגון של כרתי"
-    },
-    "mishnah": 2,
-    "anchors": [
-     "בין תכלת ללבן",
-     "בין תכלת לכרתי"
-    ]
-   },
-   {
     "term": "הנץ החמה והוותיקין",
     "explanation": "הנץ הוא השעה שהחמה מתחילה לזרוח בראשי ההרים. הוותיקין כיוונו לגמור קריאת שמע עם הנץ כדי לסמוך גאולה לתפילה, וכך הוא לכתחילה גם לרבי יהושע.",
     "source": {
@@ -756,20 +701,6 @@
     ]
    },
    {
-    "term": "בית שמאי ובית הלל",
-    "explanation": "סיעות תלמידי שמאי והלל ותלמידי תלמידיהם. הלכה כבית הלל, חוץ ממקרים מעטים, ובענוותנותם הקדימו את דברי בית שמאי לדבריהם.",
-    "source": {
-     "name": "לחם שמים (יעב\"ץ)",
-     "ref": "Lechem Shamayim on Mishnah Berakhot 1:3:6",
-     "quote": "ב\"ש וב\"ה הם סיעת תלמידי שמאי והלל"
-    },
-    "mishnah": 3,
-    "anchors": [
-     "בית שמאי אומרים",
-     "ובית הלל אומרים"
-    ]
-   },
-   {
     "term": "ברכות קריאת שמע – ארוכה וקצרה",
     "explanation": "שחרית: יוצר אור ואהבה לפניה, אמת ויציב לאחריה. ערבית: מעריב ערבים ואהבת עולם לפניה, אמת ואמונה והשכיבנו לאחריה. ברכה \"ארוכה\" פותחת וחותמת בברוך; \"קצרה\" חותמת בלבד, שסמוכה לחברתה.",
     "source": {
@@ -780,19 +711,6 @@
     "mishnah": 4,
     "anchors": [
      "אחת ארוכה ואחת קצרה"
-    ]
-   },
-   {
-    "term": "פרשת ציצית בלילה",
-    "explanation": "ציצית אינה נוהגת בלילה (\"וראיתם אותו\"), ובכל זאת קוראים את פרשתה בערבית מפני יציאת מצרים שבה.",
-    "source": {
-     "name": "ברטנורא",
-     "ref": "Bartenura on Mishnah Berakhot 1:5:1",
-     "quote": "ואף על פי שאין לילה זמן ציצית"
-    },
-    "mishnah": 5,
-    "anchors": [
-     "מזכירין יציאת מצרים בלילות"
     ]
    },
    {
