@@ -406,8 +406,8 @@ async function renderPerek() {
 
   // left: terms and questions
   const side = node("div", "side-col");
-  side.append(group(t().topics, items.filter((x) => x.kind === "t"), true));
-  side.append(group(t().questions, items.filter((x) => x.kind === "q"), true));
+  side.append(group(t().topics, items.filter((x) => x.kind === "t"), false));
+  side.append(group(t().questions, items.filter((x) => x.kind === "q"), false));
   const src = node("details", "box");
   src.append(node("summary", null, t().sources));
   const srcBody = node("div", "body");
