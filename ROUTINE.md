@@ -77,7 +77,11 @@ worth showing.
 ## Step 4 – write the brief as JSON
 
 **Summary**: 4–6 sentences going through the perek mishnah by mishnah, from
-the text itself.
+the text itself. Start each mishnah's part with its label: "Mishnah 2 ..." in
+English and "משנה ב ..." in Hebrew (Hebrew numeral letters, no gershayim;
+"Mishnayot 3–4" / "משניות ג-ד" for two together). The site shows each label in
+bold on its own line and collects every summary on the masechet's summaries
+page.
 
 **Topics (musagim)**: 5–8 terms (no more than 8), institutions, people or concepts a learner
 needs to understand this perek (e.g. tevul yom, the watches of the night,

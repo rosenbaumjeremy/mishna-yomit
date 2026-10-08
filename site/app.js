@@ -17,6 +17,10 @@ const UI = {
     perakim: (n) => `${n} פרקים`,
     sefaria: "הטקסט בספריא",
     summary: "סיכום הפרק",
+    summaries: "סיכומים",
+    summariesOf: (m) => `סיכומי מסכת ${m}`,
+    backMasechet: "→ לכל המסכתות",
+    noSummaries: "עדיין לא פורסמו פרקים במסכת זו.",
     text: "לשון המשנה",
     topics: "מושגים ונושאים",
     questions: "קושיות המפרשים",
@@ -47,6 +51,10 @@ const UI = {
     perakim: (n) => `${n} perakim`,
     sefaria: "Text on Sefaria",
     summary: "Summary of the perek",
+    summaries: "Summaries",
+    summariesOf: (m) => `Masechet ${m}: summaries`,
+    backMasechet: "← All masechtot",
+    noSummaries: "No perakim of this masechet have been published yet.",
     text: "The Mishnah",
     topics: "Key terms & topics",
     questions: "Questions of the mefarshim",
@@ -67,7 +75,7 @@ const UI = {
   },
 };
 
-const state = { lang: "hebrew", sedarim: [], days: [], perek: null, cache: new Map() };
+const state = { lang: "hebrew", sedarim: [], days: [], perek: null, summaries: null, cache: new Map() };
 
 const el = (id) => document.getElementById(id);
 const t = () => UI[state.lang];
@@ -164,6 +172,33 @@ function getPerek(slug, perek) {
   return state.cache.get(key);
 }
 
+/* ---------- summaries: one paragraph per mishnah, its number in bold ---------- */
+
+// "Mishnah 2", "Mishnayot 3–4"; "משנה ב", "משניות ג-ד" (Hebrew numerals only, so
+// "משנה זו" is not taken for a number).
+const HEB_N = "(?:טו|טז|י?[א-ט]|י|כ[א-ט]?|ל)['׳]?";
+const MISHNAH_RE = new RegExp(
+  String.raw`\bMishna(?:h|yot)\s+\d+(?:\s*(?:[–-]|and)\s*\d+)?|(?:משנה|משניות)\s+${HEB_N}(?:\s*[–-]\s*${HEB_N})?(?=[\s:,.;)]|$)`, "g");
+
+function summaryParas(text) {
+  const frag = document.createDocumentFragment();
+  const marks = [...(text || "").matchAll(MISHNAH_RE)];
+  const para = (from, to, m) => {
+    const p = node("p", "sum-para");
+    if (m) {
+      p.append(node("b", "mnum", m[0]));
+      p.append(text.slice(from + m[0].length, to));
+    } else p.append(text.slice(from, to));
+    if (p.textContent.trim()) frag.append(p);
+  };
+  marks.forEach((m, i) => {
+    if (i === 0 && m.index > 0) para(0, m.index);
+    para(m.index, i + 1 < marks.length ? marks[i + 1].index : text.length, m);
+  });
+  if (!marks.length) para(0, (text || "").length);
+  return frag;
+}
+
 /* ---------- views ---------- */
 
 function renderChrome() {
@@ -184,7 +219,7 @@ function renderLatest() {
   const box = el("latest");
   box.replaceChildren();
   const last = state.days[state.days.length - 1];
-  if (!last || state.perek) return;
+  if (!last || state.perek || state.summaries) return;
   const m = masechetBySlug(last.masechet);
   const card = node("div", "latest");
   card.append(node("p", "label", t().latest), node("h2", null, perekName(m, last.perek)),
@@ -198,8 +233,8 @@ function renderLatest() {
 function renderSedarim() {
   const box = el("sedarim");
   box.replaceChildren();
-  box.hidden = !!state.perek;
-  if (state.perek) return;
+  box.hidden = !!(state.perek || state.summaries);
+  if (state.perek || state.summaries) return;
   for (const s of state.sedarim) {
     const sec = node("section", "seder");
     sec.append(node("h2", null, state.lang === "hebrew" ? `סדר ${s.he}` : `Seder ${s.en}`));
@@ -219,7 +254,13 @@ function renderSedarim() {
           chips.append(a);
         } else chips.append(node("span", "chip", label));
       }
-      if (any) card.classList.add("has");
+      const sumLabel = t().summaries;
+      if (any) {
+        card.classList.add("has");
+        const a = node("a", "chip sum", sumLabel);
+        a.href = `#${m.slug}-summaries`;
+        chips.append(a);
+      } else chips.append(node("span", "chip sum", sumLabel));
       card.append(h, chips);
       grid.append(card);
     }
@@ -334,10 +375,44 @@ function openItems(ids) {
   if (first) reveal(first);
 }
 
+async function renderSummaries() {
+  const box = el("perek");
+  const slug = state.summaries;
+  const m = masechetBySlug(slug);
+  const back = node("button", "back", t().backMasechet);
+  back.onclick = () => { location.hash = ""; };
+  const head = node("div", "perek-head");
+  head.append(node("h2", null, t().summariesOf(masechetName(m))));
+  box.append(back, head);
+  const perakim = [...new Set(state.days.filter((d) => d.masechet === slug).map((d) => d.perek))].sort((a, b) => a - b);
+  if (!perakim.length) { box.append(node("p", "muted", t().noSummaries)); return; }
+  const wait = node("p", "muted", t().loading);
+  box.append(wait);
+  const all = await Promise.all(perakim.map((p) => getPerek(slug, p).catch(() => null)));
+  if (state.summaries !== slug) return;
+  wait.remove();
+  all.forEach((data, i) => {
+    if (!data) return;
+    const p = perakim[i];
+    const d = node("details", "box");
+    d.open = true;
+    const s = node("summary");
+    const a = node("a", null, perekName(m, p));
+    a.href = `#${slug}-${p}`;
+    a.onclick = (e) => e.stopPropagation();
+    s.append(a, node("span", "count", data.date));
+    const b = node("div", "body");
+    b.append(summaryParas(data[state.lang].summary));
+    d.append(s, b);
+    box.append(d);
+  });
+}
+
 async function renderPerek() {
   const box = el("perek");
-  box.hidden = !state.perek;
+  box.hidden = !state.perek && !state.summaries;
   box.replaceChildren();
+  if (state.summaries) return renderSummaries();
   if (!state.perek) return;
   const { slug, perek } = state.perek;
   const m = masechetBySlug(slug);
@@ -367,7 +442,7 @@ async function renderPerek() {
   sum.open = true;
   sum.append(node("summary", null, t().summary));
   const sb = node("div", "body");
-  sb.append(node("p", null, sec.summary));
+  sb.append(summaryParas(sec.summary));
   sum.append(sb);
   box.append(sum);
 
@@ -429,6 +504,8 @@ function render() {
 function route() {
   const m = location.hash.match(/^#([a-z-]+)-(\d+)$/);
   state.perek = m && masechetBySlug(m[1]) ? { slug: m[1], perek: +m[2] } : null;
+  const sm = location.hash.match(/^#([a-z-]+)-summaries$/);
+  state.summaries = sm && masechetBySlug(sm[1]) ? sm[1] : null;
   render();
   window.scrollTo(0, 0);
 }
