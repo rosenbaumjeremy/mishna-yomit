@@ -1,0 +1,1294 @@
+{
+ "date": "2026-10-09",
+ "hebrew_date": {
+  "hebrew": "כ״ח בְּתִשְׁרֵי תשפ״ז",
+  "english": "28 Tishrei 5787"
+ },
+ "masechet": "berakhot",
+ "perek": 1,
+ "ref": "Mishnah Berakhot 1",
+ "mishnayot": [
+  {
+   "he": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּעַרְבִית. מִשָּׁעָה שֶׁהַכֹּהֲנִים נִכְנָסִים לֶאֱכֹל בִּתְרוּמָתָן, עַד סוֹף הָאַשְׁמוּרָה הָרִאשׁוֹנָה, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים, עַד חֲצוֹת. רַבָּן גַּמְלִיאֵל אוֹמֵר, עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. מַעֲשֶׂה שֶׁבָּאוּ בָנָיו מִבֵּית הַמִּשְׁתֶּה, אָמְרוּ לוֹ, לֹא קָרִינוּ אֶת שְׁמַע. אָמַר לָהֶם, אִם לֹא עָלָה עַמּוּד הַשַּׁחַר, חַיָּבִין אַתֶּם לִקְרוֹת. וְלֹא זוֹ בִּלְבַד, אֶלָּא כָּל מַה שֶּׁאָמְרוּ חֲכָמִים עַד חֲצוֹת, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. הֶקְטֵר חֲלָבִים וְאֵבָרִים, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. וְכָל הַנֶּאֱכָלִים לְיוֹם אֶחָד, מִצְוָתָן עַד שֶׁיַּעֲלֶה עַמּוּד הַשָּׁחַר. אִם כֵּן, לָמָּה אָמְרוּ חֲכָמִים עַד חֲצוֹת, כְּדֵי לְהַרְחִיק אֶת הָאָדָם מִן הָעֲבֵרָה:  ",
+   "en": "The beginning of tractate <i>Berakhot</i>, the first tractate in the first of the six orders of Mishna, opens with a discussion of the recitation of <i>Shema</i>, as the recitation of <i>Shema</i> encompasses an acceptance of the yoke of Heaven and of the mitzvot, and as such, forms the basis for all subsequent teachings. The Mishna opens with the laws regarding the appropriate time to recite <i>Shema</i>: <br><br><b>From when,</b> that is, from what time, does <b>one recite <i>Shema</i> in the evening? From the time when the priests enter to partake of their <i>teruma.</i></b> Until when does the time for the recitation of the evening <i>Shema</i> extend? <b>Until the end of the first watch.</b> The term used in the Torah (Deuteronomy 6:7) to indicate the time for the recitation of the evening <i>Shema</i> is <i>beshokhbekha</i>, when you lie down, which refers to the time in which individuals go to sleep. Therefore, the time for the recitation of <i>Shema</i> is the first portion of the night, when individuals typically prepare for sleep. <b>That is the statement of Rabbi Eliezer.</b> <b>The Rabbis say:</b> The time for the recitation of the evening <i>Shema</i> is <b>until midnight.</b> <b>Rabban Gamliel says:</b> One may recite <i>Shema</i> <b>until dawn,</b> indicating that <i>beshokhbekha</i> is to be understood as a reference to the entire time people sleep in their beds, the whole night. The mishna relates that Rabban Gamliel practiced in accordance with his ruling. There was an <b>incident</b> where Rabban Gamliel’s <b>sons returned</b> very late <b>from a wedding hall. They said to him,</b> as they had been preoccupied with celebrating with the groom and bride: <b>We did not recite <i>Shema.</i> He said to them: If the dawn has not</b> yet <b>arrived, you are obligated to recite</b> <i>Shema</i>. Since Rabban Gamliel’s opinion disagreed with that of the Rabbis, he explained to his sons that the Rabbis actually agree with him, <b>and</b> that it is <b>not only</b> with regard to the <i>halakha</i> of the recitation of <i>Shema</i>, <b>but rather, wherever the Sages say until midnight, the mitzva</b> may be performed <b>until dawn.</b> Rabban Gamliel cites several cases in support of his claim, such as <b>the burning of fats and limbs</b> on the altar. Due to the quantity of offerings each day, the priests were often unable to complete the burning of all of the fats and limbs, so they continued to be burned into the night, as it is written: “This is the law of the burnt offering: The burnt offering shall remain upon the pyre on the altar all night until morning, while the fire on the altar burns it” (Leviticus 6:2). <b>And,</b> with regard to <b>all</b> sacrifices, such as the sin-offerings and the guilt-offerings <b>that are eaten for one day</b> and night; although the Sages state that they may be eaten only until midnight, by Torah law they may be eaten <b>until dawn.</b> This is in accordance with the verse: “On the day on which it is offered must you eat. Do not leave it until the morning” (Leviticus 7:15). <b>If so, why did the Sages say</b> that they may be eaten only <b>until midnight?</b> This is <b>in order to distance a person from transgression,</b> as if one believes that he has until dawn to perform the mitzva, he might be negligent and postpone it until the opportunity to perform the mitzva has passed."
+  },
+  {
+   "he": "מֵאֵימָתַי קוֹרִין אֶת שְׁמַע בְּשַׁחֲרִית. מִשֶּׁיַּכִּיר בֵּין תְּכֵלֶת לְלָבָן. רַבִּי אֱלִיעֶזֶר אוֹמֵר, בֵּין תְּכֵלֶת לְכַרְתִּי. וְגוֹמְרָהּ עַד הָנֵץ הַחַמָּה. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, עַד שָׁלֹשׁ שָׁעוֹת, שֶׁכֵּן דֶּרֶךְ בְּנֵי מְלָכִים לַעֲמֹד בְּשָׁלֹשׁ שָׁעוֹת. הַקּוֹרֵא מִכָּאן וְאֵילָךְ לֹא הִפְסִיד, כְּאָדָם הַקּוֹרֵא בַתּוֹרָה:  ",
+   "en": "<b>From when does one recite <i>Shema</i> in the morning</b>? <b>From</b> when a person <b>can distinguish between sky-blue [<i>tekhelet</i>] and white.</b> <br><b>Rabbi Eliezer says:</b> From when one can distinguish <b>between sky-blue and leek-green.</b> <br><b>And</b> one must <b>finish</b> reciting <i>Shema</i> <b>until</b> the end of the period when you rise, i.e., <b>sunrise,</b> when the sun begins to shine. <br><b>Rabbi Yehoshua says:</b> One may recite the morning <i>Shema</i> <b>until three hours</b> of the day, which this is still considered when you rise, <b>as that is the habit of kings to rise</b> from their sleep <b>at three hours</b> of the day. While there is a set time frame for the recitation of <i>Shema</i>, <b>one who recites</b> <i>Shema</i> <b>from that time onward loses nothing.</b> Although he does not fulfill the mitzva of reciting of <i>Shema</i> at its appointed time, <b>he is</b> nevertheless considered <b>like one who reads the Torah,</b> and is rewarded accordingly."
+  },
+  {
+   "he": "בֵּית שַׁמַּאי אוֹמְרִים, בָּעֶרֶב כָּל אָדָם יַטּוּ וְיִקְרְאוּ, וּבַבֹּקֶר יַעַמְדוּ, שֶׁנֶּאֱמַר (דברים ו) וּבְשָׁכְבְּךָ וּבְקוּמֶךָ. וּבֵית הִלֵּל אוֹמְרִים, כָּל אָדָם קוֹרֵא כְדַרְכּוֹ, שֶׁנֶּאֱמַר (שם) וּבְלֶכְתְּךָ בַדֶּרֶךְ. אִם כֵּן, לָמָּה נֶאֱמַר וּבְשָׁכְבְּךָ וּבְקוּמֶךָ, בְּשָׁעָה שֶׁבְּנֵי אָדָם שׁוֹכְבִים, וּבְשָׁעָה שֶׁבְּנֵי אָדָם עוֹמְדִים. אָמַר רַבִּי טַרְפוֹן, אֲנִי הָיִיתִי בָא בַדֶּרֶךְ, וְהִטֵּיתִי לִקְרוֹת, כְּדִבְרֵי בֵית שַׁמַּאי, וְסִכַּנְתִּי בְעַצְמִי מִפְּנֵי הַלִּסְטִים. אָמְרוּ לוֹ, כְּדַי הָיִיתָ לָחוּב בְּעַצְמְךָ, שֶׁעָבַרְתָּ עַל דִּבְרֵי בֵית הִלֵּל:  ",
+   "en": "Beit Shammai and Beit Hillel disputed the proper way to recite <i>Shema</i>. <b>Beit Shammai say:</b> One should recite <i>Shema</i> in the manner indicated in the text of <i>Shema</i> itself. Therefore, <b>in the evening every person must recline</b> on his side and recite <i>Shema</i>, in fulfillment of the verse: “When you lie down,” <b>and in the morning he must stand</b> and recite <i>Shema</i>, in fulfillment of the verse: When you rise, <b>as it is stated: “When you lie down, and when you rise.”</b> <b>And Beit Hillel say: Every person recites</b> <i>Shema</i> <b>as he is,</b> and he may do so in whatever position is most comfortable for him, both day and night, <b>as it is stated: “And when you walk along the way,”</b> when one is neither standing nor reclining (<i>Me’iri</i>). <b>If so,</b> according to Beit Hillel, <b>why was it stated: “When you lie down, and when you rise”?</b> This is merely to denote time; <b>at the time when people lie down and the time when people rise.</b> With regard to this <i>halakha</i>, <b>Rabbi Tarfon said:</b> Once, <b>I was coming on the road</b> when I stopped and <b>reclined to recite</b> <i>Shema</i> <b>in accordance with the statement of Beit Shammai.</b> Although Rabbi Tarfon was a disciple of Beit Hillel, he thought that fulfilling the mitzva in accordance with the opinion of Beit Shammai would be a more meticulous fulfillment of the mitzva, acceptable to all opinions. Yet in so doing, <b>I endangered myself due to the highwaymen [<i>listim</i>]</b> who accost travelers. The Sages <b>said to him: You deserved</b> to be in a position where you were <b>liable</b> to pay <b>with your life, as you transgressed the statement of Beit Hillel.</b> This statement will be explained in the Gemara."
+  },
+  {
+   "he": "בַּשַּׁחַר מְבָרֵךְ שְׁתַּיִם לְפָנֶיהָ וְאַחַת לְאַחֲרֶיהָ, וּבָעֶרֶב שְׁתַּיִם לְפָנֶיהָ וּשְׁתַּיִם לְאַחֲרֶיהָ. אַחַת אֲרֻכָּה וְאַחַת קְצָרָה. מָקוֹם שֶׁאָמְרוּ לְהַאֲרִיךְ, אֵינוֹ רַשַּׁאי לְקַצֵּר. לְקַצֵּר, אֵינוֹ רַשַּׁאי לְהַאֲרִיךְ. לַחְתֹּם, אֵינוֹ רַשַּׁאי שֶׁלֹּא לַחְתֹּם. וְשֶׁלֹּא לַחְתֹּם, אֵינוֹ רַשַּׁאי לַחְתֹּם:  ",
+   "en": "From the laws of the recitation of <i>Shema</i> itself, the mishna proceeds to discuss the blessings recited in conjunction with <i>Shema</i>. Here, the order is established: <b>In</b> the <b>morning</b> when reciting <i>Shema</i>, <b>one recites two blessings beforehand,</b> the first on the radiant lights and the second the blessing on the love of Torah, <b>and one thereafter,</b> which begins with: True and Firm [<i>emet veyatziv</i>]. <b>And in the evening one recites two blessings beforehand,</b> on the radiant lights and on the love of God, <b>and two thereafter,</b> the blessing of redemption: True and Faithful [<i>emet ve’emuna</i>], and the blessing: Help us lie down. With regard to the blessing: True and Faithful, <b>whether</b> one recites it in its <b>long</b> formula <b>and whether</b> one recites it in its <b>short</b> formula, he fulfills his obligation (<i>Tosafot</i>). However, the general principle is: <b>Where</b> the Sages <b>said</b> to recite <b>a long</b> blessing, <b>one may not shorten it,</b> and so too, wherever they said to recite <b>a short</b> blessing, <b>one may not lengthen it.</b> Where the Sages said that a blessing <b>must conclude</b> with a second blessing at the end, <b>he may not fail to conclude</b> with that blessing. Similarly, if the Sages said that a blessing must <b>not conclude</b> with a second blessing, <b>one may not conclude</b> with a blessing."
+  },
+  {
+   "he": "מַזְכִּירִין יְצִיאַת מִצְרַיִם בַּלֵּילוֹת. אָמַר רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה, הֲרֵי אֲנִי כְּבֶן שִׁבְעִים שָׁנָה, וְלֹא זָכִיתִי שֶׁתֵּאָמֵר יְצִיאַת מִצְרַיִם בַּלֵּילוֹת, עַד שֶׁדְּרָשָׁהּ בֶּן זוֹמָא, שֶׁנֶּאֱמַר (דברים טז) לְמַעַן תִּזְכֹּר אֶת יוֹם צֵאתְךָ מֵאֶרֶץ מִצְרַיִם כֹּל יְמֵי חַיֶּיךָ. יְמֵי חַיֶּיךָ, הַיָּמִים. כֹּל יְמֵי חַיֶּיךָ, הַלֵּילוֹת. וַחֲכָמִים אוֹמְרִים, יְמֵי חַיֶּיךָ, הָעוֹלָם הַזֶּה. כֹּל יְמֵי חַיֶּיךָ, לְהָבִיא לִימוֹת הַמָּשִׁיחַ:  ",
+   "en": "It is a mitzva by Torah law to mention the exodus from Egypt at night, but some held that this mitzva was, like phylacteries or ritual fringes, fulfilled only during the day and not at night. For this reason it was decided: <b>The exodus from Egypt is mentioned at night,</b> adjacent to the recitation of <i>Shema</i>. <b>Rabbi Elazar ben Azarya said: I am approximately seventy years old, and</b> although I have long held this opinion, <b>I was never privileged</b> to prevail (<i>Me’iri</i>) and prove that there is a biblical obligation to fulfill the accepted custom (Ra’avad) and have <b>the exodus from Egypt mentioned at night, until Ben Zoma interpreted it homiletically</b> and proved it obligatory. Ben Zoma derived it <b>as it is stated: “That you may remember the day you went out of the land of Egypt all the days of your life”</b> (Deuteronomy 16:3). <b>The days of your life,</b> refers to daytime alone; however, the addition of the word all, as it is stated: <b>All the days of your life,</b> comes to add nights as well. <b>And the Rabbis,</b> who posit that there is no biblical obligation to mention the exodus from Egypt at night, explain the word, all, differently and <b>say: The days of your life,</b> refers to the days in <b>this world, all</b> is added <b>to include the days of the Messiah.</b>"
+  }
+ ],
+ "english": {
+  "summary": "Masechet Berakhot opens with the Shema. Mishnah 1 sets the time for the evening Shema: from nightfall (\"when the kohanim go in to eat their terumah\") until the end of the first watch (Rabbi Eliezer), midnight (the Sages), or dawn (Rabban Gamliel). Rabban Gamliel tells his sons, back late from a wedding feast, that the Sages agree with him: their \"midnight\" is a fence. The same is true wherever the Sages say midnight, such as burning fats and eating sacrificial meat. Mishnah 2 sets the morning Shema: from when one can tell tekhelet from white until sunrise, or until three hours according to Rabbi Yehoshua. Reciting later is like reading Torah. Mishnah 3: Beit Shammai require reclining at night and standing in the morning, while Beit Hillel say each person recites as they are. Rabbi Tarfon reclined like Beit Shammai and was rebuked. Mishnah 4 lists the blessings of Shema (two before and one after in the morning; two before and two after at night) and forbids changing their form. Mishnah 5 brings Ben Zoma's derivation that the Exodus is mentioned at night, and the Sages' reading of \"all the days of your life\" as including the Messianic era.",
+  "topics": [
+   {
+    "term": "Terumah, tevul yom and mechusar kippurim",
+    "explanation": "A kohen who became tamei and immersed may not eat terumah until his sun has set (nightfall). If his purification also needs a korban (zav, metzora), that korban does not hold him back from terumah.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 1:1:1",
+     "quote": "כהנים שנטמאו וטבלו, אין יכולים לאכול בתרומה עד שיעריב שמשן"
+    },
+    "mishnah": 1,
+    "anchors": [
+     "לאכול בתרומתן"
+    ]
+   },
+   {
+    "term": "Ashmurot: the watches of the night",
+    "explanation": "The night is divided into three watches. Rabbi Eliezer's \"end of the first watch\" means the first third of the night.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 1:1:2",
+     "quote": "שליש הראשון של לילה, שהלילה נחלק לשלש משמרות"
+    },
+    "mishnah": 1,
+    "anchors": [
+     "עד סוף האשמורה הראשונה"
+    ]
+   },
+   {
+    "term": "Amud hashachar (dawn)",
+    "explanation": "The first light in the east before sunrise. The Rambam puts it at one and a fifth seasonal hours before sunrise.",
+    "source": {
+     "name": "Rambam (Peirush HaMishnayot)",
+     "ref": "Rambam on Mishnah Berakhot 1:1:1",
+     "quote": "ועמוד השחר הוא האור הנוצץ בפאת מזרח קודם עלות השמש"
+    },
+    "mishnah": 1,
+    "anchors": [
+     "עד שיעלה עמוד השחר"
+    ]
+   },
+   {
+    "term": "Fats, limbs, and offerings eaten for one day",
+    "explanation": "Fats and the limbs of the olah are burned on the altar through the night. Offerings such as the todah, chatat and asham are eaten that day and night until dawn. After that the meat is notar, and eating it carries karet.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 1:1:8",
+     "quote": "כגון תודה וחטאת ואשם וכיוצא בהם שהם נאכלים ליום ולילה"
+    },
+    "mishnah": 1,
+    "anchors": [
+     "וכל הנאכלים ליום אחד"
+    ]
+   },
+   {
+    "term": "Tekhelet, lavan and karti",
+    "explanation": "Tekhelet is wool dyed sky-blue. The morning Shema begins once there is enough light to tell it from the white threads of the tzitzit or, for Rabbi Eliezer, from leek-green, which is closer in colour and so needs more light.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 1:2:2",
+     "quote": "צבע התכלת קרוב לגון של כרתי"
+    },
+    "mishnah": 2,
+    "anchors": [
+     "בין תכלת ללבן",
+     "בין תכלת לכרתי"
+    ]
+   },
+   {
+    "term": "Netz hachamah and the vatikin",
+    "explanation": "Netz is the moment the sun begins to shine on the mountaintops. The vatikin timed the end of their Shema to sunrise so they could join redemption (Ga'al Yisrael) to the Amidah. Even Rabbi Yehoshua agrees this is ideal.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 1:2:3",
+     "quote": "לכתחלה צריך לכון לקרות קריאת שמע עם הנץ החמה כמו שהיו הותיקים עושים"
+    },
+    "mishnah": 2,
+    "anchors": [
+     "עד הנץ החמה"
+    ]
+   },
+   {
+    "term": "Sha'ot zemaniyot (seasonal hours)",
+    "explanation": "The daylight period is divided into twelve equal parts, longer in summer and shorter in winter. Fixed hours, by contrast, are each a twenty-fourth of a full day and night.",
+    "source": {
+     "name": "Tiferet Yisrael (Yachin)",
+     "ref": "Yachin on Mishnah Berakhot 1:5:1",
+     "quote": "לפי אורך וקוצר היום מעלות השחר עד צאת הכוכבים ומחלקים אותו"
+    },
+    "mishnah": 2,
+    "anchors": [
+     "עד שלש שעות"
+    ]
+   },
+   {
+    "term": "Beit Shammai and Beit Hillel",
+    "explanation": "These are the schools of Shammai's and Hillel's students and their successors. The halakha follows Beit Hillel except in a few listed cases. Beit Hillel, known for humility, would quote Beit Shammai's view first.",
+    "source": {
+     "name": "Lechem Shamayim (Ya'avetz)",
+     "ref": "Lechem Shamayim on Mishnah Berakhot 1:3:6",
+     "quote": "ב\"ש וב\"ה הם סיעת תלמידי שמאי והלל"
+    },
+    "mishnah": 3,
+    "anchors": [
+     "בית שמאי אומרים",
+     "ובית הלל אומרים"
+    ]
+   },
+   {
+    "term": "The berakhot of Shema; long and short blessings",
+    "explanation": "In the morning: Yotzer Or and Ahavah before, Emet VeYatziv after. In the evening: Ma'ariv Aravim and Ahavat Olam before, Emet VeEmunah and Hashkiveinu after. A \"long\" berakhah opens and closes with Barukh. A \"short\" one only closes with it, because it rides on the berakhah before it.",
+    "source": {
+     "name": "Rambam (Peirush HaMishnayot)",
+     "ref": "Rambam on Mishnah Berakhot 1:4:1",
+     "quote": "שכל ברכה שיש בתחלתה ברוך ובסופה ברוך נקראת ארוכה"
+    },
+    "mishnah": 4,
+    "anchors": [
+     "אחת ארוכה ואחת קצרה"
+    ]
+   },
+   {
+    "term": "Parashat tzitzit at night",
+    "explanation": "Tzitzit is not a night-time mitzvah (\"you shall see it\"), but its passage is read in the evening Shema because it mentions the Exodus.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 1:5:1",
+     "quote": "ואף על פי שאין לילה זמן ציצית"
+    },
+    "mishnah": 5,
+    "anchors": [
+     "מזכירין יציאת מצרים בלילות"
+    ]
+   },
+   {
+    "term": "\"Like a man of seventy\"",
+    "explanation": "Rabbi Elazar ben Azarya was young when he was appointed Nasi. His hair turned white that day so he would look old enough for the role, and that same day Ben Zoma gave his derivation.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 1:5:2",
+     "quote": "שהלבינו שערותיו יום שמנו אותו נשיא"
+    },
+    "mishnah": 5,
+    "anchors": [
+     "הרי אני כבן שבעים שנה"
+    ]
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why tell time by the kohanim's terumah?",
+    "pasuk": {
+     "text": "משעה שהכהנים נכנסים לאכול בתרומתן",
+     "ref": "Mishnah Berakhot 1:1",
+     "label": "Mishnah Berakhot 1:1"
+    },
+    "question": "The start of the evening Shema is simply nightfall (tzeit hakochavim). Why does the Mishnah describe it in the roundabout way of \"when the kohanim go in to eat their terumah\"?",
+    "asked_by": [
+     {
+      "name": "Rambam (Peirush HaMishnayot)",
+      "ref": "Rambam on Mishnah Berakhot 1:1:1",
+      "era": "rishon",
+      "quote": "ושהצריכו לומר משעה שהכהנים נכנסין ולא אמר מצאת הכוכבים"
+     },
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Berakhot 1:1:1",
+      "era": "acharon",
+      "quote": "והא דלא תני משעת צאת הכוכבים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It teaches a halakha in passing: a kohen who immersed after a tumah that needs a korban (a zav or metzora) may eat terumah once the sun sets, even before bringing his korban the next day. Only sunset holds him back, not the atonement.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 1:1:1",
+        "quote": "מלתא אגב אורחיה קא משמע לן"
+       },
+       {
+        "name": "Rambam (Peirush HaMishnayot)",
+        "ref": "Rambam on Mishnah Berakhot 1:1:1",
+        "quote": "שלא הקפיד באכילת התרומה אלא על ביאת השמש לא על הבאת הכפרה"
+       }
+      ]
+     },
+     {
+      "text": "But that law is already taught explicitly in Negaim! Tosafot answer that the Mishnah often teaches briefly, in passing, even something stated elsewhere.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:1:2",
+        "quote": "דרגילות של משנה לאשמועינן בקיצור אף למה שמפורש כבר"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael reads \"enter\" literally: the mikvaot were out in the fields, the kohanim immersed near sunset, and by the time they walked back into the city it was already nightfall. He adds that \"entering\" rather than \"eating\" avoids the question of when the kohen himself recites Shema, since one may recite it while walking.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 1:2:1",
+        "quote": "נכנסין לעיר. דמקואות שלהן היו בשדות"
+       },
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 1:3:1",
+        "quote": "דלא תקשי כהן גופיה אימת קרי"
+       }
+      ]
+     }
+    ],
+    "why": "A single time marker turns into a lesson about tevul yom and mechusar kippurim, which is a typical move of Mishnah style.",
+    "mishnah": 1,
+    "anchors": [
+     "משעה שהכהנים נכנסים לאכול בתרומתן"
+    ]
+   },
+   {
+    "title": "What exactly were Rabban Gamliel's sons asking?",
+    "pasuk": {
+     "text": "לא קרינו את שמע",
+     "ref": "Mishnah Berakhot 1:1",
+     "label": "Mishnah Berakhot 1:1"
+    },
+    "question": "If it was after midnight, they could simply have recited Shema. Whatever the halakha, reciting could not hurt. Why did they need to ask their father?",
+    "asked_by": [
+     {
+      "name": "Tiferet Yisrael (Yachin)",
+      "ref": "Yachin on Mishnah Berakhot 1:6:1",
+      "era": "acharon",
+      "quote": "בין כך או כך היו יכולים לקרות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Their real question was about the berakhot. If they were still obligated, they had to recite the Shema with its blessings, and that should not be done when there is doubt.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 1:6:1",
+        "quote": "דרק משום ברכה שאלו דאם חייבים צריכים לברך ברכת ק\"ש"
+       }
+      ]
+     },
+     {
+      "text": "They were asking what the Sages actually meant. Did \"until midnight\" mean the obligation truly ends then (and the majority rules against Rabban Gamliel), or was it only a protective fence? He answered that the Sages agree with him.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 1:1:4",
+        "quote": "או דלמא רבנן כותך סבירא להו"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger brings a reading from his grandfather, R' Avraham Broda. The sons were unsure which of two positions was the Sages' real view and which was the fence. Rabban Gamliel proved from other cases (fats, sacrificial meat) that \"midnight\" is the Sages' standard fence, so the Torah law runs all night.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 1:1:4",
+        "quote": "מצאתי בשם אא\"ז הגאון מו\"ה אברהם ברודא"
+       }
+      ]
+     }
+    ],
+    "why": "The anecdote is how the Mishnah resolves the machlokes, so it matters exactly what was in doubt.",
+    "mishnah": 1,
+    "anchors": [
+     "לא קרינו את שמע"
+    ]
+   },
+   {
+    "title": "Does the midnight fence apply to burning fats and limbs?",
+    "pasuk": {
+     "text": "הקטר חלבים ואברים מצותן עד שיעלה עמוד השחר",
+     "ref": "Mishnah Berakhot 1:1",
+     "label": "Mishnah Berakhot 1:1"
+    },
+    "question": "\"If so, why did the Sages say until midnight?\" Does this refer to all three cases in the list, including burning the fats and limbs on the altar, or only to Shema and eating sacrificial meat?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:1:10",
+      "era": "acharon",
+      "quote": "ומכל מקום זו לאו ראיה גמורה היא"
+     },
+     {
+      "name": "Tiferet Yisrael (Yachin)",
+      "ref": "Yachin on Mishnah Berakhot 1:11:1",
+      "era": "acharon",
+      "quote": "ולרש\"י ורע\"ב קאי רק אק\"ש ואכילת קדשים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "No. For the fats and limbs the Sages never said midnight. They are listed only to teach that anything whose mitzvah is at night is valid all night.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 1:1:9",
+        "quote": "אבל בהקטר חלבים ואברים לא אמרו בו חכמים עד חצות כלל"
+       }
+      ]
+     },
+     {
+      "text": "Why no fence for the altar? Kohanim are diligent. Sacrificial meat, by contrast, is eaten even by children, who are not.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 1:11:1",
+        "quote": "ה\"ט דכהנים זריזים הן"
+       }
+      ]
+     },
+     {
+      "text": "Yes. The Rambam rules in Hilkhot Ma'aseh HaKorbanot that burning is also until midnight. Tosafot Yom Tov argues his source is not our mishnah but a Tosefta.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:1:10",
+        "quote": "והרמב\"ם בפ\"ד מהלכות מעשה הקרבנות פסק בהקטר חלבים ואיברים עד חצות"
+       },
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:1:10",
+        "quote": "אלא מדתניא בתוספתא"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim defends the Rambam with a distinction: limbs already put on the fire before midnight may be turned and burned all night, but limbs that were never put on the altar may not be burned after midnight.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim (Ya'avetz)",
+        "ref": "Lechem Shamayim on Mishnah Berakhot 1:1:13",
+        "quote": "היינו דווקא באיברים ופדרים שמשלה בהן האור"
+       }
+      ]
+     }
+    ],
+    "why": "This is a real machlokes Rishonim with practical consequences for the Temple service, hidden inside a list.",
+    "mishnah": 1,
+    "anchors": [
+     "הקטר חלבים ואברים מצותן עד שיעלה עמוד השחר"
+    ]
+   },
+   {
+    "title": "Three hours: by which clock?",
+    "pasuk": {
+     "text": "עד שלש שעות",
+     "ref": "Mishnah Berakhot 1:2",
+     "label": "Mishnah Berakhot 1:2"
+    },
+    "question": "Rabbi Yehoshua says until three hours, the time princes get up. Are these fixed hours or seasonal hours that stretch and shrink with the length of the day? If they are seasonal, do kings really sleep much longer in winter?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim (Ya'avetz)",
+      "ref": "Lechem Shamayim on Mishnah Berakhot 1:2:3-5",
+      "era": "acharon",
+      "quote": "ועוד קשה לי מאד על פירושו זה במשנתינו. לפי שענין השינה בלתי נתלה בזמן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Seasonal hours. Every hour in the Mishnah is one twelfth of the day, so three hours means a quarter of the day whether days are long or short.",
+      "sources": [
+       {
+        "name": "Rambam (Peirush HaMishnayot)",
+        "ref": "Rambam on Mishnah Berakhot 1:2:1",
+        "quote": "ודע כי כל השעות הנזכרות בכל המשנה הם השעות הזמניות"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 1:2:3",
+        "quote": "ולעולם זמן קריאת שמע הוא עד רביע היום, בין שהימים ארכים בין קצרים"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim (Ya'avetz) objects that sleep does not stretch with the seasons, so princes would sleep about twenty hours on long winter nights. He prefers what he reads as the Zohar's third, deciding view, and only suggests it as a stringency in winter.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim (Ya'avetz)",
+        "ref": "Lechem Shamayim on Mishnah Berakhot 1:2:3-5",
+        "quote": "ועל כן נראין דברי הזוהר שהן דעת שלישית ומכרעת"
+       }
+      ]
+     }
+    ],
+    "why": "This is the source of the familiar 'sof zman kriat Shema' and of the whole debate over how to calculate halakhic hours.",
+    "mishnah": 2,
+    "anchors": [
+     "עד שלש שעות"
+    ]
+   },
+   {
+    "title": "Why should princes set the time for everyone?",
+    "pasuk": {
+     "text": "שכן דרך בני מלכים לעמוד בשלש שעות",
+     "ref": "Mishnah Berakhot 1:2",
+     "label": "Mishnah Berakhot 1:2"
+    },
+    "question": "Elsewhere (Shabbat) we do not rule that \"all of Israel are princes.\" So why should the waking hour of a small minority of royals extend the time of \"when you rise\" for everyone?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:2:3",
+      "era": "acharon",
+      "quote": "פסקו דלא כמ\"ד כל ישראל בני מלכים הם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Since it is still rising time for some people, one who recites then fulfils the mitzvah after the fact (bedi'eved).",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:2:3",
+        "quote": "דהכא שאני דהואיל ועדיין זמן קימה למקצת יוצא בדיעבד"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael: Shabbat is different, because there the person is not acting like a prince, only treating his wound. In any case the Torah set a time, \"when you rise,\" and if some people are still rising, it is rising time, even for someone who is not a prince.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 1:17:1",
+        "quote": "דכיון דרחמנא אמר ובקומך. והרי איכא זמן קימה לבני מלכים"
+       }
+      ]
+     },
+     {
+      "text": "Then why not use princes, who sleep late, to stretch the evening Shema into the morning? Rabbi Akiva Eiger, citing the Rashba, says it is daytime by then, and royals still in bed are \"a minority of a minority.\"",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 1:2:2",
+        "quote": "לקרות ק\"ש של לילה ביום משום ב\"מ לא דמיעוטא דמיעוטא נינהו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Torah's \"when you rise\" becomes a measurable time, and how far an exceptional group can stretch it.",
+    "mishnah": 2,
+    "anchors": [
+     "שכן דרך בני מלכים לעמוד בשלש שעות"
+    ]
+   },
+   {
+    "title": "Rabbi Tarfon: punished for being stringent?",
+    "pasuk": {
+     "text": "כדי היית לחוב בעצמך שעברת על דברי בית הלל",
+     "ref": "Mishnah Berakhot 1:3",
+     "label": "Mishnah Berakhot 1:3"
+    },
+    "question": "Rabbi Tarfon only did more, reclining as Beit Shammai require, which is also permitted by Beit Hillel. Why do the Sages say he deserved to lose his life?",
+    "asked_by": [
+     {
+      "name": "Tiferet Yisrael (Yachin)",
+      "ref": "Yachin on Mishnah Berakhot 1:25:1",
+      "era": "acharon",
+      "quote": "דאי\"ל דאשתבוחי משתבח. שהכניס א\"ע לסכנה לקיים כב\"ש"
+     }
+    ],
+    "answers": [
+     {
+      "text": "On Beit Hillel's view there is no advantage at all in following Beit Shammai on Shema, unlike Grace after Meals, where (as the Rosh says) even Beit Hillel agree Beit Shammai's way is better. So here the stringency is simply siding against the halakha.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 1:3:1",
+        "quote": "אין שום מעלייתא לב\"ה אם מחמיר כב\"ש"
+       }
+      ]
+     },
+     {
+      "text": "Boaz disagrees: standing is in fact more respectful. The real problem is that someone who stands in the morning makes onlookers think he holds like Beit Shammai, which leads them into the leniency of reclining at night.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Boaz)",
+        "ref": "Boaz on Mishnah Berakhot 1:3",
+        "quote": "דיתגלגל עי\"ז צד קולא בשל ערבית"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael (Yachin): the Sages meant \"liable in yourself,\" deserving it even had he not been on the road. From the order of the words (he reclined, then was endangered), he infers that the danger came afterward on its own, as a punishment from Heaven.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 1:25:1",
+        "quote": "כדאי היית לחוב בעצמך דייקא אפילו לא היית בדרך"
+       }
+      ]
+     }
+    ],
+    "why": "This is the classic source for when a chumra against the accepted halakha is itself wrong.",
+    "mishnah": 3,
+    "anchors": [
+     "כדי היית לחוב בעצמך שעברת על דברי בית הלל"
+    ]
+   },
+   {
+    "title": "\"Mazkirin\", not \"zokhrin\"",
+    "pasuk": {
+     "text": "מזכירין יציאת מצרים בלילות",
+     "ref": "Mishnah Berakhot 1:5",
+     "label": "Mishnah Berakhot 1:5"
+    },
+    "question": "The verse says \"so that you will remember\" (tizkor). Why does the Mishnah use the causative form \"we cause to be mentioned\" (mazkirin) rather than \"we remember\" (zokhrin)?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:5:1",
+      "era": "acharon",
+      "quote": "איכא למידק אמאי לא תני זוכרין"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The passage that is read is about tzitzit. Through reading it, we bring the Exodus to mind.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:5:1",
+        "quote": "שע\"י פרשת ציצית מזכירין יציאת מצרים"
+       }
+      ]
+     },
+     {
+      "text": "\"Zokhrin\" might mean remembering only in thought. \"Mazkirin\" requires saying it out loud, which also reminds the listener.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Berakhot 1:5:1",
+        "quote": "דאי תנא זוכרין ה\"א דיצא בהרהור"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael adds that the Mishnah also did not say \"omrin\" (say). Speaking alone is not enough without remembering it in one's mind.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 1:37:1",
+        "quote": "ולא אמר אומרים דקמ\"ל דלא סגי באמירה בלי הזכרה במחשבה"
+       }
+      ]
+     }
+    ],
+    "why": "One verb settles both whether the remembering must be spoken and whether intention is needed.",
+    "mishnah": 5,
+    "anchors": [
+     "מזכירין יציאת מצרים בלילות"
+    ]
+   },
+   {
+    "title": "How did Ben Zoma \"win\" if the Sages disagree?",
+    "pasuk": {
+     "text": "ולא זכיתי שתאמר יציאת מצרים בלילות עד שדרשה בן זומא",
+     "ref": "Mishnah Berakhot 1:5",
+     "label": "Mishnah Berakhot 1:5"
+    },
+    "question": "Rabbi Elazar ben Azarya says he \"did not merit\" until Ben Zoma's derivation, yet the Mishnah immediately records the Sages reading the same verse differently. What did Ben Zoma achieve, and what does \"lo zakhiti\" mean?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:5:3",
+      "era": "acharon",
+      "quote": "דא\"כ אין כאן ניצוח כיון שאין חולק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "\"Zakhiti\" means \"I prevailed\": until then he had not won the argument against the Sages.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 1:5:3",
+        "quote": "לא נצחתי לחכמים"
+       }
+      ]
+     },
+     {
+      "text": "He won because the Sages' reply (that the Exodus becomes secondary in Messianic times) is only a deflection, while the plain meaning of the verse supports Ben Zoma. Rebbi recorded just the opening of the debate.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:5:3",
+        "quote": "בזה נצחם דאע\"ג דמשנו ליה רבנן. שנויא בעלמא היא"
+       },
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 1:41:1",
+        "quote": "ואעפ\"כ נצחם. דפשטא דקרא. טפי' כוותיה משמע"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam reads \"zakhiti\" as \"I was not privileged\": he had not merited to find the hint in the verse that requires reading the tzitzit passage at night until Ben Zoma showed it.",
+      "sources": [
+       {
+        "name": "Rambam (Peirush HaMishnayot)",
+        "ref": "Rambam on Mishnah Berakhot 1:5:1",
+        "quote": "לא זכיתי לדעת הרמז שנרמז בכתוב"
+       }
+      ]
+     }
+    ],
+    "why": "This line is also in the Haggadah. How one reads it decides whether night-time mention of the Exodus is Torah law.",
+    "mishnah": 5,
+    "anchors": [
+     "ולא זכיתי שתאמר יציאת מצרים בלילות עד שדרשה בן זומא"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Rambam (Peirush HaMishnayot)",
+   "Bartenura",
+   "Tosafot Yom Tov",
+   "Tiferet Yisrael (Yachin)",
+   "Tosafot Rabbi Akiva Eiger",
+   "Lechem Shamayim (Ya'avetz)",
+   "Tiferet Yisrael (Boaz)",
+   "Rashash"
+  ]
+ },
+ "hebrew": {
+  "summary": "מסכת ברכות פותחת בקריאת שמע. משנה א קובעת את זמן ק\"ש של ערבית: מצאת הכוכבים (\"משעה שהכהנים נכנסים לאכול בתרומתן\") ועד סוף האשמורה הראשונה (רבי אליעזר), עד חצות (חכמים) או עד עמוד השחר (רבן גמליאל). רבן גמליאל אומר לבניו שחזרו מבית המשתה שחכמים מודים לו, וחצות שלהם אינו אלא סייג, וכן בכל מקום שאמרו עד חצות, כהקטר חלבים ואכילת קדשים. משנה ב: ק\"ש של שחרית משיכיר בין תכלת ללבן ועד הנץ החמה, ולרבי יהושע עד שלוש שעות, והקורא אחר כך כקורא בתורה. משנה ג: בית שמאי מצריכים להטות בערב ולעמוד בבוקר, ובית הלל אומרים כל אדם קורא כדרכו. רבי טרפון הטה כבית שמאי ונזף בו. משנה ד מונה את ברכות ק\"ש (בשחר שתיים לפניה ואחת לאחריה, ובערב שתיים ושתיים) ואוסרת לשנות את מטבען. משנה ה מביאה את דרשת בן זומא שמזכירין יציאת מצרים בלילות, ואת דרשת חכמים \"כל ימי חייך\" להביא לימות המשיח.",
+  "topics": [
+   {
+    "term": "תרומה, טבול יום ומחוסר כיפורים",
+    "explanation": "כהן שנטמא וטבל אינו אוכל בתרומה עד שיעריב שמשו – צאת הכוכבים. ואם טהרתו תלויה בקרבן (זב, מצורע), הכפרה אינה מעכבת אותו מלאכול בתרומה.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 1:1:1",
+     "quote": "כהנים שנטמאו וטבלו, אין יכולים לאכול בתרומה עד שיעריב שמשן"
+    },
+    "mishnah": 1,
+    "anchors": [
+     "לאכול בתרומתן"
+    ]
+   },
+   {
+    "term": "אשמורות הלילה",
+    "explanation": "הלילה נחלק לשלוש משמרות, ו\"סוף האשמורה הראשונה\" של רבי אליעזר הוא סוף השליש הראשון של הלילה.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 1:1:2",
+     "quote": "שליש הראשון של לילה, שהלילה נחלק לשלש משמרות"
+    },
+    "mishnah": 1,
+    "anchors": [
+     "עד סוף האשמורה הראשונה"
+    ]
+   },
+   {
+    "term": "עמוד השחר",
+    "explanation": "האור הראשון הנוצץ במזרח קודם הנץ. לפי הרמב\"ם, כשעה וחומש שעה זמנית קודם עלות השמש.",
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 1:1:1",
+     "quote": "ועמוד השחר הוא האור הנוצץ בפאת מזרח קודם עלות השמש"
+    },
+    "mishnah": 1,
+    "anchors": [
+     "עד שיעלה עמוד השחר"
+    ]
+   },
+   {
+    "term": "הקטר חלבים ואיברים, ונאכלים ליום אחד",
+    "explanation": "חלבים ואיברי העולה מוקטרים כל הלילה. קדשים כתודה, חטאת ואשם נאכלים ליום ולילה עד עמוד השחר, ואחר כך הם נותר, ובאכילתם יש כרת.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 1:1:8",
+     "quote": "כגון תודה וחטאת ואשם וכיוצא בהם שהם נאכלים ליום ולילה"
+    },
+    "mishnah": 1,
+    "anchors": [
+     "וכל הנאכלים ליום אחד"
+    ]
+   },
+   {
+    "term": "תכלת, לבן וכרתי",
+    "explanation": "תכלת היא צמר צבוע בצבע הרקיע. זמן קריאת שמע של שחרית מתחיל כשיש די אור להבחין בינה לבין חוטי הלבן שבציצית, ולרבי אליעזר בינה לבין כרתי (ירוק כרישין), הקרוב לה בגוונו.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 1:2:2",
+     "quote": "צבע התכלת קרוב לגון של כרתי"
+    },
+    "mishnah": 2,
+    "anchors": [
+     "בין תכלת ללבן",
+     "בין תכלת לכרתי"
+    ]
+   },
+   {
+    "term": "הנץ החמה והוותיקין",
+    "explanation": "הנץ הוא השעה שהחמה מתחילה לזרוח בראשי ההרים. הוותיקין כיוונו לגמור קריאת שמע עם הנץ כדי לסמוך גאולה לתפילה, וכך הוא לכתחילה גם לרבי יהושע.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 1:2:3",
+     "quote": "לכתחלה צריך לכון לקרות קריאת שמע עם הנץ החמה כמו שהיו הותיקים עושים"
+    },
+    "mishnah": 2,
+    "anchors": [
+     "עד הנץ החמה"
+    ]
+   },
+   {
+    "term": "שעות זמניות",
+    "explanation": "מחלקים את היום, לפי אורכו או קוצרו, לשנים עשר חלקים. לעומתן, שעות שוות הן חלק עשרים וארבעה של יום ולילה יחד.",
+    "source": {
+     "name": "תפארת ישראל (יכין)",
+     "ref": "Yachin on Mishnah Berakhot 1:5:1",
+     "quote": "לפי אורך וקוצר היום מעלות השחר עד צאת הכוכבים ומחלקים אותו"
+    },
+    "mishnah": 2,
+    "anchors": [
+     "עד שלש שעות"
+    ]
+   },
+   {
+    "term": "בית שמאי ובית הלל",
+    "explanation": "סיעות תלמידי שמאי והלל ותלמידי תלמידיהם. הלכה כבית הלל, חוץ ממקרים מעטים, ובענוותנותם הקדימו את דברי בית שמאי לדבריהם.",
+    "source": {
+     "name": "לחם שמים (יעב\"ץ)",
+     "ref": "Lechem Shamayim on Mishnah Berakhot 1:3:6",
+     "quote": "ב\"ש וב\"ה הם סיעת תלמידי שמאי והלל"
+    },
+    "mishnah": 3,
+    "anchors": [
+     "בית שמאי אומרים",
+     "ובית הלל אומרים"
+    ]
+   },
+   {
+    "term": "ברכות קריאת שמע – ארוכה וקצרה",
+    "explanation": "שחרית: יוצר אור ואהבה לפניה, אמת ויציב לאחריה. ערבית: מעריב ערבים ואהבת עולם לפניה, אמת ואמונה והשכיבנו לאחריה. ברכה \"ארוכה\" פותחת וחותמת בברוך; \"קצרה\" חותמת בלבד, שסמוכה לחברתה.",
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 1:4:1",
+     "quote": "שכל ברכה שיש בתחלתה ברוך ובסופה ברוך נקראת ארוכה"
+    },
+    "mishnah": 4,
+    "anchors": [
+     "אחת ארוכה ואחת קצרה"
+    ]
+   },
+   {
+    "term": "פרשת ציצית בלילה",
+    "explanation": "ציצית אינה נוהגת בלילה (\"וראיתם אותו\"), ובכל זאת קוראים את פרשתה בערבית מפני יציאת מצרים שבה.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 1:5:1",
+     "quote": "ואף על פי שאין לילה זמן ציצית"
+    },
+    "mishnah": 5,
+    "anchors": [
+     "מזכירין יציאת מצרים בלילות"
+    ]
+   },
+   {
+    "term": "\"כבן שבעים שנה\"",
+    "explanation": "ראב\"ע היה צעיר כשמינוהו נשיא, ושערותיו הלבינו באותו יום כדי שייראה זקן וראוי לנשיאות. ובאותו יום דרש בן זומא.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 1:5:2",
+     "quote": "שהלבינו שערותיו יום שמנו אותו נשיא"
+    },
+    "mishnah": 5,
+    "anchors": [
+     "הרי אני כבן שבעים שנה"
+    ]
+   }
+  ],
+  "questions": [
+   {
+    "title": "למה נתלה הזמן באכילת תרומה?",
+    "pasuk": {
+     "text": "משעה שהכהנים נכנסים לאכול בתרומתן",
+     "ref": "Mishnah Berakhot 1:1",
+     "label": "משנה ברכות א, א"
+    },
+    "question": "תחילת זמן קריאת שמע של ערבית היא צאת הכוכבים. מדוע לא אמרה המשנה כך בפשטות, ותלתה את הזמן ב\"משעה שהכהנים נכנסים לאכול בתרומתן\"?",
+    "asked_by": [
+     {
+      "name": "רמב\"ם",
+      "ref": "Rambam on Mishnah Berakhot 1:1:1",
+      "era": "rishon",
+      "quote": "ושהצריכו לומר משעה שהכהנים נכנסין ולא אמר מצאת הכוכבים"
+     },
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Berakhot 1:1:1",
+      "era": "acharon",
+      "quote": "והא דלא תני משעת צאת הכוכבים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מלמדת דין אגב אורחא: כהן שנטמא בטומאה הצריכה קרבן (זב, מצורע) וטבל, אוכל בתרומה משהעריב שמשו אף שעדיין לא הביא קרבנו. ביאת השמש מעכבת, הכפרה אינה מעכבת.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 1:1:1",
+        "quote": "מלתא אגב אורחיה קא משמע לן"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 1:1:1",
+        "quote": "שלא הקפיד באכילת התרומה אלא על ביאת השמש לא על הבאת הכפרה"
+       }
+      ]
+     },
+     {
+      "text": "והרי דין זה כבר שנוי בנגעים! תירצו התוספות שדרך המשנה להשמיענו בקיצור גם מה שכבר נתפרש במקום אחר.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:1:2",
+        "quote": "דרגילות של משנה לאשמועינן בקיצור אף למה שמפורש כבר"
+       }
+      ]
+     },
+     {
+      "text": "התפארת ישראל מפרש \"נכנסים\" כפשוטו: המקוואות היו בשדות, והטמאים טבלו סמוך לבין השמשות, וכשנכנסו לעיר כבר העריב שמשם. ולא נקט \"משעה שאוכלין\" שלא תקשה מתי קורא הכהן עצמו, שהרי מותר לקרות כשהוא מהלך.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 1:2:1",
+        "quote": "נכנסין לעיר. דמקואות שלהן היו בשדות"
+       },
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 1:3:1",
+        "quote": "דלא תקשי כהן גופיה אימת קרי"
+       }
+      ]
+     }
+    ],
+    "why": "סימן זמן אחד הופך ללימוד בדיני טבול יום ומחוסר כיפורים, וזה דרכה של משנה.",
+    "mishnah": 1,
+    "anchors": [
+     "משעה שהכהנים נכנסים לאכול בתרומתן"
+    ]
+   },
+   {
+    "title": "מה בדיוק שאלו בני רבן גמליאל?",
+    "pasuk": {
+     "text": "לא קרינו את שמע",
+     "ref": "Mishnah Berakhot 1:1",
+     "label": "משנה ברכות א, א"
+    },
+    "question": "גם אם עבר חצות, יכלו לקרות בלי לשאול, שהרי אין בקריאה הפסד בין כך ובין כך. מה הייתה שאלתם?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Berakhot 1:6:1",
+      "era": "acharon",
+      "quote": "בין כך או כך היו יכולים לקרות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "השאלה הייתה על הברכות: אם חייבים, צריכים לברך ברכות קריאת שמע, ובספק אין לברך.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 1:6:1",
+        "quote": "דרק משום ברכה שאלו דאם חייבים צריכים לברך ברכת ק\"ש"
+       }
+      ]
+     },
+     {
+      "text": "שאלו מה כוונת חכמים: אם \"עד חצות\" דווקא, ויחיד ורבים הלכה כרבים, או שחכמים סוברים כמותו ואמרו עד חצות רק להרחיק מן העבירה. והשיב: רבנן כוותי סבירא להו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 1:1:4",
+        "quote": "או דלמא רבנן כותך סבירא להו"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר מביא בשם זקנו ר' אברהם ברודא: הבנים הסתפקו איזה שיעור הוא עיקר הדין ואיזה הרחקה, ורבן גמליאל הוכיח ממקומות אחרים (חלבים, קדשים) שעד חצות הוא גדר ההרחקה הקבוע של חכמים.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 1:1:4",
+        "quote": "מצאתי בשם אא\"ז הגאון מו\"ה אברהם ברודא"
+       }
+      ]
+     }
+    ],
+    "why": "המעשה הוא הכרעת המחלוקת, ולכן חשוב להבין מה היה הספק.",
+    "mishnah": 1,
+    "anchors": [
+     "לא קרינו את שמע"
+    ]
+   },
+   {
+    "title": "האם גדר חצות חל גם על הקטר חלבים?",
+    "pasuk": {
+     "text": "הקטר חלבים ואברים מצותן עד שיעלה עמוד השחר",
+     "ref": "Mishnah Berakhot 1:1",
+     "label": "משנה ברכות א, א"
+    },
+    "question": "\"אם כן למה אמרו חכמים עד חצות\" – האם קאי על כל שלושת הדברים, גם על הקטר חלבים ואיברים, או רק על קריאת שמע ואכילת קדשים?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:1:10",
+      "era": "acharon",
+      "quote": "ומכל מקום זו לאו ראיה גמורה היא"
+     },
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Berakhot 1:11:1",
+      "era": "acharon",
+      "quote": "ולרש\"י ורע\"ב קאי רק אק\"ש ואכילת קדשים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לא. בהקטר חלבים ואיברים לא אמרו חכמים עד חצות כלל, ולא נשנה אלא ללמד שכל דבר שמצוותו בלילה כשר כל הלילה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 1:1:9",
+        "quote": "אבל בהקטר חלבים ואברים לא אמרו בו חכמים עד חצות כלל"
+       }
+      ]
+     },
+     {
+      "text": "ומדוע לא גזרו בהקטר? כהנים זריזים הם, מה שאין כן אכילת קדשים שאף קטנים אוכלים.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 1:11:1",
+        "quote": "ה\"ט דכהנים זריזים הן"
+       }
+      ]
+     },
+     {
+      "text": "כן. הרמב\"ם פסק בהלכות מעשה הקרבנות שגם הקטר חלבים עד חצות, ותוספות יום טוב כותב שמקורו אינו ממשנתנו אלא מן התוספתא.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:1:10",
+        "quote": "והרמב\"ם בפ\"ד מהלכות מעשה הקרבנות פסק בהקטר חלבים ואיברים עד חצות"
+       },
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:1:10",
+        "quote": "אלא מדתניא בתוספתא"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים מיישב את הרמב\"ם: איברים שכבר משלה בהן האור מהפכין בהן כל הלילה, אבל איברים שלא הוקרבו למערכה אין מקטירין אחר חצות.",
+      "sources": [
+       {
+        "name": "לחם שמים (יעב\"ץ)",
+        "ref": "Lechem Shamayim on Mishnah Berakhot 1:1:13",
+        "quote": "היינו דווקא באיברים ופדרים שמשלה בהן האור"
+       }
+      ]
+     }
+    ],
+    "why": "מחלוקת ראשונים למעשה בעבודת המקדש, הטמונה ברשימה אחת.",
+    "mishnah": 1,
+    "anchors": [
+     "הקטר חלבים ואברים מצותן עד שיעלה עמוד השחר"
+    ]
+   },
+   {
+    "title": "שלוש שעות – לפי איזה שעון?",
+    "pasuk": {
+     "text": "עד שלש שעות",
+     "ref": "Mishnah Berakhot 1:2",
+     "label": "משנה ברכות א, ב"
+    },
+    "question": "רבי יהושע אומר עד שלוש שעות, שכן דרך בני מלכים לעמוד. האם אלו שעות שוות או זמניות? ואם זמניות, וכי בני מלכים ישנים בחורף שעות רבות יותר מבקיץ?",
+    "asked_by": [
+     {
+      "name": "לחם שמים (יעב\"ץ)",
+      "ref": "Lechem Shamayim on Mishnah Berakhot 1:2:3-5",
+      "era": "acharon",
+      "quote": "ועוד קשה לי מאד על פירושו זה במשנתינו. לפי שענין השינה בלתי נתלה בזמן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "שעות זמניות: כל השעות הנזכרות במשנה הן חלק שנים עשר מן היום, ושלוש שעות הן רביע היום, בין בימים ארוכים בין בקצרים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 1:2:1",
+        "quote": "ודע כי כל השעות הנזכרות בכל המשנה הם השעות הזמניות"
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 1:2:3",
+        "quote": "ולעולם זמן קריאת שמע הוא עד רביע היום, בין שהימים ארכים בין קצרים"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים מקשה שהשינה אינה נמשכת לפי אורך הלילה, ולשיטה זו בני מלכים ישנים בלילות החורף קרוב לעשרים שעות. ולכן נראים לו דברי הזוהר כדעה שלישית מכרעת, ואינו מציעה אלא לחומרא בימות החורף.",
+      "sources": [
+       {
+        "name": "לחם שמים (יעב\"ץ)",
+        "ref": "Lechem Shamayim on Mishnah Berakhot 1:2:3-5",
+        "quote": "ועל כן נראין דברי הזוהר שהן דעת שלישית ומכרעת"
+       }
+      ]
+     }
+    ],
+    "why": "זה מקור \"סוף זמן קריאת שמע\" ושל כל החשבון של שעות זמניות.",
+    "mishnah": 2,
+    "anchors": [
+     "עד שלש שעות"
+    ]
+   },
+   {
+    "title": "מה לנו ולמנהג בני מלכים?",
+    "pasuk": {
+     "text": "שכן דרך בני מלכים לעמוד בשלש שעות",
+     "ref": "Mishnah Berakhot 1:2",
+     "label": "משנה ברכות א, ב"
+    },
+    "question": "בשבת לא פסקינן \"כל ישראל בני מלכים הם\". אם כן, מדוע זמן הקימה של מיעוט בני מלכים יקבע את \"ובקומך\" לכל אדם?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:2:3",
+      "era": "acharon",
+      "quote": "פסקו דלא כמ\"ד כל ישראל בני מלכים הם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כיוון שעדיין זמן קימה למקצת בני אדם, יוצא בדיעבד.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:2:3",
+        "quote": "דהכא שאני דהואיל ועדיין זמן קימה למקצת יוצא בדיעבד"
+       }
+      ]
+     },
+     {
+      "text": "התפארת ישראל: בשבת שאני, שאינו עושה כבני מלכים אלא לרפאות מכתו. ועוד: התורה קבעה זמן, \"ובקומך\", וכיוון שיש זמן קימה לבני מלכים, הזמן הוא זמן קימה אף לקורא שאינו בן מלך.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 1:17:1",
+        "quote": "דכיון דרחמנא אמר ובקומך. והרי איכא זמן קימה לבני מלכים"
+       }
+      ]
+     },
+     {
+      "text": "ואם כן מדוע לא נאמר שיוצא גם בק\"ש של לילה ביום, שהרי בני מלכים עדיין שוכבים? רבי עקיבא איגר בשם הרשב\"א: יממא הוא, ובני מלכים לגבי זה מיעוטא דמיעוטא נינהו.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 1:2:2",
+        "quote": "לקרות ק\"ש של לילה ביום משום ב\"מ לא דמיעוטא דמיעוטא נינהו"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד \"ובקומך\" נעשה זמן מדיד, ועד כמה מיעוט יוצא דופן יכול להרחיבו.",
+    "mishnah": 2,
+    "anchors": [
+     "שכן דרך בני מלכים לעמוד בשלש שעות"
+    ]
+   },
+   {
+    "title": "רבי טרפון – נענש על שהחמיר?",
+    "pasuk": {
+     "text": "כדי היית לחוב בעצמך שעברת על דברי בית הלל",
+     "ref": "Mishnah Berakhot 1:3",
+     "label": "משנה ברכות א, ג"
+    },
+    "question": "רבי טרפון רק החמיר והטה כבית שמאי, דבר שגם לבית הלל מותר. מדוע אמרו לו \"כדי היית לחוב בעצמך\"?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Berakhot 1:25:1",
+      "era": "acharon",
+      "quote": "דאי\"ל דאשתבוחי משתבח. שהכניס א\"ע לסכנה לקיים כב\"ש"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לבית הלל אין שום מעלה להחמיר כבית שמאי בקריאת שמע, שלא כבברכת המזון שבה, כדברי הרא\"ש, גם בית הלל מודים שטוב יותר כבית שמאי. ולכן כאן ההחמרה היא הכרעה נגד ההלכה.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 1:3:1",
+        "quote": "אין שום מעלייתא לב\"ה אם מחמיר כב\"ש"
+       }
+      ]
+     },
+     {
+      "text": "הבועז חולק: עמידה אכן דרך כבוד. אלא שהקורא מעומד בשחרית, הרואה סבור שהוא נוהג כבית שמאי, ומתגלגל מזה צד קולא בשל ערבית.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Berakhot 1:3",
+        "quote": "דיתגלגל עי\"ז צד קולא בשל ערבית"
+       }
+      ]
+     },
+     {
+      "text": "התפארת ישראל: \"לחוב בעצמך\" דייקא – אפילו לא היית בדרך היית ראוי לעונש. ומסדר הלשון, \"והטיתי\" ואחר כך \"וסכנתי\", מוכח שהסכנה באה מעצמה אחר כך, ועונש משמיא הייתה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 1:25:1",
+        "quote": "כדאי היית לחוב בעצמך דייקא אפילו לא היית בדרך"
+       }
+      ]
+     }
+    ],
+    "why": "המקור הקלאסי לשאלה מתי חומרא נגד ההלכה המקובלת היא עצמה פסולה.",
+    "mishnah": 3,
+    "anchors": [
+     "כדי היית לחוב בעצמך שעברת על דברי בית הלל"
+    ]
+   },
+   {
+    "title": "\"מזכירין\" ולא \"זוכרין\"",
+    "pasuk": {
+     "text": "מזכירין יציאת מצרים בלילות",
+     "ref": "Mishnah Berakhot 1:5",
+     "label": "משנה ברכות א, ה"
+    },
+    "question": "הפסוק אומר \"למען תזכור\". מדוע שנתה המשנה \"מזכירין\" בבניין הפעיל ולא \"זוכרין\"?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:5:1",
+      "era": "acharon",
+      "quote": "איכא למידק אמאי לא תני זוכרין"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עיקר הפרשה במצוות ציצית, ועל ידה מזכירין את יציאת מצרים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:5:1",
+        "quote": "שע\"י פרשת ציצית מזכירין יציאת מצרים"
+       }
+      ]
+     },
+     {
+      "text": "אילו שנה \"זוכרין\" הייתי אומר שיוצא בהרהור. \"מזכירין\" משמעו בפה, וגם מזכיר לחבירו השומע.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Berakhot 1:5:1",
+        "quote": "דאי תנא זוכרין ה\"א דיצא בהרהור"
+       }
+      ]
+     },
+     {
+      "text": "התפארת ישראל מוסיף: ולא אמר \"אומרים\", ללמד שאין די באמירה בלי הזכרה במחשבה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 1:37:1",
+        "quote": "ולא אמר אומרים דקמ\"ל דלא סגי באמירה בלי הזכרה במחשבה"
+       }
+      ]
+     }
+    ],
+    "why": "מילה אחת מכריעה גם שצריך לומר בפה וגם שצריך כוונה.",
+    "mishnah": 5,
+    "anchors": [
+     "מזכירין יציאת מצרים בלילות"
+    ]
+   },
+   {
+    "title": "כיצד \"זכה\" בן זומא אם חכמים חולקים?",
+    "pasuk": {
+     "text": "ולא זכיתי שתאמר יציאת מצרים בלילות עד שדרשה בן זומא",
+     "ref": "Mishnah Berakhot 1:5",
+     "label": "משנה ברכות א, ה"
+    },
+    "question": "ראב\"ע אומר \"לא זכיתי\" עד שדרשה בן זומא, אך המשנה מביאה מיד שחכמים דורשים את הפסוק אחרת. מה השיג בן זומא, ומה פירוש \"לא זכיתי\"?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:5:3",
+      "era": "acharon",
+      "quote": "דא\"כ אין כאן ניצוח כיון שאין חולק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "\"לא זכיתי\" – לא נצחתי לחכמים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 1:5:3",
+        "quote": "לא נצחתי לחכמים"
+       }
+      ]
+     },
+     {
+      "text": "נצחם, שתירוץ חכמים (שיציאת מצרים תהיה טפל לימות המשיח) שנויא בעלמא הוא, ופשטיה דקרא כבן זומא. ורבי לא סידר במשנה אלא את תחילת הוויכוח.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 1:5:3",
+        "quote": "בזה נצחם דאע\"ג דמשנו ליה רבנן. שנויא בעלמא היא"
+       },
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 1:41:1",
+        "quote": "ואעפ\"כ נצחם. דפשטא דקרא. טפי' כוותיה משמע"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם מפרש מלשון זכות: לא זכה לדעת הרמז שבכתוב לחיוב קריאת פרשת ציצית בלילה עד שדרשה בן זומא.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 1:5:1",
+        "quote": "לא זכיתי לדעת הרמז שנרמז בכתוב"
+       }
+      ]
+     }
+    ],
+    "why": "זו גם פסקה בהגדה של פסח, ופירושה קובע אם הזכרת יציאת מצרים בלילה היא מדאורייתא.",
+    "mishnah": 5,
+    "anchors": [
+     "ולא זכיתי שתאמר יציאת מצרים בלילות עד שדרשה בן זומא"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "רמב\"ם",
+   "ברטנורא",
+   "תוספות יום טוב",
+   "תפארת ישראל (יכין)",
+   "תוספות רבי עקיבא איגר",
+   "לחם שמים (יעב\"ץ)",
+   "תפארת ישראל (בועז)",
+   "רש\"ש"
+  ]
+ }
+}

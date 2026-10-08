@@ -1,0 +1,14 @@
+# Cloudflare reads this file. These headers limit what a page can do once
+# served, and keep the site out of search results.
+
+/*
+  X-Robots-Tag: noindex, nofollow
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  X-Frame-Options: DENY
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'none'
+
+# a new brief lands every morning, so the data files
+# must revalidate rather than sit in a browser cache
+/data/*
+  Cache-Control: no-cache

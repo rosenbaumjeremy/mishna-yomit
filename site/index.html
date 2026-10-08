@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>משנה יומית — פרק ליום עם המפרשים</title>
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<header class="topbar">
+  <a class="brand" href="#">
+    <img class="mark" src="icon.svg" alt="">
+    <div>
+      <h1 id="title">משנה יומית</h1>
+      <p class="sub" id="subtitle"></p>
+    </div>
+  </a>
+  <div class="topbar-actions">
+    <div class="langswitch" role="group" aria-label="Language">
+      <button type="button" data-lang="hebrew" class="on">עברית</button>
+      <button type="button" data-lang="english">English</button>
+    </div>
+    <a class="homelink" href="https://home-site.rosenbaum-jeremy.workers.dev" rel="noopener" title="לימוד יומי — דף הבית">
+      <img src="icon-home.svg" alt="לימוד יומי — דף הבית">
+    </a>
+  </div>
+</header>
+
+<main>
+  <section id="latest"></section>
+  <section id="perek" hidden></section>
+  <section id="sedarim"></section>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
