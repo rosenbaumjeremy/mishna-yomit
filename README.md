@@ -13,7 +13,7 @@ Linked from the לימוד יומי home page (`../home-site`).
 The "Mishnah Yomit" cloud routine runs at 03:00 Israel time and follows
 [ROUTINE.md](ROUTINE.md). `scripts/add_brief.py --info <date>` gives the day's
 perek: one a day straight through Shas in Sefaria's order (525 perakim,
-Berakhot 1 on 2026-10-09, then starting again). The routine reads the
+Berakhot 1 on 2026-10-08, then starting again). The routine reads the
 mefarshim on Sefaria, files the brief with
 `scripts/add_brief.py brief.json`, then commits and pushes. Cloudflare deploys
 on push.

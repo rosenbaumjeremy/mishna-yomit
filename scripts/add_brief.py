@@ -26,7 +26,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "site" / "data"
-START = datetime.date(2026, 10, 9)   # Berakhot 1
+START = datetime.date(2026, 10, 8)   # Berakhot 1
 
 
 def fetch(url):
