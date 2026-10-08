@@ -1,8 +1,8 @@
 # Mishnah Yomit routine
 
 Instructions for the cloud routine that runs every morning at 03:00 Israel time.
-It studies the day's perek of Mishnah with the mefarshim on Sefaria, emails the
-user a brief (a summary of the perek, the key terms and topics explained, and
+It studies the day's perek of Mishnah with the mefarshim on Sefaria, writes a
+brief (a summary of the perek, the key terms and topics explained, and
 5–8 questions of the mefarshim with their answers) and publishes it to this
 site.
 
@@ -29,7 +29,7 @@ Explanation of Mishnah" and "German Commentary".
 
 - **Daily** (the normal run): steps 0–7 for today's date.
 - **Backfill** (when the prompt lists dates): steps 1–5 and 7 for each listed
-  date in turn, one commit per date. No time guard, and **no email**.
+  date in turn, one commit per date. No time guard.
 
 ## Step 0 – time guard (daily only)
 
@@ -45,7 +45,7 @@ print "Off-hour scheduled firing – skipping" and stop. Any other hour, continu
    will be filed under, the `site_url` of its page, and `already_published`.
    Study exactly that `ref`.
 3. If `already_published` is true, this date's brief is already on the site:
-   skip to step 6 and email it from that file, then stop (no commit).
+   print "Already published" and stop.
 4. Hebrew date: `curl -s "https://www.hebcal.com/converter?cfg=json&date=YYYY-MM-DD&g2h=1"`
    (`hebrew`, and an English form like "28 Tishrei 5787" from hd/hm/hy).
 
@@ -153,21 +153,11 @@ pass still fails because Sefaria truly has little on this perek, continue, and
 say so in the final line. Never edit the file after the checks pass, except by
 re-running them.
 
-## Step 6 – email (daily only)
+## Step 6 – no email
 
-Send the English brief built from the **verified** JSON to
-rosenbaum.jeremy@gmail.com with the Gmail connector:
-
-- Subject: `Mishnah Yomit: <Masechet> <perek> – <date>`
-- HTML body (inline styles only): title with masechet and perek (Hebrew /
-  English), Hebrew and Gregorian date, a link "Open on the site" to
-  `site_url`, and the Sefaria link of the perek; the summary; "Key terms &
-  topics", each with its explanation and source quote; "Questions of the
-  mefarshim", each with the words of the mishnah, the question, who asks it
-  with their quote, each answer with its source and quote, and why it matters;
-  then "Sources consulted". Hebrew in `<span dir="rtl" lang="he">`; every ref a
-  link to `https://www.sefaria.org/<ref with spaces as underscores>`.
-- One email per run; retry once on failure. A failed email must not stop step 7.
+The user reads every brief on the site, so the routine sends no email
+(changed 2026-10-08 at the user's request). Do not use Gmail or any other
+messaging tool. Go on to step 7.
 
 ## Step 7 – publish
 
@@ -182,5 +172,5 @@ rosenbaum.jeremy@gmail.com with the Gmail connector:
 
 Finish with one line per date: how many questions and topics passed
 verification, how many distinct works were cited and whether the breadth check
-passed, whether the email was sent, and whether the commit was pushed. Do not
-change any other file, open PRs, or send any other email.
+passed, and whether the commit was pushed. Do not
+change any other file, open PRs, or send any email.
