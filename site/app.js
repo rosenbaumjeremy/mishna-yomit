@@ -318,6 +318,7 @@ function itemBox(it, idx) {
 
 function group(title, items, open) {
   const d = node("details", "box");
+  d.dataset.pdf = title;
   d.open = open;
   const s = node("summary", null, title);
   s.append(node("span", "count", String(items.length)));
@@ -382,6 +383,7 @@ async function renderSummaries() {
   const back = node("button", "back", t().backMasechet);
   back.onclick = () => { location.hash = ""; };
   const head = node("div", "perek-head");
+  head.dataset.pdfHead = "";
   head.append(node("h2", null, t().summariesOf(masechetName(m))));
   box.append(back, head);
   const perakim = [...new Set(state.days.filter((d) => d.masechet === slug).map((d) => d.perek))].sort((a, b) => a - b);
@@ -396,6 +398,7 @@ async function renderSummaries() {
     const p = perakim[i];
     const d = node("details", "box");
     d.open = true;
+    d.dataset.pdf = perekName(m, p);
     const s = node("summary");
     const a = node("a", null, perekName(m, p));
     a.href = `#${slug}-${p}`;
@@ -429,6 +432,7 @@ async function renderPerek() {
   const sec = data[state.lang];
   const ref = `${m.title} ${perek}`;
   const head = node("div", "perek-head");
+  head.dataset.pdfHead = "";
   head.append(node("h2", null, perekName(m, perek)));
   const meta = node("p");
   meta.append(`${data.hebrew_date[state.lang === "hebrew" ? "hebrew" : "english"]} · ${data.date} · `);
@@ -440,6 +444,7 @@ async function renderPerek() {
 
   const sum = node("details", "box");
   sum.open = true;
+  sum.dataset.pdf = t().summary;
   sum.append(node("summary", null, t().summary));
   const sb = node("div", "body");
   sb.append(summaryParas(sec.summary));
@@ -454,6 +459,7 @@ async function renderPerek() {
   const layout = node("div", "layout");
   // right: the text
   const textCol = node("div", "text-col");
+  textCol.dataset.pdf = t().text;
   const card = node("div", "mishnah-card");
   data.mishnayot.forEach((mm, i) => {
     const n = i + 1;
@@ -484,6 +490,7 @@ async function renderPerek() {
   side.append(group(t().topics, items.filter((x) => x.kind === "t"), false));
   side.append(group(t().questions, items.filter((x) => x.kind === "q"), false));
   const src = node("details", "box");
+  src.dataset.pdf = t().sources;
   src.append(node("summary", null, t().sources));
   const srcBody = node("div", "body");
   srcBody.append(node("p", "sources", (sec.sources_consulted || []).join(" · ")));

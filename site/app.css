@@ -189,3 +189,9 @@ a.chip.sum { background: var(--gold); border-color: var(--gold); }
 .sum-para .mnum { color: var(--accent); font-weight: 700; }
 details.box > summary a { color: inherit; text-decoration: none; }
 details.box > summary a:hover { text-decoration: underline; }
+
+@media print {
+  /* the PDF: text above, terms and questions below */
+  html.pdf-mode .layout { display: block !important; }
+  html.pdf-mode .mishnah.flash { animation: none; }
+}
