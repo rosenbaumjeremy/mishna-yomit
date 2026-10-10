@@ -304,8 +304,10 @@ function itemBox(it, idx) {
   } else {
     const q = it.data;
     body.append(node("p", "anchor", `"${q.pasuk.text}"`), node("p", null, q.question));
-    body.append(node("div", "label", t().askedBy));
-    q.asked_by.forEach((w) => body.append(cite(w)));
+    const askers = node("div", "askers");   // left out of the PDF/printout (pdf.css)
+    askers.append(node("div", "label", t().askedBy));
+    q.asked_by.forEach((w) => askers.append(cite(w)));
+    body.append(askers);
     q.answers.forEach((a, i) => {
       const box = node("div", "answer");
       box.dataset.pdfDetail = "answers";   // the PDF can keep just the questions (pdf.js)
