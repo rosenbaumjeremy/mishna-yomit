@@ -152,6 +152,9 @@ function highlighted(text, items) {
   return frag;
 }
 
+/** Where pdf.js puts the PDF and Print buttons. */
+const pdfTools = () => { const d = document.createElement("div"); d.dataset.pdfTools = ""; return d; };
+
 /* ---------- data ---------- */
 
 async function load() {
@@ -390,7 +393,7 @@ async function renderSummaries() {
   back.onclick = () => { location.hash = ""; };
   const head = node("div", "perek-head");
   head.dataset.pdfHead = "";
-  head.append(node("h2", null, t().summariesOf(masechetName(m))));
+  head.append(node("h2", null, t().summariesOf(masechetName(m))), pdfTools());
   box.append(back, head);
   const perakim = [...new Set(state.days.filter((d) => d.masechet === slug).map((d) => d.perek))].sort((a, b) => a - b);
   if (!perakim.length) { box.append(node("p", "muted", t().noSummaries)); return; }
@@ -445,7 +448,7 @@ async function renderPerek() {
   const a = node("a", null, t().sefaria);
   a.href = sefariaUrl(ref); a.target = "_blank"; a.rel = "noopener";
   meta.append(a);
-  head.append(meta);
+  head.append(meta, pdfTools());
   box.append(head);
 
   const sum = node("details", "box");
