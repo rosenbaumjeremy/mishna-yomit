@@ -296,6 +296,7 @@ function itemBox(it, idx) {
   s.append(node("span", "n", it.kind === "q" ? `${idx + 1}.` : "◆"), node("span", "ttl", it.title), mref(it.mishnah));
   const body = node("div", "body");
   if (it.kind === "t") {
+    body.dataset.pdfDetail = "explain";   // the PDF can keep just the term (pdf.js)
     body.append(node("p", null, it.data.explanation), cite(it.data.source));
   } else {
     const q = it.data;
@@ -304,11 +305,16 @@ function itemBox(it, idx) {
     q.asked_by.forEach((w) => body.append(cite(w)));
     q.answers.forEach((a, i) => {
       const box = node("div", "answer");
+      box.dataset.pdfDetail = "answers";   // the PDF can keep just the questions (pdf.js)
       box.append(node("div", "label", t().answer(i)), node("p", null, a.text));
       a.sources.forEach((w) => box.append(cite(w)));
       body.append(box);
     });
-    if (q.why) body.append(node("p", "why", `${t().why}: ${q.why}`));
+    if (q.why) {
+      const why = node("p", "why", `${t().why}: ${q.why}`);
+      why.dataset.pdfDetail = "answers";
+      body.append(why);
+    }
   }
   d.append(s, body);
   d.addEventListener("mouseenter", () => light(it.id, true));
