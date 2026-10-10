@@ -194,4 +194,5 @@ details.box > summary a:hover { text-decoration: underline; }
   /* the PDF: text above, terms and questions below */
   html.pdf-mode .layout { display: block !important; }
   html.pdf-mode .mishnah.flash { animation: none; }
+  html.pdf-mode .legend { display: none !important; }
 }
