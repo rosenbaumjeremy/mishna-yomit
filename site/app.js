@@ -304,7 +304,8 @@ function itemBox(it, idx) {
   } else {
     const q = it.data;
     body.append(node("p", "anchor", `"${q.pasuk.text}"`), node("p", null, q.question));
-    const askers = node("div", "askers");   // left out of the PDF/printout (pdf.css)
+    const askers = node("div", "askers");
+    askers.dataset.pdfDetail = "answers";   // printed only together with the answers (pdf.js)
     askers.append(node("div", "label", t().askedBy));
     q.asked_by.forEach((w) => askers.append(cite(w)));
     body.append(askers);
