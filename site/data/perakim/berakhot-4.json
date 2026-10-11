@@ -1,0 +1,1042 @@
+{
+ "date": "2026-10-11",
+ "hebrew_date": {
+  "hebrew": "ל׳ בְּתִשְׁרֵי תשפ״ז",
+  "english": "30 Tishrei 5787"
+ },
+ "masechet": "berakhot",
+ "perek": 4,
+ "ref": "Mishnah Berakhot 4",
+ "mishnayot": [
+  {
+   "he": "תְּפִלַּת הַשַּׁחַר, עַד חֲצוֹת. רַבִּי יְהוּדָה אוֹמֵר, עַד אַרְבַּע שָׁעוֹת. תְּפִלַּת הַמִּנְחָה עַד הָעֶרֶב. רַבִּי יְהוּדָה אוֹמֵר, עַד פְּלַג הַמִּנְחָה. תְּפִלַּת הָעֶרֶב אֵין לָהּ קֶבַע. וְשֶׁל מוּסָפִין כָּל הַיּוֹם. רַבִּי יְהוּדָה אוֹמֵר, עַד שֶׁבַע שָׁעוֹת:  ",
+   "en": "This mishna determines the times beyond which the different prayers may not be recited. According to the Rabbis, <b>the morning prayer</b> may be recited <b>until noon. Rabbi Yehuda says:</b> It may be recited only <b>until four hours</b> after sunrise. According to the Rabbis, <b>the afternoon prayer</b> may be recited <b>until the evening. Rabbi Yehuda says:</b> It may be recited only <b>until the midpoint of the afternoon [<i>pelag haminḥa</i>],</b> i.e., the midpoint of the period that begins with the sacrifice of the daily afternoon offering and ends at nightfall, which is the end of the afternoon. <b>The evening prayer</b> may be recited throughout the night and <b>is not fixed</b> to a specific hour. According to the Rabbis, <b>the additional prayer</b> may be recited <b>all day. Rabbi Yehuda says:</b> It may be recited only <b>until seven hours</b> after sunrise."
+  },
+  {
+   "he": "רַבִּי נְחוּנְיָא בֶּן הַקָּנָה הָיָה מִתְפַּלֵּל בִּכְנִיסָתוֹ לְבֵית הַמִּדְרָשׁ וּבִיצִיאָתוֹ תְּפִלָּה קְצָרָה. אָמְרוּ לוֹ, מַה מָּקוֹם לִתְפִלָּה זוֹ. אָמַר לָהֶם, בִּכְנִיסָתִי אֲנִי מִתְפַּלֵּל שֶׁלֹּא תֶאֱרַע תַּקָלָה עַל יָדִי, וּבִיצִיאָתִי אֲנִי נוֹתֵן הוֹדָיָה עַל חֶלְקִי:  ",
+   "en": "In addition to the <i>halakhot</i> relating to the fixed prayers, the Gemara relates: <b>Rabbi Neḥunya ben Hakana would recite a brief prayer upon his entrance into the study hall and upon his exit. They said to him:</b> The study hall is not a dangerous place that would warrant a prayer when entering and exiting, so <b>what room is there for this prayer? He said to them: Upon my entrance, I pray that no mishap will transpire</b> caused <b>by me</b> in the study hall. <b>And upon my exit, I give thanks for my portion.</b>"
+  },
+  {
+   "he": "רַבָּן גַּמְלִיאֵל אוֹמֵר, בְּכָל יוֹם מִתְפַּלֵּל אָדָם שְׁמֹנֶה עֶשְׂרֵה. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, מֵעֵין שְׁמֹנֶה עֶשְׂרֵה. רַבִּי עֲקִיבָא אוֹמֵר, אִם שְׁגוּרָה תְפִלָּתוֹ בְּפִיו, יִתְפַּלֵּל שְׁמֹנֶה עֶשְׂרֵה. וְאִם לָאו, מֵעֵין שְׁמֹנֶה עֶשְׂרֵה:  ",
+   "en": "The mishna cites a dispute with regard to the obligation to recite the <i>Amida</i> prayer, also known as <i>Shemoneh Esreh</i>, the prayer of eighteen blessings, or simply as <i>tefilla</i>, prayer. <b>Rabban Gamliel says: Each and every day a person recites the</b> prayer of <b>eighteen blessings. Rabbi Yehoshua says:</b> A short prayer is sufficient, and one only recites <b>an abridged</b> version of the prayer of <b>eighteen blessings. Rabbi Akiva says</b> an intermediate opinion: <b>If he is fluent in his prayer, he recites the</b> prayer of <b>eighteen blessings, and if not,</b> he need only recite <b>an abridged</b> version of the prayer of <b>eighteen blessings.</b>"
+  },
+  {
+   "he": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, הָעוֹשֶׂה תְפִלָּתוֹ קֶבַע, אֵין תְּפִלָּתוֹ תַּחֲנוּנִים. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, הַמְהַלֵּךְ בִּמְקוֹם סַכָּנָה, מִתְפַּלֵּל תְּפִלָּה קְצָרָה. אוֹמֵר, הוֹשַׁע הַשֵּׁם אֶת עַמְּךָ אֶת שְׁאֵרִית יִשְׂרָאֵל, בְּכָל פָּרָשַׁת הָעִבּוּר יִהְיוּ צָרְכֵיהֶם לְפָנֶיךָ. בָּרוּךְ אַתָּה ה' שׁוֹמֵעַ תְּפִלָּה:  ",
+   "en": "<b>Rabbi Eliezer says: One whose prayer is fixed, his prayer is not supplication</b> and is flawed. The Gemara will clarify the halakhic implications of this flaw. <b>Rabbi Yehoshua says: One who</b> cannot recite a complete prayer because he <b>is walking in a place of danger, recites a brief prayer and says: Redeem, Lord, Your people, the remnant of Israel, at every transition [<i>parashat ha’ibur</i>],</b> the meaning of which will be discussed in the Gemara. <b>May their needs be before You. Blessed are You, Lord, Who listens to prayer.</b>"
+  },
+  {
+   "he": "הָיָה רוֹכֵב עַל הַחֲמוֹר, יֵרֵד. וְאִם אֵינוֹ יָכוֹל לֵירֵד, יַחֲזִיר אֶת פָּנָיו, וְאִם אֵינוֹ יָכוֹל לְהַחֲזִיר אֶת פָּנָיו, יְכַוֵּן אֶת לִבּוֹ כְּנֶגֶד בֵּית קֹדֶשׁ הַקָּדָשִׁים:  ",
+   "en": "While praying, one must face toward the direction of the Holy Temple. <b>One who was riding on a donkey should dismount and pray</b> calmly. <b>If he is unable to dismount, he should turn his face</b> toward the direction of the Temple. <b>If he is unable to turn his face,</b> it is sufficient that <b>he focus his heart opposite the Holy of Holies.</b> "
+  },
+  {
+   "he": "הָיָה יוֹשֵׁב בִּסְפִינָה אוֹ בְקָרוֹן אוֹ בְאַסְדָּה, יְכַוֵּן אֶת לִבּוֹ כְּנֶגֶד בֵּית קֹדֶש הַקָּדָשִׁים:  ",
+   "en": "Similarly, <b>one who was traveling in a ship or on a wagon or on a raft [<i>asda</i>]</b> and is unable to turn and face in the direction of Jerusalem, <b>should focus his heart opposite the Holy of Holies.</b>"
+  },
+  {
+   "he": "רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר, אֵין תְּפִלַּת הַמּוּסָפִין אֶלָּא בְּחֶבֶר עִיר. וַחֲכָמִים אוֹמְרִים, בְּחֶבֶר עִיר וְשֶׁלֹּא בְחֶבֶר עִיר. רַבִּי יְהוּדָה אוֹמֵר מִשְּׁמוֹ, כָּל מָקוֹם שֶׁיֵּשׁ חֶבֶר עִיר, הַיָּחִיד פָּטוּר מִתְּפִלַּת הַמּוּסָפִין:  ",
+   "en": "<b>Rabbi Elazar ben Azarya says: The additional prayer is only</b> recited <b>in a city where there is a quorum of ten [<i>ḥever ir</i>]. The Rabbis say:</b> One may recite the additional prayer <b>with a <i>ḥever ir</i> or without a <i>ḥever ir.</i> Rabbi Yehuda says</b> another opinion <b>in his name,</b> the name of Rabbi Elazar ben Azarya: <b>Any place where there is a <i>ḥever ir</i>, an individual is</b> completely <b>exempt from</b> reciting <b>the additional prayer.</b>"
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 gives the latest times for the prayers: the morning prayer until midday, or four hours according to Rabbi Yehuda; the afternoon prayer until evening, or pelag haminchah according to Rabbi Yehuda; the evening prayer has no fixed time; and the additional prayer is all day, or seven hours according to Rabbi Yehuda.\nMishnah 2 tells of Rabbi Nechunya ben Hakana, who said a short prayer on entering and leaving the study hall, asking not to stumble and thanking for his portion.\nMishnah 3 gives a dispute about the eighteen blessings: every day according to Rabban Gamliel, an abridged form according to Rabbi Yehoshua, and according to Rabbi Akiva the full form if his prayer is fluent.\nMishnah 4 says that prayer made keva is not supplication, and gives a short prayer for one walking in a dangerous place.\nMishnayot 5–6 deal with one who cannot face Jerusalem, on a donkey, in a ship, a wagon or a raft: he should focus his heart toward the Holy of Holies.\nMishnah 7 gives a dispute whether the additional prayer is only with a chever ir.",
+  "topics": [
+   {
+    "term": "Pelag haminchah",
+    "explanation": "Rabbi Yehuda lets the afternoon prayer be said only until pelag haminchah, the midpoint of the afternoon period. Bartenura measures that period from nine and a half hours until night, and its midpoint is an hour and a quarter before night.",
+    "mishnah": 1,
+    "anchors": [
+     "עַד פְּלַג הַמִּנְחָה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 4:1:3",
+     "quote": "נִמְצָא פְּלַג הַמִּנְחָה שֶׁהוּא חֲצִי שִׁעוּר זֶה שָׁעָה וּרְבִיע"
+    }
+   },
+   {
+    "term": "Seasonal hours (four hours)",
+    "explanation": "Rabbi Yehuda says the morning prayer may be said until four hours. The hours are proportional hours: the day, whatever its length, is divided into twelve, so four hours is the end of the first third of the day.",
+    "mishnah": 1,
+    "anchors": [
+     "עַד אַרְבַּע שָׁעוֹת"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 4:1:1",
+     "quote": "עַד סוֹף שָׁעָה רְבִיעִית שֶׁהוּא שְׁלִישׁ הַיּוֹם בִּזְמַן שֶׁהַיּוֹם שְׁתֵּים עֶשְׂרֵה שָׁעוֹת"
+    }
+   },
+   {
+    "term": "The additional prayer (musaf) all day",
+    "explanation": "The mishnah says the additional prayer may be said all day. Bartenura adds that one who delays it past seven hours has still fulfilled the obligation, but is called a poshe'a.",
+    "mishnah": 1,
+    "anchors": [
+     "שֶׁל מוּסָפִין כָּל הַיּוֹם"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 4:1:5",
+     "quote": "אִם אֵחֲרָהּ אַחַר שֶׁבַע יָצָא, אֲבָל נִקְרָא פּוֹשֵׁע"
+    }
+   },
+   {
+    "term": "Me'ein shemoneh esreh",
+    "explanation": "Rabbi Yehoshua and Rabbi Akiva speak of an abridged form of the eighteen blessings. Bartenura brings two explanations from the Gemara: a short version of each middle blessing, or the single blessing Havinenu, which contains the substance of all the middle blessings.",
+    "mishnah": 3,
+    "anchors": [
+     "מֵעֵין שְׁמֹנֶה עֶשְׂרֵה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 4:3:1",
+     "quote": "הֲבִינֵנוּ ה'‏ אֱלֹהֵינוּ לָדַעַת דַּרְכֶּךָ, שֶׁהִיא בְּרָכָה אַחַת שֶׁיֵּשׁ בָּהּ מֵעֵין כָּל הַבְּרָכוֹת הָאֶמְצָעִיּוֹת"
+    }
+   },
+   {
+    "term": "Making prayer \"keva\"",
+    "explanation": "Rabbi Eliezer says that one who makes his prayer keva has no prayer of supplication. Bartenura explains keva as prayer that feels to him like a burden, a fixed duty he must get out of the way.",
+    "mishnah": 4,
+    "anchors": [
+     "הָעוֹשֶׂה תְפִלָּתוֹ קֶבַע"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 4:4:1",
+     "quote": "שֶׁתְּפִלָּתוֹ דּוֹמָה עָלָיו כְּמַשְּׂא"
+    }
+   },
+   {
+    "term": "Parashat ha'ibur",
+    "explanation": "The short prayer of Rabbi Yehoshua asks that the needs of the people be before God 'at every parashat ha'ibur'. The term is unclear, and Bartenura reads it as the stepping aside to transgression, asking that God be merciful even then.",
+    "mishnah": 4,
+    "anchors": [
+     "בְּכָל פָּרָשַׁת הָעִבּוּר"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 4:4:3",
+     "quote": "פָּרָשַׁת לְשׁוֹן פְּרִישָׁה, הָעִבּוּר שֶׁל עֲבֵרָה"
+    }
+   },
+   {
+    "term": "Chever ir",
+    "explanation": "Rabbi Elazar ben Azarya says the additional prayer is only with a chever ir. Bartenura explains this as the city's company, meaning a congregation and not an individual.",
+    "mishnah": 7,
+    "anchors": [
+     "בְּחֶבֶר עִיר"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 4:7:1",
+     "quote": "בַּחֲבוּרַת הָעִיר, כְּלוֹמַר בְּצִבּוּר וְלֹא בְּיָחִיד"
+    }
+   },
+   {
+    "term": "Asda",
+    "explanation": "The mishnah lists a ship, a wagon and an asda as places where one cannot turn toward Jerusalem. Bartenura describes an asda as many pieces of wood tied tightly together and floated on a river, with people walking on them.",
+    "mishnah": 6,
+    "anchors": [
+     "אוֹ בְאַסְדָּה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 4:6:1",
+     "quote": "עֵצִים הַרְבֵּה קְשׁוּרִים וּמְהֻדָּקִים יַחַד"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why is the afternoon prayer called \"minchah\"?",
+    "pasuk": {
+     "text": "תְּפִלַּת הַמִּנְחָה עַד הָעֶרֶב",
+     "ref": "Mishnah Berakhot 4:1",
+     "label": "Mishnah Berakhot 4:1"
+    },
+    "question": "The afternoon prayer is called minchah, a name that also belongs to the morning offering. Why was it given that name?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:1:2",
+      "quote": "תימה אמאי קרי ליה מנחה דאי משום דמנחה היתה קריבה בין הערבים הלא גם בשחר קריבה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot, as quoted by Tosafot Yom Tov, answers that the morning prayer has another name, and also that the time of the minchah offering is a time of favor, since Eliyahu was answered then.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:1:2",
+        "quote": "ל בשחרית יש שם אחר שחרית. ועוד י\"ל משום דשעת רצון הוא בשעת הקרבת המנחה שאליהו נענה כעלות המנחה"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says the second prayer is called minchah because its time begins at that point of the day.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 4:1:1",
+        "quote": "נקראת התפלה השנית מנחה מפני היות תחלת זמנה בעת ההיא"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov brings the Ramban, who derives minchah from the rest of the sun and the quieting of its great light. Lechem Shamayim adds that the morning prayer has another name, and no other name is found for the afternoon prayer.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:1:2",
+        "quote": "שמנחה מלשון מנוחת השמש והשקט אורו הגדול"
+       },
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Berakhot 4:1:2-3",
+        "quote": "האמת שלשחרית יש שם אחר ולא נמצא במנחה שם זולת"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the commentators explain the name of a prayer the mishnah uses without comment.",
+    "mishnah": 1,
+    "anchors": [
+     "תְּפִלַּת הַמִּנְחָה עַד הָעֶרֶב"
+    ]
+   },
+   {
+    "title": "Why does the mishnah say the evening prayer has no \"keva\"?",
+    "pasuk": {
+     "text": "תְּפִלַּת הָעֶרֶב אֵין לָהּ קֶבַע",
+     "ref": "Mishnah Berakhot 4:1",
+     "label": "Mishnah Berakhot 4:1"
+    },
+    "question": "Why does the mishnah say that the evening prayer has no keva, instead of saying that its time is all night?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Berakhot 4:1:4",
+      "quote": "הָא דְתָנֵי אֵין לָהּ קֶבַע וְלֹא קָתָנֵי זְמַנָּהּ כָּל הַלַּיְלָה",
+      "era": "acharon"
+     },
+     {
+      "name": "Mishnat Eretz Yisrael",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 4:1:17-31",
+      "quote": "קשה לקבוע באיזו מהן עסקה המשנה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says the wording teaches that the evening prayer is optional, since it corresponds to the burning of limbs and fats that were offered all night.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 4:1:4",
+        "quote": "לְאַשְׁמְעִינַן דִּתְפִלַּת עַרְבִית רְשׁוּת"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says it has no fixed beginning or end because it is not an obligation like the morning and afternoon prayers, but optional.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 4:1:1",
+        "quote": "מפני שאינה חובה כשחרית ומנחה אבל היא רשות"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh quotes the Rashba, who says the words teach two things: that it has no fixed time, and that it was not made a fixed obligation like the other prayers.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 4:1:6",
+        "quote": "מלשון אין לה קבע תרתי שמעינן מינה"
+       }
+      ]
+     }
+    ],
+    "why": "The meaning of keva decides whether the evening prayer is a matter of time or of obligation.",
+    "mishnah": 1,
+    "anchors": [
+     "תְּפִלַּת הָעֶרֶב אֵין לָהּ קֶבַע"
+    ]
+   },
+   {
+    "title": "Is failing in halakha a real \"takala\"?",
+    "pasuk": {
+     "text": "שֶׁלֹּא תֶאֱרַע תַּקָלָה עַל יָד",
+     "ref": "Mishnah Berakhot 4:2",
+     "label": "Mishnah Berakhot 4:2"
+    },
+    "question": "Bartenura explains the mishap Rabbi Nechunya feared as his failing in halakha and so bringing punishment on his colleagues. Is failing in halakha itself considered an evil?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:2:2",
+      "quote": "אבל הכשלון בדבר הלכה לא חשיב ליה רעה כיון שחביריו רבו על",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov reads the Bartenura as saying the evil is only that his colleagues would be punished, since failing in halakha is not an evil when the colleagues dispute and the halakha follows the majority.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:2:2",
+        "quote": "לשון הר\"ב שלא אכשל בדבר הלכה וישמחו חבירי הרי רעה שתבא על ידי שאגרום להם שיענש"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov brings the language of Rashi, who counts two evils, and failing in halakha is one of them.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:2:2",
+        "quote": "הרי רעות שתים שיבואו על ידי שאגרום להם שיענש"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam explains the word simply as a stumbling coming through him.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 4:2:1",
+        "quote": "ארע תקלה יבא מכשול ע"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies what the short prayer on entering the study hall asks for.",
+    "mishnah": 2,
+    "anchors": [
+     "שֶׁלֹּא תֶאֱרַע תַּקָלָה עַל יָד"
+    ]
+   },
+   {
+    "title": "What is \"parashat ha'ibur\"?",
+    "pasuk": {
+     "text": "בְּכָל פָּרָשַׁת הָעִבּוּר",
+     "ref": "Mishnah Berakhot 4:4",
+     "label": "Mishnah Berakhot 4:4"
+    },
+    "question": "What does \"parashat ha'ibur\" mean in the short prayer of Rabbi Yehoshua?",
+    "asked_by": [
+     {
+      "name": "Mishnat Eretz Yisrael",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 4:4:8-16",
+      "quote": "המשנה קשה והציעו לה פירושים שונים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura reads it as a parting toward transgression: even when they are turning aside to sin, let their needs be revealed before God for mercy.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 4:4:3",
+        "quote": "אֲפִלּוּ בְּשָׁעָה שֶׁהֵם פּוֹרְשִׁים לַעֲבֵרָה, יִהְיוּ צָרְכֵיהֶם גְּלוּיִם לְפָנֶיךָ לְרַחֵם עֲלֵיהֶם"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam brings the Gemara that the term comes from \"ibra\": even at a time of anger, save Your people.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 4:4:1",
+        "quote": "שהוא גזור מעברה ענינו אפילו בשעת העברה"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh brings the Yerushalmi: it refers to the requests made when the shaliach tzibbur passes before the ark.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 4:4:4",
+        "quote": "דבירושלמי מפרש כל שאלות שליח צבור"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir finds in the wording a hint that the Satan prosecutes at a time of danger, so we ask God not to listen to him.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Berakhot 4:4:2",
+        "quote": "מפני שהשטן מקטרג דווקא בשעת הסכנה"
+       }
+      ]
+     }
+    ],
+    "why": "The mishnah gives the text of a prayer whose key phrase has several competing readings.",
+    "mishnah": 4,
+    "anchors": [
+     "בְּכָל פָּרָשַׁת הָעִבּוּר"
+    ]
+   },
+   {
+    "title": "Which verse supports turning toward Jerusalem?",
+    "pasuk": {
+     "text": "חֲזִיר אֶת פָּנ",
+     "ref": "Mishnah Berakhot 4:5",
+     "label": "Mishnah Berakhot 4:5"
+    },
+    "question": "Bartenura brings a verse for turning toward Jerusalem. Is it the right verse for the mishnah?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:5:1",
+      "quote": "אגב ריהטא לא דק דה\"ל למנקט והתפללו אליך דרך העיר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura brings the verse \"they shall pray to You by the way of their land\".",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 4:5:2",
+        "quote": "הִתְפַּלְּלוּ אֵלֶיךָ דֶּרֶךְ אַרְצָם"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov answers that this verse refers to those who stand outside Israel, and that Rashi explained the mishnah as toward Jerusalem because the tanna speaks in Israel.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:5:1",
+        "quote": "הך קרא דדרך ארצם קאי להעומדים בח\"ל"
+       },
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:5:1",
+        "quote": "פירש רש\"י במתניתין לצד ירושלים משום דתנא בא\"י קא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows where a person facing the Temple in this mishnah is expected to be.",
+    "mishnah": 5,
+    "anchors": [
+     "חֲזִיר אֶת פָּנ"
+    ]
+   },
+   {
+    "title": "Why a wagon between a ship and a raft?",
+    "pasuk": {
+     "text": "בִּסְפִינָה אוֹ בְקָרוֹן אוֹ בְאַסְדָּה",
+     "ref": "Mishnah Berakhot 4:6",
+     "label": "Mishnah Berakhot 4:6"
+    },
+    "question": "Why does the mishnah list a wagon, which is on land, between a ship and a raft, which are on water, and why does it not say to turn his face?",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Berakhot 4:6:1",
+      "quote": "צריך ליתן טעם למה ניתן בין ספינה ואסדא דהם במים",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:6:1",
+      "quote": "לא תנן יחזיר את פנ",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir answers that the mishnah teaches \"not only this but that\": a ship has both fear of the water and the rocking, a wagon only the rocking, and an asda neither.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Berakhot 4:6:1",
+        "quote": "דלא זו אף זו קתני, דספינה יש בה בעיתותא דמיא, מחמת הנענוע"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov says that one does not even have to stand, and the Beit Yosef gives the reason for a wagon: it is impossible to stand because it moves from side to side.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:6:1",
+        "quote": "בקרון א\"א שיעמוד מפני שמתנועע לכאן ולכאן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why a rule that is about turning toward Jerusalem changes when the traveler is moving.",
+    "mishnah": 6,
+    "anchors": [
+     "בִּסְפִינָה אוֹ בְקָרוֹן אוֹ בְאַסְדָּה"
+    ]
+   },
+   {
+    "title": "Why is the additional prayer tied to the chever ir?",
+    "pasuk": {
+     "text": "אֵין תְּפִלַּת הַמּוּסָפִין אֶלָּא בְּחֶבֶר עִיר",
+     "ref": "Mishnah Berakhot 4:7",
+     "label": "Mishnah Berakhot 4:7"
+    },
+    "question": "The reason given for Rabbi Elazar ben Azarya is that the additional prayer has no supplication, so the congregation alone may say it. Yet it does contain a short request. What then is the reason?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Berakhot 4:7:1",
+      "quote": "קשה הא יש בה יה\"ר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov brings the reason of Rabbeinu Yonah: it has only praise, with no supplication.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:7:1",
+        "quote": "דכיון שאין בה אלא שבח שאין בה תחנונים"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash suggests instead that the reason is that the offerings are mentioned in it explicitly.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Berakhot 4:7:1",
+        "quote": "הטעם מפני שמזכירין בה בפירוש הקרבנות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how an acharon tests a rishon's reason against the text of the prayer.",
+    "mishnah": 7,
+    "anchors": [
+     "אֵין תְּפִלַּת הַמּוּסָפִין אֶלָּא בְּחֶבֶר עִיר"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Rambam",
+   "Lechem Shamayim",
+   "Bartenura",
+   "Mishnat Eretz Yisrael",
+   "Melekhet Shelomoh",
+   "Hon Ashir",
+   "Rashash"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א קובעת את הזמנים האחרונים של התפילות: תפילת השחר עד חצות, ולרבי יהודה עד ארבע שעות; תפילת המנחה עד הערב, ולרבי יהודה עד פלג המנחה; תפילת הערב אין לה קבע; ושל מוספין כל היום, ולרבי יהודה עד שבע שעות.\nמשנה ב מספרת על רבי נחוניא בן הקנה שהתפלל תפילה קצרה בכניסתו לבית המדרש וביציאתו, שלא יכשל ושיודה על חלקו.\nמשנה ג מביאה מחלוקת על שמונה עשרה: בכל יום לדעת רבן גמליאל, מעין שמונה עשרה לדעת רבי יהושע, ולרבי עקיבא שמונה עשרה אם שגורה תפילתו בפיו.\nמשנה ד אומרת שהעושה תפילתו קבע אין תפילתו תחנונים, ומביאה תפילה קצרה למהלך במקום סכנה.\nמשניות ה-ו עוסקות במי שאינו יכול להפנות פניו לירושלים, על חמור, בספינה, בקרון או באסדה: יכוון את לבו כנגד בית קדשי הקדשים.\nמשנה ז מביאה מחלוקת אם תפילת המוספין אינה אלא בחבר עיר.",
+  "topics": [
+   {
+    "term": "פלג המנחה",
+    "explanation": "רבי יהודה אומר שתפילת המנחה נאמרת רק עד פלג המנחה, אמצע תקופת אחר הצהריים. ברטנורא מודד את התקופה מתשע שעות ומחצה עד הלילה, ופלג המנחה הוא שעה ורבע לפני הלילה.",
+    "mishnah": 1,
+    "anchors": [
+     "עַד פְּלַג הַמִּנְחָה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 4:1:3",
+     "quote": "נִמְצָא פְּלַג הַמִּנְחָה שֶׁהוּא חֲצִי שִׁעוּר זֶה שָׁעָה וּרְבִיע"
+    }
+   },
+   {
+    "term": "שעות זמניות (ארבע שעות)",
+    "explanation": "רבי יהודה אומר שתפילת השחר נאמרת עד ארבע שעות. השעות הן שעות זמניות: היום, יהיה אורכו אשר יהיה, מחולק לשתים עשרה, ולכן ארבע שעות הן סוף שלישו הראשון של היום.",
+    "mishnah": 1,
+    "anchors": [
+     "עַד אַרְבַּע שָׁעוֹת"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 4:1:1",
+     "quote": "עַד סוֹף שָׁעָה רְבִיעִית שֶׁהוּא שְׁלִישׁ הַיּוֹם בִּזְמַן שֶׁהַיּוֹם שְׁתֵּים עֶשְׂרֵה שָׁעוֹת"
+    }
+   },
+   {
+    "term": "תפילת מוספין כל היום",
+    "explanation": "המשנה אומרת שתפילת המוספין נאמרת כל היום. ברטנורא מוסיף שמי שאיחרה אחר שבע שעות יצא ידי חובה, אך נקרא פושע.",
+    "mishnah": 1,
+    "anchors": [
+     "שֶׁל מוּסָפִין כָּל הַיּוֹם"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 4:1:5",
+     "quote": "אִם אֵחֲרָהּ אַחַר שֶׁבַע יָצָא, אֲבָל נִקְרָא פּוֹשֵׁע"
+    }
+   },
+   {
+    "term": "מעין שמונה עשרה",
+    "explanation": "רבי יהושע ורבי עקיבא מזכירים נוסח מקוצר של שמונה עשרה. ברטנורא מביא שני פירושים מן הגמרא: קיצור מכל אחת מהברכות האמצעיות, או הברכה האחת 'הביננו' הכוללת את עניין כל הברכות האמצעיות.",
+    "mishnah": 3,
+    "anchors": [
+     "מֵעֵין שְׁמֹנֶה עֶשְׂרֵה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 4:3:1",
+     "quote": "הֲבִינֵנוּ ה'‏ אֱלֹהֵינוּ לָדַעַת דַּרְכֶּךָ, שֶׁהִיא בְּרָכָה אַחַת שֶׁיֵּשׁ בָּהּ מֵעֵין כָּל הַבְּרָכוֹת הָאֶמְצָעִיּוֹת"
+    }
+   },
+   {
+    "term": "העושה תפילתו קבע",
+    "explanation": "רבי אליעזר אומר שמי שעושה תפילתו קבע אין תפילתו תחנונים. ברטנורא מפרש קבע כתפילה שדומה עליו כמשא, חובה קבועה שהוא רוצה לצאת ממנה.",
+    "mishnah": 4,
+    "anchors": [
+     "הָעוֹשֶׂה תְפִלָּתוֹ קֶבַע"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 4:4:1",
+     "quote": "שֶׁתְּפִלָּתוֹ דּוֹמָה עָלָיו כְּמַשְּׂא"
+    }
+   },
+   {
+    "term": "פרשת העיבור",
+    "explanation": "תפילתו הקצרה של רבי יהושע מבקשת שצרכי העם יהיו לפני ה' 'בכל פרשת העיבור'. פירוש המונח אינו פשוט, וברטנורא מפרש אותו כפרישה לעבירה, ומבקש שה' ירחם עליהם גם אז.",
+    "mishnah": 4,
+    "anchors": [
+     "בְּכָל פָּרָשַׁת הָעִבּוּר"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 4:4:3",
+     "quote": "פָּרָשַׁת לְשׁוֹן פְּרִישָׁה, הָעִבּוּר שֶׁל עֲבֵרָה"
+    }
+   },
+   {
+    "term": "חבר עיר",
+    "explanation": "רבי אלעזר בן עזריה אומר שתפילת המוספין אינה אלא בחבר עיר. ברטנורא מפרש זאת כחבורת העיר, כלומר בציבור ולא ביחיד.",
+    "mishnah": 7,
+    "anchors": [
+     "בְּחֶבֶר עִיר"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 4:7:1",
+     "quote": "בַּחֲבוּרַת הָעִיר, כְּלוֹמַר בְּצִבּוּר וְלֹא בְּיָחִיד"
+    }
+   },
+   {
+    "term": "אסדה",
+    "explanation": "המשנה מונה ספינה, קרון ואסדה כמקומות שבהם אי אפשר להפנות פנים לירושלים. ברטנורא מתאר את האסדה כעצים רבים קשורים ומהודקים יחד, המושטים בנהר ובני אדם הולכים עליהם.",
+    "mishnah": 6,
+    "anchors": [
+     "אוֹ בְאַסְדָּה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 4:6:1",
+     "quote": "עֵצִים הַרְבֵּה קְשׁוּרִים וּמְהֻדָּקִים יַחַד"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "למה נקראת תפילת אחר הצהריים 'מנחה'?",
+    "pasuk": {
+     "text": "תְּפִלַּת הַמִּנְחָה עַד הָעֶרֶב",
+     "ref": "Mishnah Berakhot 4:1",
+     "label": "משנה ברכות ד, א"
+    },
+    "question": "תפילת אחר הצהריים נקראת מנחה, שם שגם קרבן הבוקר נושא. מדוע ניתן לה שם זה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:1:2",
+      "quote": "תימה אמאי קרי ליה מנחה דאי משום דמנחה היתה קריבה בין הערבים הלא גם בשחר קריבה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות, כפי שמובא בתוספות יום טוב, משיבים שלתפילת שחרית יש שם אחר, ועוד ששעת הקרבת המנחה היא שעת רצון, שהרי אליהו נענה אז.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:1:2",
+        "quote": "ל בשחרית יש שם אחר שחרית. ועוד י\"ל משום דשעת רצון הוא בשעת הקרבת המנחה שאליהו נענה כעלות המנחה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שהתפילה השנייה נקראת מנחה מפני שתחילת זמנה בעת ההיא.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 4:1:1",
+        "quote": "נקראת התפלה השנית מנחה מפני היות תחלת זמנה בעת ההיא"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב מביא את הרמב\"ן, שמפרש מנחה מלשון מנוחת השמש והשקט אורו. לחם שמים מוסיף שלשחרית יש שם אחר ולא נמצא למנחה שם זולתו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:1:2",
+        "quote": "שמנחה מלשון מנוחת השמש והשקט אורו הגדול"
+       },
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Berakhot 4:1:2-3",
+        "quote": "האמת שלשחרית יש שם אחר ולא נמצא במנחה שם זולת"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד המפרשים מסבירים את שמה של תפילה שהמשנה משתמשת בו בלי הסבר.",
+    "mishnah": 1,
+    "anchors": [
+     "תְּפִלַּת הַמִּנְחָה עַד הָעֶרֶב"
+    ]
+   },
+   {
+    "title": "למה אומרת המשנה שלתפילת הערב אין קבע?",
+    "pasuk": {
+     "text": "תְּפִלַּת הָעֶרֶב אֵין לָהּ קֶבַע",
+     "ref": "Mishnah Berakhot 4:1",
+     "label": "משנה ברכות ד, א"
+    },
+    "question": "מדוע אומרת המשנה שלתפילת הערב אין קבע, ולא שזמנה כל הלילה?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Berakhot 4:1:4",
+      "quote": "הָא דְתָנֵי אֵין לָהּ קֶבַע וְלֹא קָתָנֵי זְמַנָּהּ כָּל הַלַּיְלָה",
+      "era": "acharon"
+     },
+     {
+      "name": "משנת ארץ ישראל",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 4:1:17-31",
+      "quote": "קשה לקבוע באיזו מהן עסקה המשנה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא אומר שהלשון מלמדת שתפילת ערבית רשות, שהיא כנגד אברים ופדרים שנקרבו כל הלילה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 4:1:4",
+        "quote": "לְאַשְׁמְעִינַן דִּתְפִלַּת עַרְבִית רְשׁוּת"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שאין לה התחלה וסוף קבועים מפני שאינה חובה כשחרית ומנחה אלא רשות.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 4:1:1",
+        "quote": "מפני שאינה חובה כשחרית ומנחה אבל היא רשות"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את הרשב\"א, האומר שמלשון אין לה קבע שומעים שני דברים: שאין לה זמן קבוע, ושלא נעשתה חובה קבועה כשאר התפילות.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 4:1:6",
+        "quote": "מלשון אין לה קבע תרתי שמעינן מינה"
+       }
+      ]
+     }
+    ],
+    "why": "משמעות המילה קבע קובעת אם תפילת הערב עניין של זמן או של חובה.",
+    "mishnah": 1,
+    "anchors": [
+     "תְּפִלַּת הָעֶרֶב אֵין לָהּ קֶבַע"
+    ]
+   },
+   {
+    "title": "האם כשלון בדבר הלכה הוא 'תקלה'?",
+    "pasuk": {
+     "text": "שֶׁלֹּא תֶאֱרַע תַּקָלָה עַל יָד",
+     "ref": "Mishnah Berakhot 4:2",
+     "label": "משנה ברכות ד, ב"
+    },
+    "question": "ברטנורא מפרש שהתקלה שרבי נחוניא חשש ממנה היא שיכשל בהלכה ויגרום לחבריו להיענש. האם הכשלון בדבר הלכה הוא עצמו רעה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:2:2",
+      "quote": "אבל הכשלון בדבר הלכה לא חשיב ליה רעה כיון שחביריו רבו על",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב קורא את דברי הר\"ב כך שהרעה היא רק שחבריו יענשו, שכן כשלון בדבר הלכה אינו רעה כשחבריו רבו עליו וההלכה כרבים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:2:2",
+        "quote": "לשון הר\"ב שלא אכשל בדבר הלכה וישמחו חבירי הרי רעה שתבא על ידי שאגרום להם שיענש"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב מביא את לשון רש\"י, הסופר שתי רעות, וכשלון בדבר הלכה הוא אחת מהן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:2:2",
+        "quote": "הרי רעות שתים שיבואו על ידי שאגרום להם שיענש"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם מפרש את המילה פשוט: יבוא מכשול על ידי.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 4:2:1",
+        "quote": "ארע תקלה יבא מכשול ע"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר מה מבקשת התפילה הקצרה בכניסה לבית המדרש.",
+    "mishnah": 2,
+    "anchors": [
+     "שֶׁלֹּא תֶאֱרַע תַּקָלָה עַל יָד"
+    ]
+   },
+   {
+    "title": "מהי 'פרשת העיבור'?",
+    "pasuk": {
+     "text": "בְּכָל פָּרָשַׁת הָעִבּוּר",
+     "ref": "Mishnah Berakhot 4:4",
+     "label": "משנה ברכות ד, ד"
+    },
+    "question": "מהי 'פרשת העיבור' בתפילתו הקצרה של רבי יהושע?",
+    "asked_by": [
+     {
+      "name": "משנת ארץ ישראל",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 4:4:8-16",
+      "quote": "המשנה קשה והציעו לה פירושים שונים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא מפרש כפרישה לעבירה: אפילו בשעה שהם פורשים לעבירה יהיו צרכיהם גלויים לפניך לרחם עליהם.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 4:4:3",
+        "quote": "אֲפִלּוּ בְּשָׁעָה שֶׁהֵם פּוֹרְשִׁים לַעֲבֵרָה, יִהְיוּ צָרְכֵיהֶם גְּלוּיִם לְפָנֶיךָ לְרַחֵם עֲלֵיהֶם"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם מביא את הגמרא שהמונח נגזר מעברה: אפילו בשעת העברה הושע את עמך.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 4:4:1",
+        "quote": "שהוא גזור מעברה ענינו אפילו בשעת העברה"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את הירושלמי: הכוונה לשאלות שליח הציבור כשהוא עובר לפני התיבה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 4:4:4",
+        "quote": "דבירושלמי מפרש כל שאלות שליח צבור"
+       }
+      ]
+     },
+     {
+      "text": "הון עשיר מוצא בלשון רמז שהשטן מקטרג דווקא בשעת הסכנה, ולכן מתפללים שלא ישמע לו.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Berakhot 4:4:2",
+        "quote": "מפני שהשטן מקטרג דווקא בשעת הסכנה"
+       }
+      ]
+     }
+    ],
+    "why": "המשנה מביאה נוסח תפילה שלביטוי המרכזי בה כמה פירושים מתחרים.",
+    "mishnah": 4,
+    "anchors": [
+     "בְּכָל פָּרָשַׁת הָעִבּוּר"
+    ]
+   },
+   {
+    "title": "איזה פסוק מסייע לפנות לירושלים?",
+    "pasuk": {
+     "text": "חֲזִיר אֶת פָּנ",
+     "ref": "Mishnah Berakhot 4:5",
+     "label": "משנה ברכות ד, ה"
+    },
+    "question": "ברטנורא מביא פסוק לפנייה לירושלים. האם זה הפסוק הנכון למשנה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:5:1",
+      "quote": "אגב ריהטא לא דק דה\"ל למנקט והתפללו אליך דרך העיר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא מביא את הפסוק 'והתפללו אליך דרך ארצם'.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 4:5:2",
+        "quote": "הִתְפַּלְּלוּ אֵלֶיךָ דֶּרֶךְ אַרְצָם"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב משיב שפסוק זה נאמר על העומדים בחוץ לארץ, ושרש\"י פירש במשנה 'לצד ירושלים' משום שהתנא עומד בארץ ישראל.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:5:1",
+        "quote": "הך קרא דדרך ארצם קאי להעומדים בח\"ל"
+       },
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:5:1",
+        "quote": "פירש רש\"י במתניתין לצד ירושלים משום דתנא בא\"י קא"
+       }
+      ]
+     }
+    ],
+    "why": "מראה היכן נמצא מי שפונה אל בית המקדש במשנה זו.",
+    "mishnah": 5,
+    "anchors": [
+     "חֲזִיר אֶת פָּנ"
+    ]
+   },
+   {
+    "title": "למה קרון בין ספינה לאסדה?",
+    "pasuk": {
+     "text": "בִּסְפִינָה אוֹ בְקָרוֹן אוֹ בְאַסְדָּה",
+     "ref": "Mishnah Berakhot 4:6",
+     "label": "משנה ברכות ד, ו"
+    },
+    "question": "מדוע מונה המשנה קרון, שהוא ביבשה, בין ספינה לאסדה שהן במים, ומדוע אינה אומרת שיחזיר את פניו?",
+    "asked_by": [
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Berakhot 4:6:1",
+      "quote": "צריך ליתן טעם למה ניתן בין ספינה ואסדא דהם במים",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:6:1",
+      "quote": "לא תנן יחזיר את פנ",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הון עשיר משיב שהמשנה שונה 'לא זו אף זו': בספינה יש גם פחד המים וגם נענוע, בקרון רק נענוע, ובאסדה אף לא אחד מהם.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Berakhot 4:6:1",
+        "quote": "דלא זו אף זו קתני, דספינה יש בה בעיתותא דמיא, מחמת הנענוע"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב אומר שאפילו לעמוד אינו צריך, והבית יוסף נותן טעם לקרון: אי אפשר לעמוד בו מפני שהוא מתנועע לכאן ולכאן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:6:1",
+        "quote": "בקרון א\"א שיעמוד מפני שמתנועע לכאן ולכאן"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מדוע דין הפנייה לירושלים משתנה כשהמתפלל בתנועה.",
+    "mishnah": 6,
+    "anchors": [
+     "בִּסְפִינָה אוֹ בְקָרוֹן אוֹ בְאַסְדָּה"
+    ]
+   },
+   {
+    "title": "מדוע תפילת המוספין תלויה בחבר עיר?",
+    "pasuk": {
+     "text": "אֵין תְּפִלַּת הַמּוּסָפִין אֶלָּא בְּחֶבֶר עִיר",
+     "ref": "Mishnah Berakhot 4:7",
+     "label": "משנה ברכות ד, ז"
+    },
+    "question": "הטעם שנאמר לרבי אלעזר בן עזריה הוא שאין בתפילת המוספין תחנונים ולכן די בציבור. אך יש בה בקשה קצרה. מהו אפוא הטעם?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Berakhot 4:7:1",
+      "quote": "קשה הא יש בה יה\"ר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב מביא את טעם רבנו יונה: אין בה אלא שבח, בלי תחנונים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 4:7:1",
+        "quote": "דכיון שאין בה אלא שבח שאין בה תחנונים"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש מציע שהטעם הוא שמזכירים בה בפירוש את הקרבנות.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Berakhot 4:7:1",
+        "quote": "הטעם מפני שמזכירין בה בפירוש הקרבנות"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד אחרון בוחן טעם של ראשון מול נוסח התפילה.",
+    "mishnah": 7,
+    "anchors": [
+     "אֵין תְּפִלַּת הַמּוּסָפִין אֶלָּא בְּחֶבֶר עִיר"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "רמב\"ם",
+   "לחם שמים",
+   "ברטנורא",
+   "משנת ארץ ישראל",
+   "מלאכת שלמה",
+   "הון עשיר",
+   "רש\"ש"
+  ]
+ }
+}
