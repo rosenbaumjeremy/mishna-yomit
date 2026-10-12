@@ -16,7 +16,8 @@
 
   const TEXT = {
     he: {
-      button: "במייל", title: "קבלה במייל בכל בוקר",
+      button: "במייל", title: "קבלה במייל",
+      freq: "באיזו תדירות", daily: "כל יום", weekly: "פעם בשבוע (ביום שישי, כל השבוע)",
       ask: "אילו חלקים לקבל?", lang: "שפת המייל", email: "כתובת מייל",
       make: "הרשמה", cancel: "ביטול", close: "סגירה", loading: "טוען…",
       done: (e) => `שלחנו מייל אישור אל ${e}. לחצו על הקישור שבו כדי להתחיל לקבל. לא הגיע? בדקו בתיקיית הספאם.`,
@@ -26,7 +27,8 @@
       note: "בכל מייל יש קישור לשינוי הבחירות ולהסרה.",
     },
     en: {
-      button: "Email", title: "Get it by email every morning",
+      button: "Email", title: "Get it by email",
+      freq: "How often", daily: "Every day", weekly: "Once a week (Friday, the whole week)",
       ask: "Which sections do you want?", lang: "Email language", email: "Email address",
       make: "Sign up", cancel: "Cancel", close: "Close", loading: "Loading…",
       done: (e) => `We sent a confirmation email to ${e}. Press the link in it to start. Not there? Check your spam folder.`,
@@ -98,6 +100,20 @@
       });
     }
 
+    // how often: every morning, or the whole week on Friday morning
+    const freqs = el("div", "maillang");
+    freqs.append(el("span", null, t.freq));
+    for (const value of ["daily", "weekly"]) {
+      const label = el("label");
+      const radio = el("input");
+      radio.type = "radio";
+      radio.name = "mailfreq";
+      radio.value = value;
+      radio.checked = value === "daily";
+      label.append(radio, t[value]);
+      freqs.append(label);
+    }
+
     const langs = el("div", "maillang");
     langs.append(el("span", null, t.lang));
     for (const [value, text] of [["he", "עברית"], ["en", "English"]]) {
@@ -133,12 +149,13 @@
         const res = await fetch(`${API}/subscribe`, {
           method: "POST", headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ email: address, site: SITE, sections,
-            lang: (dlg.querySelector("input[name=maillang]:checked") || {}).value || lang() }),
+            lang: (dlg.querySelector("input[name=maillang]:checked") || {}).value || lang(),
+            freq: (dlg.querySelector("input[name=mailfreq]:checked") || {}).value || "daily" }),
         });
         const data = await res.json().catch(() => ({}));
         if (!res.ok) { go.disabled = false; return show(t.errors[data.error] || t.errors.other); }
         // done: just the message and a close button
-        [list, langs, email, ask, row, note].forEach((x) => x.remove());
+        [list, freqs, langs, email, ask, row, note].forEach((x) => x.remove());
         msg.classList.add("ok");
         show(t.done(address));
         const close = el("button", "go", t.close);
@@ -156,7 +173,7 @@
 
     const note = el("p", "mailnote", t.note);
     row.append(cancel, go);
-    dlg.append(list, langs, email, msg, note, row);
+    dlg.append(list, freqs, langs, email, msg, note, row);
     email.focus();
   }
 
