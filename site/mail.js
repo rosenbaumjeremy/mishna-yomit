@@ -17,7 +17,7 @@
   const TEXT = {
     he: {
       button: "במייל", title: "קבלה במייל",
-      freq: "באיזו תדירות", daily: "כל יום", weekly: "פעם בשבוע (ביום שישי, כל השבוע)",
+      freq: "באיזו תדירות", daily: "כל יום (בשבת ובחג: ב-21:00)", weekly: "פעם בשבוע (ביום שישי, כל השבוע)",
       ask: "אילו חלקים לקבל?", lang: "שפת המייל", email: "כתובת מייל",
       make: "הרשמה", cancel: "ביטול", close: "סגירה", loading: "טוען…",
       done: (e) => `שלחנו מייל אישור אל ${e}. לחצו על הקישור שבו כדי להתחיל לקבל. לא הגיע? בדקו בתיקיית הספאם.`,
@@ -28,7 +28,7 @@
     },
     en: {
       button: "Email", title: "Get it by email",
-      freq: "How often", daily: "Every day", weekly: "Once a week (Friday, the whole week)",
+      freq: "How often", daily: "Every day (Shabbat and Yom Tov: at 9 pm)", weekly: "Once a week (Friday, the whole week)",
       ask: "Which sections do you want?", lang: "Email language", email: "Email address",
       make: "Sign up", cancel: "Cancel", close: "Close", loading: "Loading…",
       done: (e) => `We sent a confirmation email to ${e}. Press the link in it to start. Not there? Check your spam folder.`,
