@@ -1,0 +1,21 @@
+/* Styles for mail.js — the Email button beside PDF / Print, and its sign-up
+   dialog (which also uses the .pdfdlg styles in pdf.css). Same file in every
+   study site with daily emails; change it in one, copy it to the others. */
+.mailbtn {
+  display: inline-flex; align-items: center; gap: 5px; flex: none;
+  border: 1px solid var(--line); background: var(--card); color: var(--accent);
+  border-radius: var(--radius, 8px); padding: 5px 10px; font: inherit; font-size: 13px; font-weight: 600; cursor: pointer;
+}
+.mailbtn:hover { border-color: var(--accent); }
+.mailbtn svg { width: 15px; height: 15px; }
+.maildlg .maillang { display: flex; gap: 14px; align-items: baseline; flex-wrap: wrap; margin: 0 0 10px; font-size: 14px; color: var(--muted); }
+.maildlg .maillang label { padding: 0; font-size: 15px; color: var(--ink); }
+.maildlg .mailaddr {
+  box-sizing: border-box; width: 100%; margin: 0 0 10px; padding: 8px 10px;
+  border: 1px solid var(--line); border-radius: 8px; font: inherit; font-size: 15px; background: #fff; color: var(--ink);
+}
+.maildlg .mailaddr:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.maildlg .mailmsg { color: #a33; font-size: 14px; }
+.maildlg .mailmsg.ok { color: var(--ink); font-size: 15px; }
+.maildlg .mailnote { font-size: 12px; }
+@media print { .mailbtn { display: none !important; } }
