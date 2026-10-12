@@ -1,0 +1,1244 @@
+{
+ "date": "2026-10-12",
+ "hebrew_date": {
+  "hebrew": "א׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "1 Cheshvan 5787"
+ },
+ "masechet": "berakhot",
+ "perek": 5,
+ "ref": "Mishnah Berakhot 5",
+ "mishnayot": [
+  {
+   "he": "אֵין עוֹמְדִין לְהִתְפַּלֵּל אֶלָּא מִתּוֹךְ כֹּבֶד רֹאשׁ. חֲסִידִים הָרִאשׁוֹנִים הָיוּ שׁוֹהִים שָׁעָה אַחַת וּמִתְפַּלְּלִים, כְּדֵי שֶׁיְּכַוְּנוּ אֶת לִבָּם לַמָּקוֹם. אֲפִלּוּ הַמֶּלֶךְ שׁוֹאֵל בִּשְׁלוֹמוֹ, לֹא יְשִׁיבֶנּוּ. וַאֲפִלּוּ נָחָשׁ כָּרוּךְ עַל עֲקֵבוֹ, לֹא יַפְסִיק: \n",
+   "en": "<b>One</b> may <b>only stand</b> and begin to pray <b>from</b> an approach of <b>gravity</b> and submission. There is a tradition that <b>the early</b> generations of <b>pious</b> men <b>would wait one hour,</b> in order to reach the solemn frame of mind appropriate for prayer, <b>and</b> then <b>pray, so that they would focus their hearts toward their Father in Heaven.</b> Standing in prayer is standing before God and, as such, <b>even</b> if <b>the king greets him, he should not respond to him; and even if a snake is wrapped on his heel, he should not interrupt</b> his prayer."
+  },
+  {
+   "he": "מַזְכִּירִין גְּבוּרוֹת גְּשָׁמִים בִּתְחִיַּת הַמֵּתִים, וְשׁוֹאֲלִין הַגְּשָׁמִים בְּבִרְכַּת הַשָּׁנִים, וְהַבְדָּלָה בְּחוֹנֵן הַדָּעַת. רַבִּי עֲקִיבָא אוֹמֵר, אוֹמְרָהּ בְּרָכָה רְבִיעִית בִּפְנֵי עַצְמָהּ. רַבִּי אֱלִיעֶזֶר אוֹמֵר, בְּהוֹדָאָה: \n",
+   "en": "This mishna speaks of additions to the standard formula of the <i>Amida</i> prayer and the blessings in which they are incorporated. <b>One mentions the might of the rains</b> and recites: He makes the wind blow and the rain fall, <b>in</b> the second blessing of the <i>Amida</i> prayer, the blessing of <b>the revival of the dead. And the request</b> for rain: And grant dew and rain as a blessing, <b>in</b> the ninth blessing of the <i>Amida</i> prayer, <b>the blessing of the years. And the prayer of distinction [<i>havdala</i>],</b> between the holy and the profane recited in the evening prayer following Shabbat and festivals, <b>in</b> the fourth blessing of the <i>Amida</i> prayer: <b>Who graciously grants knowledge. Rabbi Akiva says:</b> <i>Havdala</i> <b>is recited</b> as <b>an independent fourth blessing. Rabbi Eliezer says</b> that it is recited <b>in</b> the seventeenth blessing of the <i>Amida</i> prayer, the blessing of <b>thanksgiving.</b>"
+  },
+  {
+   "he": "הָאוֹמֵר עַל קַן צִפּוֹר יַגִּיעוּ רַחֲמֶיךָ, וְעַל טוֹב יִזָּכֵר שְׁמֶךָ, מוֹדִים מוֹדִים, מְשַׁתְּקִין אוֹתוֹ. הָעוֹבֵר לִפְנֵי הַתֵּיבָה וְטָעָה, יַעֲבֹר אַחֵר תַּחְתָּיו, וְלֹא יְהֵא סָרְבָן בְּאוֹתָהּ שָׁעָה. מִנַּיִן הוּא מַתְחִיל, מִתְּחִלַּת הַבְּרָכָה שֶׁטָּעָה בָהּ: \n",
+   "en": "Concluding the laws of prayer in this tractate, the mishna raises several prayer-related matters. This mishna speaks of certain innovations in the prayer formula that warrant the silencing of a communal prayer leader who attempts to introduce them in his prayers, as their content tends toward heresy. <b>One who recites</b> in his supplication: Just as <b>Your mercy is extended to a bird’s nest,</b> as You have commanded us to send away the mother before taking her chicks or eggs (Deuteronomy 22:6–7), so too extend Your mercy to us; <b>and</b> one who recites: <b>May Your name be mentioned with the good</b> or one who recites: <b>We give thanks, we give thanks</b> twice, they <b>silence him.</b> This mishna and the next one deal with the communal prayer leader. <b>(If one says: “May the good bless You,” this is a path of heresy.) One who is passing before the ark,</b> as prayer leader, <b>and erred, another should</b> immediately <b>pass in his place, and at that moment,</b> this replacement <b>should not refuse</b> in the interest of courtesy. The <i>Amida</i> prayer was interrupted and he should replace him as quickly as possible. <b>From where does</b> the replacement <b>commence? From the beginning of the blessing in which</b> the former <b>had erred.</b>"
+  },
+  {
+   "he": "הָעוֹבֵר לִפְנֵי הַתֵּיבָה, לֹא יַעֲנֶה אַחַר הַכֹּהֲנִים אָמֵן, מִפְּנֵי הַטֵּרוּף. וְאִם אֵין שָׁם כֹּהֵן אֶלָּא הוּא, לֹא יִשָּׂא אֶת כַּפָּיו. וְאִם הַבְטָחָתוֹ שֶׁהוּא נוֹשֵׂא אֶת כַּפָּיו וְחוֹזֵר לִתְפִלָּתוֹ, רַשַּׁאי: \n",
+   "en": "In order to prevent the prayer leader from erring in his prayer, it was said that <b>one who passes before the ark should not respond amen after the</b> blessing of the <b>priests, because of</b> potential <b>confusion.</b> Since the mishna is describing a situation in which he was praying without a prayer book, responding amen would interrupt the order of the prayer and potentially lead him to begin a different blessing. For this reason, even <b>if there is no priest other than</b> the communal prayer leader, <b>he does not lift his hands</b> to bless the people, lest he become confused. <b>And,</b> however, <b>if he is certain that he can lift his hands and resume his prayer</b> without becoming confused, <b>he is permitted</b> to recite the blessing."
+  },
+  {
+   "he": "הַמִּתְפַּלֵּל וְטָעָה, סִימָן רַע לוֹ. וְאִם שְׁלִיחַ צִבּוּר הוּא, סִימָן רַע לְשׁוֹלְחָיו, מִפְּנֵי שֶׁשְּׁלוּחוֹ שֶׁל אָדָם כְּמוֹתוֹ. אָמְרוּ עָלָיו עַל רַבִּי חֲנִינָא בֶן דּוֹסָא, כְּשֶׁהָיָה מִתְפַּלֵּל עַל הַחוֹלִים וְאוֹמֵר, זֶה חַי וְזֶה מֵת. אָמְרוּ לוֹ, מִנַּיִן אַתָּה יוֹדֵעַ. אָמַר לָהֶם, אִם שְׁגוּרָה תְפִלָּתִי בְּפִי, יוֹדֵעַ אֲנִי שֶׁהוּא מְקֻבָּל. וְאִם לָאו, יוֹדֵעַ אֲנִי שֶׁהוּא מְטֹרָף: \n",
+   "en": "Concluding its discussion of the <i>halakhot</i> of prayer, the mishna discusses less practical aspects of prayer. <b>One who prays and</b> realizes that he <b>erred</b> in his prayer, it is <b>a bad omen for him;</b> it indicates to him that his prayer was not accepted. <b>And if he</b> who erred <b>is the communal prayer leader,</b> it is <b>a bad omen for those who sent him, because a person’s agent</b> has legal status <b>equivalent to his own.</b> On a similar note, <b>they said about Rabbi Ḥanina ben Dosa that he would pray on</b> behalf of <b>the sick and</b> immediately after his prayer he would <b>say: This</b> one shall recover from his illness and <b>live and this</b> one shall <b>die.</b> When <b>they said to him: From where do you know? He said to them: If my prayer is fluent in my mouth</b> as I recite it and there are no errors, <b>I know that</b> my prayer <b>is accepted. And if not, I know that</b> my prayer <b>is rejected.</b>"
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 One may stand to pray only with gravity; the early pious would wait an hour before praying, and even if the king greets him or a snake is wrapped on his heel, he does not interrupt. Mishnah 2 One mentions the might of the rains in the blessing of techiyat hametim, requests rain in the blessing of the years, and havdalah in chonen hadaat; Rabbi Akiva says it is a fourth blessing, Rabbi Eliezer says in the thanksgiving blessing. Mishnah 3 They silence one who says \"Your mercy extends to a bird's nest\", \"May Your name be mentioned for the good\" or \"modim modim\"; if the prayer leader errs, another replaces him without refusing and begins from the blessing in which he erred. Mishnah 4 The prayer leader does not answer amen after the kohanim, because of terof, and if he is the only kohen he does not lift his hands unless he is assured. Mishnah 5 One who errs in prayer, it is a bad omen for him and for those who sent him, as Rabbi Chanina ben Dosa knew from the fluency of his prayer whether the sick would live.",
+  "topics": [
+   {
+    "term": "Kovod rosh",
+    "explanation": "Kovod rosh is humility and awe in standing before God. Bartenura derives it from the verse \"serve the Lord with fear\", and says that this service is prayer.",
+    "mishnah": 1,
+    "anchors": [
+     "מתוך כבד ראש"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 5:1:1",
+     "quote": "הַכְנָעָה וּמוֹרָא, דִּכְתִיב (תהלים ב) עִבְדוּ אֶת ה'‏ בְּיִרְאָה, וַעֲבוֹדָה זוֹ תְּפִלָּה הִיא",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "The early pious waiting one hour",
+    "explanation": "The chasidim harishonim waited before praying so as to settle their minds. Tosafot Yom Tov, citing the Rabbeinu Yonah, says that here \"one hour\" means an actual hour, not just a short while.",
+    "mishnah": 1,
+    "anchors": [
+     "שוהים שעה אחת"
+    ],
+    "source": {
+     "name": "Tosafot Yom Tov",
+     "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:1:2",
+     "quote": "הכא אינו כן אלא שעה ממש",
+     "era": "acharon"
+    }
+   },
+   {
+    "term": "A king who greets and a snake on the heel",
+    "explanation": "The mishnah teaches that even a greeting from a king or a snake must not interrupt the prayer. Bartenura limits it to a king of Israel, and to a snake, which usually does not bite.",
+    "mishnah": 1,
+    "anchors": [
+     "המלך שואל בשלומו"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 5:1:3",
+     "quote": "וְדַוְקָא מֶלֶךְ יִשְׂרָאֵל, אֲבָל מֶלֶךְ עוֹבֵד כּוֹכָבִים פּוֹסֵק שֶׁלֹּא יַהַרְגֶנּו",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "Mention of rain versus request for rain",
+    "explanation": "Mentioning the might of the rains is praise, while the request for rain is a request. Bartenura: the first is not a request but a mention and praise, and the request \"grant dew and rain\" is a request.",
+    "mishnah": 2,
+    "anchors": [
+     "מזכירין גבורות גשמים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 5:2:1",
+     "quote": "שֶׁאֵינוֹ לְשׁוֹן בַּקָּשָׁה אֶלָּא לְשׁוֹן הַזְכָּרָה וָשֶׁבַח",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "The blessing of the years",
+    "explanation": "The request for rain is placed in the blessing of the years. Bartenura: since rains are sustenance, they fixed their request in the blessing of sustenance.",
+    "mishnah": 2,
+    "anchors": [
+     "בברכת השנים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 5:2:3",
+     "quote": "מִתּוֹךְ שֶׁהֵן פַּרְנָסָה קָבְעוּ שְׁאֵלָתָן בְּבִרְכַּת פַּרְנָסָה",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "Havdalah in the prayer",
+    "explanation": "Havdalah is said at the end of Shabbat in the Amidah. Bartenura says it is in chonen hadaat, the first of the weekday blessings, and so the halachah.",
+    "mishnah": 2,
+    "anchors": [
+     "והבדלה בחונן הדעת"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 5:2:5",
+     "quote": "שֶׁהִיא בְּרָכָה רִאשׁוֹנָה שֶׁל חֹל",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "Sarvan",
+    "explanation": "The prayer leader who errs is replaced at once by another, who must not refuse. Bartenura contrasts the usual practice of declining at first with this case, because the prayer would be interrupted for too long.",
+    "mishnah": 3,
+    "anchors": [
+     "ולא יהא סרבן"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 5:3:5",
+     "quote": "כְּדֶרֶךְ שְׁאָר יוֹרְדִים לִפְנֵי הַתֵּבָה שֶׁצָּרִיךְ לְסָרֵב פַּעַם רִאשׁוֹנָה, אֲבָל זֶה לֹא יְסָרֵב כְּשֶׁאוֹמְרִים לוֹ לֶךְ רֵד לְפִי שֶׁגְּנַאי הוּא שֶׁתְּהֵא הַתְּפִלָּה מֻפְסֶקֶת כָּל כָּך",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "A person's agent is like himself",
+    "explanation": "An error by the prayer leader is a bad omen for those who sent him, since a person's agent is like himself. Tosafot Yom Tov, citing the Rabbeinu Yonah, derives this from \"the whole assembly of the congregation of Israel shall slaughter it\".",
+    "mishnah": 5,
+    "anchors": [
+     "ששלוחו של אדם כמותו"
+    ],
+    "source": {
+     "name": "Tosafot Yom Tov",
+     "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:5:1",
+     "quote": "וילפינן ליה מדכתיב (שמות י״ב:ו׳) ושחטו אותו כל קהל עדת ישראל",
+     "era": "acharon"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "A snake on the heel: why not interrupt?",
+    "pasuk": {
+     "text": "וַאֲפִלּוּ נָחָשׁ כָּרוּךְ עַל עֲקֵבוֹ, לֹא יַפְסִיק",
+     "ref": "Mishnah Berakhot 5:1",
+     "label": "Mishnah Berakhot 5:1"
+    },
+    "question": "The mishnah says one does not interrupt prayer even for a snake wrapped around the heel, yet saving life overrides prayer. Why does the mishnah not require interrupting, and how is it limited?",
+    "asked_by": [
+     {
+      "name": "Mishnat Eretz Yisrael",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 5:1:19-24",
+      "era": "acharon",
+      "quote": "ההלכה השנייה היא מצב ברור של פיקוח נפש, ולפי ההלכה ברור שיש להפסיק בתפילה ולברוח מהנחש"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Berakhot 5:1:3-8",
+      "era": "acharon",
+      "quote": "דמ\"מ קשה דלא הוי ליה למתלי שריותא דהליכה במאי דלא חשיבא הפסק"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Berakhot 5:1:1",
+      "era": "acharon",
+      "quote": "ואע\"ג דקיי\"ל דאין הולכין בפקוח נפש אחר הרוב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Only a snake, which usually does not bite, may be ignored; a scorpion or viper, which surely bite and kill, one must interrupt for.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 5:1:4",
+        "quote": "דַּוְקָא נָחָשׁ שֶׁרֹב פְּעָמִים אֵינוֹ נוֹשֵׁךְ, אֲבָל עַקְרָב אוֹ אֶפְעֶה מִן הַדְּבָרִים שֶׁוַּדַּאי נוֹשְׁכִים וּמְמִיתִים, פּוֹסֵק",
+        "era": "acharon"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 5:1:1",
+        "quote": "אבל מי שמנהגו לנשך תמיד כגון עקרב ואפעה יפסיק התפלה",
+        "era": "acharon"
+       },
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Berakhot 5:6:1",
+        "quote": "דוקא בליכא סכנה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "A snake that has not come at him in anger shows that it does not want to harm him, so he is assured it will not bite; one that is angry, he does interrupt for.",
+      "sources": [
+       {
+        "name": "Yesh Seder LaMishnah",
+        "ref": "Yesh Seder LaMishnah on Mishnah Berakhot 5:1:1",
+        "quote": "מתוך שרואה שלא בא הנחש בכעס מובטח הוא שלא תישוך",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "The mishnah seems to override pikuach nefesh, so the mefarshim limit it to cases without real danger.",
+    "mishnah": 1,
+    "anchors": [
+     "וַאֲפִלּוּ נָחָשׁ כָּרוּךְ עַל עֲקֵבוֹ, לֹא יַפְסִיק"
+    ]
+   },
+   {
+    "title": "Why \"to the Place\"?",
+    "pasuk": {
+     "text": "כְּדֵי שֶׁיְּכַוְּנוּ אֶת לִבָּם לַמָּקוֹם",
+     "ref": "Mishnah Berakhot 5:1",
+     "label": "Mishnah Berakhot 5:1"
+    },
+    "question": "The mishnah says the early pious focused their hearts \"to the Place\". Why does it say \"to the Place\" and not simply \"to the prayer\"?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:1:3",
+      "era": "acharon",
+      "quote": "דאמאי קאמר למקום. לתפלה הל\"ל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The intent is wholly the exaltedness of God, not intent on reciting the words of the prayer.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:1:3",
+        "quote": "שתהיה כוונתם כולה ברוממות המקום בלבד",
+        "era": "acharon"
+       },
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Berakhot 5:3:1",
+        "quote": "ברוממות הקב\"ה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "In the Yerushalmi's text of the mishnah the word \"to the Place\" is not read, so the meaning could be the recital of the prayer.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:1:3",
+        "quote": "אבל במשנה שבירושלמי לא גרסינן למקום וא\"כ יכול להיות הפירוש לאמירת התפלה",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the hasidim's hour was for focusing on words or on God.",
+    "mishnah": 1,
+    "anchors": [
+     "כְּדֵי שֶׁיְּכַוְּנוּ אֶת לִבָּם לַמָּקוֹם"
+    ]
+   },
+   {
+    "title": "Why are rains called gevurot?",
+    "pasuk": {
+     "text": "מַזְכִּירִין גְּבוּרוֹת גְּשָׁמִים בִּתְחִיַּת הַמֵּתִים",
+     "ref": "Mishnah Berakhot 5:2",
+     "label": "Mishnah Berakhot 5:2"
+    },
+    "question": "Why does the mishnah call the mention of rain \"the gevurot of rains\", and not another term?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:2:2",
+      "era": "acharon",
+      "quote": "ולא נקט כח גשמים או גדולות גשמים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rain is one of God's gevurot, as the verse says He does great things beyond understanding and gives rain on the earth.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 5:2:1",
+        "quote": "מִפְּנֵי שֶׁהַגְּשָׁמִים אַחַת מִגְּבוּרוֹתָיו שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, דִּכְתִיב (איוב ה) עֹשֶׂה גְדוֹלוֹת וְאֵין חֵקֶר, הַנּוֹתֵן מָטָר עַל פְּנֵי אָרֶץ, מִשּׁוּם הָכִי קָרֵי לְהוּ גְּבוּרוֹת גְּשָׁמִים",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "They called it gevurah because of the greatness of its benefit.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 5:2:1",
+        "quote": "וכנו אותו במלת גבורה לגודל תועלתו",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It explains why the mention of rain sits in the blessing of techiyat hametim.",
+    "mishnah": 2,
+    "anchors": [
+     "מַזְכִּירִין גְּבוּרוֹת גְּשָׁמִים בִּתְחִיַּת הַמֵּתִים"
+    ]
+   },
+   {
+    "title": "Why is havdalah in chonen hadaat?",
+    "pasuk": {
+     "text": "וְהַבְדָּלָה בְּחוֹנֵן הַדָּעַת",
+     "ref": "Mishnah Berakhot 5:2",
+     "label": "Mishnah Berakhot 5:2"
+    },
+    "question": "Why was havdalah placed in the blessing \"chonen hadaat\", and why do we need havdalah in the prayer at all?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Berakhot 5:2:5",
+      "era": "rishon",
+      "quote": "מִפְּנֵי מַה תִּקְּנוּ הַבְדָּלָה בְּחוֹנֵן הַדָּעַת"
+     },
+     {
+      "name": "Mishnat Eretz Yisrael",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 5:2:6-13",
+      "era": "acharon",
+      "quote": "מדוע יש צורך בהבדלה בתפילה וגם בהבדלה על הכוס"
+     }
+    ],
+    "answers": [
+     {
+      "text": "If there is no knowledge, how can there be havdalah?",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 5:2:5",
+        "quote": "שֶׁאִם אֵין דֵּעָה הַבְדָּלָה מִנַּיִן",
+        "era": "acharon"
+       },
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Berakhot 5:12:1",
+        "quote": "דאם אין דעת הבדלה מנין",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "The mishnah mentions rain before havdalah so as not to break off at havdalah, over which there is a dispute.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Berakhot 5:12:1",
+        "quote": "משום דלא בעי לאפסוקי בהבדלה דאית בה פלוגתא",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why havdalah is placed in a blessing of knowledge.",
+    "mishnah": 2,
+    "anchors": [
+     "וְהַבְדָּלָה בְּחוֹנֵן הַדָּעַת"
+    ]
+   },
+   {
+    "title": "Why is \"the bird's nest\" silenced?",
+    "pasuk": {
+     "text": "הָאוֹמֵר עַל קַן צִפּוֹר יַגִּיעוּ רַחֲמֶיך",
+     "ref": "Mishnah Berakhot 5:3",
+     "label": "Mishnah Berakhot 5:3"
+    },
+    "question": "Why do they silence one who says \"Your mercy extends to a bird's nest\" in his prayer, when shiluach hakein seems to be a mercy?",
+    "asked_by": [
+     {
+      "name": "Mishnat Eretz Yisrael",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 5:3:1-3",
+      "era": "acharon",
+      "quote": "נמסרו טעמים שונים להתנגדות החכמים לנוסח זה"
+     },
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Berakhot 5:3:1",
+      "era": "acharon",
+      "quote": "דמצוה זו אף כי נראה ממד' רבה (ריש) פרשת כי תצא דמדת רחמים היא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "He makes God's attributes into mercy, while they are only decrees of a King over His servants.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 5:3:4",
+        "quote": "שֶׁעוֹשֶׂה מִדּוֹתָיו שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא רַחֲמִים וְהֵן אֵינָן אֶלָּא גְּזֵרוֹת מֶלֶךְ עַל עֲבָדָיו",
+        "era": "acharon"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 5:3:1",
+        "quote": "אבל היא מצוה מקובלת אין לה טעם",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "One Amora says it is because he makes God's ways mercy while they are only decrees, and the other says because he casts jealousy into the work of creation.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Berakhot 5:3:2",
+        "quote": "חד אמר מפני שעושה מדותיו של הקב\"ה רחמים ואינן אלא גזירות, וזה הוא מ\"ש בשם הזהר, וחד אמר מפני שמטיל קנאה במעשה בראשית",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "The Ramban in his commentary on the Torah wrote that the reason is to teach us the trait of mercy.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:3:3",
+        "quote": "שהטעם ללמד אותנו מדת רחמנות",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the machlokes about whether the mitzvah of shiluach hakein is a mercy.",
+    "mishnah": 3,
+    "anchors": [
+     "הָאוֹמֵר עַל קַן צִפּוֹר יַגִּיעוּ רַחֲמֶיך"
+    ]
+   },
+   {
+    "title": "What is wrong with \"modim modim\"?",
+    "pasuk": {
+     "text": "מוֹדִים מוֹדִים, מְשַׁתְּקִין אוֹתו",
+     "ref": "Mishnah Berakhot 5:3",
+     "label": "Mishnah Berakhot 5:3"
+    },
+    "question": "Why do they silence one who says \"modim modim\", and does this apply to every person?",
+    "asked_by": [
+     {
+      "name": "Mishnat Eretz Yisrael",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 5:3:5-8",
+      "era": "acharon",
+      "quote": "ולא ברור מדוע משפטים אלו מעוררים התנגדות כה תקיפה"
+     },
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Berakhot 5:3",
+      "era": "acharon",
+      "quote": "ולא ידענא מנ\"ל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It looks as if he accepts two powers; the Yerushalmi explains that this applies to a congregation, but for an individual they are supplications.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 5:3:3",
+        "quote": "דְּמֵחֲזֵי כִּמְקַבֵּל עָלָיו שְׁתֵּי אֱלוֹהוֹת. וּמְפָרֵשׁ בַּיְרוּשַׁלְמִי הֲדָא דְתֵימָא בְּצִבּוּר, אֲבָל בְּיָחִיד תַּחֲנוּנִים הֵם",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Only in a congregation is it forbidden; for an individual it is a way of favor. It is permitted in a song even in a congregation.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Berakhot 5:3",
+        "quote": "ע\"כ דוקא בצבור אסור. אבל ביחיד דרך רצוי הוא",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "These were sectarian slogans that hinted that the prayer leader belonged to a sect.",
+      "sources": [
+       {
+        "name": "Mishnat Eretz Yisrael",
+        "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 5:3:5-8",
+        "quote": "מסתבר שכל אלו היו ססמאות כיתתיות",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the prohibition is about the words or about who says them.",
+    "mishnah": 3,
+    "anchors": [
+     "מוֹדִים מוֹדִים, מְשַׁתְּקִין אוֹתו"
+    ]
+   },
+   {
+    "title": "Why does the mishnah say \"terof\" for amen?",
+    "pasuk": {
+     "text": "לֹא יַעֲנֶה אַחַר הַכֹּהֲנִים אָמֵן, מִפְּנֵי הַטֵּרוּף",
+     "ref": "Mishnah Berakhot 5:4",
+     "label": "Mishnah Berakhot 5:4"
+    },
+    "question": "The reason the mishnah gives for the prayer leader not answering amen is \"terof\". But answering amen would also interrupt the prayer, so why is terof the stated reason?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Berakhot 5:4:2",
+      "era": "acharon",
+      "quote": "תימה תיפוק ליה דמפסיק תפלה אם עונה אמן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Since the mishnah did not give that reason, answering amen is evidently not considered an interruption, as it is a need of the prayer.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 5:4:2",
+        "quote": "מאחר שלא אמר האי טעמא ש\"מ דעניית אמן לא חשיב הפסק",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "If he answers amen he will not be able to focus and return quickly to his prayer and begin the blessing properly.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 5:4:2",
+        "quote": "אִם יַעֲנֶה אָמֵן לֹא יוּכַל לְכַוֵּן וְלַחֲזֹר לִתְפִלָּתוֹ מַהֵר וּלְהַתְחִיל הַבְּרָכָה כָּרָאוּי שֶׁיַּתְחִיל",
+        "era": "acharon"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 5:4:1",
+        "quote": "שמא ישכח איזו ברכה היא",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what the real concern is: forgetting the prayer.",
+    "mishnah": 4,
+    "anchors": [
+     "לֹא יַעֲנֶה אַחַר הַכֹּהֲנִים אָמֵן, מִפְּנֵי הַטֵּרוּף"
+    ]
+   },
+   {
+    "title": "A lone kohen: what does \"if he is assured\" cover?",
+    "pasuk": {
+     "text": "וְאִם אֵין שָׁם כֹּהֵן אֶלָּא הוּא, לֹא יִשָּׂא אֶת כַּפָּיו. וְאִם הַבְטָחָתוֹ שֶׁהוּא נוֹשֵׂא אֶת כַּפָּיו וְחוֹזֵר לִתְפִלָּתוֹ, רַשַּׁאי",
+     "ref": "Mishnah Berakhot 5:4",
+     "label": "Mishnah Berakhot 5:4"
+    },
+    "question": "The mishnah says that if there is no kohen but he, he does not lift his hands, and then \"if he is assured\" he may. What does \"if he is assured\" relate to, and why does the mishnah not say \"even if\"?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 5:3:2",
+      "era": "acharon",
+      "quote": "ודקדק כן מדקתני ואם אין שם כהן אלא הוא ולא קתני ואפילו"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Berakhot 5:4:1",
+      "era": "acharon",
+      "quote": "ודוחק ולענ\"ד הנל\"פ דאם יש עמו אחר אין לו אימתא דציבורא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The allowance is only because of the bittul of nesiat kapayim; therefore for answering amen it is not permitted even if he is assured.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:4:1",
+        "quote": "דדוקא משום בטול נשיאות כפים התירו בסיפא באם הבטחתו",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "One can read \"and if\" in the sense of \"even if\".",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Berakhot 5:4:1",
+        "quote": "יל\"פ האי ואם בלשון אפילו",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Regarding answering amen, even if assured he does not answer; others say he may answer if assured.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Berakhot 5:22:1",
+        "quote": "אבל לענין עניית אמן אף במובטח לא יענה. וי\"א דגם אמן רשאי לענות במובטח",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mefarshim read the order of the clauses.",
+    "mishnah": 4,
+    "anchors": [
+     "וְאִם אֵין שָׁם כֹּהֵן אֶלָּא הוּא, לֹא יִשָּׂא אֶת כַּפָּיו. וְאִם הַבְטָחָתוֹ שֶׁהוּא נוֹשֵׂא אֶת כַּפָּיו וְחוֹזֵר לִתְפִלָּתוֹ, רַשַּׁאי"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Mishnat Eretz Yisrael",
+   "Lechem Shamayim",
+   "Rashash",
+   "Bartenura",
+   "Rambam",
+   "Yachin",
+   "Yesh Seder LaMishnah",
+   "Tosafot Yom Tov",
+   "Hon Ashir",
+   "Boaz",
+   "Melekhet Shelomoh",
+   "Tosafot Rabbi Akiva Eiger"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א אין עומדים להתפלל אלא מתוך כבד ראש; חסידים הראשונים היו שוהים שעה אחת, ואפילו המלך שואל בשלומו או נחש כרוך על עקבו לא יפסיק. משנה ב מזכירין גבורות גשמים בתחיית המתים, שואלין הגשמים בברכת השנים, והבדלה בחונן הדעת; רבי עקיבא אומר ברכה רביעית, ורבי אליעזר אומר בהודאה. משנה ג משתקין את האומר על קן צפור יגיעו רחמיך, ועל טוב יזכר שמך, ומודים מודים; ואם העובר לפני התיבה טעה עובר אחר תחתיו ולא יהא סרבן ומתחיל מתחלת הברכה שטעה בה. משנה ד העובר לפני התיבה לא יענה אמן אחר הכהנים מפני הטרוף, ואם אין שם כהן אלא הוא לא ישא את כפיו אלא אם הבטחתו. משנה ה המתפלל וטעה סימן רע לו ולשולחיו, ורבי חנינא בן דוסא ידע אם יחיה החולה לפי שגורה תפלתו בפיו.",
+  "topics": [
+   {
+    "term": "כובד ראש",
+    "explanation": "כובד ראש הוא הכנעה ויראה בעמידה לפני הקב\"ה. הברטנורא לומד זאת מהפסוק \"עבדו את ה' ביראה\" ואומר שעבודה זו היא תפלה.",
+    "mishnah": 1,
+    "anchors": [
+     "מתוך כבד ראש"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 5:1:1",
+     "quote": "הַכְנָעָה וּמוֹרָא, דִּכְתִיב (תהלים ב) עִבְדוּ אֶת ה'‏ בְּיִרְאָה, וַעֲבוֹדָה זוֹ תְּפִלָּה הִיא",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "חסידים הראשונים שוהים שעה",
+    "explanation": "החסידים הראשונים המתינו לפני התפלה כדי ליישב דעתם. התוספות יום טוב בשם הר\"י אומר שכאן \"שעה אחת\" היא שעה ממש.",
+    "mishnah": 1,
+    "anchors": [
+     "שוהים שעה אחת"
+    ],
+    "source": {
+     "name": "תוספות יום טוב",
+     "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:1:2",
+     "quote": "הכא אינו כן אלא שעה ממש",
+     "era": "acharon"
+    }
+   },
+   {
+    "term": "מלך ונחש",
+    "explanation": "המשנה מלמדת שאפילו שאלת שלום המלך או נחש לא יפסיקו את התפלה. הברטנורא מגביל זאת למלך ישראל ולנחש שברוב הפעמים אינו נושך.",
+    "mishnah": 1,
+    "anchors": [
+     "המלך שואל בשלומו"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 5:1:3",
+     "quote": "וְדַוְקָא מֶלֶךְ יִשְׂרָאֵל, אֲבָל מֶלֶךְ עוֹבֵד כּוֹכָבִים פּוֹסֵק שֶׁלֹּא יַהַרְגֶנּו",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "הזכרת גשמים ושאלת גשמים",
+    "explanation": "הזכרת גבורות גשמים היא שבח, ושאלת הגשמים היא בקשה. הברטנורא: הראשונה אינה לשון בקשה אלא הזכרה ושבח.",
+    "mishnah": 2,
+    "anchors": [
+     "מזכירין גבורות גשמים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 5:2:1",
+     "quote": "שֶׁאֵינוֹ לְשׁוֹן בַּקָּשָׁה אֶלָּא לְשׁוֹן הַזְכָּרָה וָשֶׁבַח",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "ברכת השנים",
+    "explanation": "שאלת הגשמים נקבעה בברכת השנים. הברטנורא: מתוך שהם פרנסה קבעו שאלתן בברכת פרנסה.",
+    "mishnah": 2,
+    "anchors": [
+     "בברכת השנים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 5:2:3",
+     "quote": "מִתּוֹךְ שֶׁהֵן פַּרְנָסָה קָבְעוּ שְׁאֵלָתָן בְּבִרְכַּת פַּרְנָסָה",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "הבדלה בתפלה",
+    "explanation": "ההבדלה במוצאי שבת נאמרת בתפלה. הברטנורא אומר שהיא בחונן הדעת, ברכה ראשונה של חול, וכן הלכה.",
+    "mishnah": 2,
+    "anchors": [
+     "והבדלה בחונן הדעת"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 5:2:5",
+     "quote": "שֶׁהִיא בְּרָכָה רִאשׁוֹנָה שֶׁל חֹל",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "סרבן",
+    "explanation": "מי שטעה בתפלה מוחלף מיד באחר שלא יסרב. הברטנורא משווה לדרך שאר היורדים לפני התיבה שמסרבים בפעם ראשונה, אבל כאן לא, שגנאי הוא שתהא התפלה מופסקת כל כך.",
+    "mishnah": 3,
+    "anchors": [
+     "ולא יהא סרבן"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 5:3:5",
+     "quote": "כְּדֶרֶךְ שְׁאָר יוֹרְדִים לִפְנֵי הַתֵּבָה שֶׁצָּרִיךְ לְסָרֵב פַּעַם רִאשׁוֹנָה, אֲבָל זֶה לֹא יְסָרֵב כְּשֶׁאוֹמְרִים לוֹ לֶךְ רֵד לְפִי שֶׁגְּנַאי הוּא שֶׁתְּהֵא הַתְּפִלָּה מֻפְסֶקֶת כָּל כָּך",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "שלוחו של אדם כמותו",
+    "explanation": "טעות שליח הציבור היא סימן רע לשולחיו, ששלוחו של אדם כמותו. התוספות יום טוב בשם הר\"י לומד זאת מ\"ושחטו אותו כל קהל עדת ישראל\".",
+    "mishnah": 5,
+    "anchors": [
+     "ששלוחו של אדם כמותו"
+    ],
+    "source": {
+     "name": "תוספות יום טוב",
+     "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:5:1",
+     "quote": "וילפינן ליה מדכתיב (שמות י״ב:ו׳) ושחטו אותו כל קהל עדת ישראל",
+     "era": "acharon"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "נחש כרוך על העקב: למה לא יפסיק?",
+    "pasuk": {
+     "text": "וַאֲפִלּוּ נָחָשׁ כָּרוּךְ עַל עֲקֵבוֹ, לֹא יַפְסִיק",
+     "ref": "Mishnah Berakhot 5:1",
+     "label": "משנה ברכות ה, 1"
+    },
+    "question": "המשנה אומרת שאפילו נחש כרוך על עקבו לא יפסיק, אך פיקוח נפש דוחה תפלה. מדוע אין המשנה מחייבת להפסיק, ובמה היא מוגבלת?",
+    "asked_by": [
+     {
+      "name": "משנת ארץ ישראל",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 5:1:19-24",
+      "era": "acharon",
+      "quote": "ההלכה השנייה היא מצב ברור של פיקוח נפש, ולפי ההלכה ברור שיש להפסיק בתפילה ולברוח מהנחש"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Berakhot 5:1:3-8",
+      "era": "acharon",
+      "quote": "דמ\"מ קשה דלא הוי ליה למתלי שריותא דהליכה במאי דלא חשיבא הפסק"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Berakhot 5:1:1",
+      "era": "acharon",
+      "quote": "ואע\"ג דקיי\"ל דאין הולכין בפקוח נפש אחר הרוב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רק נחש, שברוב הפעמים אינו נושך, אין מפסיקים בגללו; ועקרב או אפעה, שנושכים וממיתים ודאי, מפסיק.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 5:1:4",
+        "quote": "דַּוְקָא נָחָשׁ שֶׁרֹב פְּעָמִים אֵינוֹ נוֹשֵׁךְ, אֲבָל עַקְרָב אוֹ אֶפְעֶה מִן הַדְּבָרִים שֶׁוַּדַּאי נוֹשְׁכִים וּמְמִיתִים, פּוֹסֵק",
+        "era": "acharon"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 5:1:1",
+        "quote": "אבל מי שמנהגו לנשך תמיד כגון עקרב ואפעה יפסיק התפלה",
+        "era": "acharon"
+       },
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 5:6:1",
+        "quote": "דוקא בליכא סכנה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "נחש שלא בא בכעס מראה שאינו רוצה להזיק ולכן מובטח שלא ישוך.",
+      "sources": [
+       {
+        "name": "יש סדר למשנה",
+        "ref": "Yesh Seder LaMishnah on Mishnah Berakhot 5:1:1",
+        "quote": "מתוך שרואה שלא בא הנחש בכעס מובטח הוא שלא תישוך",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "המשנה כאילו דוחה פיקוח נפש, ולכן המפרשים מגבילים אותה.",
+    "mishnah": 1,
+    "anchors": [
+     "וַאֲפִלּוּ נָחָשׁ כָּרוּךְ עַל עֲקֵבוֹ, לֹא יַפְסִיק"
+    ]
+   },
+   {
+    "title": "למה \"למקום\"?",
+    "pasuk": {
+     "text": "כְּדֵי שֶׁיְּכַוְּנוּ אֶת לִבָּם לַמָּקוֹם",
+     "ref": "Mishnah Berakhot 5:1",
+     "label": "משנה ברכות ה, 1"
+    },
+    "question": "המשנה אומרת שהחסידים כיוונו את לבם למקום. מדוע נאמר \"למקום\" ולא פשוט \"לתפלה\"?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:1:3",
+      "era": "acharon",
+      "quote": "דאמאי קאמר למקום. לתפלה הל\"ל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הכוונה כולה ברוממות המקום, ולא לאמירת התפלה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:1:3",
+        "quote": "שתהיה כוונתם כולה ברוממות המקום בלבד",
+        "era": "acharon"
+       },
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 5:3:1",
+        "quote": "ברוממות הקב\"ה",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "בנוסח המשנה שבירושלמי לא גרסינן \"למקום\", ולכן יכול להיות הפירוש לאמירת התפלה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:1:3",
+        "quote": "אבל במשנה שבירושלמי לא גרסינן למקום וא\"כ יכול להיות הפירוש לאמירת התפלה",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם השהיית החסידים הייתה לכוון את המילים או את הלב אל הקב\"ה.",
+    "mishnah": 1,
+    "anchors": [
+     "כְּדֵי שֶׁיְּכַוְּנוּ אֶת לִבָּם לַמָּקוֹם"
+    ]
+   },
+   {
+    "title": "למה נקראו הגשמים גבורות?",
+    "pasuk": {
+     "text": "מַזְכִּירִין גְּבוּרוֹת גְּשָׁמִים בִּתְחִיַּת הַמֵּתִים",
+     "ref": "Mishnah Berakhot 5:2",
+     "label": "משנה ברכות ה, 2"
+    },
+    "question": "מדוע המשנה קוראת להזכרת הגשמים \"גבורות גשמים\" ולא בלשון אחר?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:2:2",
+      "era": "acharon",
+      "quote": "ולא נקט כח גשמים או גדולות גשמים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הגשמים הם אחת מגבורותיו של הקב\"ה, כמו שכתוב עושה גדולות ואין חקר, הנותן מטר על פני ארץ.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 5:2:1",
+        "quote": "מִפְּנֵי שֶׁהַגְּשָׁמִים אַחַת מִגְּבוּרוֹתָיו שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא, דִּכְתִיב (איוב ה) עֹשֶׂה גְדוֹלוֹת וְאֵין חֵקֶר, הַנּוֹתֵן מָטָר עַל פְּנֵי אָרֶץ, מִשּׁוּם הָכִי קָרֵי לְהוּ גְּבוּרוֹת גְּשָׁמִים",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "כינו אותו במלת גבורה לגודל תועלתו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 5:2:1",
+        "quote": "וכנו אותו במלת גבורה לגודל תועלתו",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "מסביר מדוע הזכרת הגשמים בברכת תחיית המתים.",
+    "mishnah": 2,
+    "anchors": [
+     "מַזְכִּירִין גְּבוּרוֹת גְּשָׁמִים בִּתְחִיַּת הַמֵּתִים"
+    ]
+   },
+   {
+    "title": "למה הבדלה בחונן הדעת?",
+    "pasuk": {
+     "text": "וְהַבְדָּלָה בְּחוֹנֵן הַדָּעַת",
+     "ref": "Mishnah Berakhot 5:2",
+     "label": "משנה ברכות ה, 2"
+    },
+    "question": "מדוע תקנו הבדלה בברכת חונן הדעת, ולמה צריך הבדלה בתפלה בכלל?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Berakhot 5:2:5",
+      "era": "rishon",
+      "quote": "מִפְּנֵי מַה תִּקְּנוּ הַבְדָּלָה בְּחוֹנֵן הַדָּעַת"
+     },
+     {
+      "name": "משנת ארץ ישראל",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 5:2:6-13",
+      "era": "acharon",
+      "quote": "מדוע יש צורך בהבדלה בתפילה וגם בהבדלה על הכוס"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אם אין דעה הבדלה מנין.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 5:2:5",
+        "quote": "שֶׁאִם אֵין דֵּעָה הַבְדָּלָה מִנַּיִן",
+        "era": "acharon"
+       },
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 5:12:1",
+        "quote": "דאם אין דעת הבדלה מנין",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "הזכיר התנא ברכת השנים קודם הבדלה כדי שלא להפסיק בהבדלה שיש בה מחלוקת.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 5:12:1",
+        "quote": "משום דלא בעי לאפסוקי בהבדלה דאית בה פלוגתא",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מדוע ההבדלה נקבעה בברכת דעה.",
+    "mishnah": 2,
+    "anchors": [
+     "וְהַבְדָּלָה בְּחוֹנֵן הַדָּעַת"
+    ]
+   },
+   {
+    "title": "למה משתקין את האומר על קן צפור?",
+    "pasuk": {
+     "text": "הָאוֹמֵר עַל קַן צִפּוֹר יַגִּיעוּ רַחֲמֶיך",
+     "ref": "Mishnah Berakhot 5:3",
+     "label": "משנה ברכות ה, 3"
+    },
+    "question": "מדוע משתקין את האומר בתפלתו על קן צפור יגיעו רחמיך, והרי שילוח הקן נראה כמדת רחמים?",
+    "asked_by": [
+     {
+      "name": "משנת ארץ ישראל",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 5:3:1-3",
+      "era": "acharon",
+      "quote": "נמסרו טעמים שונים להתנגדות החכמים לנוסח זה"
+     },
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Berakhot 5:3:1",
+      "era": "acharon",
+      "quote": "דמצוה זו אף כי נראה ממד' רבה (ריש) פרשת כי תצא דמדת רחמים היא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הוא עושה מדותיו של הקב\"ה רחמים והן אינן אלא גזרות מלך על עבדיו, ואין לה טעם אלא היא מצוה מקובלת.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 5:3:4",
+        "quote": "שֶׁעוֹשֶׂה מִדּוֹתָיו שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא רַחֲמִים וְהֵן אֵינָן אֶלָּא גְּזֵרוֹת מֶלֶךְ עַל עֲבָדָיו",
+        "era": "acharon"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 5:3:1",
+        "quote": "אבל היא מצוה מקובלת אין לה טעם",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "אמורא אחד אומר שהוא עושה מדותיו רחמים, והשני אומר שמטיל קנאה במעשה בראשית.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Berakhot 5:3:2",
+        "quote": "חד אמר מפני שעושה מדותיו של הקב\"ה רחמים ואינן אלא גזירות, וזה הוא מ\"ש בשם הזהר, וחד אמר מפני שמטיל קנאה במעשה בראשית",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ן בפירוש החומש כתב שהטעם ללמד אותנו מדת רחמנות.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:3:3",
+        "quote": "שהטעם ללמד אותנו מדת רחמנות",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את המחלוקת אם מצות שילוח הקן היא רחמים.",
+    "mishnah": 3,
+    "anchors": [
+     "הָאוֹמֵר עַל קַן צִפּוֹר יַגִּיעוּ רַחֲמֶיך"
+    ]
+   },
+   {
+    "title": "מה הבעיה ב\"מודים מודים\"?",
+    "pasuk": {
+     "text": "מוֹדִים מוֹדִים, מְשַׁתְּקִין אוֹתו",
+     "ref": "Mishnah Berakhot 5:3",
+     "label": "משנה ברכות ה, 3"
+    },
+    "question": "מדוע משתקין את האומר מודים מודים, והאם הדבר נוהג בכל אדם?",
+    "asked_by": [
+     {
+      "name": "משנת ארץ ישראל",
+      "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 5:3:5-8",
+      "era": "acharon",
+      "quote": "ולא ברור מדוע משפטים אלו מעוררים התנגדות כה תקיפה"
+     },
+     {
+      "name": "תפארת ישראל (בועז)",
+      "ref": "Boaz on Mishnah Berakhot 5:3",
+      "era": "acharon",
+      "quote": "ולא ידענא מנ\"ל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "נראה כמקבל עליו שתי רשויות; בירושלמי מפרשים שזה בצבור, אבל ביחיד תחנונים הם.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 5:3:3",
+        "quote": "דְּמֵחֲזֵי כִּמְקַבֵּל עָלָיו שְׁתֵּי אֱלוֹהוֹת. וּמְפָרֵשׁ בַּיְרוּשַׁלְמִי הֲדָא דְתֵימָא בְּצִבּוּר, אֲבָל בְּיָחִיד תַּחֲנוּנִים הֵם",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "דוקא בצבור אסור, אבל ביחיד דרך רצוי הוא.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Berakhot 5:3",
+        "quote": "ע\"כ דוקא בצבור אסור. אבל ביחיד דרך רצוי הוא",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "אלו היו סיסמאות כיתתיות.",
+      "sources": [
+       {
+        "name": "משנת ארץ ישראל",
+        "ref": "Mishnat Eretz Yisrael on Mishnah Berakhot 5:3:5-8",
+        "quote": "מסתבר שכל אלו היו ססמאות כיתתיות",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "מראה אם האיסור הוא על הדברים או על האומר אותם.",
+    "mishnah": 3,
+    "anchors": [
+     "מוֹדִים מוֹדִים, מְשַׁתְּקִין אוֹתו"
+    ]
+   },
+   {
+    "title": "למה אמרה המשנה \"מפני הטרוף\" על אמן?",
+    "pasuk": {
+     "text": "לֹא יַעֲנֶה אַחַר הַכֹּהֲנִים אָמֵן, מִפְּנֵי הַטֵּרוּף",
+     "ref": "Mishnah Berakhot 5:4",
+     "label": "משנה ברכות ה, 4"
+    },
+    "question": "הטעם שנתנה המשנה שהעובר לפני התיבה לא יענה אמן הוא הטרוף. אך עניית אמן גם מפסיקה את התפלה, ולמה אפוא נאמר טרוף?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Berakhot 5:4:2",
+      "era": "acharon",
+      "quote": "תימה תיפוק ליה דמפסיק תפלה אם עונה אמן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מאחר שלא אמר המשנה את הטעם הזה, משמע שעניית אמן לא נחשבת הפסק, שצורך תפלה היא.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 5:4:2",
+        "quote": "מאחר שלא אמר האי טעמא ש\"מ דעניית אמן לא חשיב הפסק",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "אם יענה אמן לא יוכל לכוון ולחזור לתפלתו מהר ולהתחיל את הברכה כראוי.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 5:4:2",
+        "quote": "אִם יַעֲנֶה אָמֵן לֹא יוּכַל לְכַוֵּן וְלַחֲזֹר לִתְפִלָּתוֹ מַהֵר וּלְהַתְחִיל הַבְּרָכָה כָּרָאוּי שֶׁיַּתְחִיל",
+        "era": "acharon"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 5:4:1",
+        "quote": "שמא ישכח איזו ברכה היא",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מה החשש האמיתי: שכחת התפלה.",
+    "mishnah": 4,
+    "anchors": [
+     "לֹא יַעֲנֶה אַחַר הַכֹּהֲנִים אָמֵן, מִפְּנֵי הַטֵּרוּף"
+    ]
+   },
+   {
+    "title": "כהן יחיד: למה מתייחס \"אם הבטחתו\"?",
+    "pasuk": {
+     "text": "וְאִם אֵין שָׁם כֹּהֵן אֶלָּא הוּא, לֹא יִשָּׂא אֶת כַּפָּיו. וְאִם הַבְטָחָתוֹ שֶׁהוּא נוֹשֵׂא אֶת כַּפָּיו וְחוֹזֵר לִתְפִלָּתוֹ, רַשַּׁאי",
+     "ref": "Mishnah Berakhot 5:4",
+     "label": "משנה ברכות ה, 4"
+    },
+    "question": "המשנה אומרת שאם אין שם כהן אלא הוא לא ישא את כפיו, ואם הבטחתו רשאי. למה מתייחס \"אם הבטחתו\", ולמה לא נאמר \"ואפילו\"?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 5:3:2",
+      "era": "acharon",
+      "quote": "ודקדק כן מדקתני ואם אין שם כהן אלא הוא ולא קתני ואפילו"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Berakhot 5:4:1",
+      "era": "acharon",
+      "quote": "ודוחק ולענ\"ד הנל\"פ דאם יש עמו אחר אין לו אימתא דציבורא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ההיתר הוא רק משום ביטול נשיאת כפים, ולכן לעניית אמן אסור גם במובטח.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 5:4:1",
+        "quote": "דדוקא משום בטול נשיאות כפים התירו בסיפא באם הבטחתו",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "אפשר לפרש \"ואם\" בלשון \"אפילו\".",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Berakhot 5:4:1",
+        "quote": "יל\"פ האי ואם בלשון אפילו",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "לענין עניית אמן אף במובטח לא יענה, ויש אומרים שרשאי.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 5:22:1",
+        "quote": "אבל לענין עניית אמן אף במובטח לא יענה. וי\"א דגם אמן רשאי לענות במובטח",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך המפרשים קוראים את סדר חלקי המשנה.",
+    "mishnah": 4,
+    "anchors": [
+     "וְאִם אֵין שָׁם כֹּהֵן אֶלָּא הוּא, לֹא יִשָּׂא אֶת כַּפָּיו. וְאִם הַבְטָחָתוֹ שֶׁהוּא נוֹשֵׂא אֶת כַּפָּיו וְחוֹזֵר לִתְפִלָּתוֹ, רַשַּׁאי"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "משנת ארץ ישראל",
+   "לחם שמים",
+   "רש\"ש",
+   "ברטנורא",
+   "רמב\"ם",
+   "תפארת ישראל (יכין)",
+   "יש סדר למשנה",
+   "תוספות יום טוב",
+   "הון עשיר",
+   "תפארת ישראל (בועז)",
+   "מלאכת שלמה",
+   "תוספות רבי עקיבא איגר"
+  ]
+ }
+}
