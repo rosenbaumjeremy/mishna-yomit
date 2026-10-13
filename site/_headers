@@ -12,3 +12,7 @@
 # must revalidate rather than sit in a browser cache
 /data/*
   Cache-Control: no-cache
+
+# the offline copy's service worker: always check for a newer one
+/sw.js
+  Cache-Control: no-cache
