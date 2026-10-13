@@ -1,0 +1,1092 @@
+{
+ "date": "2026-10-13",
+ "hebrew_date": {
+  "hebrew": "ב׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "2 Cheshvan 5787"
+ },
+ "masechet": "berakhot",
+ "perek": 6,
+ "ref": "Mishnah Berakhot 6",
+ "mishnayot": [
+  {
+   "he": "כֵּיצַד מְבָרְכִין עַל הַפֵּרוֹת. עַל פֵּרוֹת הָאִילָן אוֹמֵר, בּוֹרֵא פְּרִי הָעֵץ, חוּץ מִן הַיַּיִן, שֶׁעַל הַיַּיִן אוֹמֵר בּוֹרֵא פְּרִי הַגָּפֶן. וְעַל פֵּרוֹת הָאָרֶץ אוֹמֵר בּוֹרֵא פְּרִי הָאֲדָמָה, חוּץ מִן הַפַּת, שֶׁעַל הַפַּת הוּא אוֹמֵר הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ. וְעַל הַיְרָקוֹת אוֹמֵר בּוֹרֵא פְּרִי הָאֲדָמָה. רַבִּי יְהוּדָה אוֹמֵר, בּוֹרֵא מִינֵי דְשָׁאִים: \n",
+   "en": "This mishna discusses the blessings recited over various foods. <b>How does one recite a blessing over fruits? Over</b> different <b>fruits</b> that grow on a <b>tree one recites: Who creates fruit of the tree, with the exception of wine.</b> Although wine is produced from fruit of the tree, due to its significance, its blessing differs from other fruits of the tree. <b>Over wine one recites: Who creates fruit of the vine. Over fruits</b> that grow from <b>the earth, one recites: Who creates fruit of the ground, with the exception of bread.</b> Bread, too, is significant and its blessing differs from other fruits of the ground, <b>as over bread one recites: Who brings forth bread from the earth. Over</b> herbs and leafy <b>vegetables one recites: Who creates fruit of the ground. Rabbi Yehuda says</b> that there is room to distinguish between fruits that grow from the earth, herbs, and leafy vegetables. Although they are all fruit of the ground, since they have different qualities, the blessing on the latter is: <b>Who creates various kinds of herbs.</b>"
+  },
+  {
+   "he": "בֵּרַךְ עַל פֵּרוֹת הָאִילָן בּוֹרֵא פְּרִי הָאֲדָמָה, יָצָא. וְעַל פֵּרוֹת הָאָרֶץ בּוֹרֵא פְּרִי הָעֵץ, לֹא יָצָא. עַל כֻּלָּם אִם אָמַר שֶׁהַכֹּל נִהְיָה, יָצָא: \n",
+   "en": "This mishna discusses how, after the fact, a more general blessing exempts one from the obligation to recite a more specific one. <b>One who recited: Who creates fruit of the ground, over fruit of the tree, fulfilled</b> his obligation. One who recited: <b>Who creates fruit of the tree, over fruits of the earth, did not fulfill</b> his obligation. <b>And over all</b> food items, <b>one who recited: By whose word all things came to be, fulfilled</b> his obligation."
+  },
+  {
+   "he": "עַל דָּבָר שֶׁאֵין גִּדּוּלוֹ מִן הָאָרֶץ אוֹמֵר שֶׁהַכֹּל. עַל הַחֹמֶץ וְעַל הַנּוֹבְלוֹת וְעַל הַגּוֹבַאי אוֹמֵר שֶׁהַכֹּל. עַל הֶחָלָב וְעַל הַגְּבִינָה וְעַל הַבֵּיצִים אוֹמֵר שֶׁהַכֹּל. רַבִּי יְהוּדָה אוֹמֵר, כָּל שֶׁהוּא מִין קְלָלָה אֵין מְבָרְכִין עָלָיו: \n",
+   "en": "<b>And over</b> a food <b>item whose growth is not from the ground, one recites: By whose word all things came to be.</b> And <b>over vinegar,</b> wine that fermented and spoiled, <b>and over <i>novelot</i>,</b> dates that spoiled, <b>and over locusts, one recites: By whose word all things came to be. So too, <b>over milk, and over cheese, and over eggs, one recites:</b> By whose word <b>all things</b> came to be. Rabbi Yehuda says:</b> Over <b>any</b> food item <b>that is a type</b> resulting from a <b>curse, one does not recite a blessing over it</b> at all. None of the items listed exist under normal conditions, and they come about as the result of a curse."
+  },
+  {
+   "he": "הָיוּ לְפָנָיו מִינִים הַרְבֵּה, רַבִּי יְהוּדָה אוֹמֵר, אִם יֵשׁ בֵּינֵיהֶם מִמִּין שִׁבְעָה, מְבָרֵךְ עָלָיו. וַחֲכָמִים אוֹמְרִים, מְבָרֵךְ עַל אֵיזֶה מֵהֶם שֶׁיִּרְצֶה: \n",
+   "en": "On a different note: If there were <b>many types</b> of food <b>before him,</b> over which food should he recite a blessing first? <b>Rabbi Yehuda says: If there is one of the seven species</b> for which Eretz Yisrael was praised <b>among them, he recites</b> the first <b>blessing over it. And the Rabbis say: He recites a blessing over whichever of them he wants.</b>"
+  },
+  {
+   "he": "בֵּרַךְ עַל הַיַּיִן שֶׁלִּפְנֵי הַמָּזוֹן, פָּטַר אֶת הַיַּיִן שֶׁלְּאַחַר הַמָּזוֹן. בֵּרַךְ עַל הַפַּרְפֶּרֶת שֶׁלִּפְנֵי הַמָּזוֹן, פָּטַר אֶת הַפַּרְפֶּרֶת שֶׁלְּאַחַר הַמָּזוֹן. בֵּרַךְ עַל הַפַּת, פָּטַר אֶת הַפַּרְפֶּרֶת. עַל הַפַּרְפֶּרֶת, לֹא פָטַר אֶת הַפָּת. בֵּית שַׁמַּאי אוֹמְרִים, אַף לֹא מַעֲשֵׂה קְדֵרָה: \n",
+   "en": "This mishna explains those cases and those circumstances in which blessings recited over particular foods exempt other foods at the meal from the requirement to recite a blessing over them. <b>One who recited a blessing over the wine that</b> one drank <b>before the meal,</b> with that blessing <b>he exempted the wine that</b> he drinks <b>after the meal.</b> Similarly, <b>one who recited a blessing over the appetizers that</b> one ate <b>before the meal,</b> with that blessing <b>he exempted the appetizers that</b> he eats <b>after the meal. One who recited a blessing over the bread exempted the appetizers,</b> as they are considered secondary to the bread. However, one who recited a blessing <b>over the appetizers did not exempt the bread. Beit Shammai say:</b> The blessing recited over the appetizers <b>did not exempt even a cooked dish</b> that he eats during the meal."
+  },
+  {
+   "he": "הָיוּ יוֹשְׁבִין לֶאֱכֹל, כָּל אֶחָד וְאֶחָד מְבָרֵךְ לְעַצְמוֹ. הֵסֵבּוּ, אֶחָד מְבָרֵךְ לְכֻלָּן. בָּא לָהֶם יַיִן בְּתוֹךְ הַמָּזוֹן, כָּל אֶחָד וְאֶחָד מְבָרֵךְ לְעַצְמוֹ. לְאַחַר הַמָּזוֹן, אֶחָד מְבָרֵךְ לְכֻלָּם. וְהוּא אוֹמֵר עַל הַמֻּגְמָר, אַף עַל פִּי שֶׁאֵין מְבִיאִין אֶת הַמֻּגְמָר אֶלָּא לְאַחַר הַסְּעֻדָּה: \n",
+   "en": "An additional <i>halakha</i> is cited: If several people <b>were sitting</b> to eat not in the framework of a joint meal, <b>each recites a blessing for himself. If they were reclined</b> on divans to eat, which renders it a joint meal, <b>one recites a blessing on behalf of them all.</b> Additionally: If <b>wine came before them during the meal, each and every</b> diner <b>recites a blessing</b> over the wine <b>for himself.</b> If the wine came <b>after the meal, one recites a blessing on behalf of them all. And he,</b> who recited the blessing over the wine, also <b>says</b> the blessing <b>over the incense</b> [<b><i>mugmar</i></b>], <b>although they only bring the incense</b> to the diners <b>after the meal.</b>"
+  },
+  {
+   "he": "הֵבִיאוּ לְפָנָיו מָלִיחַ בַּתְּחִלָּה וּפַת עִמּוֹ, מְבָרֵךְ עַל הַמָּלִיחַ וּפוֹטֵר אֶת הַפַּת, שֶׁהַפַּת טְפֵלָה לוֹ. זֶה הַכְּלָל, כֹּל שֶׁהוּא עִקָּר וְעִמּוֹ טְפֵלָה, מְבָרֵךְ עַל הָעִקָּר וּפוֹטֵר אֶת הַטְּפֵלָה: \n",
+   "en": "If <b>they brought salted</b> food <b>before him</b> to eat <b>first and bread with it, he recites a blessing over the salted</b> food <b>and</b> thereby <b>exempts the bread, because</b> the salted food is primary while <b>the bread is secondary to it. This is the principle: Any</b> food <b>that is primary and a secondary</b> food <b>is with it, one recites a blessing over the primary and,</b> in so doing, <b>exempts the secondary</b> from its own blessing."
+  },
+  {
+   "he": "אָכַל תְּאֵנִים עֲנָבִים וְרִמּוֹנִים, מְבָרֵךְ אַחֲרֵיהֶן שָׁלשׁ בְּרָכוֹת, דִּבְרֵי רַבָּן גַּמְלִיאֵל. וַחֲכָמִים אוֹמְרִים, בְּרָכָה אַחַת מֵעֵין שָׁלשׁ. רַבִּי עֲקִיבָא אוֹמֵר, אֲפִלּוּ אָכַל שֶׁלֶק וְהוּא מְזוֹנוֹ, מְבָרֵךְ אַחֲרָיו שָׁלשׁ בְּרָכוֹת. הַשּׁוֹתֶה מַיִם לִצְמָאוֹ, אוֹמֵר שֶׁהַכֹּל נִהְיֶה בִּדְבָרוֹ. רַבִּי טַרְפוֹן אוֹמֵר, בּוֹרֵא נְפָשׁוֹת רַבּוֹת: \n",
+   "en": "<b>One who ate</b> from the fruit for which Eretz Yisrael was praised, <b>grapes and figs and pomegranates, recites</b> the <b>three blessings</b> of Grace after Meals, as he would after eating bread; this is <b>the statement of Rabban Gamliel. And the Rabbis say:</b> One need only recite <b>one blessing abridged from</b> the <b>three</b> blessings of Grace after Meals. <b>Rabbi Akiva says:</b> The three blessings of Grace after Meals are not restricted to bread; rather, <b>even</b> if <b>one ate boiled vegetables, but it is his</b> primary <b>sustenance, he recites</b> the <b>three blessings</b> of Grace after Meals. Additionally: <b>One who drinks water</b> to quench <b>his thirst recites: By whose word all things came to be. Rabbi Tarfon says:</b> He recites: <b>Who creates the many forms of life and their needs.</b>"
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 lists the blessings over fruit: 'fruit of the tree' for tree fruit, with wine and bread excepted, 'fruit of the ground' for ground produce and vegetables, while Rabbi Yehuda says 'Who creates various kinds of herbs'. Mishnah 2 says that after the fact 'fruit of the ground' over tree fruit is valid, the reverse is not, and 'shehakol' covers everything. Mishnah 3 gives 'shehakol' for vinegar, fallen fruit, locusts, milk, cheese and eggs, while Rabbi Yehuda says one does not bless over a 'type of curse'. Mishnah 4 asks which food to bless first when many are before him: Rabbi Yehuda says one of the seven species, the Sages say whichever he wants. Mishnah 5 rules that the wine or appetizers blessed before the meal exempt those after it, that bread exempts appetizers but not the reverse, and Beit Shammai add a cooked dish. Mishnah 6 distinguishes sitting from reclining, wine during or after the meal, and the incense. Mishnah 7 gives the rule of primary and secondary food. Mishnah 8 records the dispute over the blessing after figs, grapes and pomegranates (Rabban Gamliel, the Sages, Rabbi Akiva) and the blessing over water for thirst (Rabbi Tarfon).",
+  "topics": [
+   {
+    "term": "Tree fruit and ground fruit blessings",
+    "explanation": "The mishnah sets two basic blessings: 'Who creates the fruit of the tree' for tree fruit and 'Who creates the fruit of the ground' for produce of the earth. What counts as a tree is decided by whether the same branch bears fruit again the next year.",
+    "mishnah": 2,
+    "anchors": [
+     "עַל פֵּרוֹת הָאִילָן"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 6:2:1",
+     "quote": "וְאוֹתוֹ הֶעָנָף עַצְמוֹ חוֹזֵר וּמוֹצִיא פְּרִי לַשָּׁנָה הָאַחֶרֶת",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "Wine and bread keep their own blessings",
+    "explanation": "Wine comes from a tree fruit (the vine) and bread from grain of the ground, yet each has its own blessing. The reason is their importance: they have their own fixed blessing rather than the general one of their category.",
+    "mishnah": 1,
+    "anchors": [
+     "חוּץ מִן הַיַּיִן"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 6:1:1",
+     "quote": "שֶׁמִּתּוֹךְ חֲשִׁיבוּתוֹ קָבְעוּ לוֹ בְּרָכָה לְעַצְמוֹ",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "Shehakol – the general blessing",
+    "explanation": "'By whose word all things came to be' is the broadest blessing. After the fact it is valid over any food, while over foods that do not grow from the ground it is the proper blessing from the start.",
+    "mishnah": 2,
+    "anchors": [
+     "שֶׁהַכֹּל נִהְיָה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 6:2:2",
+     "quote": "וְעַל כֻּלָּן אִם אָמַר שֶׁהַכֹּל יָצָא",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "A 'type of curse' (min kelalah)",
+    "explanation": "Rabbi Yehuda says one does not bless over a food that exists as a result of a curse. The commentators discuss which items he means: spoiled vinegar, unripe fallen fruit and locusts.",
+    "mishnah": 3,
+    "anchors": [
+     "מִין קְלָלָה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 6:3:1",
+     "quote": "רוצה לומר הארבה והפירות אשר נפלו קודם בשולם",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "The seven species",
+    "explanation": "The seven species are the ones for which the Torah praises the Land of Israel: wheat, barley, vine, fig, pomegranate, olive and date honey. Rabbi Yehuda gives them priority when many foods are in front of a person; the Sages let him choose.",
+    "mishnah": 4,
+    "anchors": [
+     "מִמִּין שִׁבְעָה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 6:4:1",
+     "quote": "אחד משבעה מינין הספורים בתורה",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "Parperet (a relish or side dish)",
+    "explanation": "A parperet is something eaten to relish the bread, such as meat, eggs or fish. Bartenura notes that such dishes were sometimes served before the meal to draw out the eating and again after it.",
+    "mishnah": 5,
+    "anchors": [
+     "הַפַּרְפֶּרֶת"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 6:5:2",
+     "quote": "כָּל דָּבָר שֶׁמְּלַפְּתִים בּוֹ אֶת הַפַּת",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "Reclining (hesev) and a joint meal",
+    "explanation": "When people gather to eat together they used to recline on couches. Reclining shows they are one group, so one person blesses for all; sitting without reclining means each blesses for himself.",
+    "mishnah": 6,
+    "anchors": [
+     "הֵסֵבּוּ"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 6:6:1",
+     "quote": "וְסִימָן הוּא שֶׁלֹּא נִתְוַעֲדוּ לֶאֱכֹל יַחַד",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "Primary and secondary food (ikar and tafel)",
+    "explanation": "When two foods are eaten together, one is the main food and the other secondary. The blessing on the main food also covers the secondary one. In the mishnah the salted food is primary and the bread secondary.",
+    "mishnah": 7,
+    "anchors": [
+     "עִקָּר וְעִמּוֹ טְפֵלָה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 6:7:1",
+     "quote": "עיקר הוא השרש",
+     "era": "rishon"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "What does 'hamotzi' mean?",
+    "pasuk": {
+     "text": "הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ",
+     "ref": "Mishnah Berakhot 6:1",
+     "label": "Mishnah Berakhot 6:1"
+    },
+    "question": "The blessing over bread is 'Who brings forth (hamotzi) bread from the earth.' Rabbi Akiva Eiger recalls that the verb is read as 'brought forth' or as 'brings forth' in the future, and asks what Rabbi Nachman does with verses such as 'Who brings you out of Egypt'.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:1:1",
+      "quote": "וקשה לי מה יעשה ר\"נ בקרא דהמעלה אתכם מארץ מצרים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashi's reading, as Rabbi Akiva Eiger cites it: Rabbi Nachman answers the Sages' verse by saying God was still bringing water out for them in the wilderness. Rabbi Akiva Eiger himself leaves the other verses with 'tzarich iyun' (needs study).",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:1:1",
+        "quote": "רש\"י דר\"נ יתרץ לקרא דרבנן דעדיין היה מוציא להם מים במדבר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the exact wording of the bread blessing is itself a point of debate.",
+    "mishnah": 1,
+    "anchors": [
+     "הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ"
+    ]
+   },
+   {
+    "title": "Why does 'ha'adama' work for tree fruit?",
+    "pasuk": {
+     "text": "בֵּרַךְ עַל פֵּרוֹת הָאִילָן בּוֹרֵא פְּרִי הָאֲדָמָה, יָצָא",
+     "ref": "Mishnah Berakhot 6:2",
+     "label": "Mishnah Berakhot 6:2"
+    },
+    "question": "The mishnah rules that 'Who creates the fruit of the ground' over tree fruit is valid. Tosafot Yom Tov asks why Bartenura did not say this mishnah is a lone opinion, as Rabbi Yehuda's view elsewhere (Bikkurim) suggests.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:2:1",
+      "quote": "הוי ליה לכתוב גם בכאן דמתני' יחידאה היא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: the Kesef Mishneh found a text of the Rambam that rules like our mishnah, because the Yerushalmi says tree fruits are included in 'fruit of the ground' but not the reverse.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:2:1",
+        "quote": "שמצא נוסח בדברי הרמב\"ם דפוסק כמתניתין דהכא"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov: the Yerushalmi makes clear that this mishnah is agreed by all.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Berakhot 6:2:1",
+        "quote": "בַּיְרוּשַׁלְמִי מְבֹאָר דְּדִבְרֵי הַכֹּל הִיא"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the mishnah is a lone view or the accepted rule.",
+    "mishnah": 2,
+    "anchors": [
+     "בֵּרַךְ עַל פֵּרוֹת הָאִילָן בּוֹרֵא פְּרִי הָאֲדָמָה, יָצָא"
+    ]
+   },
+   {
+    "title": "What is a 'min kelalah'?",
+    "pasuk": {
+     "text": "רַבִּי יְהוּדָה אוֹמֵר, כָּל שֶׁהוּא מִין קְלָלָה אֵין מְבָרְכִין עָלָיו",
+     "ref": "Mishnah Berakhot 6:3",
+     "label": "Mishnah Berakhot 6:3"
+    },
+    "question": "To which foods does Rabbi Yehuda's 'type of curse' refer: vinegar, unripe fallen fruit, locusts, or all of them (and what of milk, cheese and eggs)?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Berakhot 6:3:1",
+      "quote": "במשנה רי\"א כ\"ש מין קללה אין מברכין עליו",
+      "era": "acharon"
+     },
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Berakhot 6:3:3",
+      "quote": "מדלא קאמר כיון שהם מין קללה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: it means the locusts and the fruit that fell before ripening.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 6:3:1",
+        "quote": "רוצה לומר הארבה והפירות אשר נפלו קודם בשולם"
+       }
+      ]
+     },
+     {
+      "text": "One view (cited from the Ri): it refers only to vinegar and fallen fruit, which were good and spoiled; locusts keep their taste.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:3:2",
+        "quote": "דלא קאי אלא אחומץ ונובלות בלבד"
+       }
+      ]
+     },
+     {
+      "text": "The other view: it includes even locusts, since they damage the world and eat the grain.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Berakhot 6:3:1",
+        "quote": "כֵּיוָן שֶׁמַּזִּיק לָעוֹלָם וְאוֹכֵל הַתְּבוּאָה אֵין מְבָרְכִין עָלָיו"
+       }
+      ]
+     }
+    ],
+    "why": "It sets which foods get no blessing at all, and so how far 'shehakol' reaches.",
+    "mishnah": 3,
+    "anchors": [
+     "רַבִּי יְהוּדָה אוֹמֵר, כָּל שֶׁהוּא מִין קְלָלָה אֵין מְבָרְכִין עָלָיו"
+    ]
+   },
+   {
+    "title": "What do Beit Shammai exclude?",
+    "pasuk": {
+     "text": "בֵּית שַׁמַּאי אוֹמְרִים, אַף לֹא מַעֲשֵׂה קְדֵרָה",
+     "ref": "Mishnah Berakhot 6:5",
+     "label": "Mishnah Berakhot 6:5"
+    },
+    "question": "Beit Shammai say the blessing over appetizers does not exempt even a cooked dish. Hon Ashir asks whether Bartenura's reading fits the Talmud, which left the matter undecided, and why Bartenura rules against Beit Shammai.",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Berakhot 6:5:2",
+      "quote": "ומדטרח הש\"ס לבאר דעת בית שמאי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: just as blessing the appetizer does not exempt the bread, so it does not exempt a cooked dish; the halakha is not like Beit Shammai.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 6:5:3",
+        "quote": "וּבֵית שַׁמַּאי סָבְרֵי כְּשֵׁם שֶׁאִם בֵּרַךְ עַל הַפַּרְפֶּרֶת לֹא פָטַר אֶת הַפַּת"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: if he blessed over any of the relishes, it does not exempt a cooked dish; the halakha is not like Beit Shammai.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 6:5:1",
+        "quote": "שאם ברך על שום דבר מן הפרפראות לא פטר מעשה קדרה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows where the line lies between a main dish and a side dish.",
+    "mishnah": 5,
+    "anchors": [
+     "בֵּית שַׁמַּאי אוֹמְרִים, אַף לֹא מַעֲשֵׂה קְדֵרָה"
+    ]
+   },
+   {
+    "title": "Bread after the meal and the appetizers",
+    "pasuk": {
+     "text": "בֵּרַךְ עַל הַפַּת, פָּטַר אֶת הַפַּרְפֶּרֶת",
+     "ref": "Mishnah Berakhot 6:5",
+     "label": "Mishnah Berakhot 6:5"
+    },
+    "question": "If bread exempts the appetizers, why does the mishnah first say the bread does not exempt appetizers that come after the meal? Rabbi Akiva Eiger sets out the reading and two rishonim's views on when the bread exempts.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:5:1",
+      "quote": "דהפת אינו פוטרו כיון דהביאו לאחר המזון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rabbi Akiva Eiger: the case where bread exempts the appetizer speaks of appetizers brought during the meal.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:5:1",
+        "quote": "מיירי בהביאו תוך המזון"
+       }
+      ]
+     },
+     {
+      "text": "The Tosafot: it speaks of one who came to eat a meal.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:5:1",
+        "quote": "ודעת התוס' דמיירי בבא לסעוד"
+       }
+      ]
+     },
+     {
+      "text": "The Rashba: for one who came to eat, even after the meal no blessing is needed, since parperet is thin wafers.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:5:1",
+        "quote": "ודעת הרשב\"א דבבא לסעוד אפילו לאחהמ\"ז לא בעי ברוכי"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes when bread covers other foods.",
+    "mishnah": 5,
+    "anchors": [
+     "בֵּרַךְ עַל הַפַּת, פָּטַר אֶת הַפַּרְפֶּרֶת"
+    ]
+   },
+   {
+    "title": "Who is 'he' who blesses the incense?",
+    "pasuk": {
+     "text": "וְהוּא אוֹמֵר עַל הַמֻּגְמָר",
+     "ref": "Mishnah Berakhot 6:6",
+     "label": "Mishnah Berakhot 6:6"
+    },
+    "question": "Who is the 'he' who says the blessing over the incense? Tosafot Yom Tov and Hon Ashir point out that the mishnah never mentions anyone who blesses Birkat HaMazon, so the commentators' reading is hard.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:6:1",
+      "quote": "ולישנא דוהוא לא דייק לדידהו",
+      "era": "acharon"
+     },
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Berakhot 6:6:2",
+      "quote": "ויש לתמוה דמברך ברכת המזון, מאן דכר שמיה במתניתי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: the one who blesses Birkat HaMazon also blesses over the incense.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 6:6:1",
+        "quote": "שמי שיברך ברכת המזון הוא יברך על המוגמר"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: the one who blesses Birkat HaMazon says 'who creates fragrant trees' over the incense.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 6:6:4",
+        "quote": "הַמְבָרֵךְ בִּרְכַּת הַמָּזוֹן הוּא מְבָרֵךְ עַל הַמֻּגְמָר"
+       }
+      ]
+     },
+     {
+      "text": "Rashi, as Tosafot Yom Tov cites him: the one who blessed over the wine after the meal blesses over this.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:6:1",
+        "quote": "אותו שברך על היין שלאחר המזון מברך על זה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides who leads the blessing at the end of the meal.",
+    "mishnah": 6,
+    "anchors": [
+     "וְהוּא אוֹמֵר עַל הַמֻּגְמָר"
+    ]
+   },
+   {
+    "title": "Fruit as main food, salted food as secondary?",
+    "pasuk": {
+     "text": "שֶׁהַפַּת טְפֵלָה לוֹ",
+     "ref": "Mishnah Berakhot 6:7",
+     "label": "Mishnah Berakhot 6:7"
+    },
+    "question": "The Tosafot ask why the fruit is not primary and the salted food secondary, so that blessing the fruit would exempt everything.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:7:2",
+      "quote": "וא\"ת פירות הוי עיקר ומליח טפל ולברך על הפירות ולפטור כולהו",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Berakhot 6:7:3",
+      "quote": "וְאִם תֹּאמַר פֵּרוֹת הֲוֵי עִקָּר וּמָלִיחַ טָפֵל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot, cited by Tosafot Yom Tov: the case is one where he did not eat the fruit at that same sitting.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:7:2",
+        "quote": "דמיירי שלא אכל הפירות באותו מעמד"
+       }
+      ]
+     },
+     {
+      "text": "Rashash: Rashi seems to say the salted food is of Genosar fruits, and so the Tosafot's question no longer arises.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Berakhot 6:7:1",
+        "quote": "דהמליח הוא מפירות גנוסר"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger: it means that after eating the fruit he moved to another place and ate the salted food there.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:7:2",
+        "quote": "דאחר אכילת הפירות שינה מקומו ואכל שם המליח"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the limits of the rule that the main food exempts the secondary.",
+    "mishnah": 7,
+    "anchors": [
+     "שֶׁהַפַּת טְפֵלָה לוֹ"
+    ]
+   },
+   {
+    "title": "Why this order: figs, grapes, pomegranates?",
+    "pasuk": {
+     "text": "אָכַל תְּאֵנִים עֲנָבִים וְרִמּוֹנִים",
+     "ref": "Mishnah Berakhot 6:8",
+     "label": "Mishnah Berakhot 6:8"
+    },
+    "question": "Tosafot Yom Tov asks why the mishnah lists figs before grapes, not in the order of the verse. Rashash objects that the verse in Numbers does list fig, then vine, then pomegranate.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:8:1",
+      "quote": "לא שנאן כסדרן בכתוב גפן ותאנה",
+      "era": "acharon"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Berakhot 6:8:1",
+      "quote": "נעלם מכ\"ת קרא מפורש ותאנה וגפן ורמון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: the verse, praising the Land, puts the best first; the tanna, speaking of eating, puts first what ripens first.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:8:1",
+        "quote": "והתנא דמיירי באכילתן מקדים המתבשל תחלה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the mishnah's order follows ripening, not the verse.",
+    "mishnah": 8,
+    "anchors": [
+     "אָכַל תְּאֵנִים עֲנָבִים וְרִמּוֹנִים"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Rabbi Akiva Eiger",
+   "Tosafot Yom Tov",
+   "Ikar Tosafot Yom Tov",
+   "Rashash",
+   "Hon Ashir",
+   "Rambam",
+   "Bartenura"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מונה את הברכות על הפירות: בורא פרי העץ על פירות האילן, חוץ מן היין והפת, בורא פרי האדמה על פירות האדמה והירקות, ורבי יהודה אומר בורא מיני דשאים. משנה ב קובעת שבדיעבד בורא פרי האדמה על פירות האילן יוצא, להפך לא יצא, ושהכל פוטר הכל. משנה ג אומרת שהכל על חומץ, נובלות, גובאי, חלב, גבינה וביצים, ורבי יהודה אומר שעל מין קללה אין מברכין. משנה ד שואלת על איזה מין מברכים תחילה כשיש לפניו מינים הרבה: לרבי יהודה ממין שבעה, ולחכמים על איזה שירצה. משנה ה פוסקת שברכת היין והפרפרת שלפני המזון פוטרת את שלאחריו, שהפת פוטרת את הפרפרת ולא להפך, ובית שמאי מוסיפים מעשה קדרה. משנה ו מבדילה בין ישיבה להסבה, יין בתוך המזון ולאחריו, והמוגמר. משנה ז נותנת את כלל העיקר והטפל. משנה ח מביאה את המחלוקת על ברכה אחרונה אחרי תאנים, ענבים ורמונים (רבן גמליאל, חכמים, רבי עקיבא) ועל ברכת המים לצמאו (רבי טרפון).",
+  "topics": [
+   {
+    "term": "ברכת פרי העץ ופרי האדמה",
+    "explanation": "המשנה קובעת שתי ברכות יסוד: בורא פרי העץ על פירות האילן, ובורא פרי האדמה על פירות האדמה. מה נחשב אילן נקבע לפי השאלה אם אותו ענף חוזר ומוציא פרי בשנה הבאה.",
+    "mishnah": 2,
+    "anchors": [
+     "עַל פֵּרוֹת הָאִילָן"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 6:2:1",
+     "quote": "וְאוֹתוֹ הֶעָנָף עַצְמוֹ חוֹזֵר וּמוֹצִיא פְּרִי לַשָּׁנָה הָאַחֶרֶת",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "יין ופת – ברכה מיוחדת",
+    "explanation": "יין בא מפרי הגפן ופת מתבואת האדמה, ובכל זאת לכל אחד מהם ברכה משלו. הטעם הוא חשיבותם: נקבעה להם ברכה לעצמם ולא הברכה הכללית של סוגם.",
+    "mishnah": 1,
+    "anchors": [
+     "חוּץ מִן הַיַּיִן"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 6:1:1",
+     "quote": "שֶׁמִּתּוֹךְ חֲשִׁיבוּתוֹ קָבְעוּ לוֹ בְּרָכָה לְעַצְמוֹ",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "שהכל נהיה בדברו",
+    "explanation": "ברכת שהכל נהיה בדברו היא הברכה הכללית ביותר. בדיעבד היא מועילה על כל מאכל, ועל דברים שאינם גדלים מן הארץ היא הברכה הראויה מלכתחילה.",
+    "mishnah": 2,
+    "anchors": [
+     "שֶׁהַכֹּל נִהְיָה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 6:2:2",
+     "quote": "וְעַל כֻּלָּן אִם אָמַר שֶׁהַכֹּל יָצָא",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "מין קללה",
+    "explanation": "רבי יהודה אומר שאין מברכין על מאכל שבא מחמת קללה. המפרשים דנים אילו דברים הוא כולל: חומץ, נובלות וגובאי.",
+    "mishnah": 3,
+    "anchors": [
+     "מִין קְלָלָה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 6:3:1",
+     "quote": "רוצה לומר הארבה והפירות אשר נפלו קודם בשולם",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "שבעת המינים",
+    "explanation": "שבעת המינים הם אלה שהתורה משבחת בהם את ארץ ישראל: חטה, שעורה, גפן, תאנה, רמון, זית ודבש. לדעת רבי יהודה יש להם עדיפות כשיש לפני האדם מינים רבים, וחכמים מתירים לו לבחור.",
+    "mishnah": 4,
+    "anchors": [
+     "מִמִּין שִׁבְעָה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 6:4:1",
+     "quote": "אחד משבעה מינין הספורים בתורה",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "פרפרת",
+    "explanation": "פרפרת היא מאכל שמלפתים בו את הפת, כגון בשר, ביצים ודגים. הברטנורא מציין שלפעמים הביאו פרפראות לפני הסעודה כדי למשוך את האכילה, ושוב אחריה.",
+    "mishnah": 5,
+    "anchors": [
+     "הַפַּרְפֶּרֶת"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 6:5:2",
+     "quote": "כָּל דָּבָר שֶׁמְּלַפְּתִים בּוֹ אֶת הַפַּת",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "הסבה",
+    "explanation": "כשנתכנסו אנשים לאכול יחד היו מסובים על המטות. ההסבה מראה שהם חבורה אחת, ולכן אחד מברך לכולם; בישיבה בלי הסבה כל אחד מברך לעצמו.",
+    "mishnah": 6,
+    "anchors": [
+     "הֵסֵבּוּ"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 6:6:1",
+     "quote": "וְסִימָן הוּא שֶׁלֹּא נִתְוַעֲדוּ לֶאֱכֹל יַחַד",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "עיקר וטפל",
+    "explanation": "כששני מאכלים נאכלים יחד, אחד עיקר והשני טפל, וברכת העיקר פוטרת את הטפל. במשנה המליח הוא העיקר והפת טפלה לו.",
+    "mishnah": 7,
+    "anchors": [
+     "עִקָּר וְעִמּוֹ טְפֵלָה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 6:7:1",
+     "quote": "עיקר הוא השרש",
+     "era": "rishon"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "פירוש 'המוציא'",
+    "pasuk": {
+     "text": "הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ",
+     "ref": "Mishnah Berakhot 6:1",
+     "label": "משנה ברכות ו, א"
+    },
+    "question": "ברכת הפת היא 'המוציא לחם מן הארץ'. רבי עקיבא איגר מזכיר את המחלוקת אם 'מוציא' משמע בהווה או לעתיד, ושואל מה עושה רבי נחמן בפסוקים כמו 'המוציא אתכם מארץ מצרים'.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:1:1",
+      "quote": "וקשה לי מה יעשה ר\"נ בקרא דהמעלה אתכם מארץ מצרים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"י, כפי שרבי עקיבא איגר מביא: רבי נחמן מתרץ את הפסוק של רבנן בכך שעדיין היה מוציא להם מים במדבר. על הפסוקים האחרים רבי עקיבא איגר מסיים 'וצ\"ע'.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:1:1",
+        "quote": "רש\"י דר\"נ יתרץ לקרא דרבנן דעדיין היה מוציא להם מים במדבר"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שגם נוסח ברכת הפת עצמו נתון במחלוקת.",
+    "mishnah": 1,
+    "anchors": [
+     "הַמּוֹצִיא לֶחֶם מִן הָאָרֶץ"
+    ]
+   },
+   {
+    "title": "למה בורא פרי האדמה יוצא על פירות האילן",
+    "pasuk": {
+     "text": "בֵּרַךְ עַל פֵּרוֹת הָאִילָן בּוֹרֵא פְּרִי הָאֲדָמָה, יָצָא",
+     "ref": "Mishnah Berakhot 6:2",
+     "label": "משנה ברכות ו, ב"
+    },
+    "question": "המשנה פוסקת שבורא פרי האדמה על פירות האילן יוצא. התוספות יום טוב שואל למה הרע\"ב לא כתב שהמשנה כאן יחידאה, כפי שמשמע מדברי רבי יהודה במקום אחר (בכורים).",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:2:1",
+      "quote": "הוי ליה לכתוב גם בכאן דמתני' יחידאה היא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב: הכסף משנה מצא נוסח ברמב\"ם שפוסק כמשנתנו, כי בירושלמי פירות האילן בכלל פירות האדמה ולא להפך.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:2:1",
+        "quote": "שמצא נוסח בדברי הרמב\"ם דפוסק כמתניתין דהכא"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: בירושלמי מבואר שמשנה זו דברי הכל.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Berakhot 6:2:1",
+        "quote": "בַּיְרוּשַׁלְמִי מְבֹאָר דְּדִבְרֵי הַכֹּל הִיא"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם המשנה היא דעת יחיד או הלכה מקובלת.",
+    "mishnah": 2,
+    "anchors": [
+     "בֵּרַךְ עַל פֵּרוֹת הָאִילָן בּוֹרֵא פְּרִי הָאֲדָמָה, יָצָא"
+    ]
+   },
+   {
+    "title": "מהו 'מין קללה'",
+    "pasuk": {
+     "text": "רַבִּי יְהוּדָה אוֹמֵר, כָּל שֶׁהוּא מִין קְלָלָה אֵין מְבָרְכִין עָלָיו",
+     "ref": "Mishnah Berakhot 6:3",
+     "label": "משנה ברכות ו, ג"
+    },
+    "question": "לאילו מאכלים מתכוון רבי יהודה במין קללה: חומץ, נובלות, גובאי או כולם (ומה בחלב, גבינה וביצים)?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Berakhot 6:3:1",
+      "quote": "במשנה רי\"א כ\"ש מין קללה אין מברכין עליו",
+      "era": "acharon"
+     },
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Berakhot 6:3:3",
+      "quote": "מדלא קאמר כיון שהם מין קללה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: הכוונה לארבה ולפירות שנפלו קודם בישולם.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 6:3:1",
+        "quote": "רוצה לומר הארבה והפירות אשר נפלו קודם בשולם"
+       }
+      ]
+     },
+     {
+      "text": "דעה אחת (בשם הר\"י): רק לחומץ ולנובלות, שהיו טובים ונפסדו; הגובאי לא נפסד טעמו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:3:2",
+        "quote": "דלא קאי אלא אחומץ ונובלות בלבד"
+       }
+      ]
+     },
+     {
+      "text": "הדעה השנייה: גם גובאי, כי הוא מזיק לעולם ואוכל התבואה.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Berakhot 6:3:1",
+        "quote": "כֵּיוָן שֶׁמַּזִּיק לָעוֹלָם וְאוֹכֵל הַתְּבוּאָה אֵין מְבָרְכִין עָלָיו"
+       }
+      ]
+     }
+    ],
+    "why": "קובע אילו מאכלים אין מברכין עליהם כלל, ובכך עד היכן מגיעה ברכת שהכל.",
+    "mishnah": 3,
+    "anchors": [
+     "רַבִּי יְהוּדָה אוֹמֵר, כָּל שֶׁהוּא מִין קְלָלָה אֵין מְבָרְכִין עָלָיו"
+    ]
+   },
+   {
+    "title": "במה חולקים בית שמאי",
+    "pasuk": {
+     "text": "בֵּית שַׁמַּאי אוֹמְרִים, אַף לֹא מַעֲשֵׂה קְדֵרָה",
+     "ref": "Mishnah Berakhot 6:5",
+     "label": "משנה ברכות ו, ה"
+    },
+    "question": "בית שמאי אומרים שברכת הפרפרת אינה פוטרת אף מעשה קדרה. ההון עשיר שואל אם פירוש הרע\"ב מתיישב עם הגמרא, שהניחה את העניין בתיקו, ומדוע הרע\"ב פוסק שלא כבית שמאי.",
+    "asked_by": [
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Berakhot 6:5:2",
+      "quote": "ומדטרח הש\"ס לבאר דעת בית שמאי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: כשם שברכת הפרפרת אינה פוטרת את הפת, כך אינה פוטרת מעשה קדרה; ואין הלכה כבית שמאי.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 6:5:3",
+        "quote": "וּבֵית שַׁמַּאי סָבְרֵי כְּשֵׁם שֶׁאִם בֵּרַךְ עַל הַפַּרְפֶּרֶת לֹא פָטַר אֶת הַפַּת"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: אם בירך על דבר מן הפרפראות לא פטר מעשה קדרה; ואין הלכה כבית שמאי.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 6:5:1",
+        "quote": "שאם ברך על שום דבר מן הפרפראות לא פטר מעשה קדרה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה היכן עובר הגבול בין מאכל עיקרי לצדדי.",
+    "mishnah": 5,
+    "anchors": [
+     "בֵּית שַׁמַּאי אוֹמְרִים, אַף לֹא מַעֲשֵׂה קְדֵרָה"
+    ]
+   },
+   {
+    "title": "פרפרת שלאחר המזון",
+    "pasuk": {
+     "text": "בֵּרַךְ עַל הַפַּת, פָּטַר אֶת הַפַּרְפֶּרֶת",
+     "ref": "Mishnah Berakhot 6:5",
+     "label": "משנה ברכות ו, ה"
+    },
+    "question": "אם הפת פוטרת את הפרפרת, למה לא פטרה פרפרת שלאחר המזון? רבי עקיבא איגר מבאר ומביא שתי דעות של ראשונים מתי הפת פוטרת.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:5:1",
+      "quote": "דהפת אינו פוטרו כיון דהביאו לאחר המזון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רבי עקיבא איגר: המקרה שהפת פוטרת את הפרפרת מדובר בהביאו תוך המזון.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:5:1",
+        "quote": "מיירי בהביאו תוך המזון"
+       }
+      ]
+     },
+     {
+      "text": "התוספות: מדובר בבא לסעוד.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:5:1",
+        "quote": "ודעת התוס' דמיירי בבא לסעוד"
+       }
+      ]
+     },
+     {
+      "text": "הרשב\"א: בבא לסעוד אפילו לאחר המזון אין צריך לברך, כי פרפרת היא רקיקים דקים.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:5:1",
+        "quote": "ודעת הרשב\"א דבבא לסעוד אפילו לאחהמ\"ז לא בעי ברוכי"
+       }
+      ]
+     }
+    ],
+    "why": "קובע מתי הפת פוטרת מאכלים אחרים.",
+    "mishnah": 5,
+    "anchors": [
+     "בֵּרַךְ עַל הַפַּת, פָּטַר אֶת הַפַּרְפֶּרֶת"
+    ]
+   },
+   {
+    "title": "מיהו 'והוא' האומר על המוגמר",
+    "pasuk": {
+     "text": "וְהוּא אוֹמֵר עַל הַמֻּגְמָר",
+     "ref": "Mishnah Berakhot 6:6",
+     "label": "משנה ברכות ו, ו"
+    },
+    "question": "מיהו ה'הוא' האומר על המוגמר? התוספות יום טוב וההון עשיר מציינים שהמשנה לא הזכירה מי מברך ברכת המזון, ולכן פירוש המפרשים קשה.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:6:1",
+      "quote": "ולישנא דוהוא לא דייק לדידהו",
+      "era": "acharon"
+     },
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Berakhot 6:6:2",
+      "quote": "ויש לתמוה דמברך ברכת המזון, מאן דכר שמיה במתניתי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: מי שמברך ברכת המזון הוא מברך על המוגמר.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 6:6:1",
+        "quote": "שמי שיברך ברכת המזון הוא יברך על המוגמר"
+       }
+      ]
+     },
+     {
+      "text": "הברטנורא: המברך ברכת המזון מברך על המוגמר בורא עצי בשמים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 6:6:4",
+        "quote": "הַמְבָרֵךְ בִּרְכַּת הַמָּזוֹן הוּא מְבָרֵךְ עַל הַמֻּגְמָר"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י, כפי שהתוספות יום טוב מביא: מי שבירך על היין שלאחר המזון מברך על זה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:6:1",
+        "quote": "אותו שברך על היין שלאחר המזון מברך על זה"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע מי מברך בסוף הסעודה.",
+    "mishnah": 6,
+    "anchors": [
+     "וְהוּא אוֹמֵר עַל הַמֻּגְמָר"
+    ]
+   },
+   {
+    "title": "מדוע לא הפירות העיקר",
+    "pasuk": {
+     "text": "שֶׁהַפַּת טְפֵלָה לוֹ",
+     "ref": "Mishnah Berakhot 6:7",
+     "label": "משנה ברכות ו, ז"
+    },
+    "question": "התוספות שואלים למה אין הפירות עיקר והמליח טפל, ולברך על הפירות ולפטור הכל.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:7:2",
+      "quote": "וא\"ת פירות הוי עיקר ומליח טפל ולברך על הפירות ולפטור כולהו",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Berakhot 6:7:3",
+      "quote": "וְאִם תֹּאמַר פֵּרוֹת הֲוֵי עִקָּר וּמָלִיחַ טָפֵל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות, כפי שהתוספות יום טוב מביא: מדובר שלא אכל את הפירות באותו מעמד.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:7:2",
+        "quote": "דמיירי שלא אכל הפירות באותו מעמד"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש: מרש\"י נראה שהמליח הוא מפירות גנוסר, ובזה לא קשה קושית התוספות.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Berakhot 6:7:1",
+        "quote": "דהמליח הוא מפירות גנוסר"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר: כוונתם שאחר אכילת הפירות שינה מקומו ואכל שם את המליח.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 6:7:2",
+        "quote": "דאחר אכילת הפירות שינה מקומו ואכל שם המליח"
+       }
+      ]
+     }
+    ],
+    "why": "קובע את גבולות הכלל שהעיקר פוטר את הטפל.",
+    "mishnah": 7,
+    "anchors": [
+     "שֶׁהַפַּת טְפֵלָה לוֹ"
+    ]
+   },
+   {
+    "title": "סדר התאנים והענבים",
+    "pasuk": {
+     "text": "אָכַל תְּאֵנִים עֲנָבִים וְרִמּוֹנִים",
+     "ref": "Mishnah Berakhot 6:8",
+     "label": "משנה ברכות ו, ח"
+    },
+    "question": "התוספות יום טוב שואל למה המשנה מקדימה תאנים לענבים ולא כסדר הפסוק. הרש\"ש מעיר שבפסוק בבמדבר מופיע תאנה, גפן ורמון.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:8:1",
+      "quote": "לא שנאן כסדרן בכתוב גפן ותאנה",
+      "era": "acharon"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Berakhot 6:8:1",
+      "quote": "נעלם מכ\"ת קרא מפורש ותאנה וגפן ורמון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב: הפסוק, שבא לשבח את הארץ, מקדים את המשובח; והתנא, המדבר באכילה, מקדים את המתבשל תחילה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 6:8:1",
+        "quote": "והתנא דמיירי באכילתן מקדים המתבשל תחלה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שסדר המשנה לפי סדר הבישול ולא לפי הפסוק.",
+    "mishnah": 8,
+    "anchors": [
+     "אָכַל תְּאֵנִים עֲנָבִים וְרִמּוֹנִים"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות רבי עקיבא איגר",
+   "תוספות יום טוב",
+   "עיקר תוספות יום טוב",
+   "רש\"ש",
+   "הון עשיר",
+   "רמב\"ם",
+   "ברטנורא"
+  ]
+ }
+}
