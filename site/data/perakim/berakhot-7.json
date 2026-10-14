@@ -1,0 +1,1016 @@
+{
+ "date": "2026-10-14",
+ "hebrew_date": {
+  "hebrew": "ג׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "3 Cheshvan 5787"
+ },
+ "masechet": "berakhot",
+ "perek": 7,
+ "ref": "Mishnah Berakhot 7",
+ "mishnayot": [
+  {
+   "he": "שְׁלשָׁה שֶׁאָכְלוּ כְאֶחָד, חַיָּבִין לְזַמֵּן. אָכַל דְּמַאי, וּמַעֲשֵׂר רִאשׁוֹן שֶׁנִּטְּלָה תְרוּמָתוֹ, וּמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ שֶׁנִּפְדּוּ, וְהַשַּׁמָּשׁ שֶׁאָכַל כַּזַּיִת, וְהַכּוּתִי, מְזַמְּנִין עֲלֵיהֶם. אֲבָל אָכַל טֶבֶל, וּמַעֲשֵׂר רִאשׁוֹן שֶׁלֹּא נִטְּלָה תְרוּמָתוֹ, וּמַעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ שֶׁלֹּא נִפְדּוּ, וְהַשַּׁמָּשׁ שֶׁאָכַל פָּחוֹת מִכַּזַּיִת, וְהַנָּכְרִי, אֵין מְזַמְּנִין עֲלֵיהֶם: \n",
+   "en": "This mishna sets out the essential <i>halakhot</i> pertaining to the invitation to recite Grace after Meals after a joint meal [<i>zimmun</i>]: <b>Three</b> people <b>who ate as one are required to form a <i>zimmun</i></b> and recite Grace after Meals. If, among the diners, <b>one ate doubtfully tithed produce [<i>demai</i>], and first tithe from which its <i>teruma</i> was</b> already <b>taken,</b> or <b>second tithe, and consecrated food that were redeemed</b> and therefore permitted to be eaten; <b>and</b> even <b>the waiter</b> who served the meal to the diners and <b>who ate</b> at least <b>an olive-bulk</b> from the meal, <b>and the Samaritan [<i>Kuti</i>]</b> who ate with two others at a meal; each of these people is included among the three <b>to obligate</b> those with whom they ate <b>in a <i>zimmun</i>.</b> However, <b>one who ate untithed produce [<i>tevel</i>], and first tithe from which its <i>teruma</i> was not separated, and second tithe, and consecrated food that were not redeemed, and the waiter who did not eat an olive-bulk, and the gentile</b> who ate with two Jews, none of these people is included among the three <b>to obligate</b> those with whom they ate <b>in a <i>zimmun</i>.</b> "
+  },
+  {
+   "he": "נָשִׁים וַעֲבָדִים וּקְטַנִּים, אֵין מְזַמְּנִין עֲלֵיהֶם. עַד כַּמָּה מְזַמְּנִין, עַד כַּזָּיִת. רַבִּי יְהוּדָה אוֹמֵר, עַד כַּבֵּיצָה: \n",
+   "en": "<b>Women, slaves, and minors do not obligate</b> those with whom they ate <b>in a <i>zimmun</i>. How much</b> must one eat <b>to obligate</b> those with whom he ate <b>in a <i>zimmun</i>? An olive-bulk</b> of food suffices to obligate those with whom they ate in a <i>zimmun</i>. <b>Rabbi Yehuda says: An egg-bulk</b> is the minimum measure to obligate those with whom they ate in a <i>zimmun</i>."
+  },
+  {
+   "he": "כֵּיצַד מְזַמְּנִין, בִּשְׁלשָׁה אוֹמֵר נְבָרֵךְ. בִּשְׁלשָׁה וְהוּא, אוֹמֵר בָּרְכוּ. בַּעֲשָׂרָה, אוֹמֵר נְבָרֵךְ לֵאלֹהֵינוּ. בַּעֲשָׂרָה וָהוּא, אוֹמֵר בָּרְכוּ. אֶחָד עֲשָׂרָה וְאֶחָד עֲשָׂרָה רִבּוֹא. בְּמֵאָה אוֹמֵר, נְבָרֵךְ לַייָ אֱלֹהֵינוּ. בְּמֵאָה וְהוּא, אוֹמֵר בָּרְכוּ. בְּאֶלֶף, אוֹמֵר נְבָרֵךְ לַייָ אֱלֹהֵינוּ אֱלֹהֵי יִשְׂרָאֵל. בְּאֶלֶף וְהוּא, אוֹמֵר בָּרְכוּ. בְּרִבּוֹא, אוֹמֵר, נְבָרֵךְ לַייָ אֱלֹהֵינוּ אֱלֹהֵי יִשְׂרָאֵל אֱלֹהֵי הַצְּבָאוֹת יוֹשֵׁב הַכְּרוּבִים עַל הַמָּזוֹן שֶׁאָכָלְנוּ. בְּרִבּוֹא וְהוּא, אוֹמֵר בָּרְכוּ. כְּעִנְיָן שֶׁהוּא מְבָרֵךְ, כָּךְ עוֹנִין אַחֲרָיו, בָּרוּךְ יְיָ אֱלֹהֵינוּ אֱלֹהֵי יִשְׂרָאֵל אֱלֹהֵי הַצְּבָאוֹת יוֹשֵׁב הַכְּרוּבִים עַל הַמָּזוֹן שֶׁאָכָלְנוּ. רַבִּי יוֹסֵי הַגְּלִילִי אוֹמֵר, לְפִי רֹב הַקָּהָל הֵן מְבָרְכִין, שֶׁנֶּאֱמַר בְּמַקְהֵלוֹת בָּרְכוּ אֱלֹהִים, יְיָ מִמְּקוֹר יִשְׂרָאֵל (תהלים סח). אָמַר רַבִּי עֲקִיבָא, מַה מָּצִינוּ בְּבֵית הַכְּנֶסֶת, אֶחָד מְרֻבִּין וְאֶחָד מֻעָטִין אוֹמֵר, בָּרְכוּ אֶת יְיָ. רַבִּי יִשְׁמָעֵאל אוֹמֵר, בָּרְכוּ אֶת יְיָ הַמְבֹרָךְ: \n",
+   "en": "The mishna delineates distinctions in the <i>halakhot</i> of the <i>zimmun</i> blessing, based on the number of people present. <b>How does one recite the <i>zimmun</i>? In</b> a group of <b>three</b> people, the one reciting the <i>zimmun</i> <b>says: Let us bless</b> the One from Whose food we have eaten. <b>In</b> a group of <b>three</b> people <b>and him,</b> the one reciting the <i>zimmun</i> <b>says: Bless</b> the One from Whose food we have eaten, as even without him there are enough people to recite the <i>zimmun</i>. With the increase in the number of participants, the blessing is more complex. <b>In</b> a group of <b>ten</b> people, the one reciting the <i>zimmun</i> <b>says: Let us bless our God. In</b> a group of <b>ten</b> people <b>and him,</b> the one reciting the <i>zimmun</i> <b>says: Bless</b> our God. This formula is recited <b>both</b> in a group of <b>ten and in</b> a group of <b>one hundred thousand.</b> <b>In</b> a group of <b>one hundred</b> people, the one reciting the <i>zimmun</i> <b>says: Let us bless the Lord our God. In</b> a group of <b>one hundred</b> people <b>and him,</b> the one reciting the <i>zimmun</i> <b>says: Bless</b> the Lord our God. <b>In</b> a group of <b>one thousand</b> people, the one reciting the <i>zimmun</i> <b>says: Let us bless the Lord our God, the God of Israel. In</b> a group of <b>one thousand</b> people <b>and him, he says: Bless</b> the Lord our God, the God of Israel. <b>In</b> a group of <b>ten thousand</b> people, the one reciting the <i>zimmun</i> <b>says: Let us bless the Lord our God, the God of Israel, the God of Hosts, Who sits upon the cherubs, for the food that we have eaten. In</b> a group of <b>ten thousand</b> people <b>and him,</b> the one reciting the <i>zimmun</i> <b>says: Bless</b> the Lord our God, the God of Israel, the God of Hosts, Who sits upon the cherubs, for the food that we have eaten. The principle is that <b>just as he recites the blessing, so too</b> those present <b>recite in response: Blessed be the Lord our God, the God of Israel, the God of Hosts, Who sits upon the cherubs, for the food that we have eaten.</b> On a similar note, <b>Rabbi Yosei HaGelili says: According to the size of the crowd, they recite the blessing, as it is stated: “Bless you God in full assemblies, even the Lord, you who are from the fountain of Israel”</b> (Psalms 68:27). <b>Rabbi Akiva said</b> that there are no distinctions based on the size of the crowd: <b>What do we find in the synagogue? Both</b> when there are <b>many and</b> when there are <b>few,</b> as long as there is a quorum of ten, the prayer leader <b>says: Bless [<i>barekhu</i>] the Lord. Rabbi Yishmael said</b> that in the synagogue, one recites: <b>Bless the Lord the blessed One.</b> "
+  },
+  {
+   "he": "שְׁלשָׁה שֶׁאָכְלוּ כְאֶחָד, אֵינָן רַשָּׁאִין לֵחָלֵק, וְכֵן אַרְבָּעָה, וְכֵן חֲמִשָּׁה. שִׁשָּׁה נֶחֱלָקִין, עַד עֲשָׂרָה. וַעֲשָׂרָה אֵינָן נֶחֱלָקִין, עַד שֶׁיִּהְיוּ עֶשְׂרִים: \n",
+   "en": "<b>Three</b> people <b>who ate as one are not permitted to divide</b> and recite Grace after Meals individually; rather, they recite the <i>zimmun</i> together. <b>And the same</b> is true of <b>four</b> who ate together, <b>and the same</b> is true of <b>five.</b> However, a group of <b>six, up to</b> but not including <b>ten</b> people who ate as one, <b>may divide</b> into two groups, each reciting its own <i>zimmun</i>. <b>And</b> a group of <b>ten may not divide</b> into two groups <b>until there are twenty</b> people present. The general principle is that a group may not divide unless the smaller groups will be able to recite the same <i>zimmun</i> formula that the whole group would have recited."
+  },
+  {
+   "he": "שְׁתֵּי חֲבוּרוֹת שֶׁהָיוּ אוֹכְלוֹת בְּבַיִת אֶחָד, בִּזְמַן שֶׁמִּקְצָתָן רוֹאִין אֵלּוּ אֶת אֵלּוּ, הֲרֵי אֵלּוּ מִצְטָרְפִים לְזִמּוּן. וְאִם לָאו, אֵלּוּ מְזַמְּנִין לְעַצְמָן, וְאֵלּוּ מְזַמְּנִין לְעַצְמָן. אֵין מְבָרְכִין עַל הַיַּיִן עַד שֶׁיִּתֵּן לְתוֹכוֹ מַיִם, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וַחֲכָמִים אוֹמְרִים, מְבָרְכִין: \n",
+   "en": "The mishna states a <i>halakha</i> with regard to two groups joining together: <b>Two groups that were eating in one house, when some</b> members of each group <b>can see each other, they may combine to</b> form a <b><i>zimmun</i>. And if not, these recite a <i>zimmun</i> for themselves and those recite a <i>zimmun</i> for themselves.</b> The mishna also speaks of the blessing over wine: <b>One does not recite a blessing over wine until he adds water to it,</b> that is <b>the statement of Rabbi Eliezer.</b> Undiluted wine is too strong to drink and a blessing is inappropriate. <b>And the Rabbis say:</b> Since it is possible to drink undiluted wine, one <b>recites a blessing over it.</b>"
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 lists who counts toward the three that obligate a zimmun: someone who ate demai, tithed first tithe, redeemed second tithe or hekdesh, a waiter who ate an olive-bulk, or a Kuti; but not tevel, unredeemed tithes, a waiter who ate less than an olive-bulk, or a gentile.\nMishnah 2 excludes women, slaves and minors, and sets the amount that obligates at an olive-bulk, while Rabbi Yehuda says an egg-bulk.\nMishnah 3 gives the formulas of the zimmun by size of group, from three up to ten thousand, with the opinions of Rabbi Yosei HaGelili, Rabbi Akiva and Rabbi Yishmael.\nMishnah 4 teaches that three, four or five may not divide; six may; ten may not until there are twenty.\nMishnah 5 rules that two groups in one house join if some of them see each other, and records Rabbi Eliezer and the Sages on blessing over undiluted wine.",
+  "topics": [
+   {
+    "term": "Zimmun",
+    "explanation": "Zimmun is the invitation before Grace after Meals, made when three or more eat together. One person says 'let us bless', and the others answer. A group of three is obligated, so the invitation is a duty and not only a custom.",
+    "mishnah": 1,
+    "anchors": [
+     "חיבין לזמן"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 7:1:1",
+     "quote": "להזדמן יחד לברך בלשון רבים נברך שאכלנו"
+    }
+   },
+   {
+    "term": "Demai",
+    "explanation": "Demai is produce of an am ha'aretz, about which it is doubtful whether the tithes were taken. The Rabbis forbade eating it untithed, but the mishnah says a diner who ate it still counts toward the zimmun.",
+    "mishnah": 1,
+    "anchors": [
+     "אכל דמאי"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 7:1:2",
+     "quote": "פרות עמי הארץ קרוים דמאי,"
+    }
+   },
+   {
+    "term": "The Kuti",
+    "explanation": "The Kutim were the people brought to the cities of Shomron by the king of Ashur. The mishnah counts the Kuti among those who join a zimmun, because they first adopted the Torah and were careful in the mitzvot they kept.",
+    "mishnah": 1,
+    "anchors": [
+     "הכותי"
+    ],
+    "source": {
+     "name": "Yachin",
+     "ref": "Yachin on Mishnah Berakhot 7:6:1",
+     "quote": "דתחלה נתגיירו מיראת אריות. וכשהורגלו"
+    }
+   },
+   {
+    "term": "An olive-bulk and an egg-bulk",
+    "explanation": "The mishnah sets a minimum amount for the one who obligates others in a zimmun. The first view is an olive-bulk, and Rabbi Yehuda says an egg-bulk. The Gemara bases the olive-bulk on the verse 'and you shall eat'.",
+    "mishnah": 2,
+    "anchors": [
+     "עד כזית",
+     "עד כביצה"
+    ],
+    "source": {
+     "name": "Tosafot Yom Tov",
+     "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:2:3",
+     "quote": "אכלת זו אכילה ושבעת זו שתיה ואכילה בכזית."
+    }
+   },
+   {
+    "term": "The formulas of the zimmun",
+    "explanation": "The mishnah gives the opening of the zimmun by group size: 'let us bless' for three, with the addition of 'our God' for ten, and longer formulas for larger crowds. When the one who invites is not counted among them, he says 'bless'.",
+    "mishnah": 3,
+    "anchors": [
+     "בשלשה אומר נברך"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 7:3:1",
+     "quote": "שמשלשה ועד עשרה אחד מהן מברך נברך שאכלנו",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "Dividing into groups",
+    "explanation": "Three, four or five who ate together may not split into separate zimmunim, because the obligation has already fallen on them. Six may split into two groups of three, but ten may not until there are twenty.",
+    "mishnah": 4,
+    "anchors": [
+     "ששה נחלקין"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 7:4:3",
+     "quote": "ששה נחלקים. כדי זמון לכאן וכדי זמון לכאן, עד"
+    }
+   },
+   {
+    "term": "Two groups and a shared waiter",
+    "explanation": "Two groups in the same house join in a zimmun if some of them can see each other. If not, each group blesses by itself, unless one waiter serves both groups.",
+    "mishnah": 5,
+    "anchors": [
+     "מצטרפים לזמון"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 7:5:1",
+     "quote": "אבל אם היה להם שמש אחד ואע\"פ שלא יראו אלו",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "Mixing wine with water",
+    "explanation": "In the time of the mishnah, wine was strong and was drunk after being diluted. Rabbi Eliezer says one does not bless over wine until water is added, while the Sages say one may bless over it.",
+    "mishnah": 5,
+    "anchors": [
+     "אין מברכין על היין"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 7:5:1",
+     "quote": "היין של זמן ההוא היה חזק מאד ולא",
+     "era": "rishon"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Is eating demai a mitzvah that comes through a transgression?",
+    "pasuk": {
+     "text": "אכל דמאי, ומעשר ראשון",
+     "ref": "Mishnah Berakhot 7:1",
+     "label": "Mishnah Berakhot 7:1"
+    },
+    "question": "The mishnah lets someone who ate demai count toward a zimmun. Demai is produce of an am ha'aretz from which tithes may not have been separated, and the Rabbis forbade eating it untithed. Why is Grace after Meals on it not a mitzvah that comes through a transgression?",
+    "asked_by": [
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Berakhot 7:1",
+      "quote": "אילה\"ק למה לא קמ\"ל הא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: most amei ha'aretz do tithe, so there is no mitzvah that comes through a transgression.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 7:1:2",
+        "quote": "לא הוי מצוה הבאה בעברה, דרב עמי הארץ מעשרים"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: the owner could declare the produce ownerless and it would then be fit for the poor, so it is not eating in transgression.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:1:2",
+        "quote": "לא הוי אכילה בעבירה דמגו דאי בעי מפקיר לנכסיה"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael (Yachin): the poor may be fed demai, and the person may also say Grace himself; the mishnah's novelty is that he joins to make a zimmun.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Berakhot 7:2:1",
+        "quote": "קמ\"ל דאין הבהמ\"ז מצוה הבאה בעבירה. מדחזי לעני ומגו"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the boundary between food that blocks a bracha and food that only carries a rabbinic caution.",
+    "mishnah": 1,
+    "anchors": [
+     "אכל דמאי, ומעשר ראשון"
+    ]
+   },
+   {
+    "title": "Why does the mishnah need to teach that the waiter joins the zimmun?",
+    "pasuk": {
+     "text": "השמש שאכל כזית, והכותי",
+     "ref": "Mishnah Berakhot 7:1",
+     "label": "Mishnah Berakhot 7:1"
+    },
+    "question": "Why was it necessary to say that a waiter who ate an olive-bulk obligates the others in a zimmun? What is new in it?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Berakhot 7:1:1",
+      "quote": "אמאי אצטריך למתני שהשמש מצטרף אלא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Melekhet Shelomoh, citing Rabbenu Yonah: others join only if they sat down together, but the waiter joins even though he is not seated as a fixed member.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 7:1:1",
+        "quote": "אלא ודאי בא להשמיענו שאע\"פ ששאר בנ\"א אינם מצטרפין אלא"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: one might think that since the waiter has no fixed place and comes and goes, we do not make a zimmun on him; the mishnah teaches that we do.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 7:1:5",
+        "quote": "דמהו דתימא כיון שהשמש אין לו קביעות אלא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether a zimmun depends on sitting together as a fixed group.",
+    "mishnah": 1,
+    "anchors": [
+     "השמש שאכל כזית, והכותי"
+    ]
+   },
+   {
+    "title": "Does forbidden food block only the zimmun, or the bracha itself?",
+    "pasuk": {
+     "text": "אבל אכל טבל",
+     "ref": "Mishnah Berakhot 7:1",
+     "label": "Mishnah Berakhot 7:1"
+    },
+    "question": "The mishnah says that after eating tevel or unredeemed ma'aser sheni we do not make a zimmun on the diner. Does the diner still bless for himself, or is the bracha itself withheld?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:1:8",
+      "quote": "איכא מרבוותא דסברי דווקא נקט מזמנין.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: some authorities say the mishnah means only the zimmun, and he still blesses, while others say he does not bless at all.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:1:8",
+        "quote": "איכא מרבוותא דסברי דאף ברכת הנהנין אין"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael (Yachin): by Ra'avad and Rosh, one who ate by mistake or under duress is not counted for a zimmun but does bless before and after.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Berakhot 7:12:1",
+        "quote": "אנן קיי\"ל כראב\"ד ורא\"ש. דבשוגג ואונס. אין מזמנים עליו. דלא"
+       }
+      ]
+     }
+    ],
+    "why": "It separates the rule of zimmun from the personal obligation to bless.",
+    "mishnah": 1,
+    "anchors": [
+     "אבל אכל טבל"
+    ]
+   },
+   {
+    "title": "Which minors may be counted, and may women and servants join?",
+    "pasuk": {
+     "text": "נשים ועבדים וקטנים",
+     "ref": "Mishnah Berakhot 7:2",
+     "label": "Mishnah Berakhot 7:2"
+    },
+    "question": "The mishnah says that women, slaves and minors do not obligate others in a zimmun. A statement of Rav Assi, cited by Melekhet Shelomoh, says that a baby lying in a cradle is counted. How is this reconciled?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Berakhot 7:2:1",
+      "quote": "קטן המוטל בעריסה מזמנין עליו והתנן נשים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: the mishnah speaks of a child who does not understand the meaning of the bracha; once he knows to whom we bless, a zimmun is made on him.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 7:2:1",
+        "quote": "זה שאמר קטנים אין מזמנין עליהם הוא כשלא ידעו ענין",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: only a child who does not know to whom we bless; one who does know is counted, and some say only from age thirteen.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 7:2:1",
+        "quote": "דוקא קטנים שאין יודעים למי מברכין, אבל"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: Rav Assi agrees with Rabbi Yehoshua ben Levi, that a baby in a cradle is not counted for a zimmun but may complete the ten.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 7:2:1",
+        "quote": "אע\"פ שאמרו קטן המוטל בעריסה אין מזמנין עליו אבל עושין אותו סניף"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes who is a full member of the group.",
+    "mishnah": 2,
+    "anchors": [
+     "נשים ועבדים וקטנים"
+    ]
+   },
+   {
+    "title": "Why does Bartenura rule like the olive-bulk even though Rabbi Yehuda follows it?",
+    "pasuk": {
+     "text": "עד כמה מזמנין",
+     "ref": "Mishnah Berakhot 7:2",
+     "label": "Mishnah Berakhot 7:2"
+    },
+    "question": "The preceding mishnah mentioned an olive-bulk without dispute, and here there is a dispute. Why does Bartenura rule that the halakha is like the olive-bulk, and not like Rabbi Yehuda who says an egg-bulk?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:2:3",
+      "quote": "פסק הר\"ב וכן הלכה אע\"ג דהוי סתם דלעיל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the halakha is like the olive-bulk and not like Rabbi Yehuda.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 7:2:2",
+        "quote": "כן הלכה, ולא כרבי יהודה"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: the earlier stam and this dispute do not count as a standing dispute, and in any case the matter is from the Torah, so one follows the stricter view.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Berakhot 7:2:1-2",
+        "quote": "אפילו היה מחלוקת שקול. הוי אזלינן"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael (Boaz): the earlier mishnah only taught that the waiter joins; here we learn that he himself is obligated in the zimmun, so it is not a stam followed by a dispute.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Berakhot 7:2",
+        "quote": "לפ\"ז אפשר לומר דלא הוה סתם ואח\"כ"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the halakha is decided where a stam mishnah is followed by a dispute.",
+    "mishnah": 2,
+    "anchors": [
+     "עד כמה מזמנין"
+    ]
+   },
+   {
+    "title": "Why is the name of God in Grace after Meals not the same as in the blessing for Torah?",
+    "pasuk": {
+     "text": "אומר נברך לאלהינו",
+     "ref": "Mishnah Berakhot 7:3",
+     "label": "Mishnah Berakhot 7:3"
+    },
+    "question": "In the zimmun of ten we say Elohenu, while in the blessing before the Torah reading we say Hashem. Why were they not given one formula?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:3:2",
+      "quote": "אכתי איכא למידק דלתקנו בתרווייהו בחד נוסחא",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Berakhot 7:3:1-9",
+      "quote": "אני תמה ע\"ז דאיברא איפכא מסתברא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: food is given by the attribute of justice, hence Elohim, while the Torah was given only out of kindness.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:3:2",
+        "quote": "אמנם זה מבואר כי המזון הדין נותן לכלכל"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir: the zimmun was ordained over a cup, and the word cup has the numerical value of Elohim.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Berakhot 7:3:1",
+        "quote": "משום דברכת הזמון נתקנה על הכוס, כל"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: at the meal we say Elohut, so that even if we have been satisfied we remember that God's awe rests upon us.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 7:3:6",
+        "quote": "גבי ברכת המזון נכון תקנו לומר בשם אלהות כלומר אע\"פ"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Rishonim and Acharonim read the choice of divine names in the blessings.",
+    "mishnah": 3,
+    "anchors": [
+     "אומר נברך לאלהינו"
+    ]
+   },
+   {
+    "title": "Whose opinion is the opening of the mishnah, and where does the dispute begin?",
+    "pasuk": {
+     "text": "אחד עשרה ואחד עשרה רבוא",
+     "ref": "Mishnah Berakhot 7:3",
+     "label": "Mishnah Berakhot 7:3"
+    },
+    "question": "The Rashash notes a difficulty: the mishnah says that ten and ten thousand are alike, which seems to conflict with how the Gemara assigns the opening to Rabbi Akiva and the rest to Rabbi Yosei HaGelili. Where does Rabbi Akiva's view end?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Berakhot 7:3:1",
+      "quote": "לכאורה פי' נגד הגמרא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: up to 'ten thousand' is Rabbi Akiva, and everything after it is Rabbi Yosei HaGelili.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 7:3:1",
+        "quote": "מה שנאמר במשנה הזאת אחד עשרה ואחד עשרה רבוא הוא",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: the opening is Rabbi Akiva, who says there is no difference between many and few once there are ten.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 7:3:2",
+        "quote": "הך רישא רבי עקיבא היא,"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir: only 'eleven and eleven ten-thousands' is Rabbi Akiva; the rest of the opening is agreed by all.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Berakhot 7:3:2",
+        "quote": "זה לבד, דברי ר\"ע הוא."
+       }
+      ]
+     }
+    ],
+    "why": "It decides how to read the structure of the longest mishnah in the perek.",
+    "mishnah": 3,
+    "anchors": [
+     "אחד עשרה ואחד עשרה רבוא"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Boaz",
+   "Bartenura",
+   "Tosafot Yom Tov",
+   "Yachin",
+   "Melekhet Shelomoh",
+   "Rambam",
+   "Lechem Shamayim",
+   "Hon Ashir",
+   "Rashash"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מונה מי נחשב בשלושה המחייבים זימון: מי שאכל דמאי, מעשר ראשון שנטלה תרומתו, מעשר שני והקדש שנפדו, שמש שאכל כזית, והכותי; אך לא טבל, מעשרות שלא נפדו, שמש שאכל פחות מכזית והנכרי.\nמשנה ב מוציאה נשים, עבדים וקטנים, וקובעת שיעור כזית, ורבי יהודה אומר כביצה.\nמשנה ג נותנת את נוסחי הזימון לפי מספר הנוכחים, משלושה ועד רבוא, ואת דברי רבי יוסי הגלילי, רבי עקיבא ורבי ישמעאל.\nמשנה ד מלמדת ששלושה, ארבעה וחמישה אינם נחלקים, שישה נחלקים, ועשרה אינם נחלקים עד שיהיו עשרים.\nמשנה ה קובעת ששתי חבורות באותו בית מצטרפות אם רואות זו את זו, ומביאה את מחלוקת רבי אליעזר וחכמים בברכה על יין שלא נמזג.",
+  "topics": [
+   {
+    "term": "זימון",
+    "explanation": "זימון הוא ההזמנה שלפני ברכת המזון כששלושה או יותר אכלו יחד. אחד אומר 'נברך' והאחרים עונים. שלושה חייבים בו, ולכן זו חובה ולא מנהג בלבד.",
+    "mishnah": 1,
+    "anchors": [
+     "חיבין לזמן"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 7:1:1",
+     "quote": "להזדמן יחד לברך בלשון רבים נברך שאכלנו"
+    }
+   },
+   {
+    "term": "דמאי",
+    "explanation": "דמאי הוא פרי עם הארץ שספק אם הופרשו ממנו מעשרות. חכמים אסרו לאוכלו בלא עישור, והמשנה אומרת שמי שאכלו מצטרף לזימון.",
+    "mishnah": 1,
+    "anchors": [
+     "אכל דמאי"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 7:1:2",
+     "quote": "פרות עמי הארץ קרוים דמאי,"
+    }
+   },
+   {
+    "term": "הכותי",
+    "explanation": "הכותים היו העמים שהביא מלך אשור לערי שומרון. המשנה מונה את הכותי בין המצטרפים לזימון, כי קיבלו את התורה והיו מדקדקים במצוות שקיבלו.",
+    "mishnah": 1,
+    "anchors": [
+     "הכותי"
+    ],
+    "source": {
+     "name": "תפארת ישראל (יכין)",
+     "ref": "Yachin on Mishnah Berakhot 7:6:1",
+     "quote": "דתחלה נתגיירו מיראת אריות. וכשהורגלו"
+    }
+   },
+   {
+    "term": "כזית וכביצה",
+    "explanation": "המשנה קובעת שיעור מינימלי לזימון: כזית, ורבי יהודה אומר כביצה. הגמרא לומדת כזית מ'ואכלת'.",
+    "mishnah": 2,
+    "anchors": [
+     "עד כזית",
+     "עד כביצה"
+    ],
+    "source": {
+     "name": "תוספות יום טוב",
+     "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:2:3",
+     "quote": "אכלת זו אכילה ושבעת זו שתיה ואכילה בכזית."
+    }
+   },
+   {
+    "term": "נוסחי הזימון",
+    "explanation": "המשנה נותנת את נוסח הזימון לפי מספר הנוכחים: 'נברך' לשלושה, ו'אלהינו' לעשרה, ונוסחים ארוכים יותר לקהל גדול. כשהמזמן אינו נמנה בהם הוא אומר 'ברכו'.",
+    "mishnah": 3,
+    "anchors": [
+     "בשלשה אומר נברך"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 7:3:1",
+     "quote": "שמשלשה ועד עשרה אחד מהן מברך נברך שאכלנו",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "חלוקת הקבוצה",
+    "explanation": "שלשה, ארבעה או חמישה שאכלו יחד אינם רשאים להתחלק, כי כבר חלה עליהם חובת הזימון. שישה נחלקים לשתי קבוצות של שלושה, אך עשרה אינם נחלקים עד שיהיו עשרים.",
+    "mishnah": 4,
+    "anchors": [
+     "ששה נחלקין"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 7:4:3",
+     "quote": "ששה נחלקים. כדי זמון לכאן וכדי זמון לכאן, עד"
+    }
+   },
+   {
+    "term": "שתי חבורות ושמש אחד",
+    "explanation": "שתי חבורות באותו בית מצטרפות לזימון אם מקצתן רואות זו את זו. אם לאו, כל אחת מזמנת לעצמה, אלא אם שמש אחד משמש את שתיהן.",
+    "mishnah": 5,
+    "anchors": [
+     "מצטרפים לזמון"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 7:5:1",
+     "quote": "אבל אם היה להם שמש אחד ואע\"פ שלא יראו אלו",
+     "era": "rishon"
+    }
+   },
+   {
+    "term": "מזיגת יין במים",
+    "explanation": "בזמן המשנה היה היין חזק ושתו אותו מזוג. רבי אליעזר אומר שאין מברכים על היין עד שנותנים בו מים, וחכמים אומרים שמברכים.",
+    "mishnah": 5,
+    "anchors": [
+     "אין מברכין על היין"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 7:5:1",
+     "quote": "היין של זמן ההוא היה חזק מאד ולא",
+     "era": "rishon"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "האם אכילת דמאי היא מצווה הבאה בעבירה?",
+    "pasuk": {
+     "text": "אכל דמאי, ומעשר ראשון",
+     "ref": "Mishnah Berakhot 7:1",
+     "label": "משנה ברכות ז, 1"
+    },
+    "question": "המשנה מתירה לצרף למזמנים את מי שאכל דמאי. אך דמאי הוא פרי עם הארץ שאולי לא הופרשו ממנו מעשרות, וחכמים אסרו לאוכלו בלא עישור. מדוע ברכת המזון עליו אינה מצווה הבאה בעבירה?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (בועז)",
+      "ref": "Boaz on Mishnah Berakhot 7:1",
+      "quote": "אילה\"ק למה לא קמ\"ל הא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: רוב עמי הארץ מעשרים, ולכן אין כאן מצווה הבאה בעבירה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 7:1:2",
+        "quote": "לא הוי מצוה הבאה בעברה, דרב עמי הארץ מעשרים"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: הבעלים יכול להפקיר את נכסיו והדמאי ראוי לעניים, ולכן אין זו אכילה בעבירה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:1:2",
+        "quote": "לא הוי אכילה בעבירה דמגו דאי בעי מפקיר לנכסיה"
+       }
+      ]
+     },
+     {
+      "text": "תפארת ישראל (יכין): מאכילים את העני דמאי והמברך יכול לברך בעצמו; החידוש במשנה שהוא מצטרף לזימון.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 7:2:1",
+        "quote": "קמ\"ל דאין הבהמ\"ז מצוה הבאה בעבירה. מדחזי לעני ומגו"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת את הגבול בין אכילה שמונעת ברכה לבין אכילה שיש בה רק חשש מדרבנן.",
+    "mishnah": 1,
+    "anchors": [
+     "אכל דמאי, ומעשר ראשון"
+    ]
+   },
+   {
+    "title": "מדוע נזקקה המשנה ללמד שהשמש מצטרף לזימון?",
+    "pasuk": {
+     "text": "השמש שאכל כזית, והכותי",
+     "ref": "Mishnah Berakhot 7:1",
+     "label": "משנה ברכות ז, 1"
+    },
+    "question": "מדוע הוצרך התנא לומר שהשמש שאכל כזית מזמנים עליו? מה החידוש בכך?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Berakhot 7:1:1",
+      "quote": "אמאי אצטריך למתני שהשמש מצטרף אלא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מלאכת שלמה בשם רבנו יונה: אחרים מצטרפים רק בישיבת קבע, והשמש מצטרף אף שאינו יושב בקביעות.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 7:1:1",
+        "quote": "אלא ודאי בא להשמיענו שאע\"פ ששאר בנ\"א אינם מצטרפין אלא"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: יכולנו לומר שהשמש הולך ובא ואין לו קביעות ולכן אין מזמנין עליו, והמשנה באה לומר שמזמנין.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 7:1:5",
+        "quote": "דמהו דתימא כיון שהשמש אין לו קביעות אלא"
+       }
+      ]
+     }
+    ],
+    "why": "היא מלמדת אם חיוב הזימון תלוי בישיבה משותפת בקביעות.",
+    "mishnah": 1,
+    "anchors": [
+     "השמש שאכל כזית, והכותי"
+    ]
+   },
+   {
+    "title": "האם אכילת איסור פוסלת רק את הזימון או את הברכה עצמה?",
+    "pasuk": {
+     "text": "אבל אכל טבל",
+     "ref": "Mishnah Berakhot 7:1",
+     "label": "משנה ברכות ז, 1"
+    },
+    "question": "המשנה אומרת שמי שאכל טבל או מעשר שני שלא נפדה אין מזמנין עליו. האם הוא עצמו מברך, או שהברכה עצמה נמנעת ממנו?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:1:8",
+      "quote": "איכא מרבוותא דסברי דווקא נקט מזמנין.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: יש מרבותינו הסוברים שהמשנה מדברת רק על הזימון והוא מברך, ויש הסוברים שאף ברכת הנהנין אינו מברך.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:1:8",
+        "quote": "איכא מרבוותא דסברי דאף ברכת הנהנין אין"
+       }
+      ]
+     },
+     {
+      "text": "תפארת ישראל (יכין): לפי הראב\"ד והרא\"ש, מי שאכל בשוגג או באונס אין מזמנין עליו, אך מברך תחילה וסוף.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 7:12:1",
+        "quote": "אנן קיי\"ל כראב\"ד ורא\"ש. דבשוגג ואונס. אין מזמנים עליו. דלא"
+       }
+      ]
+     }
+    ],
+    "why": "היא מבדילה בין דין הזימון לבין חובת הברכה האישית.",
+    "mishnah": 1,
+    "anchors": [
+     "אבל אכל טבל"
+    ]
+   },
+   {
+    "title": "אילו קטנים מצטרפים, והאם נשים ועבדים מצטרפים?",
+    "pasuk": {
+     "text": "נשים ועבדים וקטנים",
+     "ref": "Mishnah Berakhot 7:2",
+     "label": "משנה ברכות ז, 2"
+    },
+    "question": "המשנה אומרת שנשים ועבדים וקטנים אין מזמנין עליהם. אך מובאת אמרת רב אסי שקטן המוטל בעריסה מזמנין עליו. כיצד מתיישבים הדברים?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Berakhot 7:2:1",
+      "quote": "קטן המוטל בעריסה מזמנין עליו והתנן נשים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: המשנה מדברת בקטן שאינו יודע ענין הברכה; כשהוא יודע למי מברכין, מזמנין עליו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 7:2:1",
+        "quote": "זה שאמר קטנים אין מזמנין עליהם הוא כשלא ידעו ענין",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: דווקא קטנים שאינם יודעים למי מברכים; קטן היודע למי מברכים מזמנין עליו, ויש אומרים רק בגיל שלוש עשרה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 7:2:1",
+        "quote": "דוקא קטנים שאין יודעים למי מברכין, אבל"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: רב אסי כריב\"ל, שקטן המוטל בעריסה אין מזמנין עליו אך עושין אותו סניף לעשרה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 7:2:1",
+        "quote": "אע\"פ שאמרו קטן המוטל בעריסה אין מזמנין עליו אבל עושין אותו סניף"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת מי נחשב חבר מלא בקבוצה.",
+    "mishnah": 2,
+    "anchors": [
+     "נשים ועבדים וקטנים"
+    ]
+   },
+   {
+    "title": "מדוע פסק הרב ברטנורא כזית אף שאחריו מחלוקת רבי יהודה?",
+    "pasuk": {
+     "text": "עד כמה מזמנין",
+     "ref": "Mishnah Berakhot 7:2",
+     "label": "משנה ברכות ז, 2"
+    },
+    "question": "המשנה הקודמת הזכירה כזית בסתם, וכאן יש מחלוקת. מדוע פוסק ברטנורא שהלכה כזית ולא כרבי יהודה האומר כביצה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:2:3",
+      "quote": "פסק הר\"ב וכן הלכה אע\"ג דהוי סתם דלעיל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: הלכה כזית ולא כרבי יהודה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 7:2:2",
+        "quote": "כן הלכה, ולא כרבי יהודה"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: אין זו סתם ואחריה מחלוקת, ובכל מקרה הדבר מן התורה והולכים אחר המחמיר.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Berakhot 7:2:1-2",
+        "quote": "אפילו היה מחלוקת שקול. הוי אזלינן"
+       }
+      ]
+     },
+     {
+      "text": "תפארת ישראל (בועז): במשנה הקודמת רק למדנו שהשמש מצטרף, וכאן שהוא עצמו חייב בזימון, ולכן אין זו סתם ואחריה מחלוקת.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Berakhot 7:2",
+        "quote": "לפ\"ז אפשר לומר דלא הוה סתם ואח\"כ"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה איך נפסקת ההלכה כשאחרי משנה סתמית באה מחלוקת.",
+    "mishnah": 2,
+    "anchors": [
+     "עד כמה מזמנין"
+    ]
+   },
+   {
+    "title": "מדוע שם ה' בזימון שונה משמו בברכת התורה?",
+    "pasuk": {
+     "text": "אומר נברך לאלהינו",
+     "ref": "Mishnah Berakhot 7:3",
+     "label": "משנה ברכות ז, 3"
+    },
+    "question": "בזימון של עשרה אומרים אלהינו, ובברכת התורה אומרים ה'. מדוע לא תיקנו נוסח אחד לשניהם?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:3:2",
+      "quote": "אכתי איכא למידק דלתקנו בתרווייהו בחד נוסחא",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Berakhot 7:3:1-9",
+      "quote": "אני תמה ע\"ז דאיברא איפכא מסתברא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: המזון נתן מדת הדין ולכן אלהים, אבל התורה ניתנה בחסד.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 7:3:2",
+        "quote": "אמנם זה מבואר כי המזון הדין נותן לכלכל"
+       }
+      ]
+     },
+     {
+      "text": "הון עשיר: ברכת הזימון נתקנה על הכוס, וכוס בגימטריה אלהים.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Berakhot 7:3:1",
+        "quote": "משום דברכת הזמון נתקנה על הכוס, כל"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: בברכת המזון אומרים שם אלהות, כדי שאף כשאנו שבעים נזכור את מורא שכינתו.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 7:3:6",
+        "quote": "גבי ברכת המזון נכון תקנו לומר בשם אלהות כלומר אע\"פ"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה איך הראשונים והאחרונים מבארים את הבחירה בשמות ה' בברכות.",
+    "mishnah": 3,
+    "anchors": [
+     "אומר נברך לאלהינו"
+    ]
+   },
+   {
+    "title": "דברי מי הם תחילת המשנה, ומהיכן מתחילה המחלוקת?",
+    "pasuk": {
+     "text": "אחד עשרה ואחד עשרה רבוא",
+     "ref": "Mishnah Berakhot 7:3",
+     "label": "משנה ברכות ז, 3"
+    },
+    "question": "הרש\"ש מעיר שהמשנה אומרת אחד עשרה ואחד עשרה רבוא, וזה נראה נגד הגמרא המחלקת בין ר\"ע לריה\"ג. היכן נגמרת דעת רבי עקיבא?",
+    "asked_by": [
+     {
+      "name": "רשש",
+      "ref": "Rashash on Mishnah Berakhot 7:3:1",
+      "quote": "לכאורה פי' נגד הגמרא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: מה שנאמר עד אחד עשרה רבוא הוא דעת רבי עקיבא, וכל מה שבא אחר כך הוא דעת רבי יוסי הגלילי.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 7:3:1",
+        "quote": "מה שנאמר במשנה הזאת אחד עשרה ואחד עשרה רבוא הוא",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: הרישא היא רבי עקיבא, שאין חילוק בין רבים למועטים משהגיעו לעשרה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 7:3:2",
+        "quote": "הך רישא רבי עקיבא היא,"
+       }
+      ]
+     },
+     {
+      "text": "הון עשיר: רק 'אחד עשרה ואחד עשרה רבוא' הוא ר\"ע, ושאר הרישא דברי הכל.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Berakhot 7:3:2",
+        "quote": "זה לבד, דברי ר\"ע הוא."
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת איך לקרוא את מבנה המשנה הארוכה בפרק.",
+    "mishnah": 3,
+    "anchors": [
+     "אחד עשרה ואחד עשרה רבוא"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תפארת ישראל (בועז)",
+   "ברטנורא",
+   "תוספות יום טוב",
+   "תפארת ישראל (יכין)",
+   "מלאכת שלמה",
+   "רמב\"ם",
+   "לחם שמים",
+   "הון עשיר",
+   "רשש"
+  ]
+ }
+}
