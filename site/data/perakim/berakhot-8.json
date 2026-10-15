@@ -1,0 +1,924 @@
+{
+ "date": "2026-10-15",
+ "hebrew_date": {
+  "hebrew": "ד׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "4 Cheshvan 5787"
+ },
+ "masechet": "berakhot",
+ "perek": 8,
+ "ref": "Mishnah Berakhot 8",
+ "mishnayot": [
+  {
+   "he": "אֵלּוּ דְבָרִים שֶׁבֵּין בֵּית שַׁמַּאי וּבֵית הִלֵּל בַּסְּעֻדָּה. בֵּית שַׁמַּאי אוֹמְרִים, מְבָרֵךְ עַל הַיּוֹם וְאַחַר כָּךְ מְבָרֵךְ עַל הַיַּיִן. וּבֵית הִלֵּל אוֹמְרִים, מְבָרֵךְ עַל הַיַּיִן וְאַחַר כָּךְ מְבָרֵךְ עַל הַיּוֹם: \n",
+   "en": "<b>These</b> are the <b>matters</b> of dispute <b>between Beit Shammai and Beit Hillel with regard to</b> the <i>halakhot</i> of <b>a meal:</b> One dispute concerns the order of blessings in <i>kiddush</i>. <b>Beit Shammai say:</b> When one recites <i>kiddush</i> over wine, <b>one recites a blessing over the</b> sanctification of the <b>day and recites a blessing over the wine thereafter. And Beit Hillel say: One recites a blessing over the wine and recites a blessing over the day thereafter.</b>"
+  },
+  {
+   "he": "בֵּית שַׁמַּאי אוֹמְרִים, נוֹטְלִין לַיָּדַיִם, וְאַחַר כָּךְ מוֹזְגִין אֶת הַכּוֹס. וּבֵית הִלֵּל אוֹמְרִים, מוֹזְגִין אֶת הַכּוֹס וְאַחַר כָּךְ נוֹטְלִין לַיָּדָיִם: \n",
+   "en": "Similarly, Beit Hillel and Beit Shammai disagree with regard to drinking wine before a meal. <b>Beit Shammai say: One washes his hands and mixes</b> water with the wine in <b>the cup thereafter, and Beit Hillel say: One mixes</b> water with the wine in <b>the cup and</b> only <b>washes his hands thereafter.</b> The basis of this particular dispute is with regard to the laws of ritual purity, as the Gemara will explain below."
+  },
+  {
+   "he": "בֵּית שַׁמַּאי אוֹמְרִים, מְקַנֵּחַ יָדָיו בַּמַּפָּה וּמַנִּיחָהּ עַל הַשֻּׁלְחָן. וּבֵית הִלֵּל אוֹמְרִים, עַל הַכֶּסֶת: \n",
+   "en": "Also with regard to the laws of ritual purity, <b>Beit Shammai say:</b> After washing, <b>one dries his hands with a cloth and places it on the table. And Beit Hillel say:</b> One places it <b>on the cushion</b> upon which he is sitting."
+  },
+  {
+   "he": "בֵּית שַׁמַּאי אוֹמְרִים, מְכַבְּדִין אֶת הַבַּיִת וְאַחַר כָּךְ נוֹטְלִין לַיָּדַיִם. וּבֵית הִלֵּל אוֹמְרִים, נוֹטְלִין לַיָּדַיִם וְאַחַר כָּךְ מְכַבְּדִין אֶת הַבָּיִת: \n",
+   "en": "Similarly, <b>Beit Shammai say: One sweeps the</b> area of the <b>house</b> where the meal took place <b>and he washes his hands</b> with the final waters before Grace after Meals <b>thereafter. And Beit Hillel say: One washes his hands and sweeps the house thereafter.</b>"
+  },
+  {
+   "he": "בֵּית שַׁמַּאי אוֹמְרִים, נֵר וּמָזוֹן וּבְשָׂמִים וְהַבְדָּלָה. וּבֵית הִלֵּל אוֹמְרִים, נֵר וּבְשָׂמִים וּמָזוֹן וְהַבְדָּלָה. בֵּית שַׁמַּאי אוֹמְרִים, שֶׁבָּרָא מְאוֹר הָאֵשׁ. וּבֵית הִלֵּל אוֹמְרִים, בּוֹרֵא מְאוֹרֵי הָאֵשׁ: \n",
+   "en": "Just as they dispute the order of the blessings in <i>kiddush</i>, they dispute the order of the blessings in <i>havdala</i>. If a meal continued until the conclusion of Shabbat, <b>Beit Shammai say:</b> One recites the blessing over the <b>candle,</b> then the Grace after <b>Meals</b> blessing, then the blessing over the <b>spices,</b> and finally the blessing of <b><i>havdala</i>. And Beit Hillel say:</b> The order is <b>candle, spices,</b> Grace after <b>Meals, and <i>havdala</i>.</b> With regard to the blessing over the candle, <b>Beit Shammai say: Who created [<i>bara</i>] the light of fire. And Beit Hillel say: Who creates [<i>boreh</i>] the lights of fire.</b>"
+  },
+  {
+   "he": "אֵין מְבָרְכִין לֹא עַל הַנֵּר וְלֹא עַל הַבְּשָׂמִים שֶׁל עוֹבְדֵי כוֹכָבִים, וְלֹא עַל הַנֵּר וְלֹא עַל הַבְּשָׂמִים שֶׁל מֵתִים, וְלֹא עַל הַנֵּר וְלֹא עַל הַבְּשָׂמִים שֶׁלִּפְנֵי עֲבוֹדָה זָרָה. אֵין מְבָרְכִין עַל הַנֵּר עַד שֶׁיֵּאוֹתוּ לְאוֹרוֹ: \n",
+   "en": "<b>One may neither recite a blessing over the candle nor over the spices of gentiles, nor over the candle nor the spices</b> designated to pay respects <b>to the dead, nor over the candle nor the spices of idolatry.</b> The mishna cites another <i>halakha</i> with regard to the blessing over the candle: <b>And one does not recite the blessing over the candle until he derives benefit from its light.</b>"
+  },
+  {
+   "he": "מִי שֶׁאָכַל וְשָׁכַח וְלֹא בֵרַךְ, בֵּית שַׁמַּאי אוֹמְרִים, יַחֲזֹר לִמְקוֹמוֹ וִיבָרֵךְ. וּבֵית הִלֵּל אוֹמְרִים, יְבָרֵךְ בַּמָּקוֹם שֶׁנִּזְכָּר. עַד אֵימָתַי הוּא מְבָרֵךְ. עַד כְּדֵי שֶׁיִּתְעַכֵּל הַמָּזוֹן שֶׁבְּמֵעָיו: \n",
+   "en": "The mishna cites an additional dispute: <b>One who ate and forgot and did not recite a blessing; Beit Shammai say: He returns to</b> the <b>place</b> where <b>he</b> ate <b>and recites the blessing. Beit Hillel say:</b> That is unnecessary. <b>He recites the blessing at the place</b> where <b>he remembered.</b> Both agree, however, that there is a limit with regard to how long after eating one may recite Grace after Meals. <b>And until when does he recite the blessing? Until the food is digested in his intestines.</b>"
+  },
+  {
+   "he": "בָּא לָהֶם יַיִן לְאַחַר הַמָּזוֹן וְאֵין שָׁם אֶלָּא אוֹתוֹ הַכּוֹס, בֵּית שַׁמַּאי אוֹמְרִים, מְבָרֵךְ עַל הַיַּיִן וְאַחַר כָּךְ מְבָרֵךְ עַל הַמָּזוֹן. וּבֵית הִלֵּל אוֹמְרִים, מְבָרֵךְ עַל הַמָּזוֹן וְאַחַר כָּךְ מְבָרֵךְ עַל הַיָּיִן. עוֹנִין אָמֵן אַחַר יִשְׂרָאֵל הַמְבָרֵךְ, וְאֵין עוֹנִין אָמֵן אַחַר הַכּוּתִי הַמְבָרֵךְ, עַד שֶׁיִּשְׁמַע כָּל הַבְּרָכָה: \n",
+   "en": "<b>Wine came before</b> the diners <b>after the meal; if only that cup</b> of wine <b>is there, Beit Shammai say: One recites a blessing over the wine and recites a blessing over the food,</b> Grace after Meals, <b>thereafter. And Beit Hillel say: One recites a blessing over the food and recites a blessing over the wine thereafter.</b> <b>And one answers amen after a Jew who recites a blessing</b> even if he did not hear the entire blessing, <b>and one does not answer amen after a Samaritan [<i>Kuti</i>] who recites a blessing until he hears the whole blessing in its entirety,</b> as perhaps the <i>Kuti</i> introduced an element inconsistent with the Jewish faith in that section of the blessing that he did not hear."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 The dispute is whether kiddush on the day comes before or after the blessing over the wine.\nMishnah 2 Beit Shammai wash the hands first and then mix the cup, and Beit Hillel mix first.\nMishnayot 3–4 They also differ on where to place the cloth after drying the hands, and on sweeping the house before or after washing.\nMishnah 5 The order of candle, food, spices and havdalah is disputed, as well as “bara” against “borei” for the candle.\nMishnah 6 One does not bless over the candle or spices of idolaters, the dead or idolatry, nor before benefiting from the light.\nMishnah 7 One who forgot Birkat HaMazon returns to his place or blesses where he remembers, until the food is digested.\nMishnah 8 The wine after the meal and amen after a Jew or a Kuti close the perek.",
+  "topics": [
+   {
+    "term": "Kiddush (“blessing over the day”)",
+    "explanation": "Kiddush is the blessing that sanctifies Shabbat or a festival, here called “blessing over the day.” The mishnah’s dispute is whether it comes before or after the blessing over the wine.",
+    "mishnah": 1,
+    "anchors": [
+     "מברך על היום"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 8:1:1",
+     "quote": "ענין מברך על היום קידוש השבת או המועד"
+    }
+   },
+   {
+    "term": "Hands before netilah: second-degree impurity",
+    "explanation": "Before washing, the hands are treated as second-degree impure and can make liquids impure. This is the source of the disputes about the cup, the cloth and the table.",
+    "mishnah": 2,
+    "anchors": [
+     "נוטלין לידים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 8:2:1",
+     "quote": "שהידים קודם נטילה תורת שני לטומאה יש להן"
+    }
+   },
+   {
+    "term": "The cloth (mapah) and the cushion (keset)",
+    "explanation": "The mapah is the cloth spread over the table, and the keset is a cushion one sits on. Beit Shammai and Beit Hillel dispute where to place the cloth after drying one’s hands.",
+    "mishnah": 3,
+    "anchors": [
+     "מקנח ידיו במפה",
+     "על הכסת"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 8:3:1",
+     "quote": "ופירוש מפה היא היריעה הפרוסה על השלחן"
+    }
+   },
+   {
+    "term": "Sweeping the house and the waiter",
+    "explanation": "Sweeping removes crumbs left from the meal; it is bound up with whether one may use an am ha’aretz as a waiter. The dispute is whether to sweep before or after washing the final waters.",
+    "mishnah": 4,
+    "anchors": [
+     "מכבדין את הבית"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 8:4:1",
+     "quote": "פירוש מכבדים את הבית להסיר הפתיתין שנפלו מן הסעודה"
+    }
+   },
+   {
+    "term": "Order of havdalah at a meal",
+    "explanation": "If a Shabbat meal runs into the night, the blessings of candle, food, spices and havdalah are said in an order about which Beit Shammai and Beit Hillel differ. The dispute is over the candle against the spices.",
+    "mishnah": 5,
+    "anchors": [
+     "נר ומזון ובשמים והבדלה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 8:5:1",
+     "quote": "נחלקו בית שמאי ובית הלל בהקדמת הנר על הבשמים"
+    }
+   },
+   {
+    "term": "Digestion of the food (kedei shetit’akel)",
+    "explanation": "The time for Birkat HaMazon after forgetting lasts as long as the food is not yet digested, meaning one is not yet hungry again from that meal.",
+    "mishnah": 7,
+    "anchors": [
+     "עד כדי שיתעכל המזון שבמעיו"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Berakhot 8:7:1",
+     "quote": "כל זמן שאינו רעב אחר אותה אכילה"
+    }
+   },
+   {
+    "term": "The Kuti (Samaritan)",
+    "explanation": "The Kuti are the people whose blessing one does not answer amen to without hearing all of it. The mefarshim say the concern is that he may be blessing toward Mount Gerizim.",
+    "mishnah": 8,
+    "anchors": [
+     "הכותי המברך"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Berakhot 8:8:3",
+     "quote": "שמא ברך להר גריזים"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why does the mishnah list only these disputes of the meal?",
+    "pasuk": {
+     "text": "אלו דברים שבין בית שמאי ובית הלל בסעודה",
+     "ref": "Mishnah Berakhot 8:1",
+     "label": "Mishnah Berakhot 8:1"
+    },
+    "question": "The mishnah opens “These are the matters between Beit Shammai and Beit Hillel at a meal,” which sounds like a complete list. Yet the Yerushalmi has a further dispute, about oil and wine, and the first perek has Beit Shammai’s ruling on a cooked dish. Why are they not listed here?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Berakhot 8:1:1",
+      "quote": "וקשה דמשמע אלו ותו לא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The oil-and-wine dispute is already included: Beit Hillel say wine first because wine is more frequent (tadir), and that is the same reason as for oil.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 8:1:1",
+        "quote": "וי\"ל דבכלל דקתני במתני' בה\"א מברך על היין היא דטעמא הוא משום דיין תדיר"
+       },
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:1:2",
+        "quote": "ועוד דתדיר ושאינו תדיר תדיר קודם"
+       }
+      ]
+     },
+     {
+      "text": "The myrtle dispute is omitted because the tanna of the mishnah follows Rabban Gamliel, who leaned toward Beit Shammai.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 8:1:1",
+        "quote": "וי\"ל דס\"ל לתנא דמתני' כר\"ג דתניא התם דנטה דעתו בתר דעת ב\"ש"
+       }
+      ]
+     }
+    ],
+    "why": "Shows that the list is not a full catalogue of the meal disputes, and why.",
+    "mishnah": 1,
+    "anchors": [
+     "אלו דברים שבין בית שמאי ובית הלל בסעודה"
+    ]
+   },
+   {
+    "title": "Which cup is this, and why does the order matter?",
+    "pasuk": {
+     "text": "נוטלין לידים ואחר כך מוזגין את הכוס",
+     "ref": "Mishnah Berakhot 8:2",
+     "label": "Mishnah Berakhot 8:2"
+    },
+    "question": "Is the mishnah speaking of the cup of kiddush, or of an ordinary cup drunk before the meal? And what is each side’s reason for washing the hands before or after mixing the cup?",
+    "asked_by": [
+     {
+      "name": "Tiferet Yisrael (Boaz)",
+      "ref": "Boaz on Mishnah Berakhot 8:2",
+      "quote": "ולא זכיתי להבין דא\"כ מה קאמר בש\"ס",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It must be the cup of kiddush, since nothing may be tasted before kiddush; so Beit Shammai wash for the bread and the cup is mixed for kiddush, as the Rif holds.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 8:4:1",
+        "quote": "כהרי\"ף דבכוס קידוש איירי"
+       },
+       {
+        "name": "Tiferet Yisrael (Boaz)",
+        "ref": "Boaz on Mishnah Berakhot 8:2",
+        "quote": "אע\"כ דבכוס קידוש מיירי"
+       }
+      ]
+     },
+     {
+      "text": "Beit Shammai’s reason is a decree: if the cup is mixed first, liquids on its back could become impure through the hands.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 8:2:1",
+        "quote": "גזרה שמא יטמאו משקים שנפלו באחורי הכוס מחמת הידים"
+       }
+      ]
+     },
+     {
+      "text": "Beit Hillel say hands are not washed until the cup of blessing is filled, lest the back of the cup be impure from impure liquids.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 8:2:1",
+        "quote": "בית הלל אומרים שאין נוטלין לידים עד שימלאו כוס של ברכה שמא יהו אחורי הכוס טמאים"
+       }
+      ]
+     }
+    ],
+    "why": "Decides whether the dispute concerns kiddush or an ordinary cup, and anchors the purity reasoning.",
+    "mishnah": 2,
+    "anchors": [
+     "נוטלין לידים ואחר כך מוזגין את הכוס"
+    ]
+   },
+   {
+    "title": "Why is the dispute about sweeping the house not in Eduyot?",
+    "pasuk": {
+     "text": "מכבדין את הבית ואחר כך נוטלין לידים",
+     "ref": "Mishnah Berakhot 8:4",
+     "label": "Mishnah Berakhot 8:4"
+    },
+    "question": "Per Bartenura the dispute turns on whether one may use an am ha’aretz as a waiter, and the halakhah follows Beit Shammai. Why, then, is it not counted among the leniencies of Beit Shammai and stringencies of Beit Hillel in Eduyot?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:4:1",
+      "quote": "ולא נשנית בעדיות גבי מקולי ב\"ש וחומרי בית הלל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "When it was raised in the beit midrash it was raised about washing the hands, not about using an am ha’aretz as a waiter, so Eduyot does not count it; and in Yachin’s words, there is no leniency or stringency here.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:4:1",
+        "quote": "דכי אתשל בבית המדרש לענין נ\"י אתשיל ולא לענין שמש עם הארץ"
+       },
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 8:11:1",
+        "quote": "דאין כאן קולא או חומרא"
+       }
+      ]
+     }
+    ],
+    "why": "Explains why a dispute that seems to involve a leniency is absent from the list in Eduyot.",
+    "mishnah": 4,
+    "anchors": [
+     "מכבדין את הבית ואחר כך נוטלין לידים"
+    ]
+   },
+   {
+    "title": "Do “bara” and “borei” really differ?",
+    "pasuk": {
+     "text": "שברא מאור האש ובית הלל אומרים בורא מאורי האש",
+     "ref": "Mishnah Berakhot 8:5",
+     "label": "Mishnah Berakhot 8:5"
+    },
+    "question": "Bartenura says Beit Shammai say “who created” (past) and not “who creates” (future). But the Gemara concludes that “borei” also means the past, so the dispute is only “me’or” versus “me’orei.” What, then, does the mishnah’s wording mean?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 8:5:1",
+      "quote": "ובסוגיין מסקי' דבברא ובבורא לא פליגי",
+      "era": "acharon"
+     },
+     {
+      "name": "Yesh Seder LaMishnah",
+      "ref": "Yesh Seder LaMishnah on Mishnah Berakhot 8:5:1",
+      "quote": "פי' הר\"ב צ\"ע שפי' נגד מסקנת רב יוסף",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The difference in “bara” and “borei” follows the difference in “me’or” and “me’orei”: Beit Shammai bless the natural power of fire, already created; Beit Hillel include the flame before us.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Boaz)",
+        "ref": "Boaz on Mishnah Berakhot 8:3",
+        "quote": "רק פלוגתתן בברא ובורא תליא בפלוגתתן במאור ומאורי"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot ask why not say “bara” so there is no dispute, and answer that the language of the verse is preferable, as it says “who creates darkness, who creates the heavens.”",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:5:2",
+        "quote": "וי\"ל דלשון קרא עדיף"
+       },
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Berakhot 8:5:2",
+        "quote": "דכתיב בורא חשך בורא השמים"
+       }
+      ]
+     },
+     {
+      "text": "Beit Shammai say “me’or” because there is one light in the fire; Beit Hillel say “me’orei” because the flame has many colours.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 8:13:1",
+        "quote": "דמברך על כח האש שניתן בטבע"
+       },
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 8:14:1",
+        "quote": "דהרבה גוונים יש באור"
+       }
+      ]
+     }
+    ],
+    "why": "Shows that Bartenura’s reading meets difficulty from the Gemara’s conclusion, and how the acharonim reconcile it.",
+    "mishnah": 5,
+    "anchors": [
+     "שברא מאור האש ובית הלל אומרים בורא מאורי האש"
+    ]
+   },
+   {
+    "title": "What does “ye’otu” mean in “until they benefit from its light”?",
+    "pasuk": {
+     "text": "אין מברכין על הנר עד שיאותו לאורו",
+     "ref": "Mishnah Berakhot 8:6",
+     "label": "Mishnah Berakhot 8:6"
+    },
+    "question": "The mishnah says one does not bless over the candle “until they ye’otu to its light.” Is the word from “benefit” (an alef, like “ach bezot ne’ot lachem”) or from “time” (an ayin), and how close must one be to the light?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:6:3",
+      "quote": "ובירושל' רב אמר יאותו ושמואל אומר יעותו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It means to benefit from its light, not actually benefiting but being so close that one could benefit if one wished.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 8:6:5",
+        "quote": "ולא שיהנו ממש אלא שקרוב לו כל כך שיוכל להנות"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Berakhot 8:6:1",
+        "quote": "עד שיאותו רוצה לומר עד שיהנו ממנו"
+       }
+      ]
+     },
+     {
+      "text": "In the Yerushalmi Rav reads it with an alef and Shmuel with an ayin: the time has come for the light to shine.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Berakhot 8:6:3",
+        "quote": "שהגיע העת של האור להאיר"
+       },
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 8:18:1",
+        "quote": "לשון עת יותר נועד להשתמש להאור"
+       }
+      ]
+     }
+    ],
+    "why": "Fixes how close one must be to the light before blessing, and records the Yerushalmi’s two readings.",
+    "mishnah": 6,
+    "anchors": [
+     "אין מברכין על הנר עד שיאותו לאורו"
+    ]
+   },
+   {
+    "title": "Does Beit Shammai hold that Birkat HaMazon needs a cup?",
+    "pasuk": {
+     "text": "מברך על היין ואחר כך מברך על המזון",
+     "ref": "Mishnah Berakhot 8:8",
+     "label": "Mishnah Berakhot 8:8"
+    },
+    "question": "Bartenura explains that Beit Shammai bless over the wine first because Birkat HaMazon does not require a cup. But Gemara infers from an earlier mishnah that Beit Shammai hold it does, and if Beit Shammai were lenient, why is this not recorded in Eduyot?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 8:8:1",
+      "quote": "קשה לי דלתני בעדיות גבי קולי ב\"ש וחומרי ב\"ה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Beit Shammai say Birkat HaMazon does not require a cup, and Beit Hillel say it does.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Berakhot 8:8:1",
+        "quote": "שאין ברכת המזון טעונה כוס"
+       }
+      ]
+     },
+     {
+      "text": "There are two tannaim on Beit Shammai’s view, as the Gemara concludes.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:8:2",
+        "quote": "ומשני תרי תנאי אליבא דבית שמאי"
+       },
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Berakhot 8:24:1",
+        "quote": "ב' תנאי אליבא דב\"ש"
+       }
+      ]
+     },
+     {
+      "text": "Rashba explains that Beit Shammai must bless over the wine first, which is a stringency, so it is not a leniency for Eduyot.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 8:8:1",
+        "quote": "לב\"ש צריך לברך על היין מקודם"
+       }
+      ]
+     }
+    ],
+    "why": "Determines whether Beit Shammai’s ruling is a leniency or a stringency and how it fits the earlier mishnah.",
+    "mishnah": 8,
+    "anchors": [
+     "מברך על היין ואחר כך מברך על המזון"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Melekhet Shelomoh",
+   "Tosafot Yom Tov",
+   "Tiferet Yisrael (Boaz)",
+   "Tiferet Yisrael (Yachin)",
+   "Bartenura",
+   "Rambam",
+   "Tosafot Rabbi Akiva Eiger",
+   "Yesh Seder LaMishnah",
+   "Ikar Tosafot Yom Tov"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א נחלקו אם קידוש היום קודם לברכת היין או אחריה.\nמשנה ב בית שמאי נוטלים לידים ואחר כך מוזגים את הכוס, ובית הלל מוזגים תחילה.\nמשניות ג-ד נחלקו גם היכן מניחים את המפה אחרי ניגוב הידים, ואם מכבדים את הבית לפני נטילה או אחריה.\nמשנה ה נחלקו בסדר נר, מזון, בשמים והבדלה, ובנוסח ״שברא״ מול ״בורא״ על הנר.\nמשנה ו אין מברכין על נר ובשמים של עובדי כוכבים, של מתים, או לפני עבודה זרה, ולא לפני שנהנים מן האור.\nמשנה ז מי ששכח ברכת המזון חוזר למקומו או מברך במקום שנזכר, עד שיתעכל המזון.\nמשנה ח יין לאחר המזון ועניית אמן אחר ישראל או כותי חותמים את הפרק.",
+  "topics": [
+   {
+    "term": "קידוש (״ברכה על היום״)",
+    "explanation": "קידוש הוא הברכה המקדשת את השבת או המועד, ובמשנה נקראת ״ברכה על היום״. המחלוקת היא אם הוא קודם לברכת היין או אחריה.",
+    "mishnah": 1,
+    "anchors": [
+     "מברך על היום"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 8:1:1",
+     "quote": "ענין מברך על היום קידוש השבת או המועד"
+    }
+   },
+   {
+    "term": "הידיים קודם נטילה: שני לטומאה",
+    "explanation": "הידיים לפני נטילה נחשבות שניות לטומאה ויכולות לטמא משקים. זה מקור המחלוקות על הכוס, המפה והשולחן.",
+    "mishnah": 2,
+    "anchors": [
+     "נוטלין לידים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 8:2:1",
+     "quote": "שהידים קודם נטילה תורת שני לטומאה יש להן"
+    }
+   },
+   {
+    "term": "המפה והכסת",
+    "explanation": "המפה היא היריעה הפרוסה על השולחן והכסת כרית שיושבים עליה. נחלקו היכן להניח את המפה אחרי ניגוב הידיים.",
+    "mishnah": 3,
+    "anchors": [
+     "מקנח ידיו במפה",
+     "על הכסת"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 8:3:1",
+     "quote": "ופירוש מפה היא היריעה הפרוסה על השלחן"
+    }
+   },
+   {
+    "term": "כיבוד הבית ושמש עם הארץ",
+    "explanation": "כיבוד הבית הוא הסרת הפירורים שנשארו מן הסעודה, וקשור לשאלה אם מותר להשתמש בשמש עם הארץ. נחלקו אם מכבדים לפני מים אחרונים או אחריהם.",
+    "mishnah": 4,
+    "anchors": [
+     "מכבדין את הבית"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 8:4:1",
+     "quote": "פירוש מכבדים את הבית להסיר הפתיתין שנפלו מן הסעודה"
+    }
+   },
+   {
+    "term": "סדר ההבדלה בסעודה",
+    "explanation": "כשסעודת שבת נמשכת עד הלילה, יש סדר לברכות הנר, המזון, הבשמים וההבדלה, ובו נחלקו בית שמאי ובית הלל. המחלוקת בין הנר לבשמים.",
+    "mishnah": 5,
+    "anchors": [
+     "נר ומזון ובשמים והבדלה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 8:5:1",
+     "quote": "נחלקו בית שמאי ובית הלל בהקדמת הנר על הבשמים"
+    }
+   },
+   {
+    "term": "עד שיתעכל המזון",
+    "explanation": "הזמן לברכת המזון לאחר שכח נמשך כל עוד המזון לא התעכל, כלומר לא רעב שוב מאותה אכילה.",
+    "mishnah": 7,
+    "anchors": [
+     "עד כדי שיתעכל המזון שבמעיו"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Berakhot 8:7:1",
+     "quote": "כל זמן שאינו רעב אחר אותה אכילה"
+    }
+   },
+   {
+    "term": "הכותי",
+    "explanation": "הכותים הם אלה שאין עונים אמן אחר ברכתם בלי לשמוע את כולה. הטעם שמא ברך להר גריזים.",
+    "mishnah": 8,
+    "anchors": [
+     "הכותי המברך"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Berakhot 8:8:3",
+     "quote": "שמא ברך להר גריזים"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע המשנה מונה רק את המחלוקות האלה בסעודה?",
+    "pasuk": {
+     "text": "אלו דברים שבין בית שמאי ובית הלל בסעודה",
+     "ref": "Mishnah Berakhot 8:1",
+     "label": "משנה ברכות ח, א"
+    },
+    "question": "המשנה פותחת ״אלו דברים שבין בית שמאי ובית הלל בסעודה״, כאילו זו רשימה שלמה. אך בירושלמי יש מחלוקת נוספת על השמן והיין, ובפרק הראשון יש דעת בית שמאי על מעשה קדירה. מדוע אינם כאן?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Berakhot 8:1:1",
+      "quote": "וקשה דמשמע אלו ותו לא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מחלוקת השמן והיין כלולה כבר: בית הלל אומרים מברך על היין תחילה משום שהיין תדיר, וזה גם הטעם לגבי השמן.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 8:1:1",
+        "quote": "וי\"ל דבכלל דקתני במתני' בה\"א מברך על היין היא דטעמא הוא משום דיין תדיר"
+       },
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:1:2",
+        "quote": "ועוד דתדיר ושאינו תדיר תדיר קודם"
+       }
+      ]
+     },
+     {
+      "text": "מחלוקת ההדס לא נשנתה כי התנא של המשנה סובר כרבן גמליאל, שנטה אחר דעת בית שמאי.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Berakhot 8:1:1",
+        "quote": "וי\"ל דס\"ל לתנא דמתני' כר\"ג דתניא התם דנטה דעתו בתר דעת ב\"ש"
+       }
+      ]
+     }
+    ],
+    "why": "מלמד שהרשימה אינה מקיפה את כל מחלוקות הסעודה, ומדוע.",
+    "mishnah": 1,
+    "anchors": [
+     "אלו דברים שבין בית שמאי ובית הלל בסעודה"
+    ]
+   },
+   {
+    "title": "איזה כוס זה, ומדוע חשוב הסדר?",
+    "pasuk": {
+     "text": "נוטלין לידים ואחר כך מוזגין את הכוס",
+     "ref": "Mishnah Berakhot 8:2",
+     "label": "משנה ברכות ח, ב"
+    },
+    "question": "האם המשנה מדברת בכוס של קידוש או בכוס רגיל הנשתה לפני הסעודה? ומה טעמו של כל צד בנטילת ידים לפני המזיגה או אחריה?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (בועז)",
+      "ref": "Boaz on Mishnah Berakhot 8:2",
+      "quote": "ולא זכיתי להבין דא\"כ מה קאמר בש\"ס",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מדובר בכוס קידוש, שהרי אסור לטעום דבר לפני הקידוש; לכן בית שמאי נוטלים לפת וימזגו את הכוס לקידוש, כדעת הרי״ף.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 8:4:1",
+        "quote": "כהרי\"ף דבכוס קידוש איירי"
+       },
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Berakhot 8:2",
+        "quote": "אע\"כ דבכוס קידוש מיירי"
+       }
+      ]
+     },
+     {
+      "text": "טעם בית שמאי גזרה: אם ימזגו תחילה, המשקים שבאחורי הכוס עלולים להיטמא מן הידים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 8:2:1",
+        "quote": "גזרה שמא יטמאו משקים שנפלו באחורי הכוס מחמת הידים"
+       }
+      ]
+     },
+     {
+      "text": "בית הלל אומרים שאין נוטלין לידים עד שימלאו כוס של ברכה, שמא יהיו אחורי הכוס טמאים במשקים טמאים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 8:2:1",
+        "quote": "בית הלל אומרים שאין נוטלין לידים עד שימלאו כוס של ברכה שמא יהו אחורי הכוס טמאים"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם המחלוקת בקידוש או בכוס רגיל, ומבסס את טעם הטהרה.",
+    "mishnah": 2,
+    "anchors": [
+     "נוטלין לידים ואחר כך מוזגין את הכוס"
+    ]
+   },
+   {
+    "title": "מדוע מחלוקת כיבוד הבית אינה במשנה בעדיות?",
+    "pasuk": {
+     "text": "מכבדין את הבית ואחר כך נוטלין לידים",
+     "ref": "Mishnah Berakhot 8:4",
+     "label": "משנה ברכות ח, ד"
+    },
+    "question": "לפי ברטנורא המחלוקת תלויה אם מותר להשתמש בשמש עם הארץ, וההלכה כבית שמאי. מדוע אפוא אינה נמנית עם מקולי בית שמאי וחומרי בית הלל בעדיות?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:4:1",
+      "quote": "ולא נשנית בעדיות גבי מקולי ב\"ש וחומרי בית הלל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כשנשאלה בבית המדרש נשאלה לענין נטילת ידים ולא לענין שמש עם הארץ, ולכן עדיות לא מנה אותה; ובלשון היכין, אין כאן קולא או חומרא.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:4:1",
+        "quote": "דכי אתשל בבית המדרש לענין נ\"י אתשיל ולא לענין שמש עם הארץ"
+       },
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 8:11:1",
+        "quote": "דאין כאן קולא או חומרא"
+       }
+      ]
+     }
+    ],
+    "why": "מסביר מדוע מחלוקת שנראית כקולא חסרה ברשימה בעדיות.",
+    "mishnah": 4,
+    "anchors": [
+     "מכבדין את הבית ואחר כך נוטלין לידים"
+    ]
+   },
+   {
+    "title": "האם ״שברא״ ו״בורא״ באמת נחלקים?",
+    "pasuk": {
+     "text": "שברא מאור האש ובית הלל אומרים בורא מאורי האש",
+     "ref": "Mishnah Berakhot 8:5",
+     "label": "משנה ברכות ח, ה"
+    },
+    "question": "הברטנורא כותב שבית שמאי אומרים ״שברא״ שמשמעו עבר ולא ״בורא״ שמשמעו עתיד. אך הגמרא מסיקה ש״בורא״ גם משמעו עבר, ונחלקו רק ״מאור״ ו״מאורי״. מהו אפוא פשר לשון המשנה?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 8:5:1",
+      "quote": "ובסוגיין מסקי' דבברא ובבורא לא פליגי",
+      "era": "acharon"
+     },
+     {
+      "name": "יש סדר למשנה",
+      "ref": "Yesh Seder LaMishnah on Mishnah Berakhot 8:5:1",
+      "quote": "פי' הר\"ב צ\"ע שפי' נגד מסקנת רב יוסף",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ההבדל בין ״שברא״ ל״בורא״ תלוי בהבדל בין ״מאור״ ל״מאורי״: בית שמאי מברכים על כח האש שנברא, ובית הלל כוללים גם את הלהבה שלפנינו.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Berakhot 8:3",
+        "quote": "רק פלוגתתן בברא ובורא תליא בפלוגתתן במאור ומאורי"
+       }
+      ]
+     },
+     {
+      "text": "התוספות שואלים למה לא נאמר ״ברא״ שלא יהיה חילוק, ומשיבים שלשון הפסוק עדיף, שנאמר ״בורא חשך בורא השמים״.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:5:2",
+        "quote": "וי\"ל דלשון קרא עדיף"
+       },
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Berakhot 8:5:2",
+        "quote": "דכתיב בורא חשך בורא השמים"
+       }
+      ]
+     },
+     {
+      "text": "בית שמאי אומרים ״מאור״ כי בשלהבת אור אחד; בית הלל ״מאורי״ כי יש בה גוונים הרבה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 8:13:1",
+        "quote": "דמברך על כח האש שניתן בטבע"
+       },
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 8:14:1",
+        "quote": "דהרבה גוונים יש באור"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שפירוש הברטנורא נתקל בקושי מסקנת הגמרא, ואיך מיישבים האחרונים.",
+    "mishnah": 5,
+    "anchors": [
+     "שברא מאור האש ובית הלל אומרים בורא מאורי האש"
+    ]
+   },
+   {
+    "title": "מהי המשמעות של ״יאותו״ בדברי המשנה?",
+    "pasuk": {
+     "text": "אין מברכין על הנר עד שיאותו לאורו",
+     "ref": "Mishnah Berakhot 8:6",
+     "label": "משנה ברכות ח, ו"
+    },
+    "question": "המשנה אומרת שאין מברכין על הנר ״עד שיאותו לאורו״. האם הלשון מ״אך בזאת נאות לכם״ (באל״ף) או מלשון עת (בעי״ן), וכמה צריך להיות קרוב לאור?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:6:3",
+      "quote": "ובירושל' רב אמר יאותו ושמואל אומר יעותו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הכוונה שיהנו מאורו, לא הנאה ממש אלא קרוב כל כך שיוכל ליהנות אם ירצה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 8:6:5",
+        "quote": "ולא שיהנו ממש אלא שקרוב לו כל כך שיוכל להנות"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Berakhot 8:6:1",
+        "quote": "עד שיאותו רוצה לומר עד שיהנו ממנו"
+       }
+      ]
+     },
+     {
+      "text": "בירושלמי רב אומר ״יאותו״ ושמואל ״יעותו״: הגיע העת של האור להאיר.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Berakhot 8:6:3",
+        "quote": "שהגיע העת של האור להאיר"
+       },
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 8:18:1",
+        "quote": "לשון עת יותר נועד להשתמש להאור"
+       }
+      ]
+     }
+    ],
+    "why": "קובע כמה קרוב צריך להיות לאור לפני הברכה, ומביא את שתי הגרסאות בירושלמי.",
+    "mishnah": 6,
+    "anchors": [
+     "אין מברכין על הנר עד שיאותו לאורו"
+    ]
+   },
+   {
+    "title": "האם בית שמאי סוברים שברכת המזון טעונה כוס?",
+    "pasuk": {
+     "text": "מברך על היין ואחר כך מברך על המזון",
+     "ref": "Mishnah Berakhot 8:8",
+     "label": "משנה ברכות ח, ח"
+    },
+    "question": "הברטנורא מסביר שבית שמאי מברכים על היין תחילה כי ברכת המזון אינה טעונה כוס. אך הגמרא מסיקה ממשנה קודמת שלבית שמאי היא טעונה, ואם בית שמאי מקילים, מדוע אין זה בעדיות?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 8:8:1",
+      "quote": "קשה לי דלתני בעדיות גבי קולי ב\"ש וחומרי ב\"ה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בית שמאי אומרים שברכת המזון אינה טעונה כוס, ובית הלל אומרים שטעונה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Berakhot 8:8:1",
+        "quote": "שאין ברכת המזון טעונה כוס"
+       }
+      ]
+     },
+     {
+      "text": "יש שני תנאים בדעת בית שמאי, כמסקנת הגמרא.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Berakhot 8:8:2",
+        "quote": "ומשני תרי תנאי אליבא דבית שמאי"
+       },
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Berakhot 8:24:1",
+        "quote": "ב' תנאי אליבא דב\"ש"
+       }
+      ]
+     },
+     {
+      "text": "הרשב״א מסביר שלבית שמאי צריך לברך על היין מקודם, וזו חומרא, ולכן אין זו קולא לעדיות.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Berakhot 8:8:1",
+        "quote": "לב\"ש צריך לברך על היין מקודם"
+       }
+      ]
+     }
+    ],
+    "why": "קובע אם דעת בית שמאי קולא או חומרא ואיך היא מתיישבת עם המשנה הקודמת.",
+    "mishnah": 8,
+    "anchors": [
+     "מברך על היין ואחר כך מברך על המזון"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "מלאכת שלמה",
+   "תוספות יום טוב",
+   "תפארת ישראל (בועז)",
+   "תפארת ישראל (יכין)",
+   "ברטנורא",
+   "רמב\"ם",
+   "תוספות רבי עקיבא איגר",
+   "יש סדר למשנה",
+   "עיקר תוספות יום טוב"
+  ]
+ }
+}
