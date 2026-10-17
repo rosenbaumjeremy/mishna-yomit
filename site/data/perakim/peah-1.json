@@ -1,0 +1,1156 @@
+{
+ "date": "2026-10-17",
+ "hebrew_date": {
+  "hebrew": "ו׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "6 Cheshvan 5787"
+ },
+ "masechet": "peah",
+ "perek": 1,
+ "ref": "Mishnah Peah 1",
+ "mishnayot": [
+  {
+   "he": "אֵלּוּ דְבָרִים שֶׁאֵין לָהֶם שִׁעוּר. הַפֵּאָה, וְהַבִּכּוּרִים, וְהָרֵאָיוֹן, וּגְמִילוּת חֲסָדִים, וְתַלְמוּד תּוֹרָה. אֵלּוּ דְבָרִים שֶׁאָדָם אוֹכֵל פֵּרוֹתֵיהֶן בָּעוֹלָם הַזֶּה וְהַקֶּרֶן קַיֶּמֶת לוֹ לָעוֹלָם הַבָּא. כִּבּוּד אָב וָאֵם, וּגְמִילוּת חֲסָדִים, וַהֲבָאַת שָׁלוֹם בֵּין אָדָם לַחֲבֵרוֹ, וְתַלְמוּד תּוֹרָה כְּנֶגֶד כֻּלָּם:  ",
+   "en": "These are the things that have no definite quantity: The corners [of the field]. First-fruits; [The offerings brought] on appearing [at the Temple on the three pilgrimage festivals]. The performance of righteous deeds; And the study of the torah. The following are the things for which a man enjoys the fruits in this world while the principal remains for him in the world to come: Honoring one’s father and mother; The performance of righteous deeds; And the making of peace between a person and his friend; And the study of the torah is equal to them all."
+  },
+  {
+   "he": "אֵין פּוֹחֲתִין לַפֵּאָה מִשִּׁשִּׁים, וְאַף עַל פִּי שֶׁאָמְרוּ אֵין לַפֵּאָה שִׁעוּר. הַכֹּל לְפִי גֹדֶל הַשָּׂדֶה, וּלְפִי רֹב הָעֲנִיִּים, וּלְפִי רֹב הָעֲנָוָה:  ",
+   "en": "They should not leave peah of less than one-sixtieth [of the field]. But even though they said, “there is no measure for peah,” everything depends upon the size of the field, the number of poor people, and the extent of the yield."
+  },
+  {
+   "he": "נוֹתְנִין פֵּאָה מִתְּחִלַּת הַשָּׂדֶה וּמֵאֶמְצָעָהּ. רַבִּי שִׁמְעוֹן אוֹמֵר, וּבִלְבַד שֶׁיִּתֵּן בַּסּוֹף כַּשִּׁעוּר. רַבִּי יְהוּדָה אוֹמֵר, אִם שִׁיֵּר קֶלַח אֶחָד, סוֹמֵךְ לוֹ מִשּׁוּם פֵּאָה. וְאִם לָאו, אֵינוֹ נוֹתֵן אֶלָּא מִשּׁוּם הֶפְקֵר:  ",
+   "en": "They may give peah at either at the beginning of the [reaping of the] field or at the middle of it. Rabbi Shimon says: as long as he gives at the end according to the set amount. Rabbi Judah says: if he leaves one stalk, he can rely on this as [fulfilling the law of] peah; and if he did not, then he only gives as ownerless property."
+  },
+  {
+   "he": "כְּלָל אָמְרוּ בַּפֵּאָה. כָּל שֶׁהוּא אֹכֶל, וְנִשְׁמָר, וְגִדּוּלָיו מִן הָאָרֶץ, וּלְקִיטָתוֹ כְאַחַת, וּמַכְנִיסוֹ לְקִיּוּם, חַיָּב בַּפֵּאָה. וְהַתְּבוּאָה וְהַקִּטְנִיּוֹת בַּכְּלָל הַזֶּה:  ",
+   "en": "They said a general principle concerning peah: whatever is food, and is looked after, and grows from the land, and is harvested all at the same time, and is brought in for storage, is subject to the law of pe'ah. Grain and beans are in this category."
+  },
+  {
+   "he": "וּבָאִילָן, הָאוֹג וְהֶחָרוּבִין וְהָאֱגוֹזִים וְהַשְּׁקֵדִים וְהַגְּפָנִים וְהָרִמּוֹנִים וְהַזֵּיתִים וְהַתְּמָרִים, חַיָּבִין בַּפֵּאָה:  ",
+   "en": "Among trees: the sumac, the carob, the nut, the almond, the grapevine, the pomegranate, the olive and the palm are subject to peah."
+  },
+  {
+   "he": "לְעוֹלָם הוּא נוֹתֵן מִשּׁוּם פֵּאָה וּפָטוּר מִן הַמַּעַשְׂרוֹת, עַד שֶׁיְּמָרֵחַ. וְנוֹתֵן מִשּׁוּם הֶפְקֵר וּפָטוּר מִן הַמַּעַשְׂרוֹת, עַד שֶׁיְּמָרֵחַ. וּמַאֲכִיל לַבְּהֵמָה וְלַחַיָּה וְלָעוֹפוֹת וּפָטוּר מִן הַמַּעַשְׂרוֹת, עַד שֶׁיְּמָרֵחַ. וְנוֹטֵל מִן הַגֹּרֶן וְזוֹרֵעַ וּפָטוּר מִן הַמַּעַשְׂרוֹת, עַד שֶׁיְּמָרֵחַ, דִּבְרֵי רַבִּי עֲקִיבָא. כֹּהֵן וְלֵוִי שֶׁלָּקְחוּ אֶת הַגֹּרֶן, הַמַּעַשְׂרוֹת שֶׁלָּהֶם, עַד שֶׁיְּמָרֵחַ. הַמַּקְדִּישׁ וּפוֹדֶה, חַיָּב בְּמַעַשְׂרוֹת, עַד שֶׁיְּמָרֵחַ הַגִּזְבָּר:  ",
+   "en": "He may always give peah and be exempt from giving tithes until he makes a stack. One who gives [to the poor] as ownerless [produce] and be exempt from giving tithes until he makes a stack. He may feed cattle, wild animals and birds and be exempt from giving tithes until he makes a stack. He may take from the threshing floor and use it as seed and be exempt from giving tithes until he makes a stack, the words of Rabbi Akiva. A priest or Levite who purchase [grain of] a threshing floor, the tithes are theirs unless [the owner] has already made a stack. One who dedicated [his crop] and redeems it [afterwards] is obligated to give tithes until the Temple treasurer has made a stack."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 lists things with no fixed measure (peah, bikkurim, re'ayon, gemilut chasadim, Torah study) and things whose fruits one eats in this world while the principal remains for the world to come. Mishnah 2 says peah may not be less than one-sixtieth, and depends on the size of the field, the number of the poor and the yield. Mishnah 3 allows giving peah at the start or middle of the field, with the opinions of Rabbi Shimon and Rabbi Yehuda on what must be left at the end. Mishnayot 4–5 give the rule of what is liable in peah (food, guarded, grows from the land, gathered at once, brought in for storage) and list the trees that are liable. Mishnah 6 teaches that peah, hefker and the like are exempt from tithes until merach, with Rabbi Akiva's view on taking seed from the threshing floor and the case of a priest or levi who bought a threshing floor and of hekdesh.",
+  "topics": [
+   {
+    "term": "Peah",
+    "explanation": "Peah is the corner of the field that the owner must leave unharvested for the poor. The mishnah opens with it as the first of the things that have no fixed measure, and it gives the tractate its name.",
+    "mishnah": 1,
+    "anchors": [
+     "הפאה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 1:1:2",
+     "quote": "שאדם חיב להניח בסוף שדהו לעניים"
+    }
+   },
+   {
+    "term": "Bikkurim (first-fruits)",
+    "explanation": "Bikkurim are the first ripe fruits of the seven species, brought to the Temple. The Torah does not fix how much one must bring.",
+    "mishnah": 1,
+    "anchors": [
+     "והבכורים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 1:1:3",
+     "quote": "ולא נתנה תורה בהם שיעור"
+    }
+   },
+   {
+    "term": "Re'ayon (appearing at the Temple)",
+    "explanation": "Re'ayon is the duty to appear in the Temple courtyard on the three pilgrimage festivals. The mishnah counts it among the things with no set measure.",
+    "mishnah": 1,
+    "anchors": [
+     "והראיון"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 1:1:4",
+     "quote": "שחיב אדם להראות בעזרה בשלש רגלים"
+    }
+   },
+   {
+    "term": "Gemilut chasadim",
+    "explanation": "Acts of kindness, divided into those done with one's body, such as visiting the sick and burying the dead, and those done with money, such as redeeming captives. The mefarshim discuss which of these has a measure.",
+    "mishnah": 1,
+    "anchors": [
+     "וגמילות חסדים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 1:1:5",
+     "quote": "דבגופו כגון ביקור חולים ולקבר מתים"
+    }
+   },
+   {
+    "term": "Fruits in this world, principal in the world to come",
+    "explanation": "The mishnah lists mitzvot whose fruits one enjoys in this world while the principal stays for the world to come. The Rambam explains this through a division of mitzvot into those between a person and God and those that benefit other people.",
+    "mishnah": 1,
+    "anchors": [
+     "והקרן קיימת"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 1:1:3",
+     "quote": "המצות כולן נחלקין בתחלה על שני חלקים"
+    }
+   },
+   {
+    "term": "Hefker (ownerless produce)",
+    "explanation": "Hefker is produce its owner has abandoned to everyone, rich and poor alike. Peah, by contrast, belongs to the poor alone, and the mishnah says that what was not given as peah is given only as hefker.",
+    "mishnah": 3,
+    "anchors": [
+     "משום הפקר"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 1:3:1",
+     "quote": "ופי' הפקר הדבר המשולח לכל ב\"א לקחתו"
+    }
+   },
+   {
+    "term": "The conditions of the rule of peah",
+    "explanation": "The mishnah gives a rule for what is liable in peah: it is food, guarded, grows from the ground, is harvested all at once and is brought in for storage. Each condition excludes something, for example guarded excludes ownerless produce.",
+    "mishnah": 4,
+    "anchors": [
+     "ונשמר"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 1:4:2",
+     "quote": "למעוטי הפקר שאין לו שומרים שאינו חיב בפאה"
+    }
+   },
+   {
+    "term": "Merach (smoothing the heap)",
+    "explanation": "Merach is the point at which the grain is made into a finished heap. Before it, produce is not yet fixed for tithes, so peah, hefker and the like are exempt from tithes only if taken before merach.",
+    "mishnah": 6,
+    "anchors": [
+     "עד שימרח"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 1:6:2",
+     "quote": "שיעשה כרי וצבור של תבואה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why is terumah not listed among the things with no measure?",
+    "pasuk": {
+     "text": "אלו דברים שאין להם שעור. הפאה, והבכורים, והראיון, וגמילות חסדים, ותלמוד תורה",
+     "ref": "Mishnah Peah 1:1",
+     "label": "Mishnah Peah 1:1"
+    },
+    "question": "The mishnah lists peah, bikkurim, re'ayon, gemilut chasadim and Torah study as things with no fixed measure, but terumah, which the Torah also leaves without a stated measure, is missing. Why?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 1:1:1",
+      "era": "acharon",
+      "quote": "למה לא תנינן תרומה עמהון"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 1:1:1",
+      "era": "acharon",
+      "quote": "וצריך עיון הא פאה נמי דכותה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Yerushalmi, as brought by the Tosafot Yom Tov: because terumah has divisions that do have a measure, such as terumat ma'aser.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:1:1",
+        "quote": "כלומר שיש תרומות חלוקות זו מזו כגון תרומות מעשר שיש לה שיעור"
+       }
+      ]
+     },
+     {
+      "text": "Another answer there: adding to terumah is a transgression, since it mixes tevel into the terumah, whereas adding to peah is a mitzvah.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:1:1",
+        "quote": "ותרומה גדולה אדרבה כשמוסיף הוא עבירה שמערב טבל בתרומה"
+       }
+      ]
+     },
+     {
+      "text": "A further answer: terumah is different from the rest, since one may make his whole field peah but may not make his whole heap terumah.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:1:1",
+        "quote": "דבפאה בקש לעשות כל שדהו פאה עושה בקש לעשות כל כריו תרומה אינו עושה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what the mishnah means by a thing with no measure, and why terumah is treated differently.",
+    "mishnah": 1,
+    "anchors": [
+     "אלו דברים שאין להם שעור. הפאה, והבכורים, והראיון, וגמילות חסדים, ותלמוד תורה"
+    ]
+   },
+   {
+    "title": "Gemilut chasadim has no measure, yet there is a fifth",
+    "pasuk": {
+     "text": "והראיון, וגמילות חסדים, ותלמוד תורה",
+     "ref": "Mishnah Peah 1:1",
+     "label": "Mishnah Peah 1:1"
+    },
+    "question": "The mishnah says gemilut chasadim has no measure, yet the sages set a limit of a fifth of one's property. In what sense does it have no measure?",
+    "asked_by": [
+     {
+      "name": "Rambam",
+      "ref": "Rambam on Mishnah Peah 1:1:3",
+      "era": "rishon",
+      "quote": "ומה שאמר בכאן גמ\"ח אין לה שיעור רוצה לומר לעזור האדם בגופו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam: no measure applies to helping with one's body; helping with money has a measure of a fifth of one's property.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 1:1:3",
+        "quote": "אך שיעזור אותו בממונו יש לו שיעור והוא חמישית ממונו"
+       }
+      ]
+     },
+     {
+      "text": "The Bartenura gives the same, adding that one is not required to give more than a fifth.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 1:1:5",
+        "quote": "יש להן שיעור שיתן בכל פעם שתבא מצוה כזו לידו חמשית מן הרוח שבנכסיו"
+       }
+      ]
+     },
+     {
+      "text": "The Tosafot Yom Tov: the fifth is the Usha enactment, so from the Torah there is no measure even for giving money.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:1:4",
+        "quote": "והשתא מדאורייתא אין שיעור לגמילות חסדים בממונו"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the line between what the Torah requires without limit and what the sages limited.",
+    "mishnah": 1,
+    "anchors": [
+     "והראיון, וגמילות חסדים, ותלמוד תורה"
+    ]
+   },
+   {
+    "title": "A large field and few poor: must one add to the sixtieth?",
+    "pasuk": {
+     "text": "הכל לפי גדל השדה, ולפי רב העניים",
+     "ref": "Mishnah Peah 1:2",
+     "label": "Mishnah Peah 1:2"
+    },
+    "question": "The mishnah says peah depends on the size of the field and the number of the poor. Does a large field with few poor people require giving more than one-sixtieth?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 1:2:2",
+      "era": "acharon",
+      "quote": "ותמהני למה יוסיף שהרי הפאה נמי גדולה כשהיא ששים מהשדה הגדולה"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 1:2:1",
+      "era": "acharon",
+      "quote": "ותמהני למה יוסיף שהרי הפאה נמי גדולה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: if the field is large and the poor few, he adds above one-sixtieth according to the size of the field.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 1:2:3",
+        "quote": "אם שדהו גדולה ועניים מועטים נותן ומוסיף על ששים לפי גודל שדהו"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: if the field is large and the poor few, they give according to the size of the field.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 1:2:1",
+        "quote": "ואם תהיה השדה גדולה והעניים מועטים יתנו לפי גודל השדה"
+       }
+      ]
+     },
+     {
+      "text": "The Tosafot Yom Tov, following the Rash: the mishnah only teaches that one may not give less than one-sixtieth even when the poor are few.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:2:2",
+        "quote": "לא אשמעינן אלא שלא יפחות מששים אף שהעניים מועטים"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the sixtieth is a floor or can grow with the field.",
+    "mishnah": 2,
+    "anchors": [
+     "הכל לפי גדל השדה, ולפי רב העניים"
+    ]
+   },
+   {
+    "title": "What is “ha'anavah”?",
+    "pasuk": {
+     "text": "ולפי רב הענוה",
+     "ref": "Mishnah Peah 1:2",
+     "label": "Mishnah Peah 1:2"
+    },
+    "question": "The mishnah says peah depends on “rov ha'anavah”. What does the word mean?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Peah 1:2:4",
+      "era": "rishon",
+      "quote": "אית דגרסי ענוה בוי\"ו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: with a vav, the more humble the owner, the more he gives to the poor.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 1:2:4",
+        "quote": "לפי רב ענותו ירבה לעניים"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: what the land yields, whether much seed or little.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 1:2:1",
+        "quote": "ופירושו מה שתענה הארץ אם זרע רב או מעט"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash: it means poverty; even if the poor are few, if their poverty is deep one gives more than the measure.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Peah 1:2:1",
+        "quote": "אך אם איכות עניותם רב ירבה על השיעור"
+       }
+      ]
+     }
+    ],
+    "why": "Each reading gives the owner a different measure to apply.",
+    "mishnah": 2,
+    "anchors": [
+     "ולפי רב הענוה"
+    ]
+   },
+   {
+    "title": "R. Yehuda: “if he left one stalk”",
+    "pasuk": {
+     "text": "אם שיר קלח אחד, סומך לו משום פאה",
+     "ref": "Mishnah Peah 1:3",
+     "label": "Mishnah Peah 1:3"
+    },
+    "question": "Rabbi Yehuda says that if he left one stalk he relies on it as peah. Where must the stalk be and why does the mishnah say “left” rather than “gave”?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 1:3:3",
+      "era": "acharon",
+      "quote": "וקשה דלתני אם נתן קלח אחד בסוף כלשון ר\"ש"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: he left one stalk at the end of the field for peah, and the earlier giving in the middle or start is counted as peah relying on it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 1:3:3",
+        "quote": "בסוף השדה והניח אותו לפאה סומך עליו"
+       }
+      ]
+     },
+     {
+      "text": "The Rash, as brought by the Tosafot Yom Tov: the case is one who gave the measure of peah and wants to add; he may add from the standing crop.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:3:3",
+        "quote": "אם שייר קלח אחד סומך לו משום פאה כשנתן שיעור פאה ומבקש להוסיף"
+       }
+      ]
+     },
+     {
+      "text": "Another reading brought there: even one who did not give the sixtieth may add, when he left a stalk of the field ungiven.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:3:3",
+        "quote": "כלומר שלא נתן כשיעור אחד מששים ואפי' לא שייר אלא כנגד קלח אחד שלא נתן עליו פאה"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes whether peah given earlier in the field counts and when it still exempts from tithes.",
+    "mishnah": 3,
+    "anchors": [
+     "אם שיר קלח אחד, סומך לו משום פאה"
+    ]
+   },
+   {
+    "title": "Why does “brought in for storage” exclude vegetables?",
+    "pasuk": {
+     "text": "ולקיטתו כאחת, ומכניסו לקיום",
+     "ref": "Mishnah Peah 1:4",
+     "label": "Mishnah Peah 1:4"
+    },
+    "question": "The Bartenura derives the exclusion of vegetables from “you reap”, yet the mishnah's condition is “brought in for storage”. Why does the condition of storage exclude vegetables?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 1:4:3",
+      "era": "acharon",
+      "quote": "ופירושם זה דחוק דאמאי תלי מתניתין טעמא במכניסו לקיום"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 1:4:5",
+      "era": "acharon",
+      "quote": "ופירושו דחוק והר\"ש כתב על פי תורת כהנים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: vegetables do not keep and rot quickly, and the verse says “when you reap”, which is not said of vegetables.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 1:4:5",
+        "quote": "ואין הירק נקצר"
+       }
+      ]
+     },
+     {
+      "text": "The Rash, from Torat Kohanim, brought by the Tosafot Yom Tov: a plain harvest is brought in for storage, so vegetables, though gathered together, are excluded.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:4:3",
+        "quote": "וסתם קציר מכניסו לקיום יצאו ירקות שאף על פי שלקיטתו כאחת אין מכניסו לקיום"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: the word for reaping does not apply to a vegetable field.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 1:4:4",
+        "quote": "ולא יפול על שדה ירק שם קצירה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mefarshim tie each condition of the rule to a verse.",
+    "mishnah": 4,
+    "anchors": [
+     "ולקיטתו כאחת, ומכניסו לקיום"
+    ]
+   },
+   {
+    "title": "Is the fig exempt, and do the Tosafot say otherwise?",
+    "pasuk": {
+     "text": "ולקיטתו כאחת, ומכניסו לקיום, חיב בפאה",
+     "ref": "Mishnah Peah 1:4",
+     "label": "Mishnah Peah 1:4"
+    },
+    "question": "The Bartenura says a fig is excluded from peah because it is not gathered at one time. Yet the Tosafot in Berakhot write that all seven species are liable in peah. How do these fit?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 1:4:3",
+      "era": "acharon",
+      "quote": "מזה קשה לי דברי התוס' ברכות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Boaz: the Tosafot too must hold the fig exempt, since it is not gathered together; the word peah there is not exact.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Peah 1:6",
+        "quote": "וצ\"ל דגם לתוס' תאנה עכ\"פ פטור"
+       }
+      ]
+     },
+     {
+      "text": "The Boaz elsewhere: the Tosafot mean gifts to the poor, which include tithes, and all those are liable rabbinically.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Peah 1:5",
+        "quote": "הוא לאו דוקא אלא ר\"ל מתנת עניים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the acharonim reconcile the mishnah with the Tosafot.",
+    "mishnah": 4,
+    "anchors": [
+     "ולקיטתו כאחת, ומכניסו לקיום, חיב בפאה"
+    ]
+   },
+   {
+    "title": "R. Akiva: taking from the threshing floor to sow",
+    "pasuk": {
+     "text": "ונוטל מן הגרן וזורע ופטור מן המעשרות, עד שימרח, דברי רבי עקיבא",
+     "ref": "Mishnah Peah 1:6",
+     "label": "Mishnah Peah 1:6"
+    },
+    "question": "Why does Rabbi Akiva exempt one who takes grain from the threshing floor to sow until merach, and is the halakha like him?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Peah 1:6:5",
+      "era": "rishon",
+      "quote": "סבירא ליה לרבי עקיבא דקודם מרוח פטור מן המעשר אפילו מדרבנן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: from the Torah one who sows is exempt even after merach, since “and you shall eat” is not said of sowing, but rabbinically he is liable; R. Akiva exempts before merach even rabbinically.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 1:6:5",
+        "quote": "דמן התורה הזורע פטור מן המעשר אפילו לאחר מרוח"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: R. Akiva allows taking threshed wheat before it is cleaned, and sowing it.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 1:6:2",
+        "quote": "שמותר לו לקחת החטה הנידושה בטרם שיבררו אותה ויזרענה"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam rules the halakha is not like R. Akiva.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 1:6:3",
+        "quote": "ואין הלכה כרבי עקיבא"
+       }
+      ]
+     }
+    ],
+    "why": "It marks where R. Akiva stands apart and where the halakha does not follow him.",
+    "mishnah": 6,
+    "anchors": [
+     "ונוטל מן הגרן וזורע ופטור מן המעשרות, עד שימרח, דברי רבי עקיבא"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Ikar Tosafot Yom Tov",
+   "Rambam",
+   "Bartenura",
+   "Rashash",
+   "Tosafot Rabbi Akiva Eiger",
+   "Boaz"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מונה דברים שאין להם שיעור (פאה, בכורים, ראיון, גמילות חסדים, תלמוד תורה) ודברים שאדם אוכל פירותיהן בעולם הזה והקרן קיימת לו לעולם הבא. משנה ב אומרת שאין פוחתין לפאה משישים, והכל לפי גודל השדה, רוב העניים והענוה. משנה ג מתירה לתת פאה מתחילת השדה ומאמצעה, ומביאה את דעות רבי שמעון ורבי יהודה במה שצריך להניח בסוף. משניות ד-ה נותנות את הכלל במה שחייב בפאה (אוכל, נשמר, גדוליו מן הארץ, לקיטתו כאחת, מכניסו לקיום) ומונות את האילנות החייבים. משנה ו מלמדת שפאה, הפקר וכיוצא בהם פטורים ממעשרות עד שימרח, ומביאה את דעת רבי עקיבא בנוטל מן הגורן וזורע, את הכהן והלוי שלקחו את הגורן ואת המקדיש ופודה.",
+  "topics": [
+   {
+    "term": "פאה",
+    "explanation": "פאה היא חלק מהשדה שהבעלים חייב להניח בלי לקצור לעניים. המשנה פותחת בה כראשונה בין הדברים שאין להם שיעור, והיא נותנת את שמה למסכת.",
+    "mishnah": 1,
+    "anchors": [
+     "הפאה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 1:1:2",
+     "quote": "שאדם חיב להניח בסוף שדהו לעניים"
+    }
+   },
+   {
+    "term": "בכורים",
+    "explanation": "בכורים הם ראשית הפירות הבשלים שמביאים לבית המקדש. התורה לא קבעה כמה צריך להביא.",
+    "mishnah": 1,
+    "anchors": [
+     "והבכורים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 1:1:3",
+     "quote": "ולא נתנה תורה בהם שיעור"
+    }
+   },
+   {
+    "term": "ראיון",
+    "explanation": "ראיון הוא החובה להראות בעזרה בשלוש הרגלים. המשנה מונה אותו בין הדברים שאין להם שיעור.",
+    "mishnah": 1,
+    "anchors": [
+     "והראיון"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 1:1:4",
+     "quote": "שחיב אדם להראות בעזרה בשלש רגלים"
+    }
+   },
+   {
+    "term": "גמילות חסדים",
+    "explanation": "מעשי חסד, המתחלקים לאלה שבגופו, כביקור חולים וקבורת מתים, ולאלה שבממונו, כפדיון שבויים. המפרשים דנים איזה מהם יש לו שיעור.",
+    "mishnah": 1,
+    "anchors": [
+     "וגמילות חסדים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 1:1:5",
+     "quote": "דבגופו כגון ביקור חולים ולקבר מתים"
+    }
+   },
+   {
+    "term": "אוכל פירותיהן והקרן קיימת",
+    "explanation": "המשנה מונה מצוות שאדם אוכל פירותיהן בעולם הזה והקרן קיימת לעולם הבא. הרמב\"ם מסביר זאת בחלוקת המצוות לאלה שבין אדם למקום ולאלה התלויות בתועלת בני אדם זה עם זה.",
+    "mishnah": 1,
+    "anchors": [
+     "והקרן קיימת"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 1:1:3",
+     "quote": "המצות כולן נחלקין בתחלה על שני חלקים"
+    }
+   },
+   {
+    "term": "הפקר",
+    "explanation": "הפקר הוא תבואה שבעליה הפקיר לכל אדם, עשירים ועניים. פאה, לעומתו, שייכת לעניים בלבד, והמשנה אומרת שמה שלא ניתן משום פאה ניתן רק משום הפקר.",
+    "mishnah": 3,
+    "anchors": [
+     "משום הפקר"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 1:3:1",
+     "quote": "ופי' הפקר הדבר המשולח לכל ב\"א לקחתו"
+    }
+   },
+   {
+    "term": "תנאי כלל הפאה",
+    "explanation": "המשנה נותנת כלל למה שחייב בפאה: אוכל, נשמר, גדוליו מן הארץ, לקיטתו כאחת ומכניסו לקיום. כל תנאי מוציא דבר מה, למשל נשמר מוציא הפקר.",
+    "mishnah": 4,
+    "anchors": [
+     "ונשמר"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 1:4:2",
+     "quote": "למעוטי הפקר שאין לו שומרים שאינו חיב בפאה"
+    }
+   },
+   {
+    "term": "מירוח",
+    "explanation": "מירוח הוא השלב שבו התבואה נעשית כרי גמור. לפניו התבואה עדיין לא נקבעה למעשר, ולכן פאה, הפקר וכיוצא בהם פטורים ממעשרות רק אם ניתנו לפני המירוח.",
+    "mishnah": 6,
+    "anchors": [
+     "עד שימרח"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 1:6:2",
+     "quote": "שיעשה כרי וצבור של תבואה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע אין תרומה בין הדברים שאין להם שיעור?",
+    "pasuk": {
+     "text": "אלו דברים שאין להם שעור. הפאה, והבכורים, והראיון, וגמילות חסדים, ותלמוד תורה",
+     "ref": "Mishnah Peah 1:1",
+     "label": "משנה פאה א, 1"
+    },
+    "question": "המשנה מונה פאה, בכורים, ראיון, גמילות חסדים ותלמוד תורה כדברים שאין להם שיעור, אך תרומה, שגם לה התורה לא קבעה שיעור, חסרה. מדוע?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 1:1:1",
+      "era": "acharon",
+      "quote": "למה לא תנינן תרומה עמהון"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 1:1:1",
+      "era": "acharon",
+      "quote": "וצריך עיון הא פאה נמי דכותה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הירושלמי כפי שהביא התוספות יום טוב: מפני שיש תרומות חלוקות זו מזו, כגון תרומת מעשר שיש לה שיעור.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:1:1",
+        "quote": "כלומר שיש תרומות חלוקות זו מזו כגון תרומות מעשר שיש לה שיעור"
+       }
+      ]
+     },
+     {
+      "text": "תשובה נוספת שם: בתרומה גדולה ההוספה היא עבירה, שמערב טבל בתרומה, ואילו בפאה ההוספה היא מצוה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:1:1",
+        "quote": "ותרומה גדולה אדרבה כשמוסיף הוא עבירה שמערב טבל בתרומה"
+       }
+      ]
+     },
+     {
+      "text": "עוד תשובה: תרומה חלוקה מן השאר, שכן אפשר לעשות את כל השדה פאה אך אי אפשר לעשות את כל הכרי תרומה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:1:1",
+        "quote": "דבפאה בקש לעשות כל שדהו פאה עושה בקש לעשות כל כריו תרומה אינו עושה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מבהיר מה משמעות 'אין להם שיעור' במשנה ומדוע תרומה שונה.",
+    "mishnah": 1,
+    "anchors": [
+     "אלו דברים שאין להם שעור. הפאה, והבכורים, והראיון, וגמילות חסדים, ותלמוד תורה"
+    ]
+   },
+   {
+    "title": "גמילות חסדים בלי שיעור, ובכל זאת יש חומש",
+    "pasuk": {
+     "text": "והראיון, וגמילות חסדים, ותלמוד תורה",
+     "ref": "Mishnah Peah 1:1",
+     "label": "משנה פאה א, 1"
+    },
+    "question": "המשנה אומרת שאין שיעור לגמילות חסדים, ובכל זאת נקבע שיעור של חומש מהנכסים. באיזה מובן אין לה שיעור?",
+    "asked_by": [
+     {
+      "name": "רמב\"ם",
+      "ref": "Rambam on Mishnah Peah 1:1:3",
+      "era": "rishon",
+      "quote": "ומה שאמר בכאן גמ\"ח אין לה שיעור רוצה לומר לעזור האדם בגופו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: אין שיעור בעזרה בגופו, אך בעזרה בממונו יש שיעור והוא חמישית מהממון.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 1:1:3",
+        "quote": "אך שיעזור אותו בממונו יש לו שיעור והוא חמישית ממונו"
+       }
+      ]
+     },
+     {
+      "text": "הברטנורא אומר כך, ומוסיף שאינו חייב יותר מחמישית.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 1:1:5",
+        "quote": "יש להן שיעור שיתן בכל פעם שתבא מצוה כזו לידו חמשית מן הרוח שבנכסיו"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב: החומש הוא תקנת אושא, ולכן מן התורה אין שיעור אפילו לגמילות חסדים בממונו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:1:4",
+        "quote": "והשתא מדאורייתא אין שיעור לגמילות חסדים בממונו"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע את הגבול בין מה שהתורה מחייבת בלי הגבלה לבין מה שחכמים הגבילו.",
+    "mishnah": 1,
+    "anchors": [
+     "והראיון, וגמילות חסדים, ותלמוד תורה"
+    ]
+   },
+   {
+    "title": "שדה גדולה ועניים מועטים: האם מוסיפים על השישים?",
+    "pasuk": {
+     "text": "הכל לפי גדל השדה, ולפי רב העניים",
+     "ref": "Mishnah Peah 1:2",
+     "label": "משנה פאה א, 2"
+    },
+    "question": "המשנה אומרת שהפאה תלויה בגודל השדה וברוב העניים. האם בשדה גדולה ועניים מועטים צריך לתת יותר משישים?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 1:2:2",
+      "era": "acharon",
+      "quote": "ותמהני למה יוסיף שהרי הפאה נמי גדולה כשהיא ששים מהשדה הגדולה"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 1:2:1",
+      "era": "acharon",
+      "quote": "ותמהני למה יוסיף שהרי הפאה נמי גדולה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: אם שדהו גדולה והעניים מועטים, מוסיף על שישים לפי גודל שדהו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 1:2:3",
+        "quote": "אם שדהו גדולה ועניים מועטים נותן ומוסיף על ששים לפי גודל שדהו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: אם השדה גדולה והעניים מועטים, יתנו לפי גודל השדה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 1:2:1",
+        "quote": "ואם תהיה השדה גדולה והעניים מועטים יתנו לפי גודל השדה"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב, בעקבות הר\"ש: המשנה מלמדת רק שלא יפחות משישים אף שהעניים מועטים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:2:2",
+        "quote": "לא אשמעינן אלא שלא יפחות מששים אף שהעניים מועטים"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם השישים הוא רצפה בלבד או שגדל עם גודל השדה.",
+    "mishnah": 2,
+    "anchors": [
+     "הכל לפי גדל השדה, ולפי רב העניים"
+    ]
+   },
+   {
+    "title": "מהי 'הענוה'?",
+    "pasuk": {
+     "text": "ולפי רב הענוה",
+     "ref": "Mishnah Peah 1:2",
+     "label": "משנה פאה א, 2"
+    },
+    "question": "המשנה אומרת שהפאה תלויה ב'רוב הענוה'. מה פירוש המילה?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Peah 1:2:4",
+      "era": "rishon",
+      "quote": "אית דגרסי ענוה בוי\"ו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: בוי\"ו, ככל שבעל השדה ענו יותר כך ירבה לעניים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 1:2:4",
+        "quote": "לפי רב ענותו ירבה לעניים"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: מה שתענה הארץ, אם זרע רב או מעט.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 1:2:1",
+        "quote": "ופירושו מה שתענה הארץ אם זרע רב או מעט"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש: הכוונה לעניות; אף אם העניים מעטים, אם עניותם רבה ירבה על השיעור.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Peah 1:2:1",
+        "quote": "אך אם איכות עניותם רב ירבה על השיעור"
+       }
+      ]
+     }
+    ],
+    "why": "כל פירוש נותן לבעל השדה מדד אחר ליישם.",
+    "mishnah": 2,
+    "anchors": [
+     "ולפי רב הענוה"
+    ]
+   },
+   {
+    "title": "רבי יהודה: 'אם שייר קלח אחד'",
+    "pasuk": {
+     "text": "אם שיר קלח אחד, סומך לו משום פאה",
+     "ref": "Mishnah Peah 1:3",
+     "label": "משנה פאה א, 3"
+    },
+    "question": "רבי יהודה אומר שאם שייר קלח אחד סומך לו משום פאה. היכן צריך להיות הקלח ולמה נאמר 'שייר' ולא 'נתן'?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 1:3:3",
+      "era": "acharon",
+      "quote": "וקשה דלתני אם נתן קלח אחד בסוף כלשון ר\"ש"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: שייר קלח אחד בסוף השדה והניחו לפאה, וכל מה שהניח באמצע ובתחילה יש לו תורת פאה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 1:3:3",
+        "quote": "בסוף השדה והניח אותו לפאה סומך עליו"
+       }
+      ]
+     },
+     {
+      "text": "הר\"ש, כפי שהביא התוספות יום טוב: מדובר במי שנתן שיעור פאה ורוצה להוסיף, ויכול להוסיף מן המחובר.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:3:3",
+        "quote": "אם שייר קלח אחד סומך לו משום פאה כשנתן שיעור פאה ומבקש להוסיף"
+       }
+      ]
+     },
+     {
+      "text": "פירוש נוסף שם: גם מי שלא נתן שיעור אחד משישים יכול להוסיף, כשנשאר קלח שלא נתן עליו פאה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:3:3",
+        "quote": "כלומר שלא נתן כשיעור אחד מששים ואפי' לא שייר אלא כנגד קלח אחד שלא נתן עליו פאה"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם פאה שניתנה קודם בשדה נחשבת ומתי היא עדיין פוטרת ממעשרות.",
+    "mishnah": 3,
+    "anchors": [
+     "אם שיר קלח אחד, סומך לו משום פאה"
+    ]
+   },
+   {
+    "title": "מדוע 'מכניסו לקיום' מוציא ירק?",
+    "pasuk": {
+     "text": "ולקיטתו כאחת, ומכניסו לקיום",
+     "ref": "Mishnah Peah 1:4",
+     "label": "משנה פאה א, 4"
+    },
+    "question": "הברטנורא לומד את הוצאת הירק מ'בקצרך', ואילו תנאי המשנה הוא 'מכניסו לקיום'. מדוע תנאי הקיום מוציא ירק?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 1:4:3",
+      "era": "acharon",
+      "quote": "ופירושם זה דחוק דאמאי תלי מתניתין טעמא במכניסו לקיום"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 1:4:5",
+      "era": "acharon",
+      "quote": "ופירושו דחוק והר\"ש כתב על פי תורת כהנים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: ירק אינו מתקיים אלא מתעפש מיד, והפסוק אומר 'בקצרך' ואין הירק נקצר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 1:4:5",
+        "quote": "ואין הירק נקצר"
+       }
+      ]
+     },
+     {
+      "text": "הר\"ש על פי תורת כהנים, כפי שהביא התוספות יום טוב: סתם קציר מכניסו לקיום, ולכן ירקות, אף שלקיטתם כאחת, יצאו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 1:4:3",
+        "quote": "וסתם קציר מכניסו לקיום יצאו ירקות שאף על פי שלקיטתו כאחת אין מכניסו לקיום"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: שם קצירה אינו חל על שדה ירק.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 1:4:4",
+        "quote": "ולא יפול על שדה ירק שם קצירה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד המפרשים קושרים כל תנאי בכלל לפסוק.",
+    "mishnah": 4,
+    "anchors": [
+     "ולקיטתו כאחת, ומכניסו לקיום"
+    ]
+   },
+   {
+    "title": "האם התאנה פטורה, והתוספות אומרים אחרת?",
+    "pasuk": {
+     "text": "ולקיטתו כאחת, ומכניסו לקיום, חיב בפאה",
+     "ref": "Mishnah Peah 1:4",
+     "label": "משנה פאה א, 4"
+    },
+    "question": "הברטנורא אומר שתאנה פטורה מפאה כי אין לקיטתה כאחת. אך התוספות בברכות כתבו שכל שבעת המינים חייבים בפאה. כיצד מתיישב הדבר?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 1:4:3",
+      "era": "acharon",
+      "quote": "מזה קשה לי דברי התוס' ברכות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הבועז: גם לתוספות התאנה פטורה, שהרי אין לקיטתה כאחת; ומה שכתבו פאה אינו מדויק.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Peah 1:6",
+        "quote": "וצ\"ל דגם לתוס' תאנה עכ\"פ פטור"
+       }
+      ]
+     },
+     {
+      "text": "הבועז במקום אחר: הכוונה למתנות עניים, ובכללן מעשר, שכולם חייבים מדרבנן.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Peah 1:5",
+        "quote": "הוא לאו דוקא אלא ר\"ל מתנת עניים"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד האחרונים מיישבים את המשנה עם התוספות.",
+    "mishnah": 4,
+    "anchors": [
+     "ולקיטתו כאחת, ומכניסו לקיום, חיב בפאה"
+    ]
+   },
+   {
+    "title": "רבי עקיבא: נוטל מן הגורן וזורע",
+    "pasuk": {
+     "text": "ונוטל מן הגרן וזורע ופטור מן המעשרות, עד שימרח, דברי רבי עקיבא",
+     "ref": "Mishnah Peah 1:6",
+     "label": "משנה פאה א, 6"
+    },
+    "question": "מדוע רבי עקיבא פוטר את הנוטל מן הגורן לזרוע עד שימרח, והאם ההלכה כמותו?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Peah 1:6:5",
+      "era": "rishon",
+      "quote": "סבירא ליה לרבי עקיבא דקודם מרוח פטור מן המעשר אפילו מדרבנן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: מן התורה הזורע פטור אפילו אחר מירוח, שלא נאמר בו 'ואכלת', אך מדרבנן חייב; רבי עקיבא פוטר לפני המירוח אפילו מדרבנן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 1:6:5",
+        "quote": "דמן התורה הזורע פטור מן המעשר אפילו לאחר מרוח"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: רבי עקיבא מתיר לקחת חטה נידושה לפני שיבררוה ולזרעה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 1:6:2",
+        "quote": "שמותר לו לקחת החטה הנידושה בטרם שיבררו אותה ויזרענה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם פוסק שאין הלכה כרבי עקיבא.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 1:6:3",
+        "quote": "ואין הלכה כרבי עקיבא"
+       }
+      ]
+     }
+    ],
+    "why": "זה מציין היכן רבי עקיבא חלוק וההלכה אינה כמותו.",
+    "mishnah": 6,
+    "anchors": [
+     "ונוטל מן הגרן וזורע ופטור מן המעשרות, עד שימרח, דברי רבי עקיבא"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "עיקר תוספות יום טוב",
+   "רמב\"ם",
+   "ברטנורא",
+   "רש\"ש",
+   "תוספות רבי עקיבא איגר",
+   "בועז"
+  ]
+ }
+}
