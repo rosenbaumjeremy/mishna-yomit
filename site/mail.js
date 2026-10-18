@@ -18,22 +18,28 @@
     he: {
       button: "במייל", title: "קבלה במייל",
       freq: "באיזו תדירות", daily: "כל יום (בשבת ובחג: ב-21:00)", weekly: "פעם בשבוע (ביום שישי, כל השבוע)",
+      once: "רק הפעם (נשלח עכשיו, בלי הרשמה)", send: "שליחה",
+      sent: (e) => `שלחנו את הלימוד של היום אל ${e}. לא הגיע? בדקו בתיקיית הספאם.`,
       ask: "אילו חלקים לקבל?", lang: "שפת המייל", email: "כתובת מייל",
       make: "הרשמה", cancel: "ביטול", close: "סגירה", loading: "טוען…",
       done: (e) => `שלחנו מייל אישור אל ${e}. לחצו על הקישור שבו כדי להתחיל לקבל. לא הגיע? בדקו בתיקיית הספאם.`,
       errors: { email: "כתובת המייל אינה תקינה.", sections: "בחרו לפחות חלק אחד.",
-        "too many": "נשלחו כבר כמה מיילי אישור לכתובת הזאת היום. נסו שוב מחר.",
+        "too many": "נשלחו כבר כמה מיילים לכתובת הזאת היום. נסו שוב מחר.",
+        none: "עדיין לא פורסם לימוד לשליחה.",
         other: "משהו השתבש. נסו שוב מאוחר יותר." },
       note: "בכל מייל יש קישור לשינוי הבחירות ולהסרה.",
     },
     en: {
       button: "Email", title: "Get it by email",
       freq: "How often", daily: "Every day (Shabbat and Yom Tov: at 9 pm)", weekly: "Once a week (Friday, the whole week)",
+      once: "Just this time (sent now, no sign-up)", send: "Send",
+      sent: (e) => `We sent today's learning to ${e}. Not there? Check your spam folder.`,
       ask: "Which sections do you want?", lang: "Email language", email: "Email address",
       make: "Sign up", cancel: "Cancel", close: "Close", loading: "Loading…",
       done: (e) => `We sent a confirmation email to ${e}. Press the link in it to start. Not there? Check your spam folder.`,
       errors: { email: "That email address does not look right.", sections: "Choose at least one section.",
-        "too many": "Several confirmation emails were already sent to this address today. Try again tomorrow.",
+        "too many": "Several emails were already sent to this address today. Try again tomorrow.",
+        none: "Nothing has been published to send yet.",
         other: "Something went wrong. Please try again later." },
       note: "Every email has a link to change your choices or unsubscribe.",
     },
@@ -100,10 +106,10 @@
       });
     }
 
-    // how often: every morning, or the whole week on Friday morning
+    // how often: every morning, the whole week on Friday morning, or just today's, now
     const freqs = el("div", "maillang");
     freqs.append(el("span", null, t.freq));
-    for (const value of ["daily", "weekly"]) {
+    for (const value of ["daily", "weekly", "once"]) {
       const label = el("label");
       const radio = el("input");
       radio.type = "radio";
@@ -112,6 +118,11 @@
       radio.checked = value === "daily";
       label.append(radio, t[value]);
       freqs.append(label);
+      // "just this time" sends at once: the button says so, and there is nothing to unsubscribe from
+      radio.addEventListener("change", () => {
+        go.textContent = value === "once" ? t.send : t.make;
+        note.hidden = value === "once";
+      });
     }
 
     const langs = el("div", "maillang");
@@ -145,19 +156,20 @@
       if (!sections.length) return show(t.errors.sections);
       if (!email.checkValidity() || !address) return show(t.errors.email);
       go.disabled = true;
+      const freq = (dlg.querySelector("input[name=mailfreq]:checked") || {}).value || "daily";
       try {
         const res = await fetch(`${API}/subscribe`, {
           method: "POST", headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ email: address, site: SITE, sections,
             lang: (dlg.querySelector("input[name=maillang]:checked") || {}).value || lang(),
-            freq: (dlg.querySelector("input[name=mailfreq]:checked") || {}).value || "daily" }),
+            freq }),
         });
         const data = await res.json().catch(() => ({}));
         if (!res.ok) { go.disabled = false; return show(t.errors[data.error] || t.errors.other); }
         // done: just the message and a close button
         [list, freqs, langs, email, ask, row, note].forEach((x) => x.remove());
         msg.classList.add("ok");
-        show(t.done(address));
+        show(freq === "once" ? t.sent(address) : t.done(address));
         const close = el("button", "go", t.close);
         close.type = "button";
         close.onclick = () => dlg.close();
