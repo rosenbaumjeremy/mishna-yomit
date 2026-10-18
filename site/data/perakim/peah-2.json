@@ -1,0 +1,882 @@
+{
+ "date": "2026-10-18",
+ "hebrew_date": {
+  "hebrew": "ז׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "7 Cheshvan 5787"
+ },
+ "masechet": "peah",
+ "perek": 2,
+ "ref": "Mishnah Peah 2",
+ "mishnayot": [
+  {
+   "he": "וְאֵלּוּ מַפְסִיקִין לַפֵּאָה. הַנַּחַל, וְהַשְּׁלוּלִית, וְדֶרֶךְ הַיָּחִיד, וְדֶרֶךְ הָרַבִּים, וּשְׁבִיל הָרַבִּים, וּשְׁבִיל הַיָּחִיד הַקָּבוּעַ בִּימוֹת הַחַמָּה וּבִימוֹת הַגְּשָׁמִים, וְהַבּוּר, וְהַנִּיר, וְזֶרַע אַחֵר. וְהַקּוֹצֵר לְשַׁחַת מַפְסִיק, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, אֵינוֹ מַפְסִיק, אֶלָּא אִם כֵּן חָרָשׁ: \n",
+   "en": "The following divide a field for peah: a stream, a pool, a private road, a public road, a public path, a private path in constant use in summer and the rainy season, fallow land, a plowed field and a different seed. One who harvested for animal fodder, [the plot] serves divides, the words of Rabbi Meir. But the sages say: it does not stop for peah unless it is plowed."
+  },
+  {
+   "he": "אַמַּת הַמַּיִם שֶׁאֵינָהּ יְכוֹלָה לְהִקָּצֵר כְּאַחַת, רַבִּי יְהוּדָה אוֹמֵר, מַפְסֶקֶת. וְכֹל הֶהָרִים אֲשֶׁר בַּמַּעְדֵּר יֵעָדֵרוּן, אַף עַל פִּי שֶׁאֵין הַבָּקָר יָכוֹל לַעֲבֹר בְּכֵלָיו, הוּא נוֹתֵן פֵּאָה לַכֹּל: \n",
+   "en": "A water channel that makes harvesting [on one side] impossible [while standing on the other side], Rabbi Judah says: it divides. But all of the hills that can be tilled with a hoe, even though cattle cannot pass over it in with their equipment, [is regarded as part of the field] he gives one peah from it all."
+  },
+  {
+   "he": "הַכֹּל מַפְסִיק לַזְּרָעִים, וְאֵינוֹ מַפְסִיק לָאִילָן אֶלָּא גָדֵר. וְאִם הָיָה שֵׂעָר כּוֹתֵשׁ, אֵינוֹ מַפְסִיק, אֶלָּא נוֹתֵן פֵּאָה לַכֹּל: \n",
+   "en": "All of these divide in the case of a field [planted] with seeds, but in the case of trees nothing divides except a fence. Should the branches intertwine [on top of the fence], then it does not divide and he gives one peah for the whole field."
+  },
+  {
+   "he": "וְלֶחָרוּבִין, כָּל הָרוֹאִין זֶה אֶת זֶה. אָמַר רַבָּן גַּמְלִיאֵל, נוֹהֲגִין הָיוּ בֵּית אַבָּא, נוֹתְנִין פֵּאָה אַחַת לַזֵּיתִים שֶׁהָיוּ לָהֶם בְּכָל רוּחַ, וְלֶחָרוּבִין, כָּל הָרוֹאִין זֶה אֶת זֶה. רַבִּי אֱלִיעֶזֶר בְּרַבִּי צָדוֹק אוֹמֵר מִשְּׁמוֹ, אַף לֶחָרוּבִין שֶׁהָיוּ לָהֶם בְּכָל הָעִיר: \n",
+   "en": "As for carob trees, [they are not divided] as long as they see one another. Rabban Gamaliel said: we had this custom in the house of my father. We would give separate peah from the olive trees in each direction and [one peah] for all the carob trees that saw one another. Rabbi Elazar bar Zadok said in his name: also for the carob trees they had in the whole city [they only gave one peah]."
+  },
+  {
+   "he": "הַזּוֹרֵעַ אֶת שָׂדֵהוּ מִין אֶחָד, אַף עַל פִּי שֶׁהוּא עוֹשֵׂהוּ שְׁתֵּי גְרָנוֹת, נוֹתֵן פֵּאָה אַחַת. זְרָעָהּ שְׁנֵי מִינִין, אַף עַל פִּי שֶׁעֲשָׂאָן גֹּרֶן אַחַת, נוֹתֵן שְׁתֵּי פֵאוֹת. הַזּוֹרֵעַ אֶת שָׂדֵהוּ שְׁנֵי מִינֵי חִטִּין, עֲשָׂאָן גֹּרֶן אַחַת, נוֹתֵן פֵּאָה אַחַת. שְׁתֵּי גְרָנוֹת, נוֹתֵן שְׁתֵּי פֵאוֹת: \n",
+   "en": "He who plants his field with one kind of seed, even though he makes up of it two threshing-floors, he gives only one peah [for the lot]. If he plants it of two kinds, even though he makes up of it one threshing-floor, he must give two peahs. One who plants his field with two species of wheat: If he makes up of it one threshing-floor, he gives only one peah; But if two threshing-floors, he gives two peahs."
+  },
+  {
+   "he": "מַעֲשֶׂה שֶׁזָּרַע רַבִּי שִׁמְעוֹן אִישׁ הַמִּצְפָּה לִפְנֵי רַבָּן גַּמְלִיאֵל, וְעָלוּ לְלִשְׁכַּת הַגָּזִית וְשָׁאָלוּ. אָמַר נַחוּם הַלַּבְלָר, מְקֻבָּל אֲנִי מֵרַבִּי מְיָאשָׁא, שֶׁקִּבֵּל מֵאַבָּא, שֶׁקִּבֵּל מִן הַזּוּגוֹת, שֶׁקִּבְּלוּ מִן הַנְּבִיאִים, הֲלָכָה לְמשֶׁה מִסִּינַי, בְּזוֹרֵעַ אֶת שָׂדֵהוּ שְׁנֵי מִינֵי חִטִּין, אִם עֲשָׂאָן גֹּרֶן אַחַת, נוֹתֵן פֵּאָה אַחַת. שְׁתֵּי גְרָנוֹת, נוֹתֵן שְׁתֵּי פֵאוֹת: \n",
+   "en": "It happened that Rabbi Shimon of Mitzpah planted his field [with two different kinds] and came before Rabban Gamaliel. They both went up to the Chamber of Hewn Stone and asked [about the law]. Nahum the scribe said: I have a tradition from Rabbi Meyasha, who received it from Abba, who received it from the pairs [of sages], who received it from the prophets, a halakhah of Moses from Sinai, that one who plants his field with two species of wheat, if he makes up of it one threshing-floor, he gives only one peah, but if two threshing-floors, he gives two peahs."
+  },
+  {
+   "he": "שָׂדֶה שֶׁקְּצָרוּהָ כּוּתִים, קְצָרוּהָ לִסְטִים, קִרְסְמוּהָ נְמָלִים, שְׁבָרַתָּהּ הָרוּחַ אוֹ בְהֵמָה, פְּטוּרָה. קָצַר חֶצְיָהּ וְקָצְרוּ לִסְטִים חֶצְיָהּ, פְּטוּרָה, שֶׁחוֹבַת הַפֵּאָה בַּקָּמָה: \n",
+   "en": "A field harvested by gentiles, or harvested by robbers, or which ants have bitten [the stalks at the roots], or which wind and cattle have broken down, is exempt from peah. If [the owner] harvested half of it and robbers harvested half, it is exempt from peah, for the obligation of peah is in the standing grain."
+  },
+  {
+   "he": "קְצָרוּהָ לִסְטִים חֶצְיָהּ וְקָצַר הוּא חֶצְיָהּ, נוֹתֵן פֵּאָה מִמַּה שֶּׁקָּצָר. קָצַר חֶצְיָהּ וּמָכַר חֶצְיָהּ, הַלּוֹקֵחַ נוֹתֵן פֵּאָה לַכֹּל. קָצַר חֶצְיָהּ וְהִקְדִּישׁ חֶצְיָהּ, הַפּוֹדֶה מִיַּד הַגִּזְבָּר, הוּא נוֹתֵן פֵּאָה לַכֹּל: \n",
+   "en": "If robbers harvested half and the owner the other half, he gives peah from what he has harvested. If he harvested half and sold the other half, then the purchaser must give peah for the whole. If he harvested half and dedicated the other half, then he who redeems it from the Temple treasurer must give peah for the whole."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 The following divide a field so that peah is given from each part: a stream, a pool, a private or public road, a constant path, fallow land, ploughed land and a different crop. Rabbi Meir says that cutting for fodder divides, but the sages say only if the place is ploughed.\nMishnah 2 Rabbi Yehuda says a water channel that cannot be harvested in one stretch divides. A hill that can be worked with a hoe takes one peah for all of it.\nMishnah 3 All of these divide for grain, but for trees only a fence divides, unless branches intertwine above it.\nMishnah 4 For carob trees, those that see one another count as one. Rabban Gamaliel's family gave one peah per direction for olives, and Rabbi Elazar bar Zadok says even for carobs of the whole city.\nMishnayot 5–6 One kind of seed gives one peah even with two threshing floors, while two kinds give two peahs. For two kinds of wheat it depends on one or two threshing floors, which Nachum the scribe received as a halachah of Moses from Sinai.\nMishnayot 7–8 A field cut by gentiles, robbers, ants, wind or cattle is exempt, since the obligation is in the standing grain. If the owner cut half, a buyer or one who redeems from the Temple treasurer gives peah for the whole.",
+  "topics": [
+   {
+    "term": "What divides a field for peah",
+    "explanation": "The mishnah lists what splits one field into two, so that peah is given from each part separately. Rambam explains that the divider makes the field into two fields, and peah from one cannot be given for the other.",
+    "mishnah": 1,
+    "anchors": [
+     "ואלו מפסיקין לפאה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 2:1:1",
+     "quote": "לחלק השדה ולעשותה שתי שדות"
+    }
+   },
+   {
+    "term": "Bor, nir and a different seed",
+    "explanation": "Land left unsown, ploughed land and land planted with another seed divide a field when they are wide enough. Bartenura gives the measure as three furrows of the plough, the width of the strip the plough turns.",
+    "mishnah": 1,
+    "anchors": [
+     "והבור",
+     "והניר",
+     "וזרע אחר"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 2:1:9",
+     "quote": "כדי שלשה תלמים של מענית המחרישה"
+    }
+   },
+   {
+    "term": "Shachat",
+    "explanation": "Shachat is grain cut before it has reached a third of its growth, for fodder. Rabbi Meir says that cutting it divides the field, while the sages say it divides only if the place is then ploughed.",
+    "mishnah": 1,
+    "anchors": [
+     "והקוצר לשחת"
+    ],
+    "source": {
+     "name": "Yachin",
+     "ref": "Yachin on Mishnah Peah 2:11:1",
+     "quote": "תבואה שלא הביאה שליש"
+    }
+   },
+   {
+    "term": "A fence and intertwined branches",
+    "explanation": "For trees only a fence divides. Bartenura explains that if the branches mingle above the fence they do not divide, so one peah is given for all.",
+    "mishnah": 3,
+    "anchors": [
+     "אלא גדר",
+     "שער כותש"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 2:3:3",
+     "quote": "שהנופות של אילנות מתערבין זה עם זה למעלה מן הגדר"
+    }
+   },
+   {
+    "term": "One threshing floor or two",
+    "explanation": "Tosafot Yom Tov, bringing the Yerushalmi, explains that we do not follow what the owner meant to do with the threshing floors. We follow what he actually did.",
+    "mishnah": 5,
+    "anchors": [
+     "אף על פי שהוא עושהו שתי גרנות"
+    ],
+    "source": {
+     "name": "Tosafot Yom Tov",
+     "ref": "Tosefot Yom Tov on Mishnah Peah 2:5:2",
+     "quote": "דלא אזלינן בתר מחשבתו לעשות גורן אחד או ב' גרנות"
+    }
+   },
+   {
+    "term": "The obligation of peah is in the standing grain",
+    "explanation": "Bartenura bases the exemption of a field cut by gentiles or robbers on the verse about peah, 'when you harvest', which requires that you be the harvesters.",
+    "mishnah": 7,
+    "anchors": [
+     "שחובת הפאה בקמה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 2:7:3",
+     "quote": "דכתיב גבי פאה ובקצרכם עד שתהיו אתם הקוצרים"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Does cutting shachat divide a field only when it is for animals?",
+    "pasuk": {
+     "text": "והקוצר לשחת מפסיק, דברי רבי מאיר",
+     "ref": "Mishnah Peah 2:1",
+     "label": "Mishnah Peah 2:1"
+    },
+    "question": "Bartenura and Rambam define the one who cuts 'for shachat' as cutting for animals. Tosafot Rabbi Akiva Eiger infers that cutting for people before the grain reaches a third would then begin the harvest, and finds that hard against what is said about Rabbi Meir elsewhere. Why is the case limited to animals?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 2:1:3",
+      "quote": "אבל באמת תמוה לי דהא במנחות שם אמרי' להדיא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam explains shachat here as cutting green grain for animals; Rabbi Meir's divider is therefore cutting for fodder.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 2:1:8",
+        "quote": "וענינו בזה המקום הקוצר גז לבהמות"
+       }
+      ]
+     },
+     {
+      "text": "Boaz suggests that since most cutting of shachat is for animals, even someone who cut it for people is judged by the usual case, so the rule is stated for animals.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Peah 2:1",
+        "quote": "דמדרוב קציר שחת הוה לבהמה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides what counts as the start of the harvest, which is what ends the field's obligation to divide.",
+    "mishnah": 1,
+    "anchors": [
+     "והקוצר לשחת מפסיק, דברי רבי מאיר"
+    ]
+   },
+   {
+    "title": "Bor and nir: what is the difference?",
+    "pasuk": {
+     "text": "והבור, והניר, וזרע אחר",
+     "ref": "Mishnah Peah 2:1",
+     "label": "Mishnah Peah 2:1"
+    },
+    "question": "Bartenura explains bor as a field that is not sown. Tosafot Yom Tov objects that if the field was at least ploughed, it is the same as nir, which the mishnah lists separately. How do bor and nir differ?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 2:1:6",
+      "quote": "וקשה דא\"כ היינו ניר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam defines bor as land that was neither sown nor worked and was left desolate, so it is not the same as nir, which is ploughed.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 2:1:5",
+        "quote": "הארץ שלא נזרעה ולא נעבדה אבל נשארה שממה"
+       }
+      ]
+     },
+     {
+      "text": "Yachin likewise explains bor as desolate land.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 2:9:1",
+        "quote": "והבור ארץ שממה"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes the kinds of unworked strip that split one field into two obligations.",
+    "mishnah": 1,
+    "anchors": [
+     "והבור, והניר, וזרע אחר"
+    ]
+   },
+   {
+    "title": "Why does the mishnah list both roads and both paths?",
+    "pasuk": {
+     "text": "ודרך היחיד, ודרך הרבים, ושביל הרבים, ושביל היחיד הקבוע בימות החמה ובימות הגשמים",
+     "ref": "Mishnah Peah 2:1",
+     "label": "Mishnah Peah 2:1"
+    },
+    "question": "Rash MiShantz asks, citing the Yerushalmi: since the mishnah already lists a private road and a public road, what is the need for a private path and a public path as well?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Peah 2:1:5",
+      "quote": "מכיון דתנינן דרך היחיד דרך הרבים מאי צריכא",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the public road is named for the second half of the mishnah, to teach that even a road sixteen cubits wide does not divide trees.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 2:1:5",
+        "quote": "וקא משמע לן דאפילו דרך הרבים שהיא רחבה שש עשרה אמה אינה מפסקת באילן"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: both roads must be stated, since without one we might think the other does not divide.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 2:1:4",
+        "quote": "והודיענו דרך היחיד ודרך הרבים לפי שיצטרכו שניהם"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov, quoting the Rash: all the items are needed, since otherwise one might think an irregular road is weaker than a regular path.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 2:1:2",
+        "quote": "הוה אמינא דרך היחיד דלא קבוע גרע משביל היחיד דקבוע"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what each item teaches about when a path divides the field and when it divides trees.",
+    "mishnah": 1,
+    "anchors": [
+     "ודרך היחיד, ודרך הרבים, ושביל הרבים, ושביל היחיד הקבוע בימות החמה ובימות הגשמים"
+    ]
+   },
+   {
+    "title": "Why does Bartenura rule like Rabbi Yehuda against the first view?",
+    "pasuk": {
+     "text": "אמת המים שאינה יכולה להקצר כאחת, רבי יהודה אומר, מפסקת",
+     "ref": "Mishnah Peah 2:2",
+     "label": "Mishnah Peah 2:2"
+    },
+    "question": "If Rabbi Yehuda disagrees with the first view about the water channel, why does Bartenura rule like him, when the halachah follows the anonymous first view?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 2:2:1",
+      "quote": "ועוד יש תימה בדברי הר\"ב מה שפסק הלכה כר\"י",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Yesh Seder LaMishnah suggests that Bartenura followed Rav Tzemach Gaon, who ruled like Rabbi Yehuda against the anonymous first view.",
+      "sources": [
+       {
+        "name": "Yesh Seder LaMishnah",
+        "ref": "Yesh Seder LaMishnah on Mishnah Peah 2:2:1",
+        "quote": "ואולי נטה הר\"ב בעקבות דרב צמח גאון"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim reads the mishnah as a dispute that the halachah can settle like Rabbi Yehuda, since there is no dispute against him in the mishnah and a dispute in a baraita does not outweigh it.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Peah 2:2:1-7",
+        "quote": "דסתם במתני' ומחלוקת בברייתא הילכתא כסתמא דמתני'"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir: the anonymous mishnah is Rabbi Meir's, and the halachah follows Rabbi Yehuda against Rabbi Meir.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Peah 2:2:2",
+        "quote": "שהרי הלכה כמותו לגבי ר\"מ, דהוא סתם משנה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mefarshim decide between an individual and the anonymous view.",
+    "mishnah": 2,
+    "anchors": [
+     "אמת המים שאינה יכולה להקצר כאחת, רבי יהודה אומר, מפסקת"
+    ]
+   },
+   {
+    "title": "Why does the mishnah say 'even though' the cattle cannot pass?",
+    "pasuk": {
+     "text": "וכל ההרים אשר במעדר יעדרון, אף על פי שאין הבקר יכול לעבור בכליו, הוא נותן פאה לכל",
+     "ref": "Mishnah Peah 2:2",
+     "label": "Mishnah Peah 2:2"
+    },
+    "question": "Hon Ashir and Tosafot Rabbi Akiva Eiger ask about the wording 'even though the cattle cannot pass with their equipment, he gives one peah': if the ground cannot be ploughed, that seems a reason to divide, not an 'even though'.",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Peah 2:2:3",
+      "quote": "אבל קשה דא\"כ מאי אע\"פי שאין הבקר",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 2:2:2",
+      "quote": "ולשון אע\"פ דנקט במתני' הוא קצת דחוק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam explains the hills as ground the oxen cannot plough in one run, but which is worked in sections, so it is not counted as divided.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 2:2:2",
+        "quote": "אבל יחרוש אותה מקומות מקומות ועל כן אין לחשב אותה נחלקת"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: one might think that since the plough cannot pass, it divides, so the mishnah teaches that since it can be worked with a hoe, it is no divider.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Peah 2:2:2",
+        "quote": "קמ\"ל דאדרבה כיון שבמעדר יכולין להעדר לא הוי הפסק"
+       }
+      ]
+     },
+     {
+      "text": "Rashash reads the same way: though they cannot be ploughed with oxen, they can be worked with a hoe.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Peah 2:2:1",
+        "quote": "הגם שבבקר אינם יכולים להחרש מ\"מ במעדר יכולים להעדר"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies why uneven hills do not split a field into two.",
+    "mishnah": 2,
+    "anchors": [
+     "וכל ההרים אשר במעדר יעדרון, אף על פי שאין הבקר יכול לעבור בכליו, הוא נותן פאה לכל"
+    ]
+   },
+   {
+    "title": "Which Rabban Gamaliel, and who went up?",
+    "pasuk": {
+     "text": "ועלו ללשכת הגזית ושאלו",
+     "ref": "Mishnah Peah 2:6",
+     "label": "Mishnah Peah 2:6"
+    },
+    "question": "Lechem Shamayim asks which Rabban Gamaliel is meant, since there were several. Yachin asks how Rabban Gamaliel, who was head of the Sanhedrin, could be asking in the Chamber of Hewn Stone.",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Peah 2:6:3",
+      "quote": "צ\"ע מי זה ואיזה ר\"ג הוא",
+      "era": "acharon"
+     },
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Peah 2:30:1",
+      "quote": "והרי הוא היה ראש סנהדרין",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Lechem Shamayim: since the Chamber of Hewn Stone existed only while the Temple stood, this must be Rabban Gamaliel the Elder.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Peah 2:6:3",
+        "quote": "על כרחנו נאמר שהוא ר\"ג הזקן"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: the word 'they went up' does not mean Rabban Gamaliel himself went; it refers to Rabbi Shimon's household.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 2:30:1",
+        "quote": "אלא פעל שלא נזכר שם פעלו"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: they asked Rabban Gamaliel, who had no tradition, and both went up.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 2:6:1",
+        "quote": "ששאלו לרבן גמליאל ולא היה בידו ועלו שניהם"
+       }
+      ]
+     }
+    ],
+    "why": "It places the account of the field with two kinds of wheat in time and shows who held the tradition.",
+    "mishnah": 6,
+    "anchors": [
+     "ועלו ללשכת הגזית ושאלו"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Rabbi Akiva Eiger",
+   "Rambam",
+   "Boaz",
+   "Tosafot Yom Tov",
+   "Yachin",
+   "Rash MiShantz",
+   "Bartenura",
+   "Ikar Tosafot Yom Tov",
+   "Yesh Seder LaMishnah",
+   "Lechem Shamayim",
+   "Hon Ashir",
+   "Melekhet Shelomoh",
+   "Rashash"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א אלו מפסיקים לפאה, כך שנותנים פאה מכל חלק: נחל, שלולית, דרך היחיד ודרך הרבים, שביל קבוע, בור, ניר וזרע אחר. רבי מאיר אומר שהקוצר לשחת מפסיק, וחכמים אומרים שאינו מפסיק אלא אם כן חרש.\nמשנה ב אמת המים שאינה יכולה להקצר כאחת מפסקת לרבי יהודה. הר שאפשר לעדור במעדר נותן פאה אחת לכולו.\nמשנה ג הכל מפסיק לזרעים, אך לאילן רק גדר, אלא אם הענפים מתערבים מעליו.\nמשנה ד לחרובין, כל הרואין זה את זה. בית רבן גמליאל נתנו פאה אחת לכל רוח בזיתים, ורבי אליעזר בר צדוק אומר אף לחרובים שבכל העיר.\nמשניות ה-ו מין אחד נותן פאה אחת גם אם עשאו שתי גרנות, ושני מינים נותנים שתי פאות. בשני מיני חיטים הכל לפי גורן אחת או שתיים, והלכה זו קיבל נחום הלבלר הלכה למשה מסיני.\nמשניות ז-ח שדה שקצרוה כותים, לסטים, נמלים, רוח או בהמה פטורה, שחובת הפאה בקמה. אם קצר חציה ומכר או הקדיש חציה, הלוקח או הפודה נותן פאה לכל.",
+  "topics": [
+   {
+    "term": "מה מפסיק שדה לפאה",
+    "explanation": "המשנה מונה מה מחלק שדה אחת לשתים, כך שיש לתת פאה מכל חלק בנפרד. הרמב\"ם מבאר שההפסק עושה את השדה לשתי שדות, ופאה משדה אחת אינה פוטרת את חברתה.",
+    "mishnah": 1,
+    "anchors": [
+     "ואלו מפסיקין לפאה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 2:1:1",
+     "quote": "לחלק השדה ולעשותה שתי שדות"
+    }
+   },
+   {
+    "term": "בור, ניר וזרע אחר",
+    "explanation": "קרקע שאינה זרועה, קרקע חרושה וקרקע זרועה מין אחר מפסיקות שדה כשהן רחבות די. הברטנורא נותן את השיעור כשלושה תלמים של מענית המחרישה.",
+    "mishnah": 1,
+    "anchors": [
+     "והבור",
+     "והניר",
+     "וזרע אחר"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 2:1:9",
+     "quote": "כדי שלשה תלמים של מענית המחרישה"
+    }
+   },
+   {
+    "term": "שחת",
+    "explanation": "שחת היא תבואה שנקצרה לפני שהגיעה לשליש, לצורך מאכל בהמה. רבי מאיר אומר שקצירתה מפסיקה את השדה, וחכמים אומרים שאינה מפסיקה אלא אם כן חרש את המקום.",
+    "mishnah": 1,
+    "anchors": [
+     "והקוצר לשחת"
+    ],
+    "source": {
+     "name": "תפארת ישראל (יכין)",
+     "ref": "Yachin on Mishnah Peah 2:11:1",
+     "quote": "תבואה שלא הביאה שליש"
+    }
+   },
+   {
+    "term": "גדר ושער כותש",
+    "explanation": "באילנות מפסיק רק גדר. הברטנורא מבאר שאם ענפי האילנות מתערבים מעל הגדר הם אינם מפסיקים, ונותן פאה אחת לכולם.",
+    "mishnah": 3,
+    "anchors": [
+     "אלא גדר",
+     "שער כותש"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 2:3:3",
+     "quote": "שהנופות של אילנות מתערבין זה עם זה למעלה מן הגדר"
+    }
+   },
+   {
+    "term": "גורן אחת או שתיים",
+    "explanation": "התוספות יום טוב, בשם הירושלמי, מבאר שאין הולכים אחר מחשבתו של בעל השדה לעשות גורן אחת או שתיים, אלא אחר מה שעשה בפועל.",
+    "mishnah": 5,
+    "anchors": [
+     "אף על פי שהוא עושהו שתי גרנות"
+    ],
+    "source": {
+     "name": "תוספות יום טוב",
+     "ref": "Tosefot Yom Tov on Mishnah Peah 2:5:2",
+     "quote": "דלא אזלינן בתר מחשבתו לעשות גורן אחד או ב' גרנות"
+    }
+   },
+   {
+    "term": "חובת הפאה בקמה",
+    "explanation": "הברטנורא מבסס את הפטור בשדה שקצרוה נכרים או לסטים על הפסוק בפאה \"ובקצרכם\", שנדרש בו שאתם תהיו הקוצרים.",
+    "mishnah": 7,
+    "anchors": [
+     "שחובת הפאה בקמה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 2:7:3",
+     "quote": "דכתיב גבי פאה ובקצרכם עד שתהיו אתם הקוצרים"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "האם קצירת שחת מפסיקה רק כשהיא לבהמה?",
+    "pasuk": {
+     "text": "והקוצר לשחת מפסיק, דברי רבי מאיר",
+     "ref": "Mishnah Peah 2:1",
+     "label": "משנה פאה ב, א"
+    },
+    "question": "הרמב\"ם והברטנורא מפרשים את \"הקוצר לשחת\" כקוצר לבהמות. תוספות רבי עקיבא איגר מסיק מכך שקצירה לאדם לפני שהביאה שליש תהיה התחלת קצירה, ותמה על כך. מדוע המקרה מוגבל לבהמה?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 2:1:3",
+      "quote": "אבל באמת תמוה לי דהא במנחות שם אמרי' להדיא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם מפרש ש\"שחת\" כאן הוא קצירת גז לבהמות, ולכן ההפסק של רבי מאיר הוא קצירה למאכל בהמה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 2:1:8",
+        "quote": "וענינו בזה המקום הקוצר גז לבהמות"
+       }
+      ]
+     },
+     {
+      "text": "בועז מציע שמפני שרוב קציר שחת הוא לבהמה, גם מי שקצר לאדם נידון לפי הרוב, ולכן המשנה מדברת בבהמה.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Peah 2:1",
+        "quote": "דמדרוב קציר שחת הוה לבהמה"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר קובע מהי התחלת הקצירה, שבה תלוי ההפסק בין השדות.",
+    "mishnah": 1,
+    "anchors": [
+     "והקוצר לשחת מפסיק, דברי רבי מאיר"
+    ]
+   },
+   {
+    "title": "בור וניר: מה ההבדל?",
+    "pasuk": {
+     "text": "והבור, והניר, וזרע אחר",
+     "ref": "Mishnah Peah 2:1",
+     "label": "משנה פאה ב, א"
+    },
+    "question": "הברטנורא מפרש בור כשדה שאינה זרועה. התוספות יום טוב מקשה שאם היא לפחות חרושה, היא כמו ניר שהמשנה מונה בנפרד. במה נבדלים בור וניר?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 2:1:6",
+      "quote": "וקשה דא\"כ היינו ניר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם מגדיר בור כארץ שלא נזרעה ולא נעבדה ונשארה שממה, ולכן אינה כמו ניר שהיא חרושה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 2:1:5",
+        "quote": "הארץ שלא נזרעה ולא נעבדה אבל נשארה שממה"
+       }
+      ]
+     },
+     {
+      "text": "היכין מפרש אף הוא בור כארץ שממה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 2:9:1",
+        "quote": "והבור ארץ שממה"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר קובע אילו סוגי רצועות לא-עבודות מחלקות שדה אחת לשתי חיובים.",
+    "mishnah": 1,
+    "anchors": [
+     "והבור, והניר, וזרע אחר"
+    ]
+   },
+   {
+    "title": "מדוע המשנה מונה גם דרכים וגם שבילים?",
+    "pasuk": {
+     "text": "ודרך היחיד, ודרך הרבים, ושביל הרבים, ושביל היחיד הקבוע בימות החמה ובימות הגשמים",
+     "ref": "Mishnah Peah 2:1",
+     "label": "משנה פאה ב, א"
+    },
+    "question": "רש משאנץ שואל, בשם הירושלמי: מכיון ששנינו דרך היחיד ודרך הרבים, מה צורך גם בשביל היחיד ושביל הרבים?",
+    "asked_by": [
+     {
+      "name": "רש משאנץ",
+      "ref": "Rash MiShantz on Mishnah Peah 2:1:5",
+      "quote": "מכיון דתנינן דרך היחיד דרך הרבים מאי צריכא",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: דרך הרבים נזכרת משום הסיפא, להודיע שגם דרך ברוחב שש עשרה אמה אינה מפסקת באילן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 2:1:5",
+        "quote": "וקא משמע לן דאפילו דרך הרבים שהיא רחבה שש עשרה אמה אינה מפסקת באילן"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: צריך לומר את שתי הדרכים, שאילו נאמרה אחת הייתי חושב שהאחרת אינה מפסיקה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 2:1:4",
+        "quote": "והודיענו דרך היחיד ודרך הרבים לפי שיצטרכו שניהם"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב, בשם הר\"ש: כולם צריכים, שאילו לא נאמרו הייתי חושב שדרך שאינה קבועה גרועה משביל קבוע.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 2:1:2",
+        "quote": "הוה אמינא דרך היחיד דלא קבוע גרע משביל היחיד דקבוע"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה מה כל פריט מלמד על מתי הדרך מפסיקה בשדה ומתי באילן.",
+    "mishnah": 1,
+    "anchors": [
+     "ודרך היחיד, ודרך הרבים, ושביל הרבים, ושביל היחיד הקבוע בימות החמה ובימות הגשמים"
+    ]
+   },
+   {
+    "title": "מדוע הברטנורא פוסק כרבי יהודה נגד התנא הראשון?",
+    "pasuk": {
+     "text": "אמת המים שאינה יכולה להקצר כאחת, רבי יהודה אומר, מפסקת",
+     "ref": "Mishnah Peah 2:2",
+     "label": "משנה פאה ב, ב"
+    },
+    "question": "אם רבי יהודה חולק על התנא הראשון באמת המים, מדוע הברטנורא פוסק כמותו, והרי ההלכה כסתם?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 2:2:1",
+      "quote": "ועוד יש תימה בדברי הר\"ב מה שפסק הלכה כר\"י",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יש סדר למשנה מציע שהברטנורא הלך בעקבות רב צמח גאון, שפסק כרבי יהודה נגד התנא הסתמי.",
+      "sources": [
+       {
+        "name": "יש סדר למשנה",
+        "ref": "Yesh Seder LaMishnah on Mishnah Peah 2:2:1",
+        "quote": "ואולי נטה הר\"ב בעקבות דרב צמח גאון"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים מבאר שאין חולק על רבי יהודה במשנה, ומחלוקת בברייתא אינה מכריעה, ולכן ההלכה כמותו.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Peah 2:2:1-7",
+        "quote": "דסתם במתני' ומחלוקת בברייתא הילכתא כסתמא דמתני'"
+       }
+      ]
+     },
+     {
+      "text": "הון עשיר: הסתם במשנה הוא רבי מאיר, וההלכה כרבי יהודה נגד רבי מאיר.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Peah 2:2:2",
+        "quote": "שהרי הלכה כמותו לגבי ר\"מ, דהוא סתם משנה"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה כיצד המפרשים מכריעים בין יחיד לסתם.",
+    "mishnah": 2,
+    "anchors": [
+     "אמת המים שאינה יכולה להקצר כאחת, רבי יהודה אומר, מפסקת"
+    ]
+   },
+   {
+    "title": "מדוע המשנה אומרת \"אף על פי\" שהבקר אינו יכול לעבור?",
+    "pasuk": {
+     "text": "וכל ההרים אשר במעדר יעדרון, אף על פי שאין הבקר יכול לעבור בכליו, הוא נותן פאה לכל",
+     "ref": "Mishnah Peah 2:2",
+     "label": "משנה פאה ב, ב"
+    },
+    "question": "הון עשיר ותוספות רבי עקיבא איגר שואלים על הלשון \"אף על פי שאין הבקר יכול לעבור בכליו הוא נותן פאה לכל\": אם אי אפשר לחרוש, זו סיבה להפסיק ולא \"אף על פי\".",
+    "asked_by": [
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Peah 2:2:3",
+      "quote": "אבל קשה דא\"כ מאי אע\"פי שאין הבקר",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 2:2:2",
+      "quote": "ולשון אע\"פ דנקט במתני' הוא קצת דחוק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם מפרש שההרים אינם ניתנים לחרישה אחת בבקר, אך חורשים אותם מקום מקום, ולכן אין לחשבם כמחולקים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 2:2:2",
+        "quote": "אבל יחרוש אותה מקומות מקומות ועל כן אין לחשב אותה נחלקת"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: הייתי חושב שמאחר שהמחרישה אינה עוברת הדבר מפסיק, ולכן המשנה מלמדת שמאחר שאפשר לעדור במעדר אין זה הפסק.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Peah 2:2:2",
+        "quote": "קמ\"ל דאדרבה כיון שבמעדר יכולין להעדר לא הוי הפסק"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש מבאר כך: אף שאי אפשר לחרוש בבקר, אפשר לעדור במעדר.",
+      "sources": [
+       {
+        "name": "רשש",
+        "ref": "Rashash on Mishnah Peah 2:2:1",
+        "quote": "הגם שבבקר אינם יכולים להחרש מ\"מ במעדר יכולים להעדר"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מבהיר מדוע הרים לא ישרים אינם מחלקים שדה לשתיים.",
+    "mishnah": 2,
+    "anchors": [
+     "וכל ההרים אשר במעדר יעדרון, אף על פי שאין הבקר יכול לעבור בכליו, הוא נותן פאה לכל"
+    ]
+   },
+   {
+    "title": "איזה רבן גמליאל, ומי עלה?",
+    "pasuk": {
+     "text": "ועלו ללשכת הגזית ושאלו",
+     "ref": "Mishnah Peah 2:6",
+     "label": "משנה פאה ב, ו"
+    },
+    "question": "לחם שמים שואל איזה רבן גמליאל הוא, שהרי היו כמה. היכין שואל כיצד רבן גמליאל, שהיה ראש הסנהדרין, שואל בלשכת הגזית.",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Peah 2:6:3",
+      "quote": "צ\"ע מי זה ואיזה ר\"ג הוא",
+      "era": "acharon"
+     },
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Peah 2:30:1",
+      "quote": "והרי הוא היה ראש סנהדרין",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לחם שמים: מאחר שלשכת הגזית הייתה רק בזמן הבית, חייב להיות זה רבן גמליאל הזקן.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Peah 2:6:3",
+        "quote": "על כרחנו נאמר שהוא ר\"ג הזקן"
+       }
+      ]
+     },
+     {
+      "text": "היכין: \"ועלו\" אינו אומר שרבן גמליאל עצמו עלה, אלא בני ביתו של רבי שמעון.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 2:30:1",
+        "quote": "אלא פעל שלא נזכר שם פעלו"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב: שאלו את רבן גמליאל ולא היה בידו, ועלו שניהם.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 2:6:1",
+        "quote": "ששאלו לרבן גמליאל ולא היה בידו ועלו שניהם"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מעמיד את מעשה שדה שני מיני חיטים בזמנו ומראה מי היה בעל המסורת.",
+    "mishnah": 6,
+    "anchors": [
+     "ועלו ללשכת הגזית ושאלו"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות רבי עקיבא איגר",
+   "רמב\"ם",
+   "בועז",
+   "תוספות יום טוב",
+   "תפארת ישראל (יכין)",
+   "רש משאנץ",
+   "ברטנורא",
+   "עיקר תוספות יום טוב",
+   "יש סדר למשנה",
+   "לחם שמים",
+   "הון עשיר",
+   "מלאכת שלמה",
+   "רשש"
+  ]
+ }
+}
