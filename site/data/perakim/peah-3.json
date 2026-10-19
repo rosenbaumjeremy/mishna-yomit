@@ -1,0 +1,1174 @@
+{
+ "date": "2026-10-19",
+ "hebrew_date": {
+  "hebrew": "ח׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "8 Cheshvan 5787"
+ },
+ "masechet": "peah",
+ "perek": 3,
+ "ref": "Mishnah Peah 3",
+ "mishnayot": [
+  {
+   "he": "מַלְבְּנוֹת הַתְּבוּאָה שֶׁבֵּין הַזֵּיתִים, בֵּית שַׁמַּאי אוֹמְרִים, פֵּאָה מִכָּל אַחַת וְאֶחָת. בֵּית הִלֵּל אוֹמְרִים, מֵאֶחָד עַל הַכֹּל. וּמוֹדִים, שֶׁאִם הָיוּ רָאשֵׁי שׁוּרוֹת מְעֹרָבִין, שֶׁהוּא נוֹתֵן פֵּאָה מֵאֶחָד עַל הַכֹּל:  ",
+   "en": "Plots of grain between olive trees: Bet Shammai say: peah from each and every plot. But Bet Hillel says: one peah for them all. And they agree that if the ends of the rows enter one into the other, he gives one peah for them all."
+  },
+  {
+   "he": "הַמְנַמֵּר אֶת שָׂדֵהוּ וְשִׁיֵּר קְלָחִים לַחִים, רַבִּי עֲקִיבָא אוֹמֵר, נוֹתֵן פֵּאָה מִכָּל אֶחָד וְאֶחָד. וַחֲכָמִים אוֹמְרִים, מֵאֶחָד עַל הַכֹּל. וּמוֹדִים חֲכָמִים לְרַבִּי עֲקִיבָא בְּזוֹרֵעַ שֶׁבֶת אוֹ חַרְדָּל בִּשְׁלשָׁה מְקוֹמוֹת, שֶׁהוּא נוֹתֵן פֵּאָה מִכָּל אֶחָד וְאֶחָד:  ",
+   "en": "One who gives his field a striped appearance and leaves behind moist stalks: Rabbi Akiva says: he gives peah from each and every stripe. But the sages say: from one stripe for the whole field. The sages agree with Rabbi Akiba that one who sows dill or mustard in three places must give peah from each place."
+  },
+  {
+   "he": "הַמַּחֲלִיק בְּצָלִים לַחִים לַשּׁוּק וּמְקַיֵּם יְבֵשִׁים לַגֹּרֶן, נוֹתֵן פֵּאָה לָאֵלּוּ לְעַצְמָן וְלָאֵלּוּ לְעַצְמָן. וְכֵן בַּאֲפוּנִין, וְכֵן בַּכֶּרֶם. הַמֵּדֵל, נוֹתֵן מִן הַמְשֹׁאָר עַל מַה שֶּׁשִּׁיֵּר. וְהַמַּחֲלִיק מֵאַחַת יָד, נוֹתֵן מִן הַמְשֹׁאָר עַל הַכֹּל:  ",
+   "en": "One who clears [his field] of fresh onions for the market and leaves the dry ones [in the ground] for the [time of the] threshing floor, must give peah from these on their own and these on their own. The same applies to beans and to a vineyard. If he, however, he only thins it out, then he gives [peah] from the remainder according to the quantity of that which he left. But if he clears [three from one place] at one time, he gives from the remainder according to the entire quantity."
+  },
+  {
+   "he": "הָאִמָּהוֹת שֶׁל בְּצָלִים חַיָּבוֹת בְּפֵאָה, וְרַבִּי יוֹסֵי פּוֹטֵר. מַלְבְּנוֹת הַבְּצָלִים שֶׁבֵּין הַיָּרָק, רַבִּי יוֹסֵי אוֹמֵר, פֵּאָה מִכָּל אַחַת וְאֶחָת. וַחֲכָמִים אוֹמְרִים, מֵאַחַת עַל הַכֹּל:  ",
+   "en": "Onions grown for their seed are liable for peah. But Rabbi Yose exempts them. Plots of onions [growing] between vegetables: Rabbi Yose says: peah must be given from each [plot]. But the sages say: from one [plot] for all."
+  },
+  {
+   "he": "הָאַחִין שֶׁחָלְקוּ, נוֹתְנִין שְׁתֵּי פֵאוֹת. חָזְרוּ וְנִשְׁתַּתְּפוּ, נוֹתְנִין פֵּאָה אַחַת. שְׁנַיִם שֶׁלָּקְחוּ אֶת הָאִילָן, נוֹתְנִין פֵּאָה אַחַת. לָקַח זֶה צְפוֹנוֹ וְזֶה דְרוֹמוֹ, זֶה נוֹתֵן פֵּאָה לְעַצְמוֹ, וְזֶה נוֹתֵן פֵּאָה לְעַצְמוֹ. הַמּוֹכֵר קִלְחֵי אִילָן בְּתוֹךְ שָׂדֵהוּ, נוֹתֵן פֵּאָה מִכָּל אֶחָד וְאֶחָד. אָמַר רַבִּי יְהוּדָה, אֵימָתַי, בִּזְמַן שֶׁלֹּא שִׁיֵּר בַּעַל הַשָּׂדֶה. אֲבָל אִם שִׁיֵּר בַּעַל הַשָּׂדֶה, הוּא נוֹתֵן פֵּאָה לַכֹּל:  ",
+   "en": "[Two] brothers who divided [an inheritance] must give [two] peahs. If they afterwards again become partners they give one peah. Two who purchase a tree, they give one peah. If one buys the northern section [of the tree] and the other the southern section, each must give peah separately. One who sells young saplings in his field, [the one who purchases] must give peah from each sapling. Rabbi Judah said: When is this so? When the owner of the field left nothing [for himself]. But if he did leave something [for himself], he gives one peah for the whole."
+  },
+  {
+   "he": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, קַרְקַע בֵּית רֹבַע, חַיֶּבֶת בַּפֵּאָה. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, הָעוֹשָׂה סָאתַיִם. רַבִּי טַרְפוֹן אוֹמֵר, שִׁשָּׁה עַל שִׁשָּׁה טְפָחִים. רַבִּי יְהוּדָה בֶן בְּתֵירָה אוֹמֵר, כְּדֵי לִקְצֹר וְלִשְׁנוֹת. וַהֲלָכָה כִּדְבָרָיו. רַבִּי עֲקִיבָא אוֹמֵר, קַרְקַע כָּל שֶׁהוּא, חַיֶּבֶת בַּפֵּאָה, וּבַבִּכּוּרִים, וְלִכְתֹּב עָלָיו פְּרוֹזְבּוּל, וְלִקְנוֹת עִמּוֹ נְכָסִים שֶׁאֵין לָהֶם אַחֲרָיוּת בְּכֶסֶף וּבִשְׁטָר וּבַחֲזָקָה:  ",
+   "en": "Rabbi Eliezer says: a piece of ground [large enough to plant] one fourth of a kav is liable for peah. Rabbi Joshua says: it must [be large enough] to grow two seahs. Rabbi Tarfon says: it must be six by six handbreadths. R. Judah ben Batera says: [it must be large enough] for a sickle to cut at least two handfuls and the halakhah is according to his words. Rabbi Akiva says: any size of land is liable for peah and for first-fruits, and [is sufficient] for the writing of the prozbul, and also to acquire through it movable property by money, by deed, or by a claim based on undisturbed possession."
+  },
+  {
+   "he": "הַכּוֹתֵב נְכָסָיו שְׁכִיב מְרַע, שִׁיֵּר קַרְקַע כָּל שֶׁהוּא, מַתְּנָתוֹ מַתָּנָה. לֹא שִׁיֵּר קַרְקַע כָּל שֶׁהוּא, אֵין מַתְּנָתוֹ מַתָּנָה. הַכּוֹתֵב נְכָסָיו לְבָנָיו, וְכָתַב לְאִשְׁתּוֹ קַרְקַע כָּל שֶׁהוּא, אִבְּדָה כְתֻבָּתָהּ. רַבִּי יוֹסֵי אוֹמֵר, אִם קִבְּלָה עָלֶיהָ, אַף עַל פִּי שֶׁלֹּא כָתַב לָהּ, אִבְּדָה כְתֻבָּתָהּ:  ",
+   "en": "One who is about to die who assigns his property in writing [to another]: If he retains any land [for himself] however small, he renders his gift valid. But if he retains no land whatsoever, his gift is not valid. One who assigns in writing his property to his children, and he assigns to his wife in writing any plot of land, however small, she lost her ketubah. Rabbi Yose says: if she accepted [such an assignment] even though he did not assign it to her in writing she lost her ketubah."
+  },
+  {
+   "he": "הַכּוֹתֵב נְכָסָיו לְעַבְדּוֹ, יָצָא בֶן חוֹרִין. שִׁיֵּר קַרְקַע כָּל שֶׁהוּא, לֹא יָצָא בֶן חוֹרִין. רַבִּי שִׁמְעוֹן אוֹמֵר, לְעוֹלָם הוּא בֶן חוֹרִין, עַד שֶׁיֹּאמַר הֲרֵי כָל נְכָסַי נְתוּנִין לְאִישׁ פְּלוֹנִי עַבְדִּי חוּץ מֵאֶחָד מֵרִבּוֹא שֶׁבָּהֶן:  ",
+   "en": "One who assigns in writing his possessions to his slave, [the slave] thereby goes free. If he reserved for himself any land, however small, he does not become free. Rabbi Shimon says: he always becomes free, unless [the master] says: “Behold, all my goods are given to so-and-so my slave, with the exception of one ten-thousandth part of them.”"
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 Beds of grain between olive trees: Beit Shammai give peah from each bed, Beit Hillel one peah for all, and both agree when the row-ends are joined. Mishnah 2 One who harvests his field in patches and leaves moist stalks: Rabbi Akiva says peah from each patch, the Sages one peah for all, but for dill and mustard sown in several places the Sages agree with Rabbi Akiva. Mishnah 3 One who clears fresh onions for the market and leaves dry ones for the threshing floor gives peah for each group; one who only thins them gives from what remains. Mishnah 4 Onions grown for seed are liable, though Rabbi Yose exempts them, and he also says peah from each bed of onions among vegetables. Mishnah 5 Brothers who divide an inheritance give two peahs, and if they join again, one; two who buy a tree give one, and Rabbi Judah limits the law of one who sells saplings. Mishnah 6 Four sizes of land liable for peah are given, with the halakhah like Rabbi Judah ben Beteira, and Rabbi Akiva says any size, also for first-fruits and prozbul. Mishnayot 7–8 One who writes his property away, whether as one about to die, to his sons and wife, or to his slave, keeps the gift valid or the slave unfreed if he kept back any land, and Rabbi Shimon disagrees about the slave.",
+  "topics": [
+   {
+    "term": "Malbenot (rectangular beds) and the separation of fields",
+    "mishnah": 1,
+    "anchors": [
+     "מלבנות התבואה"
+    ],
+    "explanation": "A malben is a squared-off bed of grain, shaped like the mould used to make bricks. The perek asks when several such beds count as one field, so that one peah covers them all, and when each bed is a separate field that needs its own peah. Here the beds are divided from one another by olive trees.",
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 3:1:1",
+     "quote": "מלבנות. הם ערוגות ערוגות מרובעים דומים לדפוס שעושין בו הלבנים"
+    }
+   },
+   {
+    "term": "Menamer: a field harvested in patches, like a leopard's skin",
+    "mishnah": 2,
+    "anchors": [
+     "הַמְנַמֵּר אֶת שָׂדֵהוּ"
+    ],
+    "explanation": "The mishnah speaks of a man who harvests his field patch by patch, so that it looks spotted, and leaves behind the moist stalks that were not yet ripe. The question is whether the stalks left standing are a separate field or part of the one field.",
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 3:2:1",
+     "quote": "הוא שיזרע מקומות מקומות מן השדה כדמות עור הנמר שהוא נקודות נקודות"
+    }
+   },
+   {
+    "term": "Dill and mustard sown in separate beds",
+    "mishnah": 2,
+    "anchors": [
+     "שֶׁבֶת אוֹ חַרְדָּל"
+    ],
+    "explanation": "Even the Sages agree with Rabbi Akiva about dill and mustard sown in several places: each place needs its own peah. The reason given is that these plants are usually sown in separate beds, so each bed is treated as a field of its own.",
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 3:2:3",
+     "quote": "מנהג ב\"א לזרוע אותן פרודות בערוגות"
+    }
+   },
+   {
+    "term": "Medal: thinning out the onions",
+    "mishnah": 3,
+    "anchors": [
+     "הַמֵּדֵל"
+    ],
+    "explanation": "A medal pulls up some onions from between the others so that those that stay have room to grow large. The ones he pulls up are not counted as a harvest, so peah is owed only on those that remain.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 3:3:4",
+     "quote": "וְאוֹתָן שֶׁעוֹקֵר לִתֵּן רֶוַח לַנִּשְׁאָרִים אֵינָם חַיָּבִין בַּפֵּאָה"
+    }
+   },
+   {
+    "term": "Imahot of onions: onions kept for seed",
+    "mishnah": 4,
+    "anchors": [
+     "הָאִמָּהוֹת שֶׁל בְּצָלִים"
+    ],
+    "explanation": "The imahot are large onions that are left in the ground to produce seed. Rabbi Yose exempts them from peah, because they are fit to eat only under pressure after they have stood in the ground so long. The first Tanna holds them liable.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 3:4:1",
+     "quote": "וּמִתּוֹךְ שֶׁמִּשְׁתָּהִין בָּאָרֶץ לֹא חָזוּ לַאֲכִילָה אֶלָּא עַל יְדֵי הַדְּחַק"
+    }
+   },
+   {
+    "term": "Kilchei ilan: shoots rising from tree roots",
+    "mishnah": 5,
+    "anchors": [
+     "קִלְחֵי אִילָן"
+    ],
+    "explanation": "Kilchei ilan are plants growing from the roots of trees. They come up away from the tree and look like trees, each with a single root of its own. The mishnah teaches that the buyer of such shoots gives peah from each one.",
+    "source": {
+     "name": "Hon Ashir",
+     "ref": "Hon Ashir on Mishnah Peah 3:5:2",
+     "quote": "שרשי צמחים הצומחים משרשי האילנות"
+    }
+   },
+   {
+    "term": "Prozbul and the minimum plot of land",
+    "mishnah": 6,
+    "anchors": [
+     "פְּרוֹזְבּוּל"
+    ],
+    "explanation": "Rabbi Akiva says that even the smallest piece of land is subject to peah and first-fruits, and also suffices for writing a prozbul. A prozbul is a document in which the creditor hands his debts over to the court, and so the Sheviit year no longer cancels them. It works only if the borrower has some land.",
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 3:6:4",
+     "quote": "שטר שלא יכתבוהו אלא על הקרקעות"
+    }
+   },
+   {
+    "term": "Shekhiv mera: one who is about to die",
+    "mishnah": 7,
+    "anchors": [
+     "הַכּוֹתֵב נְכָסָיו שְׁכִיב מְרַע"
+    ],
+    "explanation": "A shekhiv mera is a person lying sick in bed. If he kept for himself even a little land, he has shown that he expects to get up, and so his gift stands. If he kept nothing, we assume he gave from fear of death, and the gift is not valid if he recovers.",
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 3:7:1",
+     "quote": "כששייר לעצמו קרקע כל שהוא כבר גילה דעתו שיקוה לקום מחליו"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why record a concession of Beit Shammai?",
+    "pasuk": {
+     "text": "וּמוֹדִים, שֶׁאִם הָיוּ רָאשֵׁי שׁוּרוֹת מְעֹרָבִין",
+     "ref": "Mishnah Peah 3:1",
+     "label": "Mishnah Peah 3:1"
+    },
+    "question": "The mishnah has Beit Shammai conceding a point to Beit Hillel, even though the halakhah does not follow Beit Shammai and the concession changes nothing in practice. Why is it taught?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 3:1:3",
+      "era": "acharon",
+      "quote": "ואע\"ג דאין הלכה כבית שמאי ולא נ\"מ בהודאתם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir says the concession teaches what the dispute is about. It shows that Beit Shammai and Beit Hillel dispute only where the row-ends are not joined, since otherwise one might think they dispute even there.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Peah 3:1:2",
+        "era": "acharon",
+        "quote": "ש\"מ דפלוגתיהו באינם מעורבים, דלא תימא דבמעורבין פליגי"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir adds that without the concession one might think that the olive trees, which are themselves liable for peah, divide the field even for Beit Hillel. The concession tells us that they do not.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Peah 3:1:2",
+        "era": "acharon",
+        "quote": "כיון דהזתים שחייבים בפאה הם המפסיקים, אפילו ב\"ה מודה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what exactly Beit Shammai and Beit Hillel are arguing about.",
+    "mishnah": 1,
+    "anchors": [
+     "וּמוֹדִים, שֶׁאִם הָיוּ רָאשֵׁי שׁוּרוֹת מְעֹרָבִין"
+    ]
+   },
+   {
+    "title": "When do the olive trees divide the grain beds?",
+    "pasuk": {
+     "text": "בֵּית שַׁמַּאי אוֹמְרִים, פֵּאָה מִכָּל אַחַת וְאַחַת",
+     "ref": "Mishnah Peah 3:1",
+     "label": "Mishnah Peah 3:1"
+    },
+    "question": "In what case do Beit Shammai and Beit Hillel disagree, and does the distance between the trees matter? Hon Ashir points out that the Yerushalmi seems to say the opposite of Rambam and Bartenura.",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Peah 3:1:1",
+      "era": "acharon",
+      "quote": "הרי מפורש הפך פי' הר\"ב והרמ\"בם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: the dispute is only where ten trees stand in fifty by fifty amot. If the trees are farther apart, there is no dispute and a separate peah is given from each bed.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 3:1:1",
+        "era": "rishon",
+        "quote": "אבל אם היו רחוקות יותר אין שם מחלוקת שיש לו להוציא פאה מכל א' ואחד"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: if the trees are far apart it looks as if the beds were not made because of the trees, and so even Beit Hillel say that peah is given for each bed.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 3:1:3",
+        "era": "rishon",
+        "quote": "מוֹדִים בֵּית הִלֵּל שֶׁנּוֹתֵן פֵּאָה לְכָל מַלְבֵּן וּמַלְבֵּן"
+       }
+      ]
+     },
+     {
+      "text": "Akiva Eiger notes that the Ra'avad and the Rash had a reversed text in the Yerushalmi, according to which Beit Shammai concede when the trees are far apart.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 3:1:2",
+        "era": "acharon",
+        "quote": "שהיה להם גירסא מהופכת בירו' דבמרוחקות מודו ב\"ש"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether trees divide a field by distance or by closeness.",
+    "mishnah": 1,
+    "anchors": [
+     "בֵּית שַׁמַּאי אוֹמְרִים, פֵּאָה מִכָּל אַחַת וְאַחַת"
+    ]
+   },
+   {
+    "title": "Why do trees not divide the field like another crop?",
+    "pasuk": {
+     "text": "מַלְבְּנוֹת הַתְּבוּאָה שֶׁבֵּין הַזֵּיתִים",
+     "ref": "Mishnah Peah 3:1",
+     "label": "Mishnah Peah 3:1"
+    },
+    "question": "Elsewhere in the perek a different crop is said to divide a field. Why do trees between the beds not divide it in the same way, when each tree is more than a quarter-kav away from the next?",
+    "asked_by": [
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Peah 3:1",
+      "era": "acharon",
+      "quote": "ואילה\"ק מ\"ש אילנות מזרע אחר דמפסיק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Boaz: there the man sowed everything at once and put another kind between the beds, which shows he meant each to be a separate field. Here the trees were already planted when he sowed, so perhaps the place of the trees forced him to make beds.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Peah 3:1",
+        "era": "acharon",
+        "quote": "שאני התם דמדזרע הכל כאחת והפסיק ביניהן במין אחר"
+       }
+      ]
+     },
+     {
+      "text": "Boaz adds that another kind of crop divides along the whole length of the field, while here each trunk between two beds is only a small width.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Peah 3:1",
+        "era": "acharon",
+        "quote": "ועוי\"ל דהתם הזרע אחר שמפסיק בכל אורך השדה בלי הפסק"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: when the trees are far apart there is much space left unsown between them, and so it is clear that the man meant each bed to be a field by itself.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 3:3:1",
+        "era": "acharon",
+        "quote": "מדנראה שלא בשביל האילנות נעשה השדה מלבנות מלבנות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the principle that what divides a field is the owner's evident intention.",
+    "mishnah": 1,
+    "anchors": [
+     "מַלְבְּנוֹת הַתְּבוּאָה שֶׁבֵּין הַזֵּיתִים"
+    ]
+   },
+   {
+    "title": "Peah from each stalk, or from each bed?",
+    "pasuk": {
+     "text": "נוֹתֵן פֵּאָה מִכָּל אֶחָד וְאֶחָד",
+     "ref": "Mishnah Peah 3:2",
+     "label": "Mishnah Peah 3:2"
+    },
+    "question": "The Yerushalmi gives two reasons for the law of dill and mustard, and so two readings of \"from each\". Hon Ashir asks why, if Shmuel holds that it is from each stalk, the mishnah says \"in two or three places\".",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Peah 3:2:1",
+      "era": "acharon",
+      "quote": "לא ידענא לשמואל דאמר מכל קלח וקלח (ה\"א טו.), מאי איריא בשנים ובשלשה מקומות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov quotes the Yerushalmi: according to Rabbi Yochanan peah is separated from each bed. Bartenura's text follows Rabbi Yochanan.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 3:2:4",
+        "era": "acharon",
+        "quote": "על דעתיה דרבי יוחנן מפריש מכל ערוגה וערוגה"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura gives the reason that it is not their way to sow a whole field of them, so each bed counts as a field of its own.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 3:2:5",
+        "era": "rishon",
+        "quote": "מִפְּנֵי שֶׁאֵין דַּרְכָּן לִזְרֹעַ מֵהֶן שָׂדֶה אַחַת"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir answers for Rabbi Yochanan: the mishnah speaks of places, not beds, and the word for a place is masculine, so the reading \"echad\" fits.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Peah 3:2:2",
+        "era": "acharon",
+        "quote": "לא נזכרו ערוגות במשנה אלא מקומות, ומקום לשון זכר הוא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the mishnah's wording depends on a dispute in the Yerushalmi.",
+    "mishnah": 2,
+    "anchors": [
+     "נוֹתֵן פֵּאָה מִכָּל אֶחָד וְאֶחָד"
+    ]
+   },
+   {
+    "title": "Why are fresh and dry onions two separate fields?",
+    "pasuk": {
+     "text": "נוֹתֵן פֵּאָה לָאֵלּוּ לְעַצְמָן וְלָאֵלּוּ לְעַצְמָן",
+     "ref": "Mishnah Peah 3:3",
+     "label": "Mishnah Peah 3:3"
+    },
+    "question": "Why, in the case of the menamer, do the Sages say one peah covers the whole field, while here a man who clears fresh onions for the market and leaves dry ones for the threshing floor gives separate peah?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 3:3:2",
+      "era": "acharon",
+      "quote": "לא דמי למתניתין דלעיל דלחכמים נוטל מאחד על הכל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov quotes the Yerushalmi: there the difference is fresh against dry, which is not two kinds; here it is market against threshing floor, which is two kinds.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 3:3:2",
+        "era": "acharon",
+        "quote": "שמעינן שוק וגורן שני מינים לח ויבש שני מינים לא"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: they are like two kinds of wheat.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 3:3:2",
+        "era": "rishon",
+        "quote": "דְּכִשְׁנֵי מִינֵי חִטִּים דָּמוּ"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: the first onions are eaten fresh and the later ones are left to be dried, so they are unlike each other and count as two kinds; and what he pulled up first was not yet the start of a harvest.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 3:14:1",
+        "era": "acharon",
+        "quote": "אינן דומין לראשונים שאוכלן לחים והו\"ל כב' מינים"
+       }
+      ]
+     }
+    ],
+    "why": "It separates a harvest of two kinds of crop from a single harvest taken in stages.",
+    "mishnah": 3,
+    "anchors": [
+     "נוֹתֵן פֵּאָה לָאֵלּוּ לְעַצְמָן וְלָאֵלּוּ לְעַצְמָן"
+    ]
+   },
+   {
+    "title": "How can the buyer of a tree owe peah if he has no land?",
+    "pasuk": {
+     "text": "שְׁנַיִם שֶׁלָּקְחוּ אֶת הָאִילָן, נוֹתְנִין פֵּאָה אַחַת",
+     "ref": "Mishnah Peah 3:5",
+     "label": "Mishnah Peah 3:5"
+    },
+    "question": "The Torah says \"the corner of your field\". How can two who bought only a tree, and who own no field, be liable for peah?",
+    "asked_by": [
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Peah 3:23:1",
+      "era": "acharon",
+      "quote": "וא\"כ היאך יתחייב בפאה והכתיב פאת שדך והרי אין שדה שלו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Yachin's own answer: the mishnah speaks of a case where he bought land together with the tree.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 3:23:1",
+        "era": "acharon",
+        "quote": "אלא נ\"ל דמיירי הכא שקנה קרקע בפירוש עם האילן"
+       }
+      ]
+     },
+     {
+      "text": "Yachin elsewhere holds that even with no land bought at all he is liable, since the produce came to him from the one who was liable and who took the money.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 3:24:1",
+        "era": "acharon",
+        "quote": "דאפילו בלא קנה קרקע כלל נמי חייב בפאה"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura reads the mishnah about the sale of kilchei ilan as a case where the land was not sold, and the buyer gives peah from each one.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 3:5:2",
+        "era": "rishon",
+        "quote": "וְלֹא מָכַר לוֹ הַקַּרְקַע, נוֹתֵן הַלּוֹקֵחַ פֵּאָה מִכָּל אֶחָד וְאֶחָד"
+       }
+      ]
+     }
+    ],
+    "why": "It tests whether the duty of peah rests on owning the land or on the produce.",
+    "mishnah": 5,
+    "anchors": [
+     "שְׁנַיִם שֶׁלָּקְחוּ אֶת הָאִילָן, נוֹתְנִין פֵּאָה אַחַת"
+    ]
+   },
+   {
+    "title": "Why does the mishnah not teach the confession of the tithe?",
+    "pasuk": {
+     "text": "קַרְקַע כָּל שֶׁהוּא, חַיֶּבֶת בַּפֵּאָה, וּבַבִּכּוּרִים",
+     "ref": "Mishnah Peah 3:6",
+     "label": "Mishnah Peah 3:6"
+    },
+    "question": "The mishnah lists first-fruits among the things for which any size of land is enough. Tosafot Yom Tov asks why it does not list the confession of the tithe, which also says \"from the earth which You gave us\".",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 3:6:6",
+      "era": "acharon",
+      "quote": "ותימה דליתני וידוי מעשר דכתיב ביה נמי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov quotes the Yerushalmi: one who has no land is exempt from the confession.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 3:6:6",
+        "era": "acharon",
+        "quote": "אמרה מי שאין לו קרקע פטור מן הוידוי דכתיב"
+       }
+      ]
+     },
+     {
+      "text": "Rashi and the Tosafot did not have the word \"confession\" in the text of the mishnah.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 3:6:6",
+        "era": "acharon",
+        "quote": "ומשום הכי ל\"ג במשנה בוידוי"
+       }
+      ]
+     },
+     {
+      "text": "Boaz points to the passage in Bava Batra from which this is taken, and notes that the plain sense of the mishnah is that any size is enough also for first-fruits.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Peah 3:3",
+        "era": "acharon",
+        "quote": "וכן פשטות המשנה משמע דגם בבכורים בכ\"ש סגי"
+       }
+      ]
+     }
+    ],
+    "why": "It tests whether any amount of land is enough for every duty that depends on land.",
+    "mishnah": 6,
+    "anchors": [
+     "קַרְקַע כָּל שֶׁהוּא, חַיֶּבֶת בַּפֵּאָה, וּבַבִּכּוּרִים"
+    ]
+   },
+   {
+    "title": "Is the Bartenura's reason for the first Tanna correct?",
+    "pasuk": {
+     "text": "שִׁיֵּר קַרְקַע כָּל שֶׁהוּא, לֹא יָצָא בֶן חוֹרִין",
+     "ref": "Mishnah Peah 3:8",
+     "label": "Mishnah Peah 3:8"
+    },
+    "question": "Bartenura gives the first Tanna's reason as that we do not split one statement. Akiva Eiger finds this astonishing, since in Gittin it is concluded that all agree we do split a statement, and the reason is that it is not a clean release.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 3:8:2",
+      "era": "acharon",
+      "quote": "תמוה לי טובא. הא בפ\"ק דגיטין מסקינן דלכ\"ע פלגינן דיבורא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: according to the first Tanna we do not split the statement, and so the condition is tied to the slave's own body, as if he had made a condition about one of his limbs.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 3:8:1",
+        "era": "rishon",
+        "quote": "לדעת ת\"ק שאין חולקין הדבור"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: a man does not speak in vain, and so he is released by the very statement in which he kept something back, and it is not a clean release.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 3:45:1",
+        "era": "acharon",
+        "quote": "א\"כ לאו כרות גיטא הוא. דלא פלגינן דבוריה"
+       }
+      ]
+     },
+     {
+      "text": "Boaz answers that the Gemara needs both reasons together: even if we say it is not a clean release, we still need the rule that we do not split the statement.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Peah 3:6",
+        "era": "acharon",
+        "quote": "דבמסקנא צריך הש\"ס לתרתי טעמא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why a slave does not go free when his master keeps back even a small plot.",
+    "mishnah": 8,
+    "anchors": [
+     "שִׁיֵּר קַרְקַע כָּל שֶׁהוּא, לֹא יָצָא בֶן חוֹרִין"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Hon Ashir",
+   "Rambam",
+   "Bartenura",
+   "Tosafot Rabbi Akiva Eiger",
+   "Boaz",
+   "Yachin"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מלבנות התבואה שבין הזיתים: בית שמאי נותנים פאה מכל אחת ואחת, בית הלל מאחת על הכל, ושניהם מודים כשראשי השורות מעורבים. משנה ב המנמר את שדהו ושייר קלחים לחים: רבי עקיבא אומר פאה מכל אחד ואחד, חכמים מאחד על הכל, ובשבת וחרדל בשלשה מקומות מודים חכמים לרבי עקיבא. משנה ג המחליק בצלים לחים לשוק ומקיים יבשים לגורן נותן פאה לאלו לעצמן ולאלו לעצמן, והמדל נותן מן המשואר. משנה ד האמהות של בצלים חייבות בפאה ורבי יוסי פוטר, ובמלבנות הבצלים שבין הירק רבי יוסי אומר פאה מכל אחת ואחת. משנה ה האחין שחלקו נותנין שתי פאות, חזרו ונשתתפו פאה אחת, ושנים שלקחו את האילן פאה אחת, ורבי יהודה מגביל בהמוכר קלחי אילן. משנה ו נאמרו ארבעה שיעורי קרקע החייבת בפאה והלכה כרבי יהודה בן בתירה, ורבי עקיבא אומר קרקע כל שהוא, גם בבכורים ובפרוזבול. משניות ז-ח הכותב נכסיו שכיב מרע, לבניו ולאשתו, או לעבדו, אם שייר קרקע כל שהוא המתנה קיימת והעבד לא יצא בן חורין, ורבי שמעון חולק בעבד.",
+  "topics": [
+   {
+    "term": "מלבנות והפרדת השדות",
+    "mishnah": 1,
+    "anchors": [
+     "מלבנות התבואה"
+    ],
+    "explanation": "מלבן הוא ערוגה מרובעת של תבואה, בצורת התבנית שעושים בה לבנים. הפרק שואל מתי כמה ערוגות כאלה הן שדה אחד, שפאה אחת מספיקה לכולן, ומתי כל ערוגה היא שדה לעצמה וצריכה פאה משלה. כאן מפרידים בין הערוגות עצי זית.",
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 3:1:1",
+     "quote": "מלבנות. הם ערוגות ערוגות מרובעים דומים לדפוס שעושין בו הלבנים"
+    }
+   },
+   {
+    "term": "המנמר: שדה שנקצר כתמים כעור הנמר",
+    "mishnah": 2,
+    "anchors": [
+     "הַמְנַמֵּר אֶת שָׂדֵהוּ"
+    ],
+    "explanation": "המשנה מדברת באדם שקוצר את שדהו מקום מקום, עד שהוא נראה מנומר, ומשאיר את הקלחים הלחים שעדיין לא נתבשלו. השאלה היא אם הקלחים שנשארו הם שדה נפרד או חלק מהשדה האחד.",
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 3:2:1",
+     "quote": "הוא שיזרע מקומות מקומות מן השדה כדמות עור הנמר שהוא נקודות נקודות"
+    }
+   },
+   {
+    "term": "שבת וחרדל הזרועים בערוגות נפרדות",
+    "mishnah": 2,
+    "anchors": [
+     "שֶׁבֶת אוֹ חַרְדָּל"
+    ],
+    "explanation": "אפילו חכמים מודים לרבי עקיבא בשבת וחרדל הזרועים בכמה מקומות: כל מקום צריך פאה משלו. הטעם הוא שדרכם לזרוע אותם בערוגות נפרדות, ולכן כל ערוגה נחשבת שדה לעצמה.",
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 3:2:3",
+     "quote": "מנהג ב\"א לזרוע אותן פרודות בערוגות"
+    }
+   },
+   {
+    "term": "המדל: דילול הבצלים",
+    "mishnah": 3,
+    "anchors": [
+     "הַמֵּדֵל"
+    ],
+    "explanation": "המדל עוקר כמה בצלים מבין האחרים כדי שהנשארים יגדלו ברווח. מה שהוא עוקר אינו נחשב קציר, ולכן חייבים בפאה רק על הנשארים.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 3:3:4",
+     "quote": "וְאוֹתָן שֶׁעוֹקֵר לִתֵּן רֶוַח לַנִּשְׁאָרִים אֵינָם חַיָּבִין בַּפֵּאָה"
+    }
+   },
+   {
+    "term": "אמהות של בצלים: בצלים לזרע",
+    "mishnah": 4,
+    "anchors": [
+     "הָאִמָּהוֹת שֶׁל בְּצָלִים"
+    ],
+    "explanation": "האמהות הן בצלים גדולים שמניחים אותם בארץ לגדל זרע. רבי יוסי פוטר אותם מפאה, מפני שמתוך שמשתהים בארץ אינם ראויים לאכילה אלא על ידי הדחק. התנא הראשון מחייב.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 3:4:1",
+     "quote": "וּמִתּוֹךְ שֶׁמִּשְׁתָּהִין בָּאָרֶץ לֹא חָזוּ לַאֲכִילָה אֶלָּא עַל יְדֵי הַדְּחַק"
+    }
+   },
+   {
+    "term": "קלחי אילן: צמחים הצומחים משרשי האילנות",
+    "mishnah": 5,
+    "anchors": [
+     "קִלְחֵי אִילָן"
+    ],
+    "explanation": "קלחי אילן הם צמחים הצומחים משרשי האילנות ויוצאים רחוקים מן העץ, ונראים כאילו הם אילנות שיש להם שורש אחד לעצמם. המשנה מלמדת שהלוקח נותן פאה מכל אחד ואחד.",
+    "source": {
+     "name": "חון עשיר",
+     "ref": "Hon Ashir on Mishnah Peah 3:5:2",
+     "quote": "שרשי צמחים הצומחים משרשי האילנות"
+    }
+   },
+   {
+    "term": "פרוזבול ושיעור הקרקע",
+    "mishnah": 6,
+    "anchors": [
+     "פְּרוֹזְבּוּל"
+    ],
+    "explanation": "רבי עקיבא אומר שאפילו קרקע כל שהוא חייבת בפאה ובבכורים, ומספיקה גם לכתיבת פרוזבול. פרוזבול הוא שטר שבו המלוה מוסר את חובותיו לבית דין, ושוב אין שביעית משמטת אותם. הוא מועיל רק כשיש ללוה קרקע.",
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 3:6:4",
+     "quote": "שטר שלא יכתבוהו אלא על הקרקעות"
+    }
+   },
+   {
+    "term": "שכיב מרע",
+    "mishnah": 7,
+    "anchors": [
+     "הַכּוֹתֵב נְכָסָיו שְׁכִיב מְרַע"
+    ],
+    "explanation": "שכיב מרע הוא אדם השוכב חולה על מיטתו. אם שייר לעצמו קצת קרקע, גילה שהוא מקווה לקום, ולכן מתנתו קיימת. אם לא שייר כלום, אנו אומרים שנתן מחמת מיתה, ואם עמד מחליו המתנה אינה קיימת.",
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 3:7:1",
+     "quote": "כששייר לעצמו קרקע כל שהוא כבר גילה דעתו שיקוה לקום מחליו"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "למה נשנתה הודאת בית שמאי?",
+    "pasuk": {
+     "text": "וּמוֹדִים, שֶׁאִם הָיוּ רָאשֵׁי שׁוּרוֹת מְעֹרָבִין",
+     "ref": "Mishnah Peah 3:1",
+     "label": "משנה פאה ג, א"
+    },
+    "question": "במשנה בית שמאי מודים לבית הלל, אף על פי שאין הלכה כבית שמאי ואין נפקא מינה בהודאתם. למה נשנתה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 3:1:3",
+      "era": "acharon",
+      "quote": "ואע\"ג דאין הלכה כבית שמאי ולא נ\"מ בהודאתם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חון עשיר מסביר שההודאה מלמדת על מה נחלקו: בית שמאי ובית הלל נחלקו רק כשראשי השורות אינם מעורבים, שלא נאמר שנחלקו גם במעורבים.",
+      "sources": [
+       {
+        "name": "חון עשיר",
+        "ref": "Hon Ashir on Mishnah Peah 3:1:2",
+        "era": "acharon",
+        "quote": "ש\"מ דפלוגתיהו באינם מעורבים, דלא תימא דבמעורבין פליגי"
+       }
+      ]
+     },
+     {
+      "text": "חון עשיר מוסיף שבלי ההודאה היה אפשר לחשוב שהזיתים, שהם עצמם חייבים בפאה, מפסיקים אפילו לבית הלל. ההודאה מלמדת שאינם מפסיקים.",
+      "sources": [
+       {
+        "name": "חון עשיר",
+        "ref": "Hon Ashir on Mishnah Peah 3:1:2",
+        "era": "acharon",
+        "quote": "כיון דהזתים שחייבים בפאה הם המפסיקים, אפילו ב\"ה מודה"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה במה בדיוק נחלקו בית שמאי ובית הלל.",
+    "mishnah": 1,
+    "anchors": [
+     "וּמוֹדִים, שֶׁאִם הָיוּ רָאשֵׁי שׁוּרוֹת מְעֹרָבִין"
+    ]
+   },
+   {
+    "title": "מתי האילנות מפסיקים בין ערוגות התבואה?",
+    "pasuk": {
+     "text": "בֵּית שַׁמַּאי אוֹמְרִים, פֵּאָה מִכָּל אַחַת וְאַחַת",
+     "ref": "Mishnah Peah 3:1",
+     "label": "משנה פאה ג, א"
+    },
+    "question": "במה נחלקו בית שמאי ובית הלל, והאם מרחק האילנות משנה? חון עשיר מעיר שהירושלמי משמע הפך מפירוש הרמב\"ם והר\"ב.",
+    "asked_by": [
+     {
+      "name": "חון עשיר",
+      "ref": "Hon Ashir on Mishnah Peah 3:1:1",
+      "era": "acharon",
+      "quote": "הרי מפורש הפך פי' הר\"ב והרמ\"בם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: המחלוקת רק כשיש עשרה אילנות בחמישים על חמישים אמה. אם הם רחוקים יותר אין מחלוקת ויש להוציא פאה מכל ערוגה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 3:1:1",
+        "era": "rishon",
+        "quote": "אבל אם היו רחוקות יותר אין שם מחלוקת שיש לו להוציא פאה מכל א' ואחד"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: כשהאילנות רחוקים נראה שלא בשביל האילנות נעשו הערוגות, ולכן אף בית הלל מודים שנותן פאה לכל מלבן ומלבן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 3:1:3",
+        "era": "rishon",
+        "quote": "מוֹדִים בֵּית הִלֵּל שֶׁנּוֹתֵן פֵּאָה לְכָל מַלְבֵּן וּמַלְבֵּן"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר מעיר שלראב\"ד ולר\"ש היתה גירסה מהופכת בירושלמי, שלפיה בית שמאי מודים כשהאילנות מרוחקים.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 3:1:2",
+        "era": "acharon",
+        "quote": "שהיה להם גירסא מהופכת בירו' דבמרוחקות מודו ב\"ש"
+       }
+      ]
+     }
+    ],
+    "why": "היא מכריעה אם אילנות מפסיקים לפי מרחק או לפי קרבה.",
+    "mishnah": 1,
+    "anchors": [
+     "בֵּית שַׁמַּאי אוֹמְרִים, פֵּאָה מִכָּל אַחַת וְאַחַת"
+    ]
+   },
+   {
+    "title": "למה האילנות אינם מפסיקים כמו זרע אחר?",
+    "pasuk": {
+     "text": "מַלְבְּנוֹת הַתְּבוּאָה שֶׁבֵּין הַזֵּיתִים",
+     "ref": "Mishnah Peah 3:1",
+     "label": "משנה פאה ג, א"
+    },
+    "question": "במקום אחר בפרק זרע אחר מפסיק את השדה. למה האילנות שבין הערוגות אינם מפסיקים כך, אף שכל אילן רחוק מחברו יותר מרובע?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (בועז)",
+      "ref": "Boaz on Mishnah Peah 3:1",
+      "era": "acharon",
+      "quote": "ואילה\"ק מ\"ש אילנות מזרע אחר דמפסיק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בועז: שם זרע הכל כאחת והפסיק ביניהן במין אחר, וזה מראה שהתכוון לעשות כל אחד שדה לעצמו. כאן האילנות כבר היו נטועים כשזרע, ואולי מקום האילנות הכריחו לעשות ערוגות.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Peah 3:1",
+        "era": "acharon",
+        "quote": "שאני התם דמדזרע הכל כאחת והפסיק ביניהן במין אחר"
+       }
+      ]
+     },
+     {
+      "text": "בועז מוסיף שזרע אחר מפסיק לכל אורך השדה, ואילו כאן כל גזע שבין ערוגה לחברתה רחב רק מעט.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Peah 3:1",
+        "era": "acharon",
+        "quote": "ועוי\"ל דהתם הזרע אחר שמפסיק בכל אורך השדה בלי הפסק"
+       }
+      ]
+     },
+     {
+      "text": "יכין: כשהאילנות מרוחקים נשאר רווח הרבה בין האילנות שלא נזרע, ולכן ברור שהתכוון שכל ערוגה תהיה שדה לעצמה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 3:3:1",
+        "era": "acharon",
+        "quote": "מדנראה שלא בשביל האילנות נעשה השדה מלבנות מלבנות"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה שמה שמפריד שדה הוא כוונת הבעלים הנראית.",
+    "mishnah": 1,
+    "anchors": [
+     "מַלְבְּנוֹת הַתְּבוּאָה שֶׁבֵּין הַזֵּיתִים"
+    ]
+   },
+   {
+    "title": "פאה מכל קלח או מכל ערוגה?",
+    "pasuk": {
+     "text": "נוֹתֵן פֵּאָה מִכָּל אֶחָד וְאֶחָד",
+     "ref": "Mishnah Peah 3:2",
+     "label": "משנה פאה ג, ב"
+    },
+    "question": "הירושלמי נותן שני טעמים לדין שבת וחרדל, ולכן שתי קריאות ל\"מכל אחד ואחד\". חון עשיר שואל: לשמואל שאומר מכל קלח וקלח, למה המשנה אומרת \"בשנים ובשלשה מקומות\"?",
+    "asked_by": [
+     {
+      "name": "חון עשיר",
+      "ref": "Hon Ashir on Mishnah Peah 3:2:1",
+      "era": "acharon",
+      "quote": "לא ידענא לשמואל דאמר מכל קלח וקלח (ה\"א טו.), מאי איריא בשנים ובשלשה מקומות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב מביא מהירושלמי: לפי רבי יוחנן מפריש פאה מכל ערוגה וערוגה. גירסת הר\"ב כרבי יוחנן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 3:2:4",
+        "era": "acharon",
+        "quote": "על דעתיה דרבי יוחנן מפריש מכל ערוגה וערוגה"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא נותן טעם שאין דרכם לזרוע מהם שדה אחת, ולכן כל ערוגה נחשבת שדה לעצמה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 3:2:5",
+        "era": "rishon",
+        "quote": "מִפְּנֵי שֶׁאֵין דַּרְכָּן לִזְרֹעַ מֵהֶן שָׂדֶה אַחַת"
+       }
+      ]
+     },
+     {
+      "text": "חון עשיר מתרץ לרבי יוחנן: המשנה מדברת במקומות ולא בערוגות, ומקום הוא לשון זכר, ולכן מתאימה הגירסה \"אחד\".",
+      "sources": [
+       {
+        "name": "חון עשיר",
+        "ref": "Hon Ashir on Mishnah Peah 3:2:2",
+        "era": "acharon",
+        "quote": "לא נזכרו ערוגות במשנה אלא מקומות, ומקום לשון זכר הוא"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה שלשון המשנה תלויה במחלוקת בירושלמי.",
+    "mishnah": 2,
+    "anchors": [
+     "נוֹתֵן פֵּאָה מִכָּל אֶחָד וְאֶחָד"
+    ]
+   },
+   {
+    "title": "למה לח ויבש הם שני שדות?",
+    "pasuk": {
+     "text": "נוֹתֵן פֵּאָה לָאֵלּוּ לְעַצְמָן וְלָאֵלּוּ לְעַצְמָן",
+     "ref": "Mishnah Peah 3:3",
+     "label": "משנה פאה ג, ג"
+    },
+    "question": "למה במנמר אומרים חכמים שפאה אחת על הכל, ואילו כאן המחליק בצלים לחים לשוק ויבשים לגורן נותן פאה נפרדת?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 3:3:2",
+      "era": "acharon",
+      "quote": "לא דמי למתניתין דלעיל דלחכמים נוטל מאחד על הכל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב מביא מהירושלמי: שם ההבדל הוא לח ויבש, שאינם שני מינים; כאן הוא שוק וגורן, שהם שני מינים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 3:3:2",
+        "era": "acharon",
+        "quote": "שמעינן שוק וגורן שני מינים לח ויבש שני מינים לא"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: הם כשני מיני חטים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 3:3:2",
+        "era": "rishon",
+        "quote": "דְּכִשְׁנֵי מִינֵי חִטִּים דָּמוּ"
+       }
+      ]
+     },
+     {
+      "text": "יכין: הראשונים נאכלים לחים והאחרונים מושארים להתייבש, ולכן אינם דומים והם כשני מינים, ומה שעקר בראשונה עדיין לא היה תחילת קציר.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 3:14:1",
+        "era": "acharon",
+        "quote": "אינן דומין לראשונים שאוכלן לחים והו\"ל כב' מינים"
+       }
+      ]
+     }
+    ],
+    "why": "היא מבדילה בין קציר של שני מיני יבול לבין קציר אחד הנעשה בשלבים.",
+    "mishnah": 3,
+    "anchors": [
+     "נוֹתֵן פֵּאָה לָאֵלּוּ לְעַצְמָן וְלָאֵלּוּ לְעַצְמָן"
+    ]
+   },
+   {
+    "title": "איך חייב הלוקח את האילן בפאה אם אין לו קרקע?",
+    "pasuk": {
+     "text": "שְׁנַיִם שֶׁלָּקְחוּ אֶת הָאִילָן, נוֹתְנִין פֵּאָה אַחַת",
+     "ref": "Mishnah Peah 3:5",
+     "label": "משנה פאה ג, ה"
+    },
+    "question": "התורה אומרת \"פאת שדך\". איך חייבים שנים שלקחו רק אילן, ואין להם שדה?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Peah 3:23:1",
+      "era": "acharon",
+      "quote": "וא\"כ היאך יתחייב בפאה והכתיב פאת שדך והרי אין שדה שלו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תשובת היכין עצמו: המשנה מדברת כשקנה קרקע בפירוש עם האילן.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 3:23:1",
+        "era": "acharon",
+        "quote": "אלא נ\"ל דמיירי הכא שקנה קרקע בפירוש עם האילן"
+       }
+      ]
+     },
+     {
+      "text": "היכין במקום אחר סובר שאפילו בלא שקנה קרקע כלל חייב בפאה, כי הפירות באו לידו מיד החייב והמוכר קבל המעות.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 3:24:1",
+        "era": "acharon",
+        "quote": "דאפילו בלא קנה קרקע כלל נמי חייב בפאה"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא מפרש את המשנה במוכר קלחי אילן כשלא מכר לו את הקרקע, והלוקח נותן פאה מכל אחד ואחד.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 3:5:2",
+        "era": "rishon",
+        "quote": "וְלֹא מָכַר לוֹ הַקַּרְקַע, נוֹתֵן הַלּוֹקֵחַ פֵּאָה מִכָּל אֶחָד וְאֶחָד"
+       }
+      ]
+     }
+    ],
+    "why": "היא בוחנת אם חיוב הפאה תלוי בבעלות על הקרקע או בפרי.",
+    "mishnah": 5,
+    "anchors": [
+     "שְׁנַיִם שֶׁלָּקְחוּ אֶת הָאִילָן, נוֹתְנִין פֵּאָה אַחַת"
+    ]
+   },
+   {
+    "title": "למה לא שנתה המשנה גם וידוי מעשר?",
+    "pasuk": {
+     "text": "קַרְקַע כָּל שֶׁהוּא, חַיֶּבֶת בַּפֵּאָה, וּבַבִּכּוּרִים",
+     "ref": "Mishnah Peah 3:6",
+     "label": "משנה פאה ג, ו"
+    },
+    "question": "המשנה מונה בכורים בין הדברים שמספיק להם קרקע כל שהוא. תוספות יום טוב שואל למה לא שנתה גם וידוי מעשר, שגם בו כתוב \"מן האדמה אשר נתת לנו\".",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 3:6:6",
+      "era": "acharon",
+      "quote": "ותימה דליתני וידוי מעשר דכתיב ביה נמי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב מביא מהירושלמי: מי שאין לו קרקע פטור מן הוידוי.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 3:6:6",
+        "era": "acharon",
+        "quote": "אמרה מי שאין לו קרקע פטור מן הוידוי דכתיב"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י והתוספות לא גרסו במשנה \"בוידוי\".",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 3:6:6",
+        "era": "acharon",
+        "quote": "ומשום הכי ל\"ג במשנה בוידוי"
+       }
+      ]
+     },
+     {
+      "text": "בועז מציין שפשטות המשנה היא שגם בבכורים מספיק קרקע כל שהוא.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Peah 3:3",
+        "era": "acharon",
+        "quote": "וכן פשטות המשנה משמע דגם בבכורים בכ\"ש סגי"
+       }
+      ]
+     }
+    ],
+    "why": "היא בוחנת אם קרקע כל שהוא מספיקה לכל חובה התלויה בקרקע.",
+    "mishnah": 6,
+    "anchors": [
+     "קַרְקַע כָּל שֶׁהוּא, חַיֶּבֶת בַּפֵּאָה, וּבַבִּכּוּרִים"
+    ]
+   },
+   {
+    "title": "האם טעם הר\"ב בתנא קמא נכון?",
+    "pasuk": {
+     "text": "שִׁיֵּר קַרְקַע כָּל שֶׁהוּא, לֹא יָצָא בֶן חוֹרִין",
+     "ref": "Mishnah Peah 3:8",
+     "label": "משנה פאה ג, ט"
+    },
+    "question": "הר\"ב נותן טעם התנא הראשון שלא פלגינן דבורא. רבי עקיבא איגר תמה על כך, שהרי בגיטין מסקינן שלכולי עלמא פלגינן דבורא, והטעם הוא שאין זה כרות גיטא.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 3:8:2",
+      "era": "acharon",
+      "quote": "תמוה לי טובא. הא בפ\"ק דגיטין מסקינן דלכ\"ע פלגינן דיבורא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: לתנא קמא אין חולקין את הדבור, ולכן התנאי תלוי בגוף העבד, כאילו התנה באבר מאבריו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 3:8:1",
+        "era": "rishon",
+        "quote": "לדעת ת\"ק שאין חולקין הדבור"
+       }
+      ]
+     },
+     {
+      "text": "יכין: אדם אינו מוציא דבריו לבטלה, ולכן משתחרר בדבור ששייר בו, ואין זה כרות גיטא.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 3:45:1",
+        "era": "acharon",
+        "quote": "א\"כ לאו כרות גיטא הוא. דלא פלגינן דבוריה"
+       }
+      ]
+     },
+     {
+      "text": "בועז מתרץ שהגמרא צריכה לשני הטעמים יחד: גם כשאומרים לאו כרות גיטא צריך את הכלל שלא פלגינן דבורא.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Peah 3:6",
+        "era": "acharon",
+        "quote": "דבמסקנא צריך הש\"ס לתרתי טעמא"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה למה עבד אינו יוצא לחירות כשהרב שייר חלקה קטנה.",
+    "mishnah": 8,
+    "anchors": [
+     "שִׁיֵּר קַרְקַע כָּל שֶׁהוּא, לֹא יָצָא בֶן חוֹרִין"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "חון עשיר",
+   "רמב\"ם",
+   "ברטנורא",
+   "תוספות רבי עקיבא איגר",
+   "תפארת ישראל (בועז)",
+   "תפארת ישראל (יכין)"
+  ]
+ }
+}
