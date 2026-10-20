@@ -1,0 +1,1262 @@
+{
+ "date": "2026-10-20",
+ "hebrew_date": {
+  "hebrew": "ט׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "9 Cheshvan 5787"
+ },
+ "masechet": "peah",
+ "perek": 4,
+ "ref": "Mishnah Peah 4",
+ "mishnayot": [
+  {
+   "he": "הַפֵּאָה נִתֶּנֶת בִּמְחֻבָּר לַקַּרְקָע. בְּדָלִית וּבְדֶקֶל, בַּעַל הַבַּיִת מוֹרִיד וּמְחַלֵּק לָעֲנִיִּים. רַבִּי שִׁמְעוֹן אוֹמֵר, אַף בַּחֲלִיקֵי אֱגוֹזִים. אֲפִלּוּ תִשְׁעִים וְתִשְׁעָה אוֹמְרִים לְחַלֵּק וְאֶחָד אוֹמֵר לָבוֹז, לָזֶה שׁוֹמְעִין, שֶׁאָמַר כַּהֲלָכָה: \n",
+   "en": "Peah is given from [the crop] while it is still connected with the soil. But in the case of hanging vine-branches and the date-palm, the owner brings down [the fruit] and distributes it among the poor. Rabbi Shimon says: the same applies to smooth nut trees. Even if ninety-nine [of the poor] say [to the owner] to distribute it and one says to leave it in the field, this latter is listened to, since he spoke in accordance with the halakhah."
+  },
+  {
+   "he": "בְּדָלִית וּבְדֶקֶל אֵינוֹ כֵן, אֲפִלּוּ תִשְׁעִים וְתִשְׁעָה אוֹמְרִים לָבוֹז וְאֶחָד אוֹמֵר לְחַלֵּק, לָזֶה שׁוֹמְעִין, שֶׁאָמַר כַּהֲלָכָה: \n",
+   "en": "With hanging vine-branches and date-palm trees it is not so; even if ninety-nine [of the poor] say [to the owner] to leave it in the field and one says to distribute it, this latter is listened to, since he spoke in accordance with the halakhah."
+  },
+  {
+   "he": "נָטַל מִקְצָת פֵּאָה וּזְרָקָהּ עַל הַשְּׁאָר, אֵין לוֹ בָהּ כְּלוּם. נָפַל לוֹ עָלֶיהָ, וּפֵרֵשׂ טַלִּיתוֹ עָלֶיהָ, מַעֲבִירִין אוֹתָהּ הֵימֶנּוּ. וְכֵן בְּלֶקֶט, וְכֵן בְּעֹמֶר הַשִּׁכְחָה: \n",
+   "en": "If [a poor man] took some of the peah [already collected] and threw it onto the remainder [not yet collected], he gets none of it. If he fell down upon it, or spread his cloak over it, they take the peah away from him. The same applies to gleanings and the forgotten sheaf."
+  },
+  {
+   "he": "פֵּאָה אֵין קוֹצְרִין אוֹתָהּ בְּמַגָּלוֹת, וְאֵין עוֹקְרִין אוֹתָהּ בְּקַרְדֻּמּוֹת, כְּדֵי שֶׁלֹּא יַכּוּ אִישׁ אֶת רֵעֵהוּ: \n",
+   "en": "[The poor] may not harvest peah with scythes or tear it out [of the ground] with spades, so that they might not strike one another [with these implements]."
+  },
+  {
+   "he": "שָׁלשׁ אַבְעָיוֹת בַּיּוֹם, בַּשַּׁחַר וּבַחֲצוֹת וּבַמִּנְחָה. רַבָּן גַּמְלִיאֵל אוֹמֵר, לֹא אָמְרוּ אֶלָּא כְּדֵי שֶׁלֹּא יִפְחֲתוּ. רַבִּי עֲקִיבָא אוֹמֵר, לֹא אָמְרוּ אֶלָּא כְּדֵי שֶׁלֹּא יוֹסִיפוּ. שֶׁל בֵּית נָמֵר הָיוּ מְלַקְּטִין עַל הַחֶבֶל, וְנוֹתְנִים פֵּאָה מִכָּל אֻמָּן וְאֻמָּן: \n",
+   "en": "There are three times a day [the poor] make a search [in the field for peah]: morning, noon, and sunset. Rabban Gamaliel says: these [times] were only set lest they reduce them. Rabbi Akiva says: these were set lest they add to them. [The men] of Bet Namer used to have the poor harvest [the peah] with the aid of a rope, and they left peah at the end of each furrow."
+  },
+  {
+   "he": "עוֹבֵד כּוֹכָבִים שֶׁקָּצַר אֶת שָׂדֵהוּ וְאַחַר כָּךְ נִתְגַּיֵּר, פָּטוּר מִן הַלֶּקֶט וּמִן הַשִּׁכְחָה וּמִן הַפֵּאָה. רַבִּי יְהוּדָה מְחַיֵּב בְּשִׁכְחָה, שֶׁאֵין הַשִּׁכְחָה אֶלָּא בִשְׁעַת הָעִמּוּר: \n",
+   "en": "A non-Jew who harvested his field and then converted, he is exempt from [leaving] gleanings, the forgotten sheaf and peah. Rabbi Judah makes him liable to leave the forgotten sheaf, since he becomes liable for the forgotten sheaf at the time of their binding."
+  },
+  {
+   "he": "הִקְדִּישׁ קָמָה וּפָדָה קָמָה, חַיָּב. עֳמָרִין וּפָדָה עֳמָרִין, חַיָּב. קָמָה וּפָדָה עֳמָרִין, פְּטוּרָה, שֶׁבִּשְׁעַת חוֹבָתָהּ הָיְתָה פְטוּרָה: \n",
+   "en": "One who dedicated standing grain [to the Temple] and then redeemed it while it was still standing grain, he is liable [to give the agricultural gifts to the poor]. [If he dedicated] sheaves and redeemed them while they were still sheaves, he is liable. [If he dedicated] standing grain and redeemed it [when it was already in] sheaves, he is exempt, since at the time when it became liable it was exempt."
+  },
+  {
+   "he": "כַּיּוֹצֵא בוֹ, הַמַּקְדִּישׁ פֵּרוֹתָיו עַד שֶׁלֹּא בָאוּ לְעוֹנַת הַמַּעַשְׂרוֹת, וּפְדָאָן, חַיָּבִין. מִשֶּׁבָּאוּ לְעוֹנַת הַמַּעַשְׂרוֹת, וּפְדָאָן, חַיָּבִין. הִקְדִּישָׁן עַד שֶׁלֹּא נִגְמְרוּ וּגְמָרָן הַגִּזְבָּר, וְאַחַר כָּךְ פְּדָאָן, פְּטוּרִים, שֶׁבִּשְׁעַת חוֹבָתָן הָיוּ פְטוּרִים: \n",
+   "en": "Similarly one who dedicates his produce prior to the stage when they are subject to tithes and then redeemed them, they are liable [to be tithed]. If [he dedicated them] when they had already become subject to tithes and then redeemed them, they are liable [to be tithed]. If he dedicated them before they had ripened, and they became ripe while in the possession of the [Temple] treasurer, and he then redeemed them, they are exempt, since at the time when they would have been liable, they were exempt."
+  },
+  {
+   "he": "מִי שֶׁלָּקַט אֶת הַפֵּאָה וְאָמַר הֲרֵי זוֹ לְאִישׁ פְּלוֹנִי עָנִי, רַבִּי אֱלִיעֶזֶר אוֹמֵר, זָכָה לוֹ. וַחֲכָמִים אוֹמְרִים, יִתְּנֶנָּה לֶעָנִי שֶׁנִּמְצָא רִאשׁוֹן. הַלֶּקֶט וְהַשִּׁכְחָה וְהַפֵּאָה שֶׁל עוֹבֵד כּוֹכָבִים חַיָּב בְּמַעַשְׂרוֹת, אֶלָּא אִם כֵּן הִפְקִיר: \n",
+   "en": "One who collected peah and said, “This is for so-and-so a poor man:” Rabbi Eliezer says: he has thus acquired it for him. The sages say: he must give it to the first poor man he finds. Gleanings, the forgotten sheaf and the peah of non-Jews are subject to tithes, unless he [the non-Jew] had declared them ownerless."
+  },
+  {
+   "he": "אֵיזֶהוּ לֶקֶט, הַנּוֹשֵׁר בִּשְׁעַת הַקְּצִירָה. הָיָה קוֹצֵר, קָצַר מְלֹא יָדוֹ, תָּלַשׁ מְלֹא קֻמְצוֹ, הִכָּהוּ קוֹץ וְנָפַל מִיָּדוֹ לָאָרֶץ, הֲרֵי הוּא שֶׁל בַּעַל הַבָּיִת. תּוֹךְ הַיָּד וְתוֹךְ הַמַּגָּל, לָעֲנִיִּים. אַחַר הַיָּד וְאַחַר הַמַּגָּל, לְבַעַל הַבָּיִת. רֹאשׁ הַיָּד וְרֹאשׁ הַמַּגָּל, רַבִּי יִשְׁמָעֵאל אוֹמֵר, לָעֲנִיִּים. רַבִּי עֲקִיבָא אוֹמֵר, לְבַעַל הַבָּיִת: \n",
+   "en": "What are gleanings? That which falls down at the time of harvesting. If while he was harvesting, he harvested a handful, or plucked a fistful, and then a thorn pricked him, and what he had in his hand fell to the ground, it still belongs to the owner. [That which drops from] inside the hand or the sickle [belongs] to the poor, but [that which falls from] the back of the hand or the sickle [belongs] to the owner. [That which falls from] the top of the hand or sickle: Rabbi Ishmael says: to the poor; But Rabbi Akiva says: to the owner."
+  },
+  {
+   "he": "חוֹרֵי הַנְּמָלִים שֶׁבְּתוֹךְ הַקָּמָה, הֲרֵי הֵן שֶׁל בַּעַל הַבָּיִת. שֶׁלְּאַחַר הַקּוֹצְרִים, הָעֶלְיוֹנִים לָעֲנִיִּים, וְהַתַּחְתּוֹנִים שֶׁל בַּעַל הַבָּיִת. רַבִּי מֵאִיר אוֹמֵר, הַכֹּל לָעֲנִיִּים, שֶׁסְּפֵק לֶקֶט, לֶקֶט: \n",
+   "en": "[Grain found in] ant holes where the stalks are still standing, behold it still belongs to the owner. After the harvesters [had passed over them], those found in the top parts [of the ant holes belong] to the poor, but [those found] on the bottom parts [belong] to the owner. Rabbi Meir says: it all belongs to the poor, for gleanings about which there is any doubt are regarded as gleanings."
+  }
+ ],
+ "english": {
+  "summary": "Mishnayot 1–2 Peah is given from grain still attached to the ground, but for hanging vines and date palms the owner brings the fruit down and distributes it, and Rabbi Shimon adds smooth nut trees; if ninety-nine of the poor say to distribute and one says to leave it, that one is heard, and for vines and dates it is the other way round. Mishnayot 3–4 A poor man who takes some peah and throws it onto the rest, falls on it or spreads his cloak over it is removed from it, the same goes for gleanings and the forgotten sheaf, and peah may not be cut with sickles or torn out with axes, so that the poor do not strike one another. Mishnah 5 The poor gather peah three times a day, at dawn, noon and afternoon; Rabban Gamliel says the times were set so as not to reduce them, Rabbi Akiva so as not to add to them, and the people of Bet Namer worked by a rope and left peah from each row. Mishnayot 6–8 A non-Jew who reaped his field and then converted is exempt from gleanings, the forgotten sheaf and peah, though Rabbi Yehudah makes him liable for the forgotten sheaf, and the same logic of the time of obligation governs one who dedicates standing grain, sheaves or produce to the Temple and redeems it. Mishnah 9 One who gathered peah and said it is for a certain poor man: Rabbi Eliezer says he has acquired it for him, the Sages say he must give it to the first poor man he finds, and the gleanings, forgotten sheaf and peah of a non-Jew are subject to tithes unless he declared them ownerless. Mishnayot 10–11 Gleanings are what falls at the time of reaping, and the mishnah divides what falls from the hand or sickle (inside, behind, or at the top, where Rabbi Ishmael and Rabbi Akiva differ) and the grain in ant holes, where Rabbi Meir gives it all to the poor since a doubtful case of gleanings is gleanings.",
+  "topics": [
+   {
+    "term": "Peah left attached to the ground",
+    "mishnah": 1,
+    "anchors": [
+     "הפאה נתנת במחבר לקרקע"
+    ],
+    "explanation": "Peah is the part of the field the owner must leave unreaped for the poor. The Rambam says the verse teaches that it is left attached to the ground, at the time of the harvest, and also for similar things that both small and large can take. The mishnah then treats hanging vines and date palms as exceptions.",
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 4:1:1",
+     "quote": "בא ללמדנו שיניחנו פאה מחוברת לקרקע"
+    }
+   },
+   {
+    "term": "Dalit and dekel: bringing the fruit down",
+    "mishnah": 1,
+    "anchors": [
+     "בדלית ובדקל"
+    ],
+    "explanation": "A dalit is a vine trained up over wood or trees, and a dekel is a date palm. Bartenura explains that the verse \"you shall leave them\" means those without danger; where climbing is dangerous the owner brings the fruit down from the tree and distributes it to the poor.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 4:1:3",
+     "quote": "אותם שאין בהם סכנה אתה עוזב לפניהם…אלא מוריד מן האילן ומחלק להם"
+    }
+   },
+   {
+    "term": "Forgotten sheaf and forgotten standing grain (shikhchah)",
+    "mishnah": 3,
+    "anchors": [
+     "בעמר השכחה"
+    ],
+    "explanation": "The mishnah applies the rule about the poor man's acquisition to the forgotten sheaf as well. Ikar Tosafot Yom Tov notes that the same applies to forgotten standing grain, except that a forgotten sheaf is written explicitly in the verse, while forgotten standing grain comes from an extension.",
+    "source": {
+     "name": "Ikar Tosafot Yom Tov",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 4:3:4",
+     "quote": "הוא הדין בשכחת קמה…ושכחת עמר"
+    }
+   },
+   {
+    "term": "The three times a day (avayot)",
+    "mishnah": 5,
+    "anchors": [
+     "שלש אבעיות ביום"
+    ],
+    "explanation": "Avayot means requests, from the language \"if you would ask, ask\". The Rambam explains that peah is given in the morning for nursing mothers who need to eat in the morning, at noon for the children, and in the afternoon for the elderly who arrive only then. The disagreement of Rabban Gamliel and Rabbi Akiva is whether the times may be reduced or added to.",
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 4:5:1",
+     "quote": "שלש בקשות מלשון אם תבעיון בעיו…נותנין הפאה בשחר בשביל המניקות שהם מצטרכות לאכול בבקר"
+    }
+   },
+   {
+    "term": "The time of tithes (onat hamaasrot)",
+    "mishnah": 8,
+    "anchors": [
+     "לעונת המעשרות"
+    ],
+    "explanation": "The mishnah says that produce dedicated before the time of tithes and then redeemed is liable. Bartenura says this means before the smoothing of the pile, when the owner levels the surface of the heap with a rake. The question is whether at that time the produce was in the hand of the Temple treasurer, which would exempt it.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 4:8:1",
+     "quote": "הינו מרוח…כשהוא משוה פני הכרי ברחת"
+    }
+   },
+   {
+    "term": "Leket: what falls at the time of reaping",
+    "mishnah": 10,
+    "anchors": [
+     "הנושר בשעת הקצירה"
+    ],
+    "explanation": "Leket (gleanings) is the stalks that fall while the owner reaps. Melekhet Shelomoh brings from the Torat Kohanim that gleanings are only what comes from the act of reaping. This is why the mishnah's case of grain that falls when a thorn pricks him is excluded and remains the owner's.",
+    "source": {
+     "name": "Melekhet Shelomoh",
+     "ref": "Melekhet Shelomoh on Mishnah Peah 4:10:1",
+     "quote": "אין לקט אלא הבא משעת קצירה"
+    }
+   },
+   {
+    "term": "Inside the hand, behind the hand, and the top of the hand",
+    "mishnah": 10,
+    "anchors": [
+     "תוך היד ותוך המגל"
+    ],
+    "explanation": "Bartenura says that what falls from inside the hand or inside the sickle goes to the poor, while what falls from behind the hand or sickle goes to the owner. The mishnah's remaining case, the top of the hand or sickle, is the dispute of Rabbi Ishmael and Rabbi Akiva.",
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 4:10:3",
+     "quote": "דהנושר מתוך היד ומתוך המגל לעניים"
+    }
+   },
+   {
+    "term": "Ant holes (chorei nemalim)",
+    "mishnah": 11,
+    "anchors": [
+     "חורי הנמלים"
+    ],
+    "explanation": "The Rash says it is the way of ants to bring grain into their holes. The mishnah asks to whom the grain found there belongs. The answer depends on whether the holes are among the standing grain, which belongs to the owner, or behind the reapers, where the poor may have a share.",
+    "source": {
+     "name": "Rash MiShantz",
+     "ref": "Rash MiShantz on Mishnah Peah 4:11:1",
+     "quote": "דרך הנמלים להכניס תבואה בחוריהן"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "How far does the fine reach?",
+    "pasuk": {
+     "text": "נָטַל מִקְצָת פֵּאָה וּזְרָקָהּ עַל הַשְּׁאָר, אֵין לוֹ בָהּ כְּלוּם",
+     "ref": "Mishnah Peah 4:3",
+     "label": "Mishnah Peah 4:3"
+    },
+    "question": "Rambam's wording takes away what the poor man had already gathered in every case — taking and throwing, falling on it, and spreading a cloak. Does the mishnah really fine him in all three cases?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 4:3:3",
+      "quote": "משמע מדבריו דבכולי ענינא לוקחין מה שנטל משום קנס ואין נראה כן מן המשנה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov himself reads the mishnah narrowly: the fine applies only where he took some and threw it, since the mishnah splits the cases into two clauses.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 4:3:3",
+        "quote": "אלא דוקא כשנטל וזרקו וכו' שהרי חילקם לשתי בבות",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says that when he takes some and covers some, they take everything from him, both what he took and what he covered, as a fine.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 4:3:1",
+        "quote": "לוקחין מידו הכל בין מה שלקח ובא לידו ובין מה שכסה וזה קנס",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura says that \"he gets nothing\" reaches even what he had already gathered, because they fine him by taking out both what was loose and what was still attached.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 4:3:2",
+        "quote": "אפלו במה שלקט, דקונסין אותו ומוציאין ממנו התלוש והמחבר",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "It sets how far the penalty against the poor man goes.",
+    "mishnah": 3,
+    "anchors": [
+     "נָטַל מִקְצָת פֵּאָה וּזְרָקָהּ עַל הַשְּׁאָר, אֵין לוֹ בָהּ כְּלוּם"
+    ]
+   },
+   {
+    "title": "Why does falling on peah not acquire it?",
+    "pasuk": {
+     "text": "נָפַל לוֹ עָלֶיהָ, וּפֵרֵשׂ טַלִּיתוֹ עָלֶיהָ, מַעֲבִירִין אוֹתָהּ הֵימֶנּוּ",
+     "ref": "Mishnah Peah 4:3",
+     "label": "Mishnah Peah 4:3"
+    },
+    "question": "A person's four cubits acquire for him in an alley or at the side of the public domain. Why, then, does a poor man who falls on the peah or spreads his cloak over it not acquire it?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Peah 4:3:3",
+      "quote": "אף על גב דארבע אמות של אדם קונות לו בסמטא ובצדי רשות הרבים",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura's first answer: in another man's field the Sages did not enact that a person's four cubits acquire for him.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 4:3:3",
+        "quote": "הכא בשדה חברו לא תקינו ליה רבנן שיקנו לו ארבע אמותיו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura's second answer: by falling on it he showed that he wants to acquire by falling, and not by four cubits.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 4:3:3",
+        "quote": "כיון דנפל עליה גלי דעתיה דבנפילה ניחא ליה דלקני",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Yachin gives the same two answers in brief.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 4:12:1",
+        "quote": "ד' אמותיו לא קנו לו. רק בצדי ר\"ה וסימטא. א\"נ מדנפל גלי דעתיה",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows where the rules of acquisition by four cubits stop.",
+    "mishnah": 3,
+    "anchors": [
+     "נָפַל לוֹ עָלֶיהָ, וּפֵרֵשׂ טַלִּיתוֹ עָלֶיהָ, מַעֲבִירִין אוֹתָהּ הֵימֶנּוּ"
+    ]
+   },
+   {
+    "title": "What is the rope of Bet Namer?",
+    "pasuk": {
+     "text": "שֶׁל בֵּית נָמֵר הָיוּ מְלַקְּטִין עַל הַחֶבֶל, וְנוֹתְנִים פֵּאָה מִכָּל אֻמָּן וְאֻמָּן",
+     "ref": "Mishnah Peah 4:5",
+     "label": "Mishnah Peah 4:5"
+    },
+    "question": "The mishnah says Bet Namer \"gathered on the rope\" yet \"gave peah from each row\". Is this about peah at all, or about gleanings, and what is the rope?",
+    "asked_by": [
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Peah 4:27:1",
+      "quote": "אמנם ק\"ל אי לענין פאה קמיירי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: they tie a rope beside the standing grain, reap until the rope ends, and leave peah for the length of the rope, then tie again and leave peah again.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 4:5:6",
+        "quote": "קושרים חבל בצד הקמה וקוצרים והולכים עד שיכלה החבל…ומניחים פאה לכל החבל",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: \"on the rope\" means a straight line from the start of the field to its end.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 4:5:3",
+        "quote": "על החבל הוא על קו מישור מתחלת השדה עד סופה",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Yachin's own reading: they divided the field into three equal parts with a rope, so that the poor would gather the gleanings only at their three set times.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 4:27:1",
+        "quote": "שמחלקין השדה לג' חלקים שוין",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the custom of Bet Namer is a rule of peah or of gleanings.",
+    "mishnah": 5,
+    "anchors": [
+     "שֶׁל בֵּית נָמֵר הָיוּ מְלַקְּטִין עַל הַחֶבֶל, וְנוֹתְנִים פֵּאָה מִכָּל אֻמָּן וְאֻמָּן"
+    ]
+   },
+   {
+    "title": "Does Rabbi Yehudah agree about redeemed sheaves?",
+    "pasuk": {
+     "text": "רַבִּי יְהוּדָה מְחַיֵּב בְּשִׁכְחָה, שֶׁאֵין הַשִּׁכְחָה אֶלָּא בִשְׁעַת הָעִמּוּר",
+     "ref": "Mishnah Peah 4:6",
+     "label": "Mishnah Peah 4:6"
+    },
+    "question": "Rabbi Yehudah's reason is that the forgotten sheaf applies only at the time of sheaving, and at that time the grain belonged to the Temple. So why does Bartenura say that he disputes here too, when it seems he should agree that one who redeems sheaves is exempt?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 4:7:1",
+      "quote": "קשה לי דנראה דר\"י מודה בפדה עומרים כיון דבשעת העמור היה דהקדש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: Rabbi Yehudah and the Sages dispute the forgotten sheaf here too, in one who dedicated standing grain and redeemed sheaves, just as they dispute about the convert.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 4:7:1",
+        "quote": "פליגי רבי יהודה ורבנן בהקדיש קמה ופדה עמרים",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: as to the forgotten sheaf, the Sages and Rabbi Yehudah dispute here just as they did about the convert.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 4:33:1",
+        "quote": "ובשכחה פליגי חכמים ור\"י כמ\"ו בגר",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Rambam rules according to the Sages: if the Temple treasurer reaped, made sheaves, and only then it was redeemed, it is not liable even for the forgotten sheaf.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 4:7:2",
+        "quote": "ואם הקדיש קמה וקצר הגזבר ועשאם עומרין ואחר כן פדאם לא יתחייב בהם ואפי' בשכחה",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "It tests what \"the time of sheaving\" means for Rabbi Yehudah.",
+    "mishnah": 6,
+    "anchors": [
+     "רַבִּי יְהוּדָה מְחַיֵּב בְּשִׁכְחָה, שֶׁאֵין הַשִּׁכְחָה אֶלָּא בִשְׁעַת הָעִמּוּר"
+    ]
+   },
+   {
+    "title": "On what basis does Rabbi Eliezer say he acquired it for him?",
+    "pasuk": {
+     "text": "מִי שֶׁלָּקַט אֶת הַפֵּאָה וְאָמַר הֲרֵי זוֹ לְאִישׁ פְּלוֹנִי עָנִי, רַבִּי אֱלִיעֶזֶר אוֹמֵר, זָכָה לוֹ",
+     "ref": "Mishnah Peah 4:9",
+     "label": "Mishnah Peah 4:9"
+    },
+    "question": "Rabbi Eliezer says one who gathered peah and said it is for a certain poor man has acquired it for him. If the gatherer was a rich man, and especially if he was the owner of the field, how can he be said to be able to declare his property ownerless?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 4:9:1",
+      "quote": "אי מיירי דוקא בעשיר שאינו בעל השדה או אף בבעל השדה עצמו",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 4:9:1",
+      "quote": "לענ\"ד תמוה דאיך שייך לומר בזה מגו דאי בעי מפקיר לנכסיה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: Rabbi Eliezer holds that we say two \"migo\" arguments, and the Sages hold only one.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 4:9:1",
+        "quote": "רבי אליעזר סבר אמרינן תרי מגו…מגו דאי בעי מפקר לנכסיה",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: since the rich gatherer may declare his property ownerless and eat the peah, Rabbi Eliezer says he may also give it to another; the Sages do not say two \"migo\" arguments.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 4:9:1",
+        "quote": "יש לו רשות להפקיר נכסיו ויאכל הפאה ההיא יש לו רשות להקנותה לאיש אחר…לא אמרי' תרי מיגו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: two arguments are needed, that he could declare his property ownerless and become poor, and that one who can acquire for himself can acquire for another.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 4:35:1",
+        "quote": "דצריך ב' מגות. מגו דהפקיר המגביה נכסיו והיה עני. ומגו דזכי לנפשיה זכי נמי לחבריה",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the reasoning behind the dispute of Rabbi Eliezer and the Sages.",
+    "mishnah": 9,
+    "anchors": [
+     "מִי שֶׁלָּקַט אֶת הַפֵּאָה וְאָמַר הֲרֵי זוֹ לְאִישׁ פְּלוֹנִי עָנִי, רַבִּי אֱלִיעֶזֶר אוֹמֵר, זָכָה לוֹ"
+    ]
+   },
+   {
+    "title": "How can tithes apply to what was exempt?",
+    "pasuk": {
+     "text": "הַלֶּקֶט וְהַשִּׁכְחָה וְהַפֵּאָה שֶׁל עוֹבֵד כּוֹכָבִים חַיָּב בְּמַעַשְׂרוֹת, אֶלָּא אִם כֵּן הִפְקִיר",
+     "ref": "Mishnah Peah 4:9",
+     "label": "Mishnah Peah 4:9"
+    },
+    "question": "Gleanings, the forgotten sheaf and peah are exempt while they are in the field. How can a tithe obligation fall on them later, once a non-Jew takes them?",
+    "asked_by": [
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Peah 4:2",
+      "quote": "ומהכ\"ת יחול אח\"כ חיוב מעשר עליו",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 4:9:2",
+      "quote": "אבל מאיזה טעם יפקע מזה כח ההפקר ויחול עליו חיוב המעשר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the mishnah is Rabbi Meir, who says a non-Jew has no acquisition in the Land of Israel that removes the obligation of tithes; he adds that the halakhah is not so.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 4:9:3",
+        "quote": "ומתניתין רבי מאיר היא דאמר אין קנין לעובד כוכבים בארץ ישראל להפקיע מן המעשר…ואין כן הלכה",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the principle for Rabbi Meir is that a non-Jew has no acquisition in the Land of Israel to remove the obligation of tithes, so his gleanings, forgotten sheaf and peah are liable; but if he declared them ownerless, they are not.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 4:9:1",
+        "quote": "שאין קנין לנכרי בארץ ישראל להפקיע מן המעשרות…וכשיפקיר לא יתחייב כל הדבר ההוא מעשר",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: ownerless property is exempt from tithes for everyone; but if the non-Jew declared it ownerless and then acquired the grain again, it is liable.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 4:38:1",
+        "quote": "אלא אם כן הפקיר לעניים ועשירים דאז לכ\"ע הפקר פטור ממעשר",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the logic of Rabbi Meir that a non-Jew's ownership does not remove tithes.",
+    "mishnah": 9,
+    "anchors": [
+     "הַלֶּקֶט וְהַשִּׁכְחָה וְהַפֵּאָה שֶׁל עוֹבֵד כּוֹכָבִים חַיָּב בְּמַעַשְׂרוֹת, אֶלָּא אִם כֵּן הִפְקִיר"
+    ]
+   },
+   {
+    "title": "What does \"old\" have to do with standing grain versus reaped?",
+    "pasuk": {
+     "text": "שֶׁלְּאַחַר הַקּוֹצְרִים, הָעֶלְיוֹנִים לָעֲנִיִּים, וְהַתַּחְתּוֹנִים שֶׁל בַּעַל הַבָּיִת",
+     "ref": "Mishnah Peah 4:11",
+     "label": "Mishnah Peah 4:11"
+    },
+    "question": "Bartenura says the lower grain belongs to the owner because it is green and also because it is recognizably old. What does age have to do with the difference between standing grain and reaped grain?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 4:11:1",
+      "quote": "קשה קצת מאי יישון שייך בין קמה לקציר",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 4:11:2",
+      "quote": "קצת קשה מה ישן שיך בין קמה לקציר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: Bartenura's words combine the commentary of the Rash (green, from the standing grain) and that of the Rambam (the dark ones, from last year).",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 4:11:1",
+        "quote": "דדברי הר\"ב מורכבים מפירוש הר\"ש ופירוש הרמב\"ם",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the lower grain, the dark, belongs to the owner since we say it is old, from last year's seed.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 4:11:1",
+        "quote": "והזרע התחתון והוא השחור לבע\"ה לפי שנאמר שהוא קדמון ומזרע השנה שעברה הוא",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Rash: the upper ones, the white, belong to the poor, and the lower, the green, belong to the owner, since grain is reaped when it dries and turns white.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Peah 4:11:3",
+        "quote": "העליונים לעניים בלבנים. והתחתונים לבעל הבית בירוקים…שכשהתבואה יבישה ומתלבנת קוצרים אותה",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the commentators read the upper and lower grain in the ant holes.",
+    "mishnah": 11,
+    "anchors": [
+     "שֶׁלְּאַחַר הַקּוֹצְרִים, הָעֶלְיוֹנִים לָעֲנִיִּים, וְהַתַּחְתּוֹנִים שֶׁל בַּעַל הַבָּיִת"
+    ]
+   },
+   {
+    "title": "Why is a doubtful case of gleanings gleanings?",
+    "pasuk": {
+     "text": "רַבִּי מֵאִיר אוֹמֵר, הַכֹּל לָעֲנִיִּים, שֶׁסְּפֵק לֶקֶט, לֶקֶט",
+     "ref": "Mishnah Peah 4:11",
+     "label": "Mishnah Peah 4:11"
+    },
+    "question": "Rabbi Meir says that a doubtful case of gleanings is gleanings. Why is a verse needed, when a doubtful theft would anyway have to be returned, and why not follow the majority of the field, which is the owner's?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Peah 4:11:1-4",
+      "quote": "וא\"ת למאי צריך קרא. תיפוק ליה דספק גזל הוא",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 4:11:1",
+      "quote": "במרדכי חולין הקשה דניזיל בתר רובא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: it is written, \"to the poor and the stranger you shall leave them\" — put it before them from what is yours; and the halakhah follows Rabbi Meir.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 4:11:6",
+        "quote": "הנח לפניהם משלך…והלכה כרבי מאיר",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: the verse is needed to exempt it from tithes, since otherwise we would treat the doubt stringently and the poor would have to tithe it.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Peah 4:11:1-4",
+        "quote": "י\"ל דאצטריך לפטורי ממעשרות",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger, citing Rabbenu Baruch in the Mordechai: the verse reveals that it goes to the poor, \"the poor and destitute, do them justice\" — from what is yours, give him.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 4:11:1",
+        "quote": "דגלי קרא עני ורש הצדיקו צדק משלך ותן לו",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the source and the reasoning behind Rabbi Meir's rule, which the halakhah follows.",
+    "mishnah": 11,
+    "anchors": [
+     "רַבִּי מֵאִיר אוֹמֵר, הַכֹּל לָעֲנִיִּים, שֶׁסְּפֵק לֶקֶט, לֶקֶט"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Rambam",
+   "Bartenura",
+   "Yachin",
+   "Tosafot Rabbi Akiva Eiger",
+   "Boaz",
+   "Ikar Tosafot Yom Tov",
+   "Rash MiShantz",
+   "Lechem Shamayim",
+   "Melekhet Shelomoh"
+  ]
+ },
+ "hebrew": {
+  "summary": "משניות א-ב הפאה ניתנת במחובר לקרקע, אבל בדלית ובדקל בעל הבית מוריד ומחלק לעניים, ורבי שמעון מוסיף חליקי אגוזים; אם תשעים ותשעה אומרים לחלק ואחד אומר לבוז שומעים לאחד, ובדלית ובדקל להפך. משניות ג-ד עני שנטל מקצת פאה וזרקה על השאר, או נפל עליה או פרש טליתו עליה, מעבירים אותה ממנו, וכן בלקט ובעומר השכחה, ואין קוצרים פאה במגלות ואין עוקרים אותה בקרדומות כדי שלא יכו איש את רעהו. משנה ה שלוש אבעיות ביום, בשחר ובחצות ובמנחה; רבן גמליאל אומר שלא אמרו אלא כדי שלא יפחתו, רבי עקיבא אומר כדי שלא יוסיפו, ושל בית נמר היו מלקטים על החבל ונותנים פאה מכל אומן ואומן. משניות ו-ח עובד כוכבים שקצר את שדהו ואחר כך נתגייר פטור מן הלקט ומן השכחה ומן הפאה, ורבי יהודה מחייב בשכחה, ואותו עיקרון של שעת החובה קובע גם בהקדיש קמה, עומרים או פירות ופדאם. משנה ט מי שלקט את הפאה ואמר הרי זו לאיש פלוני עני, רבי אליעזר אומר זכה לו, וחכמים אומרים יתננה לעני שנמצא ראשון, והלקט והשכחה והפאה של עובד כוכבים חייבים במעשרות אלא אם כן הפקיר. משניות י-יא לקט הוא הנושר בשעת הקצירה, והמשנה מחלקת בין מה שנושר תוך היד והמגל, אחריהם וראשם (שם נחלקו רבי ישמעאל ורבי עקיבא), ובין חורי הנמלים, שבהם רבי מאיר אומר הכל לעניים שספק לקט לקט.",
+  "topics": [
+   {
+    "term": "פאה במחובר לקרקע",
+    "mishnah": 1,
+    "anchors": [
+     "הפאה נתנת במחבר לקרקע"
+    ],
+    "explanation": "פאה היא החלק מהשדה שבעל הבית חייב להשאיר לעניים בלא לקצור. הרמב\"ם אומר שהפסוק בא ללמד שמניחים אותה מחוברת לקרקע, בשעת הקציר, וכן בדברים הדומים לזה שאפשר לקטן ולגדול לקחתם. המשנה מוציאה אחר כך מן הכלל את הדלית והדקל.",
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 4:1:1",
+     "quote": "בא ללמדנו שיניחנו פאה מחוברת לקרקע"
+    }
+   },
+   {
+    "term": "דלית ודקל: מורידים ומחלקים",
+    "mishnah": 1,
+    "anchors": [
+     "בדלית ובדקל"
+    ],
+    "explanation": "דלית היא גפן שמודלית על עצים או אילנות, ודקל הוא עץ תמר. ברטנורא מסביר שהמילה \"אותם\" במקרא באה למעט: מניחים לפניהם רק את מה שאין בו סכנה, ובמקום שיש סכנה בעלייה בעל הבית מוריד מן האילן ומחלק להם.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 4:1:3",
+     "quote": "אותם שאין בהם סכנה אתה עוזב לפניהם…אלא מוריד מן האילן ומחלק להם"
+    }
+   },
+   {
+    "term": "שכחת עומר ושכחת קמה",
+    "mishnah": 3,
+    "anchors": [
+     "בעמר השכחה"
+    ],
+    "explanation": "המשנה מחילה את הדין של קניית העני גם על עומר השכחה. עיקר תוספות יום טוב מעיר שהוא הדין בשכחת קמה, אלא ששכחת עומר כתובה במפורש בפסוק, ושכחת קמה באה מריבוי.",
+    "source": {
+     "name": "עיקר תוספות יום טוב",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 4:3:4",
+     "quote": "הוא הדין בשכחת קמה…ושכחת עמר"
+    }
+   },
+   {
+    "term": "שלוש אבעיות ביום",
+    "mishnah": 5,
+    "anchors": [
+     "שלש אבעיות ביום"
+    ],
+    "explanation": "אבעיות הן בקשות, מלשון \"אם תבעיון בעיו\". הרמב\"ם מסביר שנותנים את הפאה בשחר בשביל המניקות שצריכות לאכול בבוקר, בחצות בשביל הילדים, ובמנחה בשביל הזקנים שמגיעים רק אז. מחלוקת רבן גמליאל ורבי עקיבא היא אם מותר לפחות מהזמנים או להוסיף עליהם.",
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 4:5:1",
+     "quote": "שלש בקשות מלשון אם תבעיון בעיו…נותנין הפאה בשחר בשביל המניקות שהם מצטרכות לאכול בבקר"
+    }
+   },
+   {
+    "term": "עונת המעשרות",
+    "mishnah": 8,
+    "anchors": [
+     "לעונת המעשרות"
+    ],
+    "explanation": "המשנה אומרת שפירות שהוקדשו לפני עונת המעשרות ונפדו חייבים. ברטנורא אומר שהכוונה למרוח, כשהוא משוה את פני הכרי ברחת. השאלה היא אם באותה שעה היו ביד הגזבר, שאז הם פטורים.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 4:8:1",
+     "quote": "הינו מרוח…כשהוא משוה פני הכרי ברחת"
+    }
+   },
+   {
+    "term": "לקט: הנושר בשעת הקצירה",
+    "mishnah": 10,
+    "anchors": [
+     "הנושר בשעת הקצירה"
+    ],
+    "explanation": "לקט הוא השבלים הנופלות בשעה שבעל הבית קוצר. מלאכת שלמה מביא מתורת כהנים שאין לקט אלא מה שבא מחמת הקצירה. לכן המקרה שבמשנה, שבו נפל ממנו מכוח דקירת קוץ, נשאר של בעל הבית.",
+    "source": {
+     "name": "מלאכת שלמה",
+     "ref": "Melekhet Shelomoh on Mishnah Peah 4:10:1",
+     "quote": "אין לקט אלא הבא משעת קצירה"
+    }
+   },
+   {
+    "term": "תוך היד, אחר היד וראש היד",
+    "mishnah": 10,
+    "anchors": [
+     "תוך היד ותוך המגל"
+    ],
+    "explanation": "ברטנורא אומר שמה שנושר מתוך היד ומתוך המגל לעניים, ומה שנושר מאחר היד והמגל לבעל הבית. המקרה האחרון שבמשנה, ראש היד וראש המגל, הוא מחלוקת רבי ישמעאל ורבי עקיבא.",
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 4:10:3",
+     "quote": "דהנושר מתוך היד ומתוך המגל לעניים"
+    }
+   },
+   {
+    "term": "חורי נמלים",
+    "mishnah": 11,
+    "anchors": [
+     "חורי הנמלים"
+    ],
+    "explanation": "הר\"ש אומר שדרך הנמלים להכניס תבואה בחוריהן. המשנה שואלת של מי התבואה שנמצאת שם. התשובה תלויה אם החורים בתוך הקמה, ואז היא של בעל הבית, או אחר הקוצרים, ושם יכול להיות חלק לעניים.",
+    "source": {
+     "name": "רש משנץ",
+     "ref": "Rash MiShantz on Mishnah Peah 4:11:1",
+     "quote": "דרך הנמלים להכניס תבואה בחוריהן"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "עד היכן מגיע הקנס?",
+    "pasuk": {
+     "text": "נָטַל מִקְצָת פֵּאָה וּזְרָקָהּ עַל הַשְּׁאָר, אֵין לוֹ בָהּ כְּלוּם",
+     "ref": "Mishnah Peah 4:3",
+     "label": "משנה פאה ד, ג"
+    },
+    "question": "לשון הרמב\"ם מוציאה מהעני גם את מה שכבר ליקט בכל המקרים — נטילה וזריקה, נפילה, ופריסת טלית. האם המשנה באמת קונסת אותו בשלושתם?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 4:3:3",
+      "quote": "משמע מדבריו דבכולי ענינא לוקחין מה שנטל משום קנס ואין נראה כן מן המשנה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב עצמו מבין שהמשנה צרה: הקנס הוא רק כשנטל וזרק, שהרי המשנה חילקה את המקרים לשתי בבות.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 4:3:3",
+        "quote": "אלא דוקא כשנטל וזרקו וכו' שהרי חילקם לשתי בבות",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שמי שלוקח מקצת ומכסה מקצת, לוקחים ממנו הכל, גם מה שלקח וגם מה שכסה, כקנס.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 4:3:1",
+        "quote": "לוקחין מידו הכל בין מה שלקח ובא לידו ובין מה שכסה וזה קנס",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא אומר ש\"אין לו בה כלום\" כולל גם מה שכבר ליקט, כי קונסים אותו ומוציאים ממנו את התלוש והמחובר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 4:3:2",
+        "quote": "אפלו במה שלקט, דקונסין אותו ומוציאין ממנו התלוש והמחבר",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע עד היכן הקנס כלפי העני.",
+    "mishnah": 3,
+    "anchors": [
+     "נָטַל מִקְצָת פֵּאָה וּזְרָקָהּ עַל הַשְּׁאָר, אֵין לוֹ בָהּ כְּלוּם"
+    ]
+   },
+   {
+    "title": "למה נפילה על הפאה אינה קונה?",
+    "pasuk": {
+     "text": "נָפַל לוֹ עָלֶיהָ, וּפֵרֵשׂ טַלִּיתוֹ עָלֶיהָ, מַעֲבִירִין אוֹתָהּ הֵימֶנּוּ",
+     "ref": "Mishnah Peah 4:3",
+     "label": "משנה פאה ד, ג"
+    },
+    "question": "ארבע אמות של אדם קונות לו בסימטא ובצדי רשות הרבים. למה אפוא עני שנפל על הפאה או פרש עליה את טליתו אינו קונה אותה?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Peah 4:3:3",
+      "quote": "אף על גב דארבע אמות של אדם קונות לו בסמטא ובצדי רשות הרבים",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התשובה הראשונה של ברטנורא: בשדה חברו לא תיקנו חכמים שארבע אמותיו יקנו לו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 4:3:3",
+        "quote": "הכא בשדה חברו לא תקינו ליה רבנן שיקנו לו ארבע אמותיו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "התשובה השנייה של ברטנורא: כיון שנפל עליה גילה דעתו שבנפילה נוח לו לקנות, ובארבע אמות לא נוח לו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 4:3:3",
+        "quote": "כיון דנפל עליה גלי דעתיה דבנפילה ניחא ליה דלקני",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "יכין מביא את שתי התשובות האלה בקצרה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 4:12:1",
+        "quote": "ד' אמותיו לא קנו לו. רק בצדי ר\"ה וסימטא. א\"נ מדנפל גלי דעתיה",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה היכן נעצרים דיני הקנין בארבע אמות.",
+    "mishnah": 3,
+    "anchors": [
+     "נָפַל לוֹ עָלֶיהָ, וּפֵרֵשׂ טַלִּיתוֹ עָלֶיהָ, מַעֲבִירִין אוֹתָהּ הֵימֶנּוּ"
+    ]
+   },
+   {
+    "title": "מהו החבל של בית נמר?",
+    "pasuk": {
+     "text": "שֶׁל בֵּית נָמֵר הָיוּ מְלַקְּטִין עַל הַחֶבֶל, וְנוֹתְנִים פֵּאָה מִכָּל אֻמָּן וְאֻמָּן",
+     "ref": "Mishnah Peah 4:5",
+     "label": "משנה פאה ד, ה"
+    },
+    "question": "המשנה אומרת שבית נמר \"היו מלקטין על החבל\" אבל \"נותנים פאה מכל אומן ואומן\". האם מדובר כאן בפאה כלל, או בלקט, ומהו החבל?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Peah 4:27:1",
+      "quote": "אמנם ק\"ל אי לענין פאה קמיירי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: קושרים חבל בצד הקמה, קוצרים עד שיכלה החבל, ומניחים פאה לכל החבל, וחוזרים וקושרים ומניחים פאה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 4:5:6",
+        "quote": "קושרים חבל בצד הקמה וקוצרים והולכים עד שיכלה החבל…ומניחים פאה לכל החבל",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: \"על החבל\" הוא על קו מישור מתחילת השדה עד סופה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 4:5:3",
+        "quote": "על החבל הוא על קו מישור מתחלת השדה עד סופה",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "פירוש יכין: חילקו את השדה לשלושה חלקים שווים בחבל, כדי שהעניים ילקטו רק בשלושת זמניהם.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 4:27:1",
+        "quote": "שמחלקין השדה לג' חלקים שוין",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם מנהג בית נמר הוא דין בפאה או בלקט.",
+    "mishnah": 5,
+    "anchors": [
+     "שֶׁל בֵּית נָמֵר הָיוּ מְלַקְּטִין עַל הַחֶבֶל, וְנוֹתְנִים פֵּאָה מִכָּל אֻמָּן וְאֻמָּן"
+    ]
+   },
+   {
+    "title": "האם רבי יהודה מסכים בפדה עומרים?",
+    "pasuk": {
+     "text": "רַבִּי יְהוּדָה מְחַיֵּב בְּשִׁכְחָה, שֶׁאֵין הַשִּׁכְחָה אֶלָּא בִשְׁעַת הָעִמּוּר",
+     "ref": "Mishnah Peah 4:6",
+     "label": "משנה פאה ד, ו"
+    },
+    "question": "טעמו של רבי יהודה הוא שאין שכחה אלא בשעת העימור, ובאותה שעה היה הדבר של הקדש. אם כן, למה אומר ברטנורא שהוא חולק גם כאן, והרי נראה שהוא צריך להודות שמי שפדה עומרים פטור?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 4:7:1",
+      "quote": "קשה לי דנראה דר\"י מודה בפדה עומרים כיון דבשעת העמור היה דהקדש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: רבי יהודה וחכמים נחלקים בשכחה גם כאן, בהקדיש קמה ופדה עומרים, כמו שנחלקו בעובד כוכבים שנתגייר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 4:7:1",
+        "quote": "פליגי רבי יהודה ורבנן בהקדיש קמה ופדה עמרים",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "יכין: בשכחה נחלקים כאן חכמים ור' יהודה כמו שנחלקו בגר.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 4:33:1",
+        "quote": "ובשכחה פליגי חכמים ור\"י כמ\"ו בגר",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם פוסק כחכמים: אם קצר הגזבר ועשה עומרים ואחר כך נפדו, אינם חייבים אפילו בשכחה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 4:7:2",
+        "quote": "ואם הקדיש קמה וקצר הגזבר ועשאם עומרין ואחר כן פדאם לא יתחייב בהם ואפי' בשכחה",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "זה בוחן מהי \"שעת העימור\" לרבי יהודה.",
+    "mishnah": 6,
+    "anchors": [
+     "רַבִּי יְהוּדָה מְחַיֵּב בְּשִׁכְחָה, שֶׁאֵין הַשִּׁכְחָה אֶלָּא בִשְׁעַת הָעִמּוּר"
+    ]
+   },
+   {
+    "title": "על מה מבוסס דברי רבי אליעזר שזכה לו?",
+    "pasuk": {
+     "text": "מִי שֶׁלָּקַט אֶת הַפֵּאָה וְאָמַר הֲרֵי זוֹ לְאִישׁ פְּלוֹנִי עָנִי, רַבִּי אֱלִיעֶזֶר אוֹמֵר, זָכָה לוֹ",
+     "ref": "Mishnah Peah 4:9",
+     "label": "משנה פאה ד, ט"
+    },
+    "question": "רבי אליעזר אומר שמי שלקט את הפאה ואמר הרי זו לאיש פלוני עני, זכה לו. אם הלוקט עשיר, ובפרט אם הוא בעל השדה, איך אפשר לומר שיכול להפקיר את נכסיו?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 4:9:1",
+      "quote": "אי מיירי דוקא בעשיר שאינו בעל השדה או אף בבעל השדה עצמו",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 4:9:1",
+      "quote": "לענ\"ד תמוה דאיך שייך לומר בזה מגו דאי בעי מפקיר לנכסיה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: רבי אליעזר סובר שאומרים שני מגו, וחכמים סוברים שאומרים מגו אחד בלבד.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 4:9:1",
+        "quote": "רבי אליעזר סבר אמרינן תרי מגו…מגו דאי בעי מפקר לנכסיה",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: כיון שהעשיר יכול להפקיר נכסיו ולאכול את הפאה, אומר רבי אליעזר שיכול גם להקנותה לאחר; וחכמים אינם אומרים תרי מגו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 4:9:1",
+        "quote": "יש לו רשות להפקיר נכסיו ויאכל הפאה ההיא יש לו רשות להקנותה לאיש אחר…לא אמרי' תרי מיגו",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "יכין: צריך שני מגו, שהוא יכול להפקיר נכסיו ולהיות עני, ושמי שזוכה לעצמו זוכה גם לחברו.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 4:35:1",
+        "quote": "דצריך ב' מגות. מגו דהפקיר המגביה נכסיו והיה עני. ומגו דזכי לנפשיה זכי נמי לחבריה",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה את הנימוק שבמחלוקת רבי אליעזר וחכמים.",
+    "mishnah": 9,
+    "anchors": [
+     "מִי שֶׁלָּקַט אֶת הַפֵּאָה וְאָמַר הֲרֵי זוֹ לְאִישׁ פְּלוֹנִי עָנִי, רַבִּי אֱלִיעֶזֶר אוֹמֵר, זָכָה לוֹ"
+    ]
+   },
+   {
+    "title": "איך יחול מעשר על מה שהיה פטור?",
+    "pasuk": {
+     "text": "הַלֶּקֶט וְהַשִּׁכְחָה וְהַפֵּאָה שֶׁל עוֹבֵד כּוֹכָבִים חַיָּב בְּמַעַשְׂרוֹת, אֶלָּא אִם כֵּן הִפְקִיר",
+     "ref": "Mishnah Peah 4:9",
+     "label": "משנה פאה ד, ט"
+    },
+    "question": "לקט, שכחה ופאה פטורים כל עוד הם בשדה. איך יחול עליהם אחר כך חיוב מעשר, כשעובד כוכבים לוקח אותם?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (בועז)",
+      "ref": "Boaz on Mishnah Peah 4:2",
+      "quote": "ומהכ\"ת יחול אח\"כ חיוב מעשר עליו",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 4:9:2",
+      "quote": "אבל מאיזה טעם יפקע מזה כח ההפקר ויחול עליו חיוב המעשר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: המשנה היא רבי מאיר, האומר שאין קנין לעובד כוכבים בארץ ישראל להפקיע מן המעשר; והוא מוסיף שאין כן הלכה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 4:9:3",
+        "quote": "ומתניתין רבי מאיר היא דאמר אין קנין לעובד כוכבים בארץ ישראל להפקיע מן המעשר…ואין כן הלכה",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: העיקר אצל רבי מאיר שאין קנין לנכרי בארץ ישראל להפקיע מן המעשרות, ולכן הלקט והשכחה והפאה שלו חייבים; אך אם הפקיר, אינם חייבים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 4:9:1",
+        "quote": "שאין קנין לנכרי בארץ ישראל להפקיע מן המעשרות…וכשיפקיר לא יתחייב כל הדבר ההוא מעשר",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "יכין: הפקר פטור ממעשר לכולי עלמא; אבל אם הפקיר וחזר וזכה בתבואה, היא חייבת.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 4:38:1",
+        "quote": "אלא אם כן הפקיר לעניים ועשירים דאז לכ\"ע הפקר פטור ממעשר",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה את הגיון רבי מאיר שקנין של עובד כוכבים אינו מפקיע ממעשר.",
+    "mishnah": 9,
+    "anchors": [
+     "הַלֶּקֶט וְהַשִּׁכְחָה וְהַפֵּאָה שֶׁל עוֹבֵד כּוֹכָבִים חַיָּב בְּמַעַשְׂרוֹת, אֶלָּא אִם כֵּן הִפְקִיר"
+    ]
+   },
+   {
+    "title": "מה עניין \"ישן\" בין קמה לקציר?",
+    "pasuk": {
+     "text": "שֶׁלְּאַחַר הַקּוֹצְרִים, הָעֶלְיוֹנִים לָעֲנִיִּים, וְהַתַּחְתּוֹנִים שֶׁל בַּעַל הַבָּיִת",
+     "ref": "Mishnah Peah 4:11",
+     "label": "משנה פאה ד, יא"
+    },
+    "question": "ברטנורא אומר שהתחתונים של בעל הבית משום שהם ירוקים וגם ניכרים שהם ישנים. מה עניין ישן להבדל בין קמה לקציר?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 4:11:1",
+      "quote": "קשה קצת מאי יישון שייך בין קמה לקציר",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 4:11:2",
+      "quote": "קצת קשה מה ישן שיך בין קמה לקציר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: דברי ברטנורא מורכבים מפירוש הר\"ש ומפירוש הרמב\"ם.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 4:11:1",
+        "quote": "דדברי הר\"ב מורכבים מפירוש הר\"ש ופירוש הרמב\"ם",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: הזרע התחתון, השחור, לבעל הבית, לפי שנאמר שהוא קדמון ומזרע השנה שעברה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 4:11:1",
+        "quote": "והזרע התחתון והוא השחור לבע\"ה לפי שנאמר שהוא קדמון ומזרע השנה שעברה הוא",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "הר\"ש: העליונים, הלבנים, לעניים, והתחתונים, הירוקים, לבעל הבית, שכשהתבואה יבשה ומתלבנת קוצרים אותה.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Peah 4:11:3",
+        "quote": "העליונים לעניים בלבנים. והתחתונים לבעל הבית בירוקים…שכשהתבואה יבישה ומתלבנת קוצרים אותה",
+        "era": "rishon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך המפרשים מבינים את העליונים והתחתונים בחורי הנמלים.",
+    "mishnah": 11,
+    "anchors": [
+     "שֶׁלְּאַחַר הַקּוֹצְרִים, הָעֶלְיוֹנִים לָעֲנִיִּים, וְהַתַּחְתּוֹנִים שֶׁל בַּעַל הַבָּיִת"
+    ]
+   },
+   {
+    "title": "למה ספק לקט הוא לקט?",
+    "pasuk": {
+     "text": "רַבִּי מֵאִיר אוֹמֵר, הַכֹּל לָעֲנִיִּים, שֶׁסְּפֵק לֶקֶט, לֶקֶט",
+     "ref": "Mishnah Peah 4:11",
+     "label": "משנה פאה ד, יא"
+    },
+    "question": "רבי מאיר אומר שספק לקט לקט. למה צריך פסוק, והרי ספק גזל צריך להחזיר ממילא, ולמה לא הולכים אחר רוב השדה שהוא של בעל הבית?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Peah 4:11:1-4",
+      "quote": "וא\"ת למאי צריך קרא. תיפוק ליה דספק גזל הוא",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 4:11:1",
+      "quote": "במרדכי חולין הקשה דניזיל בתר רובא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: דכתיב \"לעני ולגר תעזוב\", הנח לפניהם משלך; והלכה כרבי מאיר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 4:11:6",
+        "quote": "הנח לפניהם משלך…והלכה כרבי מאיר",
+        "era": "rishon"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: צריך את הפסוק כדי לפטור ממעשרות, שאם לא כן היינו הולכים בספק לחומרא והעניים היו חייבים לעשר.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Peah 4:11:1-4",
+        "quote": "י\"ל דאצטריך לפטורי ממעשרות",
+        "era": "acharon"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר, בשם רבנו ברוך במרדכי: התורה גילתה שהוא לעניים, \"עני ורש הצדיקו\", צדק משלך ותן לו.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 4:11:1",
+        "quote": "דגלי קרא עני ורש הצדיקו צדק משלך ותן לו",
+        "era": "acharon"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה את מקור דינו של רבי מאיר ואת הנימוק שלו, שההלכה כמותו.",
+    "mishnah": 11,
+    "anchors": [
+     "רַבִּי מֵאִיר אוֹמֵר, הַכֹּל לָעֲנִיִּים, שֶׁסְּפֵק לֶקֶט, לֶקֶט"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "רמב\"ם",
+   "ברטנורא",
+   "תפארת ישראל (יכין)",
+   "תוספות רבי עקיבא איגר",
+   "תפארת ישראל (בועז)",
+   "עיקר תוספות יום טוב",
+   "רש משנץ",
+   "לחם שמים",
+   "מלאכת שלמה"
+  ]
+ }
+}
