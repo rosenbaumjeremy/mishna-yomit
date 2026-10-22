@@ -1,0 +1,1016 @@
+{
+ "date": "2026-10-22",
+ "hebrew_date": {
+  "hebrew": "י״א בְּחֶשְׁוָן תשפ״ז",
+  "english": "11 Cheshvan 5787"
+ },
+ "masechet": "peah",
+ "perek": 6,
+ "ref": "Mishnah Peah 6",
+ "mishnayot": [
+  {
+   "he": "בֵּית שַׁמַּאי אוֹמְרִים, הֶבְקֵר לָעֲנִיִּים, הֶבְקֵר. וּבֵית הִלֵּל אוֹמְרִים, אֵינוֹ הֶפְקֵר, עַד שֶׁיֻּפְקַר אַף לָעֲשִׁירִים, כַּשְּׁמִטָּה. כָּל עָמְרֵי הַשָּׂדֶה שֶׁל קַב קַב וְאֶחָד שֶׁל אַרְבַּעַת קַבִּין וּשְׁכָחוֹ, בֵּית שַׁמַּאי אוֹמְרִים, אֵינוֹ שִׁכְחָה. וּבֵית הִלֵּל אוֹמְרִים, שִׁכְחָה: \n",
+   "en": "Bet Shammai says: [That which is] made ownerless only in regard to the poor is indeed ownerless. But Bet Hillel says: it is not ownerless unless ownership is renounced even for the rich, as in the case of the sabbatical year. [If] all of the sheaves in a field are a kav each, and one is four kavs and that one is forgotten: Bet Shammai says: it is not considered forgotten. But Bet Hillel says: it is considered forgotten."
+  },
+  {
+   "he": "הָעֹמֶר שֶׁהוּא סָמוּךְ לַגָּפָה וְלַגָּדִישׁ, לַבָּקָר וְלַכֵּלִים, וּשְׁכָחוֹ, בֵּית שַׁמַּאי אוֹמְרִים, אֵינוֹ שִׁכְחָה. וּבֵית הִלֵּל אוֹמְרִים, שִׁכְחָה: \n",
+   "en": "A sheaf left near a stone fence, or near a stack [of grain] or near oxen, or near equipment: Bet Shammai says: it is not considered “forgotten”; Bet Hillel says: it is considered “forgotten.”"
+  },
+  {
+   "he": "רָאשֵׁי שׁוּרוֹת, הָעֹמֶר שֶׁכְּנֶגְדּוֹ מוֹכִיחַ. הָעֹמֶר שֶׁהֶחֱזִיק בּוֹ לְהוֹלִיכוֹ אֶל הָעִיר, וּשְׁכָחוֹ, מוֹדִים שֶׁאֵינוֹ שִׁכְחָה: \n",
+   "en": "[With regard to sheaves forgotten] at the end of the row, the sheaf lying across from it proves [that the first sheaf has not been forgotten.] [As for] a sheaf that [the owner] took to bring it to the city and forgot it, all agree that it is not considered a “forgotten sheaf.”"
+  },
+  {
+   "he": "וְאֵלּוּ הֵן רָאשֵׁי שׁוּרוֹת. שְׁנַיִם שֶׁהִתְחִילוּ מֵאֶמְצַע הַשּׁוּרָה, זֶה פָּנָיו לַצָּפוֹן וְזֶה פָּנָיו לַדָּרוֹם, וְשָׁכְחוּ לִפְנֵיהֶם וּלְאַחֲרֵיהֶם, אֶת שֶׁלִּפְנֵיהֶם שִׁכְחָה, וְאֶת שֶׁלְּאַחֲרֵיהֶם אֵינוֹ שִׁכְחָה. יָחִיד שֶׁהִתְחִיל מֵרֹאשׁ הַשּׁוּרָה, וְשָׁכַח לְפָנָיו וּלְאַחֲרָיו, שֶׁלְּפָנָיו אֵינוֹ שִׁכְחָה, וְשֶׁלְּאַחֲרָיו שִׁכְחָה, מִפְּנֵי שֶׁהוּא בְּבַל תָּשׁוּב (דברים כד). זֶה הַכְּלָל, כָּל שֶׁהוּא בְּבַל תָּשׁוּב, שִׁכְחָה. וְשֶׁאֵינוֹ בְּבַל תָּשׁוּב, אֵינוֹ שִׁכְחָה: \n",
+   "en": "These are to be considered ends of the rows:If two men begin [to gather] from the middle of the row, one facing north and the other south and they forget [some sheaves] in front of them and behind them, those left in front of them are “forgotten,” but those left behind them are not “forgotten.” If an individual begins from the end of the row and he forgets [some sheaves] in front of him and behind him, those in front of him are not “forgotten”, whereas those behind him are “forgotten,” for this comes under the category of “you shall not go back [to retrieve it].” This is the general rule: anything that can be said to fall under the law “you shall not go back” is considered “forgotten,” but that to which the principle of “you shall not go back” cannot be applied is not considered “forgotten.”"
+  },
+  {
+   "he": "שְׁנֵי עֳמָרִים, שִׁכְחָה, וּשְׁלשָׁה אֵינָן שִׁכְחָה. שְׁנֵי צִבּוּרֵי זֵיתִים וְחָרוּבִין, שִׁכְחָה, וּשְׁלשָׁה אֵינָן שִׁכְחָה. שְׁנֵי הוּצְנֵי פִשְׁתָּן, שִׁכְחָה, וּשְׁלשָׁה אֵינָן שִׁכְחָה. שְׁנֵי גַרְגְּרִים, פֶּרֶט, וּשְׁלשָׁה אֵינָן פֶּרֶט. שְׁנֵי שִׁבֳּלִים, לֶקֶט, וּשְׁלֹשָׁה אֵינָן לֶקֶט. אֵלּוּ כְּדִבְרֵי בֵית הִלֵּל. וְעַל כֻּלָּן בֵּית שַׁמַּאי אוֹמְרִים, שְׁלשָׁה, לָעֲנִיִּים, וְאַרְבָּעָה, לְבַעַל הַבָּיִת: \n",
+   "en": "Two sheaves [left lying together] are “forgotten,” but three are not “forgotten.” Two bundles of olives or carobs are “forgotten” but three are not “forgotten.” Two flax-stalks are “forgotten”, but three are not “forgotten”. Two grapes are considered “grape gleanings,” but three are not “grape gleanings.” Two ears of grain are deemed “gleanings,” but three are not gleanings.” All these [rulings] are according to Bet Hillel. And concerning them all Bet Shammai says that three [that are left] belong to the poor, and four belong to the owner."
+  },
+  {
+   "he": "הָעֹמֶר שֶׁיֶּשׁ בּוֹ סָאתַיִם, וּשְׁכָחוֹ, אֵינוֹ שִׁכְחָה. שְׁנֵי עֳמָרִים וּבָהֶם סָאתַיִם, רַבָּן גַּמְלִיאֵל אוֹמֵר, לְבַעַל הַבָּיִת. וַחֲכָמִים אוֹמְרִים, לָעֲנִיִּים. אָמַר רַבָּן גַּמְלִיאֵל, וְכִי מֵרֹב הָעֳמָרִים יֻפֵּי כֹחַ שֶׁל בַּעַל הַבַּיִת אוֹ הוּרַע כֹּחוֹ. אָמְרוּ לוֹ, יֻפֵּי כֹחוֹ. אָמַר לָהֶם, וּמָה אִם בִּזְמַן שֶׁהוּא עֹמֶר אֶחָד וּבוֹ סָאתַיִם וּשְׁכָחוֹ, אֵינוֹ שִׁכְחָה, שְׁנֵי עֳמָרִים וּבָהֶם סָאתַיִם, אֵינוֹ דִין שֶׁלֹּא יְהֵא שִׁכְחָה. אָמְרוּ לוֹ, לֹא, אִם אָמַרְתָּ בְּעֹמֶר אֶחָד שֶׁהוּא כְגָדִישׁ, תֹּאמַר בִּשְׁנֵי עֳמָרִים שֶׁהֵן כִּכְרִיכוֹת: \n",
+   "en": "A sheaf that has two seahs and he forgot it it is not considered “forgotten.” Two sheaves that together comprise two seahs: Rabban Gamaliel says: they belong to the owner; But the sages say: they belong to the poor. Rabban Gamaliel said: “Are the rights of the owner strengthened or weakened according to the greater number of the sheaves?” They replied, “His rights are strengthened.” He said to them: “If in a case of one sheaf of two seahs it is not deemed “forgotten,” then how much more should be the case of two sheaves that together contain two seahs?” They replied: “No. If you argue in the case of one sheaf it is because it is large enough to be considered a stack. Are you going to argue likewise in the case of two sheaves which are like bundles?”"
+  },
+  {
+   "he": "קָמָה שֶׁיֶּשׁ בָּהּ סָאתַיִם, וּשְׁכָחָהּ, אֵינָהּ שִׁכְחָה. אֵין בָּהּ סָאתַיִם, אֲבָל הִיא רְאוּיָה לַעֲשׂוֹת סָאתַיִם, אֲפִלּוּ הִיא שֶׁל טוֹפֵחַ, רוֹאִין אוֹתָהּ כְּאִלּוּ הִיא עֲנָוָה שֶׁל שְׂעוֹרִים: \n",
+   "en": "A standing stalk of grain that contains two seahs and he forgot it, it is not considered “forgotten.” If it does not contain two seahs now, but is fit to yield two seahs, even if it was of an inferior kind of barley, it is regarded as full barley [grains]."
+  },
+  {
+   "he": "הַקָּמָה מַצֶּלֶת אֶת הָעֹמֶר וְאֶת הַקָּמָה. הָעֹמֶר אֵינוֹ מַצִּיל לֹא אֶת הָעֹמֶר וְלֹא אֶת הַקָּמָה. אֵיזוֹ הִיא קָמָה שֶׁהִיא מַצֶּלֶת אֶת הָעֹמֶר, כָּל שֶׁאֵינָהּ שִׁכְחָה אֲפִלּוּ קֶלַח אֶחָד: \n",
+   "en": "A standing stalk of grain can save a sheaf and another standing stalk [from being regarded as “forgotten”]. A sheaf cannot save either another sheaf or a standing stalk. What is the standing stalk of grain that can save a sheaf? Anything which has not been forgotten, even though it is a single stalk."
+  },
+  {
+   "he": "סְאָה תְבוּאָה עֲקוּרָה וּסְאָה שֶׁאֵינָהּ עֲקוּרָה, וְכֵן בָּאִילָן, וְהַשּׁוּם וְהַבְּצָלִים, אֵינָן מִצְטָרְפִין לְסָאתַיִם, אֶלָּא שֶׁל עֲנִיִּים הֵם. רַבִּי יוֹסֵי אוֹמֵר, אִם בָּאת רְשׁוּת הֶעָנִי בָּאֶמְצָע, אֵינָן מִצְטָרְפִין, וְאִם לָאו, הֲרֵי אֵלּוּ מִצְטָרְפִין: \n",
+   "en": "A seah of plucked grain and a seah of unplucked grain, and also trees; and garlic and to onions do not combine to count as two seahs, but rather they must be left to the poor. Rabbi Yose says: if anything that belongs to the poor comes in between them, the two are not combined together; otherwise, they do combine."
+  },
+  {
+   "he": "תְּבוּאָה שֶׁנִּתְּנָה לְשַׁחַת אוֹ לַאֲלֻמָּה, וְכֵן בַּאֲגֻדֵּי הַשּׁוּם, וַאֲגֻדּוֹת הַשּׁוּם וְהַבְּצָלִים, אֵין לָהֶן שִׁכְחָה. וְכָל הַטְּמוּנִים בָּאָרֶץ, כְּגוֹן הַלּוּף וְהַשּׁוּם וְהַבְּצָלִים, רַבִּי יְהוּדָה אוֹמֵר, אֵין לָהֶם שִׁכְחָה. וַחֲכָמִים אוֹמְרִים, יֵשׁ לָהֶם שִׁכְחָה: \n",
+   "en": "Grain used for fodder or [stalks] used for binding sheaves, and also garlic-stalks used for tying other bunches, or tied bunches of garlic and onions they [all are not subject to the laws of] forgotten. Anything stored in the ground like arum, garlic and onions: Rabbi Judah says: they do not subject to the laws of “forgotten”; But the sages say: they are subject to the laws of “forgotten.”"
+  },
+  {
+   "he": "הַקּוֹצֵר בַּלַּיְלָה וְהַמְעַמֵּר וְהַסּוּמָא, יֵשׁ לָהֶם שִׁכְחָה. וְאִם הָיָה מִתְכַּוֵּן לִטֹּל אֶת הַגַּס הַגַּס, אֵין לוֹ שִׁכְחָה. אִם אָמַר, הֲרֵי אֲנִי קוֹצֵר עַל מְנָת מַה שֶּׁאֲנִי שׁוֹכֵח אֲנִי אֶטֹּל, יֶשׁ לוֹ שִׁכְחָה: \n",
+   "en": "One who harvests by night and binds sheaves [by night] or one who is blind [that which he leaves] is subject to the law of the “forgotten.” If he intends to remove large leaves first, then the law of “forgotten” does not apply. If he said: “Behold, I am reaping on the condition that I take afterwards that which I have forgotten,” the law of “forgotten” still applies."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 Beit Shammai and Beit Hillel dispute whether ownerlessness for the poor alone counts, and whether a sheaf of four kavs is forgotten. Mishnah 2 A sheaf left beside a stone fence, stack, oxen or tools is disputed by the two houses. Mishnah 3 At the heads of rows the opposite sheaf proves, and a sheaf already taken to the city is not forgotten. Mishnah 4 Two who begin in the middle versus one at the head of a row, and the rule \"you shall not go back\". Mishnah 5 Two items are forgotten and three are not, while Beit Shammai say three are the poor's and four the owner's. Mishnah 6 A sheaf of two seahs is not forgotten, and Rabban Gamliel argues with the sages about two such sheaves. Mishnah 7 Standing grain of two seahs is not forgotten. Mishnah 8 Standing grain saves a sheaf, but a sheaf saves neither. Mishnah 9 Grain, trees, garlic and onions that are attached and detached do not combine, with Rabbi Yose's view. Mishnah 10 Fodder and binding stalks are exempt, and Rabbi Yehuda disputes the buried crops. Mishnah 11 One reaping at night or blind is subject to forgetting, but not one who intends the large ones first.",
+  "topics": [
+   {
+    "term": "Hefker for the poor only",
+    "explanation": "Ownerless produce is exempt from tithes. Beit Shammai hold that declaring it ownerless for the poor alone already makes it so; Beit Hillel require it be ownerless for the rich as well, as in the sabbatical year.",
+    "mishnah": 1,
+    "anchors": [
+     "הֶבְקֵר לָעֲנִיִּים"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 6:1:1",
+     "quote": "כבר בארנו כי ההפקר אינו מחויב במעשרות"
+    }
+   },
+   {
+    "term": "Gadish (a stack)",
+    "explanation": "A gadish is a pile of sheaves. A sheaf left beside one, like beside a wall, oxen or tools, is where Beit Shammai and Beit Hillel dispute whether it counts as forgotten.",
+    "mishnah": 2,
+    "anchors": [
+     "וְלַגָּדִישׁ"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 6:2:2",
+     "quote": "גדיש. הוא צבור העמרים"
+    }
+   },
+   {
+    "term": "Heads of the rows",
+    "explanation": "A learner needs to picture ten rows of ten sheaves: a sheaf left at the end of a row is judged by the sheaves in the neighbouring rows that show whether it was left deliberately.",
+    "mishnah": 3,
+    "anchors": [
+     "רָאשֵׁי שׁוּרוֹת"
+    ],
+    "source": {
+     "name": "Yachin",
+     "ref": "Yachin on Mishnah Peah 6:9:1",
+     "quote": "העומר שכנגדו מוכיח ר\"ל בהיו כאן י' על י' שורות עמרים. דאפשר למנות השורות מצפון לדרום או ממזרח למערב"
+    }
+   },
+   {
+    "term": "Two and three: the limit of forgetting",
+    "explanation": "Two sheaves left together are forgotten, three are not. Beit Hillel and Beit Shammai each derive the number from a different verse.",
+    "mishnah": 5,
+    "anchors": [
+     "שְׁנֵי עֳמָרִים"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 6:5:3",
+     "quote": "ויש לו לעזוב שנים. וב\"ש מביאין ראיה ממה שאמר"
+    }
+   },
+   {
+    "term": "A standing stalk (kamah)",
+    "explanation": "Forgetting applies to standing grain, not only to cut sheaves, and a standing field of two seahs is exempt just as a sheaf of two seahs is.",
+    "mishnah": 7,
+    "anchors": [
+     "קָמָה שֶׁיֶּשׁ בָּהּ סָאתַיִם"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 6:7:1",
+     "quote": "דְּיָלְפִינַן שִׁכְחַת קָמָה מִשִּׁכְחַת עֹמֶר"
+    }
+   },
+   {
+    "term": "Standing grain saves a sheaf",
+    "explanation": "A standing stalk next to a forgotten sheaf means the sheaf is not forgotten, but a sheaf next to another sheaf does not save it.",
+    "mishnah": 8,
+    "anchors": [
+     "הַקָּמָה מַצֶּלֶת אֶת הָעֹמֶר"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 6:8:1",
+     "quote": "ואמר עומר שסביבותיו קציר שכחה ולא עומר שסביבותיו קמה"
+    }
+   },
+   {
+    "term": "Crops hidden in the ground",
+    "explanation": "Rabbi Yehuda says onions, garlic and similar produce stored in the ground are not subject to forgetting; the sages disagree. The term refers to produce whose edible part grows under the ground.",
+    "mishnah": 10,
+    "anchors": [
+     "כָּל הַטְּמוּנִים בָּאָרֶץ"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 6:10:7",
+     "quote": "וּפֵרוּשׁ טָמוּן דָּבָר שֶׁהַנֶּאֱכָל מִמֶּנּוּ הוּא טָמוּן תַּחַת הַקַּרְקַע"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "A sheaf of more than four kavs",
+    "pasuk": {
+     "text": "וְאֶחָד שֶׁל אַרְבַּעַת קַבִּין וּשְׁכָחוֹ",
+     "ref": "Mishnah Peah 6:1",
+     "label": "Mishnah Peah 6:1"
+    },
+    "question": "Beit Shammai say a four-kav sheaf is not forgotten, Beit Hillel say it is. Where does Beit Hillel's ruling stop: is a sheaf of even more than four kavs forgotten?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:1:2",
+      "era": "acharon",
+      "quote": "אולם הרמב\"ם (בפ\"ה הי\"ז מהמ\"ע) כתב דביתר מד' קבין לא הוי שכחה. וכבר תמה המ\"ל בזה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosefot Yom Tov: Beit Shammai can divide the sheaf into sheaves of a kav each, which is why they exempt it, while Beit Hillel do not hold that one \"sees it as divided\". Rabbi Akiva Eiger infers from this that for Beit Hillel even a larger sheaf is forgotten.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 6:1:4",
+        "quote": "ובית שמאי לטעמייהו דאמרי בפרקין ג' לעניים וד' לבעל הבית וב\"ה לית להו רואין"
+       },
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:1:2",
+        "quote": "מזה משמע דה\"ה אפילו אם הוא יותר מד' קבין הוי שכחה"
+       }
+      ]
+     },
+     {
+      "text": "Rambam, as Rabbi Akiva Eiger reports: a sheaf of more than four kavs is not forgotten at all (and the Bartenura on Eduyot writes likewise).",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:1:2",
+        "quote": "כתב דביתר מד' קבין לא הוי שכחה"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov: the reason of Beit Shammai is that the owner can divide the large sheaf into sheaves of a kav each, since the field's sheaves are small.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 6:1:4",
+        "quote": "טעמא דבית שמאי שהוא יכול לחלקו לעמרים של קב קב"
+       }
+      ]
+     }
+    ],
+    "why": "The size limit decides when a large sheaf of grain still belongs to the poor.",
+    "mishnah": 1,
+    "anchors": [
+     "וְאֶחָד שֶׁל אַרְבַּעַת קַבִּין וּשְׁכָחוֹ"
+    ]
+   },
+   {
+    "title": "A sheaf set down by a wall or stack",
+    "pasuk": {
+     "text": "הָעֹמֶר שֶׁהוּא סָמוּךְ לַגָּפָה וְלַגָּדִישׁ",
+     "ref": "Mishnah Peah 6:2",
+     "label": "Mishnah Peah 6:2"
+    },
+    "question": "Beit Shammai say a sheaf left beside a stone fence or a stack is not forgotten; Beit Hillel say it is. Tosafot Yom Tov cites the Yerushalmi, whose reasoning is that a sheaf near a defined object is forgotten, yet Rash writes that logic seems to say the reverse. What is the dispute really about?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 6:2:2",
+      "era": "acharon",
+      "quote": "וכתב הר\"ש מתוך הסברא היה נראה איפכא דדבר שהוא מסויים קשיא לבית הלל אמאי הוי שכחה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Yachin: the Yerushalmi's view is that the dispute is about a sheaf the owner already took to bring to the city; it is not forgotten unless set beside a defined object, because the law of forgetting requires that it be forgotten on its own and not through another cause.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 6:7:1",
+        "quote": "דבעינן שיהא נשכח מצ\"ע ולא מצד ד\"א"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger, citing the Melekhet Shelomoh: setting it beside a defined object shows the owner changed his first intention, as if he had taken it only to place it elsewhere, so it is forgotten there.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:2:2",
+        "quote": "כשנתנו אצל דבר המסויים הוי כחוזר מדעתו הראשונה"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura's second explanation: Beit Shammai say it is not forgotten because, having been set beside a defined object, the owner will surely remember it later.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 6:2:4",
+        "quote": "דְּהוֹאִיל וְהִנִּיחוֹ אֵצֶל דָּבָר הַמְּסֻיָּם עָתִיד לְזָכְרוֹ"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the line between a sheaf that is left and one that is merely misplaced.",
+    "mishnah": 2,
+    "anchors": [
+     "הָעֹמֶר שֶׁהוּא סָמוּךְ לַגָּפָה וְלַגָּדִישׁ"
+    ]
+   },
+   {
+    "title": "What do the two halves of the mishnah teach?",
+    "pasuk": {
+     "text": "רָאשֵׁי שׁוּרוֹת, הָעֹמֶר שֶׁכְּנֶגְדּוֹ מוֹכִיחַ",
+     "ref": "Mishnah Peah 6:3",
+     "label": "Mishnah Peah 6:3"
+    },
+    "question": "The mishnah says that at the heads of the rows the opposite sheaf proves, and that a sheaf already taken is not forgotten, but it is not clear whom each clause addresses: if all agree, it belongs with the final rule, and if there is a dispute, it belongs in the earlier mishnah. What is it teaching, and where does it explain \"the opposite sheaf proves\"?",
+    "asked_by": [
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Peah 6:3",
+      "era": "acharon",
+      "quote": "ותמוה דבבא א' למאן קתני לה. אי מודו בה לכללינה בסיפא. ואי פליגי בה לכללינה במ\"ב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: the order of the mishnah should have been \"the forgotten sheaf at the head of a row, the opposite one proves whether it was forgotten\", and the \"all agree\" clause refers to a sheaf not left beside a fence or stack.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 6:3:1",
+        "quote": "סדר המשנה היה ראוי להיות כך העומר השכוח ראש שורה שכנגדו מוכיח"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: the next mishnah explains this clause, with ten rows of ten sheaves, where a sheaf forgotten at the end of a row is not forgotten because the neighbouring rows prove it was left to complete a row.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 6:4:4",
+        "quote": "הַשְׁתָּא מְפָרֵשׁ לְהָא דִתְנַן לְעֵיל רָאשֵׁי שׁוּרוֹת הָעֹמֶר שֶׁכְּנֶגְדּוֹ מוֹכִיחַ"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: \"these are the heads of rows\" teaches that the verse \"when you reap and forget\" implies forgetting only after he has begun to reap.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 6:10:1",
+        "quote": "דכתיב כי תקצור קצירך ושכחת משמע דוקא בשכבר התחיל לקצור"
+       }
+      ]
+     }
+    ],
+    "why": "How the rows are read decides when an uncollected sheaf is truly forgotten.",
+    "mishnah": 3,
+    "anchors": [
+     "רָאשֵׁי שׁוּרוֹת, הָעֹמֶר שֶׁכְּנֶגְדּוֹ מוֹכִיחַ"
+    ]
+   },
+   {
+    "title": "Why is what is behind two reapers not forgotten?",
+    "pasuk": {
+     "text": "זֶה פָּנָיו לַצָּפוֹן וְזֶה פָּנָיו לַדָּרוֹם, וְשָׁכְחוּ לִפְנֵיהֶם וּלְאַחֲרֵיהֶם",
+     "ref": "Mishnah Peah 6:4",
+     "label": "Mishnah Peah 6:4"
+    },
+    "question": "Two who begin in the middle of the row forget sheaves in front of them and behind them. The mishnah rules that those in front are forgotten but those behind are not, while for the single reaper the order is reversed. Why is the single reaper's case not parallel to the two?",
+    "asked_by": [
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 6:4:2",
+      "era": "acharon",
+      "quote": "דְּהָכָא לֹא הֲוֵי דוּמְיָא דְּלִפְנֵיהֶם דְּרֵישָׁא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: what is between the two is not forgotten, because the two relied on each other and so it was forgotten.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 6:4:3",
+        "quote": "לְפִי שֶׁשְּׁנֵיהֶם סָמְכוּ זֶה עַל זֶה וּמִתּוֹךְ כָּךְ נִשְׁכַּח"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the sheaf between them is joined to the sheaves laid out from east to west, as if they had started another row.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 6:4:2",
+        "quote": "לפי שהוא מחובר עמהם בעמרי' הערוכי' ממזרח למערב"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: the middle sheaf lies between them and neither has yet reached it, nor skipped over it, so it is like the head of a row.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 6:15:1",
+        "quote": "דהעמיר הממוצע ביניהן. כיון דשניהן לא הגיעו אליה עוד. ולא דלגו עליה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why starting in the middle changes which sheaves count as forgotten.",
+    "mishnah": 4,
+    "anchors": [
+     "זֶה פָּנָיו לַצָּפוֹן וְזֶה פָּנָיו לַדָּרוֹם, וְשָׁכְחוּ לִפְנֵיהֶם וּלְאַחֲרֵיהֶם"
+    ]
+   },
+   {
+    "title": "Why is a two-seah sheaf not forgotten?",
+    "pasuk": {
+     "text": "הָעֹמֶר שֶׁיֶּשׁ בּוֹ סָאתַיִם, וּשְׁכָחוֹ, אֵינוֹ שִׁכְחָה",
+     "ref": "Mishnah Peah 6:6",
+     "label": "Mishnah Peah 6:6"
+    },
+    "question": "Why is a sheaf holding two seahs exempt from the law of the forgotten sheaf? Is it because he cannot lift it, or for another reason?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 6:6:1",
+      "era": "acharon",
+      "quote": "ואין נראה לי לפרש מפני כובדו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: because the verse says \"you shall not go back to take it\", meaning a sheaf you can lift whole and carry on your shoulder; a two-seah sheaf you cannot lift at once.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 6:6:1",
+        "quote": "עֹמֶר שֶׁאַתָּה יָכוֹל לְהַגְבִּיהוֹ כֻּלּוֹ כְּאַחַת וְלָשֵׂאת אוֹתוֹ עַל כְּתֵפוֹ"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger: the Yerushalmi gives another reason, that two seahs is a stack and the verse says \"a sheaf, not a stack\".",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:6:1",
+        "quote": "ובירושלמי איתא עוד טעם דסאתים הוי גדיש וכתיב ושכחת עומר ולא גדיש"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: one such sheaf is like a stack, while two sheaves are like other small sheaves.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 6:6:1",
+        "quote": "כשיהיה עומר אחד הוא כמו הגדיש"
+       }
+      ]
+     }
+    ],
+    "why": "The reason determines whether two such sheaves, as Rabban Gamliel argues, are exempt as well.",
+    "mishnah": 6,
+    "anchors": [
+     "הָעֹמֶר שֶׁיֶּשׁ בּוֹ סָאתַיִם, וּשְׁכָחוֹ, אֵינוֹ שִׁכְחָה"
+    ]
+   },
+   {
+    "title": "Where do the poor's rights come between?",
+    "pasuk": {
+     "text": "אִם בָּאת רְשׁוּת הֶעָנִי בָּאֶמְצָע",
+     "ref": "Mishnah Peah 6:9",
+     "label": "Mishnah Peah 6:9"
+    },
+    "question": "Rabbi Yose says grain, fruit and onions combine unless the poor's ownership comes between them. Bartenura says this cannot occur with tree fruit, since there is no leket or peret on trees. Yet the poor's share does apply to trees, so why should it not interrupt there?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 6:9:3",
+      "era": "acharon",
+      "quote": "ותימה דמשכחת לה בפאה דשייכא באילן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: with tree fruit one does not find the poor's ownership between them, because there is no leket or peret on a tree.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 6:9:4",
+        "quote": "אֲבָל בְּפֵרוֹת הָאִילָן לֹא מַשְׁכַּחַת רְשׁוּת עָנִי בָּאֶמְצַע, דְּאֵין לֶקֶט וּפֶרֶט בָּאִילָן"
+       }
+      ]
+     },
+     {
+      "text": "Tosefot Yom Tov himself: since the attached fruit saves the rest, the poor's ownership cannot help them avoid being counted as combined.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 6:9:3",
+        "quote": "אלא דכיון דהמחובר מציל כדלעיל. לפיכך אין רשות העני מועלת בו"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: Rabbi Yose means they combine until the poor's portion is set aside between them, as when the poor acquire part of that produce.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 6:9:1",
+        "quote": "עד שיפריש ביניהם רשות העני ויהיה זה כשיזכה בקצת הדבר ההוא התלוש או במחובר"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies what the poor's acquisition does to the two-seah measure.",
+    "mishnah": 9,
+    "anchors": [
+     "אִם בָּאת רְשׁוּת הֶעָנִי בָּאֶמְצָע"
+    ]
+   },
+   {
+    "title": "A condition against the Torah",
+    "pasuk": {
+     "text": "הֲרֵי אֲנִי קוֹצֵר עַל מְנָת מַה שֶּׁאֲנִי שׁוֹכֵח אֲנִי אֶטֹּל, יֶשׁ לוֹ שִׁכְחָה",
+     "ref": "Mishnah Peah 6:11",
+     "label": "Mishnah Peah 6:11"
+    },
+    "question": "Why does the mishnah rule that such a condition fails: why is a condition needed at all, when a condition applies to an act that depends on it, and what does reaping depend on?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:11:1",
+      "era": "acharon",
+      "quote": "קשה לי דמה צורך לזה. לו יהא דבעלמא תנאו קיים. הא תנאי שייך רק שעושה המעשה על תנאי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: because he stipulates against what is written in the Torah, and his condition is void.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 6:11:4",
+        "quote": "דְּמַתְנֶה עַל מַה שֶּׁכָּתוּב בַּתּוֹרָה וּתְנָאוֹ בָּטֵל"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the principle we hold is that anyone who stipulates against what is written in the Torah, his condition is void, except in monetary matters.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 6:11:1",
+        "quote": "כל המתנה על מה שכתוב בתורה תנאו בטל אלא בממון"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how far the owner's stipulations can go against a Torah obligation.",
+    "mishnah": 11,
+    "anchors": [
+     "הֲרֵי אֲנִי קוֹצֵר עַל מְנָת מַה שֶּׁאֲנִי שׁוֹכֵח אֲנִי אֶטֹּל, יֶשׁ לוֹ שִׁכְחָה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Rabbi Akiva Eiger",
+   "Tosefot Yom Tov",
+   "Ikar Tosafot Yom Tov",
+   "Yachin",
+   "Bartenura",
+   "Boaz",
+   "Rambam"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א בית שמאי ובית הלל נחלקים אם הפקר לעניים בלבד נחשב הפקר, ואם עומר של ארבעה קבין הוא שכחה. משנה ב עומר שהונח ליד גפה, גדיש, בקר או כלים – מחלוקת שתי הבתים. משנה ג בראשי שורות העומר שכנגדו מוכיח, ועומר שהחזיק בו להוליכו לעיר אינו שכחה. משנה ד שנים שהתחילו מאמצע השורה לעומת יחיד שהתחיל מראשה, והכלל \"בל תשוב\". משנה ה שנים הם שכחה ושלושה אינם, ובית שמאי אומרים שלושה לעניים וארבעה לבעל הבית. משנה ו עומר של סאתיים אינו שכחה, ורבן גמליאל חולק על חכמים בשני עמרים כאלה. משנה ז קמה של סאתיים אינה שכחה. משנה ח הקמה מצלת את העומר ואת הקמה, והעומר אינו מציל. משנה ט תבואה, אילן, שום ובצלים שחלקם עקור וחלקם מחובר אינם מצטרפים, ודעת רבי יוסי. משנה י תבואה לשחת או לאלומה פטורה, ורבי יהודה חולק בטמונים בארץ. משנה יא הקוצר בלילה והסומא יש להם שכחה, אך המתכוון ליטול את הגס הגס אין לו.",
+  "topics": [
+   {
+    "term": "הפקר לעניים בלבד",
+    "explanation": "הפקר פטור ממעשרות. בית שמאי סוברים שהפקר לעניים בלבד כבר הוא הפקר, ובית הלל דורשים שיופקר אף לעשירים, כמו בשמיטה.",
+    "mishnah": 1,
+    "anchors": [
+     "הֶבְקֵר לָעֲנִיִּים"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 6:1:1",
+     "quote": "כבר בארנו כי ההפקר אינו מחויב במעשרות"
+    }
+   },
+   {
+    "term": "גדיש",
+    "explanation": "גדיש הוא צבור עמרים. עומר שהונח לידו, כמו ליד גפה, בקר וכלים, הוא מקום מחלוקת בית שמאי ובית הלל אם הוא שכחה.",
+    "mishnah": 2,
+    "anchors": [
+     "וְלַגָּדִישׁ"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 6:2:2",
+     "quote": "גדיש. הוא צבור העמרים"
+    }
+   },
+   {
+    "term": "ראשי שורות",
+    "explanation": "יש לדמות עשר שורות של עשרה עמרים: עומר שנשאר בסוף שורה נבחן על פי העמרים בשורות הסמוכות המראים אם הניחו בכוונה.",
+    "mishnah": 3,
+    "anchors": [
+     "רָאשֵׁי שׁוּרוֹת"
+    ],
+    "source": {
+     "name": "תפארת ישראל (יכין)",
+     "ref": "Yachin on Mishnah Peah 6:9:1",
+     "quote": "העומר שכנגדו מוכיח ר\"ל בהיו כאן י' על י' שורות עמרים. דאפשר למנות השורות מצפון לדרום או ממזרח למערב"
+    }
+   },
+   {
+    "term": "שנים ושלושה",
+    "explanation": "שני עמרים הם שכחה ושלושה אינם. בית הלל ובית שמאי לומדים את המספר מפסוקים שונים.",
+    "mishnah": 5,
+    "anchors": [
+     "שְׁנֵי עֳמָרִים"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 6:5:3",
+     "quote": "ויש לו לעזוב שנים. וב\"ש מביאין ראיה ממה שאמר"
+    }
+   },
+   {
+    "term": "קמה",
+    "explanation": "דין שכחה חל גם בקמה ולא רק בעמרים קצורים, וקמה של סאתיים פטורה כמו עומר של סאתיים.",
+    "mishnah": 7,
+    "anchors": [
+     "קָמָה שֶׁיֶּשׁ בָּהּ סָאתַיִם"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 6:7:1",
+     "quote": "דְּיָלְפִינַן שִׁכְחַת קָמָה מִשִּׁכְחַת עֹמֶר"
+    }
+   },
+   {
+    "term": "קמה מצילה",
+    "explanation": "קמה שלא נשכחה ליד עומר שכוח מצילה אותו, אך עומר אינו מציל עומר אחר.",
+    "mishnah": 8,
+    "anchors": [
+     "הַקָּמָה מַצֶּלֶת אֶת הָעֹמֶר"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 6:8:1",
+     "quote": "ואמר עומר שסביבותיו קציר שכחה ולא עומר שסביבותיו קמה"
+    }
+   },
+   {
+    "term": "הטמונים בארץ",
+    "explanation": "רבי יהודה אומר שהשום והבצלים והדומים להם הטמונים בארץ אינם בדין שכחה, וחכמים חולקים. הכוונה לדבר שהנאכל ממנו תחת הקרקע.",
+    "mishnah": 10,
+    "anchors": [
+     "כָּל הַטְּמוּנִים בָּאָרֶץ"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 6:10:7",
+     "quote": "וּפֵרוּשׁ טָמוּן דָּבָר שֶׁהַנֶּאֱכָל מִמֶּנּוּ הוּא טָמוּן תַּחַת הַקַּרְקַע"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "עומר של יותר מארבעה קבין",
+    "pasuk": {
+     "text": "וְאֶחָד שֶׁל אַרְבַּעַת קַבִּין וּשְׁכָחוֹ",
+     "ref": "Mishnah Peah 6:1",
+     "label": "משנה פאה ו, א"
+    },
+    "question": "בית שמאי אומרים שעומר של ארבעה קבין אינו שכחה, ובית הלל אומרים שהוא שכחה. עד היכן מגיע דין בית הלל: האם גם עומר של יותר מארבעה קבין הוא שכחה?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:1:2",
+      "era": "acharon",
+      "quote": "אולם הרמב\"ם (בפ\"ה הי\"ז מהמ\"ע) כתב דביתר מד' קבין לא הוי שכחה. וכבר תמה המ\"ל בזה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: בית שמאי יכולים לחלק את העומר לעומרים של קב קב, ולכן פוטרים אותו, ובית הלל אינם סוברים \"רואין\". מכאן מסיק רבי עקיבא איגר שלבית הלל גם עומר גדול יותר הוא שכחה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 6:1:4",
+        "quote": "ובית שמאי לטעמייהו דאמרי בפרקין ג' לעניים וד' לבעל הבית וב\"ה לית להו רואין"
+       },
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:1:2",
+        "quote": "מזה משמע דה\"ה אפילו אם הוא יותר מד' קבין הוי שכחה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם, כפי שמביא רבי עקיבא איגר: עומר של יותר מארבעה קבין אינו שכחה כלל (וכן כתב ברטנורא בעדיות).",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:1:2",
+        "quote": "כתב דביתר מד' קבין לא הוי שכחה"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: טעמם של בית שמאי הוא שהוא יכול לחלק את העומר הגדול לעומרים של קב קב, הואיל ועומרי השדה קטנים.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 6:1:4",
+        "quote": "טעמא דבית שמאי שהוא יכול לחלקו לעמרים של קב קב"
+       }
+      ]
+     }
+    ],
+    "why": "גבול השיעור קובע מתי עומר גדול עדיין שייך לעניים.",
+    "mishnah": 1,
+    "anchors": [
+     "וְאֶחָד שֶׁל אַרְבַּעַת קַבִּין וּשְׁכָחוֹ"
+    ]
+   },
+   {
+    "title": "עומר שהונח ליד גפה וגדיש",
+    "pasuk": {
+     "text": "הָעֹמֶר שֶׁהוּא סָמוּךְ לַגָּפָה וְלַגָּדִישׁ",
+     "ref": "Mishnah Peah 6:2",
+     "label": "משנה פאה ו, ב"
+    },
+    "question": "בית שמאי אומרים שעומר הסמוך לגפה או לגדיש אינו שכחה, ובית הלל אומרים שהוא שכחה. הירושלמי מסביר שהמונח אצל דבר מסויים הוא שכחה, אך הר\"ש כותב שמן הסברא היה נראה להפך, שהרי מקום מסויים אמור לגרום לזכירה. במה נחלקו באמת?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 6:2:2",
+      "era": "acharon",
+      "quote": "וכתב הר\"ש מתוך הסברא היה נראה איפכא דדבר שהוא מסויים קשיא לבית הלל אמאי הוי שכחה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תפארת ישראל (יכין): לפי הירושלמי נחלקו בעומר שהחזיק בו להוליכו לעיר; אינו שכחה אלא אם הניחו אצל דבר מסויים, שכן בעינן שיישכח מעצמו ולא בגלל גורם אחר.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 6:7:1",
+        "quote": "דבעינן שיהא נשכח מצ\"ע ולא מצד ד\"א"
+       }
+      ]
+     },
+     {
+      "text": "תוספות רבי עקיבא איגר, בשם המלאכת שלמה: הנחתו אצל דבר מסויים מראה שחזר בו מדעתו הראשונה, כאילו נטלו רק כדי להניחו במקום אחר, ולכן הוא שכחה.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:2:2",
+        "quote": "כשנתנו אצל דבר המסויים הוי כחוזר מדעתו הראשונה"
+       }
+      ]
+     },
+     {
+      "text": "פירוש שני בברטנורא: בית שמאי אומרים שאינו שכחה, שהואיל והניחו אצל דבר מסויים עתיד לזכרו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 6:2:4",
+        "quote": "דְּהוֹאִיל וְהִנִּיחוֹ אֵצֶל דָּבָר הַמְּסֻיָּם עָתִיד לְזָכְרוֹ"
+       }
+      ]
+     }
+    ],
+    "why": "הוא קובע את הגבול בין עומר שנשכח לעומר שהונח שלא במקומו.",
+    "mishnah": 2,
+    "anchors": [
+     "הָעֹמֶר שֶׁהוּא סָמוּךְ לַגָּפָה וְלַגָּדִישׁ"
+    ]
+   },
+   {
+    "title": "מה באה ללמד כל אחת מהבבות?",
+    "pasuk": {
+     "text": "רָאשֵׁי שׁוּרוֹת, הָעֹמֶר שֶׁכְּנֶגְדּוֹ מוֹכִיחַ",
+     "ref": "Mishnah Peah 6:3",
+     "label": "משנה פאה ו, ג"
+    },
+    "question": "המשנה אומרת שבראשי שורות העומר שכנגדו מוכיח, אך לא ברור על מי כל בבא אמורה: אם כולם מודים, ייכלל הדין בכלל שבסוף, ואם נחלקו, ייכלל במשנה שלפניה. מה היא מלמדת, והיכן מתבאר \"העומר שכנגדו מוכיח\"?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (בועז)",
+      "ref": "Boaz on Mishnah Peah 6:3",
+      "era": "acharon",
+      "quote": "ותמוה דבבא א' למאן קתני לה. אי מודו בה לכללינה בסיפא. ואי פליגי בה לכללינה במ\"ב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: סדר המשנה היה ראוי להיות \"העומר השכוח ראש שורה, שכנגדו מוכיח\", והמודים הם בשלא שכחו סמוך לגפה ולגדיש.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 6:3:1",
+        "quote": "סדר המשנה היה ראוי להיות כך העומר השכוח ראש שורה שכנגדו מוכיח"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: המשנה הבאה מפרשת סיפור זה, בעשר שורות של עשר עמרים, שעומר שנשכח בסוף שורה אינו שכחה כי השורות האחרות מוכיחות שהניחו לשורה אחרת.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 6:4:4",
+        "quote": "הַשְׁתָּא מְפָרֵשׁ לְהָא דִתְנַן לְעֵיל רָאשֵׁי שׁוּרוֹת הָעֹמֶר שֶׁכְּנֶגְדּוֹ מוֹכִיחַ"
+       }
+      ]
+     },
+     {
+      "text": "תפארת ישראל (יכין): \"ואלו הן ראשי שורות\" נלמד מהכתוב \"כי תקצור ושכחת\", שמשמע דווקא בשכבר התחיל לקצור.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 6:10:1",
+        "quote": "דכתיב כי תקצור קצירך ושכחת משמע דוקא בשכבר התחיל לקצור"
+       }
+      ]
+     }
+    ],
+    "why": "הדרך שבה קוראים את השורות קובעת מתי עומר שלא נאסף הוא שכחה.",
+    "mishnah": 3,
+    "anchors": [
+     "רָאשֵׁי שׁוּרוֹת, הָעֹמֶר שֶׁכְּנֶגְדּוֹ מוֹכִיחַ"
+    ]
+   },
+   {
+    "title": "למה מה שמאחורי שני קוצרים אינו שכחה?",
+    "pasuk": {
+     "text": "זֶה פָּנָיו לַצָּפוֹן וְזֶה פָּנָיו לַדָּרוֹם, וְשָׁכְחוּ לִפְנֵיהֶם וּלְאַחֲרֵיהֶם",
+     "ref": "Mishnah Peah 6:4",
+     "label": "משנה פאה ו, ד"
+    },
+    "question": "שנים שהתחילו מאמצע השורה ושכחו לפניהם ולאחריהם: מה שלפניהם שכחה, ומה שלאחריהם אינו שכחה, ואילו ביחיד הסדר הפוך. מדוע אין דין היחיד דומה לדין השנים?",
+    "asked_by": [
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 6:4:2",
+      "era": "acharon",
+      "quote": "דְּהָכָא לֹא הֲוֵי דוּמְיָא דְּלִפְנֵיהֶם דְּרֵישָׁא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: מה שביניהם אינו שכחה, לפי ששניהם סמכו זה על זה ומתוך כך נשכח.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 6:4:3",
+        "quote": "לְפִי שֶׁשְּׁנֵיהֶם סָמְכוּ זֶה עַל זֶה וּמִתּוֹךְ כָּךְ נִשְׁכַּח"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: העומר שביניהם מחובר לעמרים הערוכים ממזרח למערב, וכאילו התחילו שורה אחרת.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 6:4:2",
+        "quote": "לפי שהוא מחובר עמהם בעמרי' הערוכי' ממזרח למערב"
+       }
+      ]
+     },
+     {
+      "text": "תפארת ישראל (יכין): העומר האמצעי שביניהם, ושניהם לא הגיעו אליו ולא דילגו עליו, הרי הוא כראש שורה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 6:15:1",
+        "quote": "דהעמיר הממוצע ביניהן. כיון דשניהן לא הגיעו אליה עוד. ולא דלגו עליה"
+       }
+      ]
+     }
+    ],
+    "why": "הוא מראה מדוע התחלה מן האמצע משנה אילו עמרים נחשבים שכחה.",
+    "mishnah": 4,
+    "anchors": [
+     "זֶה פָּנָיו לַצָּפוֹן וְזֶה פָּנָיו לַדָּרוֹם, וְשָׁכְחוּ לִפְנֵיהֶם וּלְאַחֲרֵיהֶם"
+    ]
+   },
+   {
+    "title": "למה עומר של סאתיים אינו שכחה?",
+    "pasuk": {
+     "text": "הָעֹמֶר שֶׁיֶּשׁ בּוֹ סָאתַיִם, וּשְׁכָחוֹ, אֵינוֹ שִׁכְחָה",
+     "ref": "Mishnah Peah 6:6",
+     "label": "משנה פאה ו, ו"
+    },
+    "question": "מדוע עומר שיש בו סאתיים אינו שכחה? האם משום שאינו יכול להגביהו, או מטעם אחר?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 6:6:1",
+      "era": "acharon",
+      "quote": "ואין נראה לי לפרש מפני כובדו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: משום שנאמר \"לא תשוב לקחתו\", עומר שאתה יכול להגביהו כולו ולשאת על כתפו, ושל סאתיים אי אתה יכול להגביה כאחת.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 6:6:1",
+        "quote": "עֹמֶר שֶׁאַתָּה יָכוֹל לְהַגְבִּיהוֹ כֻּלּוֹ כְּאַחַת וְלָשֵׂאת אוֹתוֹ עַל כְּתֵפוֹ"
+       }
+      ]
+     },
+     {
+      "text": "תוספות רבי עקיבא איגר: בירושלמי יש טעם נוסף, שסאתיים הוא גדיש וכתיב \"עומר ולא גדיש\".",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:6:1",
+        "quote": "ובירושלמי איתא עוד טעם דסאתים הוי גדיש וכתיב ושכחת עומר ולא גדיש"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: עומר אחד כזה הוא כגדיש, ושני עמרים הם כשאר עמרים קטנים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 6:6:1",
+        "quote": "כשיהיה עומר אחד הוא כמו הגדיש"
+       }
+      ]
+     }
+    ],
+    "why": "הטעם קובע אם גם שני עמרים כאלה פטורים, כפי שטוען רבן גמליאל.",
+    "mishnah": 6,
+    "anchors": [
+     "הָעֹמֶר שֶׁיֶּשׁ בּוֹ סָאתַיִם, וּשְׁכָחוֹ, אֵינוֹ שִׁכְחָה"
+    ]
+   },
+   {
+    "title": "מתי באה רשות העני באמצע?",
+    "pasuk": {
+     "text": "אִם בָּאת רְשׁוּת הֶעָנִי בָּאֶמְצָע",
+     "ref": "Mishnah Peah 6:9",
+     "label": "משנה פאה ו, ט"
+    },
+    "question": "רבי יוסי אומר שהתבואה, הפירות והבצלים מצטרפים אלא אם באה רשות העני באמצע. ברטנורא כותב שבפירות האילן אין דבר כזה, שאין לקט ופרט באילן. אך הרי פאה שייכת באילן, ומדוע אין רשות העני מפסיקה שם?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 6:9:3",
+      "era": "acharon",
+      "quote": "ותימה דמשכחת לה בפאה דשייכא באילן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: בפירות האילן לא משכחת רשות עני באמצע, שאין לקט ופרט באילן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 6:9:4",
+        "quote": "אֲבָל בְּפֵרוֹת הָאִילָן לֹא מַשְׁכַּחַת רְשׁוּת עָנִי בָּאֶמְצַע, דְּאֵין לֶקֶט וּפֶרֶט בָּאִילָן"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב עצמו: כיון שהמחובר מציל, אין רשות העני מועילה בו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 6:9:3",
+        "quote": "אלא דכיון דהמחובר מציל כדלעיל. לפיכך אין רשות העני מועלת בו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: רבי יוסי אומר שהם מצטרפים עד שיפריש ביניהם רשות העני, כשיזכה בקצת הדבר.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 6:9:1",
+        "quote": "עד שיפריש ביניהם רשות העני ויהיה זה כשיזכה בקצת הדבר ההוא התלוש או במחובר"
+       }
+      ]
+     }
+    ],
+    "why": "הוא מבהיר מה עושה זכיית העני לשיעור סאתיים.",
+    "mishnah": 9,
+    "anchors": [
+     "אִם בָּאת רְשׁוּת הֶעָנִי בָּאֶמְצָע"
+    ]
+   },
+   {
+    "title": "תנאי על מה שכתוב בתורה",
+    "pasuk": {
+     "text": "הֲרֵי אֲנִי קוֹצֵר עַל מְנָת מַה שֶּׁאֲנִי שׁוֹכֵח אֲנִי אֶטֹּל, יֶשׁ לוֹ שִׁכְחָה",
+     "ref": "Mishnah Peah 6:11",
+     "label": "משנה פאה ו, יא"
+    },
+    "question": "מדוע דין המשנה שהתנאי בטל: מה צורך בו, והרי תנאי שייך במעשה התלוי בו, ואיך תלויה הקצירה בתנאי?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 6:11:1",
+      "era": "acharon",
+      "quote": "קשה לי דמה צורך לזה. לו יהא דבעלמא תנאו קיים. הא תנאי שייך רק שעושה המעשה על תנאי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: משום שמתנה על מה שכתוב בתורה ותנאו בטל.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 6:11:4",
+        "quote": "דְּמַתְנֶה עַל מַה שֶּׁכָּתוּב בַּתּוֹרָה וּתְנָאוֹ בָּטֵל"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: העיקר בידינו שכל המתנה על מה שכתוב בתורה תנאו בטל, אלא בממון.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 6:11:1",
+        "quote": "כל המתנה על מה שכתוב בתורה תנאו בטל אלא בממון"
+       }
+      ]
+     }
+    ],
+    "why": "הוא מראה עד כמה יכולים תנאי הבעלים לסתור חיוב מן התורה.",
+    "mishnah": 11,
+    "anchors": [
+     "הֲרֵי אֲנִי קוֹצֵר עַל מְנָת מַה שֶּׁאֲנִי שׁוֹכֵח אֲנִי אֶטֹּל, יֶשׁ לוֹ שִׁכְחָה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות רבי עקיבא איגר",
+   "תוספות יום טוב",
+   "עיקר תוספות יום טוב",
+   "תפארת ישראל (יכין)",
+   "ברטנורא",
+   "תפארת ישראל (בועז)",
+   "רמב\"ם"
+  ]
+ }
+}
