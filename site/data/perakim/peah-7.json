@@ -1,0 +1,1158 @@
+{
+ "date": "2026-10-23",
+ "hebrew_date": {
+  "hebrew": "י״ב בְּחֶשְׁוָן תשפ״ז",
+  "english": "12 Cheshvan 5787"
+ },
+ "masechet": "peah",
+ "perek": 7,
+ "ref": "Mishnah Peah 7",
+ "mishnayot": [
+  {
+   "he": "כָּל זַיִת שֶׁיֶּשׁ לוֹ שֵׁם בַּשָּׂדֶה, אֲפִלּוּ כְּזֵית הַנְּטוֹפָה בִּשְׁעָתוֹ, וּשְׁכָחוֹ, אֵינוֹ שִׁכְחָה. בַּמֶּה דְבָרִים אֲמוּרִים, בִּשְׁמוֹ וּבְמַעֲשָׂיו וּבִמְקוֹמוֹ. בִּשְׁמוֹ, שֶׁהָיָה שִׁפְכוֹנִי אוֹ בֵישָׁנִי. בְּמַעֲשָׂיו, שֶׁהוּא עוֹשֶׂה הַרְבֵּה. בִּמְקוֹמוֹ, שֶׁהוּא עוֹמֵד בְּצַד הַגַּת אוֹ בְצַד הַפִּרְצָה. וּשְׁאָר כָּל הַזֵּיתִים, שְׁנַיִם שִׁכְחָה, וּשְׁלשָׁה אֵינָן שִׁכְחָה. רַבִּי יוֹסֵי אוֹמֵר, אֵין שִׁכְחָה לַזֵּיתִים: \n",
+   "en": "An olive tree that has a name in the field, such as the olive tree of Netofah in its time, and he forgot it, it is not deemed “forgotten.” To what does this apply? [Only to a tree distinguished] by its name, produce, or position. “By its name:” if it were a shifkhoni or beshani. “By its produce:” if it yields large quantities. “By its position:” if it stands at the side of the winepress or near the gap in the fence. Other kinds of olive trees: two are deemed “forgotten”, but three are not deemed “forgotten.” Rabbi Yose says: there is no law of “forgotten” for olive trees."
+  },
+  {
+   "he": "זַיִת שֶׁנִּמְצָא עוֹמֵד בֵּין שָׁלשׁ שׁוּרוֹת שֶׁל שְׁנֵי מַלְבְּנִים וּשְׁכָחוֹ, אֵינוֹ שִׁכְחָה. זַיִת שֶׁיֶּשׁ בּוֹ סָאתַיִם, וּשְׁכָחוֹ, אֵינוֹ שִׁכְחָה. בַּמֶּה דְבָרִים אֲמוּרִים, בִּזְמַן שֶׁלֹּא הִתְחִיל בּוֹ. אֲבָל אִם הִתְחִיל בּוֹ, אֲפִלּוּ כְּזֵית הַנְּטוֹפָה בִּשְׁעָתוֹ, וּשְׁכָחוֹ, יֶשׁ לוֹ שִׁכְחָה. כָּל זְמַן שֶׁיֶּשׁ לוֹ תַחְתָּיו, יֶשׁ לוֹ בְרֹאשׁוֹ. רַבִּי מֵאִיר אוֹמֵר, מִשֶּׁתֵּלֵךְ הַמַּחֲבֵא: \n",
+   "en": "An olive tree found standing between three rows [of olive trees] which have two plots separating them, and he forgot it, it is not deemed, “forgotten.” An olive tree containing two seahs and he forgot it, it is not deemed forgotten. To what does this apply? Only when he [the owner] had not yet begun [to harvest the tree], but if he had begun, even if it were like the olive tree of Netofah in its time, and he forgot it, it is deemed forgotten. As long as the owner has some of the olives belonging to him at the foot of the tree, he has [possession] of those on top of the tree. Rabbi Meir says: [forgotten applies only] after [those with] the beating-rod have gone."
+  },
+  {
+   "he": "אֵיזֶהוּ פֶרֶט, הַנּוֹשֵׁר בִּשְׁעַת הַבְּצִירָה. הָיָה בוֹצֵר, עָקַץ אֶת הָאֶשְׁכּוֹל, הֻסְבַּךְ בֶּעָלִים, נָפַל מִיָּדוֹ לָאָרֶץ וְנִפְרַט, הֲרֵי הוּא שֶׁל בַּעַל הַבָּיִת. הַמַּנִּיחַ אֶת הַכַּלְכָּלָה תַּחַת הַגֶּפֶן בְּשָׁעָה שֶׁהוּא בוֹצֵר, הֲרֵי זֶה גּוֹזֵל אֶת הָעֲנִיִּים, עַל זֶה נֶאֱמַר (משלי כב) אַל תַּסֵּג גְּבוּל עוֹלִים: \n",
+   "en": "What is peret? [Grapes] which fall down during the harvesting. If while he was harvesting [the grapes], he cut off an entire cluster by its stalk, and it got tangled up in the [grape] leaves, and then it fell from his hand to the ground and the single berries were separated, it belongs to the owner. One who places a basket under the vine when he is harvesting [the grapes], behold he is a robber of the poor. Concerning him it is said: “Do not remove the landmark of those that come up (olim)” (Proverbs 22:28)."
+  },
+  {
+   "he": "אֵיזוֹהִי עוֹלֶלֶת. כָּל שֶׁאֵין לָהּ לֹא כָתֵף וְלֹא נָטֵף. אִם יֶשׁ לָהּ כָּתֵף אוֹ נָטֵף, שֶׁל בַּעַל הַבַּיִת, אִם סָפֵק, לָעֲנִיִּים. עוֹלֶלֶת שֶׁבָּאַרְכֻּבָּה, אִם נִקְרֶצֶת עִם הָאֶשְׁכּוֹל, הֲרֵי הִיא שֶׁל בַּעַל הַבַּיִת, וְאִם לָאו, הֲרֵי הִיא שֶׁל עֲנִיִּים. גַּרְגֵּר יְחִידִי, רַבִּי יְהוּדָה אוֹמֵר, אֶשְׁכּוֹל. וַחֲכָמִים אוֹמְרִים, עוֹלֶלֶת: \n",
+   "en": "What constitutes a defective cluster (olelet) of grapes? Any [cluster] which has neither a shoulder [a wide upper part] nor a pendant [a cone-shaped lower part]. If it has a shoulder or a pendant, it belongs to the owner. If there is a doubt, it belongs to the poor. A defective cluster on the joint of a vine [where a normal cluster hangs from the vine], if it can be cut off with the cluster, it belongs to the owner; but if it can not, it belongs to the poor. A single grape: Rabbi Judah says: It is deemed a whole cluster, But the sages say: It is deemed a defective cluster."
+  },
+  {
+   "he": "הַמֵּדֵל בַּגְּפָנִים, כְּשֵׁם שֶׁהוּא מֵדֵל בְּתוֹךְ שֶׁלּוֹ, כֵּן הוּא מֵדֵל בְּשֶׁל עֲנִיִּים, דִּבְרֵי רַבִּי יְהוּדָה. רַבִּי מֵאִיר אוֹמֵר, בְּשֶׁלּוֹ הוּא רַשַּׁאי, וְאֵינוֹ רַשַּׁאי בְּשֶׁל עֲנִיִּים: \n",
+   "en": "One who is thinning out vines, just as he may thin out in that which belongs to him, so too he may thin out in that which belongs to the poor, the words of Rabbi Judah. Rabbi Meir says: in that which belongs to him, he is permitted, but he is not permitted in that which belongs to the poor."
+  },
+  {
+   "he": "כֶּרֶם רְבָעִי, בֵּית שַׁמַּאי אוֹמְרִים, אֵין לוֹ חֹמֶשׁ, וְאֵין לוֹ בִעוּר. בֵּית הִלֵּל אוֹמְרִים, יֶשׁ לוֹ. בֵּית שַׁמַּאי אוֹמְרִים, יֶשׁ לוֹ פֶרֶט וְיֶשׁ לוֹ עוֹלְלוֹת, וְהָעֲנִיִּים פּוֹדִין לְעַצְמָן. וּבֵית הִלֵּל אוֹמְרִים, כֻּלּוֹ לַגַּת: \n",
+   "en": "[The grapes of] a vineyard in its fourth year:Bet Shammai says: the laws of the added fifth and removal do not apply to them; But Bet Hillel says: they do. Bet Shammai says: the laws of peret and the defective clusters apply to them, and the poor can redeem the grapes for themselves. But Bet Hillel says: all [of them] go to the wine-press."
+  },
+  {
+   "he": "כֶּרֶם שֶׁכֻּלּוֹ עוֹלְלוֹת, רַבִּי אֱלִיעֶזֶר אוֹמֵר, לְבַעַל הַבָּיִת. רַבִּי עֲקִיבָא אוֹמֵר, לָעֲנִיִּים. אָמַר רַבִּי אֱלִיעֶזֶר, כִּי תִבְצֹר לֹא תְעוֹלֵל (דברים כד), אִם אֵין בָּצִיר, מִנַּיִן עוֹלְלוֹת. אָמַר לוֹ רַבִּי עֲקִיבָא, וְכַרְמְךָ לֹא תְעוֹלֵל (ויקרא יט), אֲפִלּוּ כֻלּוֹ עוֹלְלוֹת, אִם כֵּן לָמָּה נֶאֱמַר כִּי תִבְצֹר לֹא תְעוֹלֵל, אֵין לָעֲנִיִּים בָּעוֹלְלוֹת קֹדֶם הַבָּצִיר: \n",
+   "en": "A vineyard which consists entirely of defective clusters: Rabbi Eliezer says: it belongs to the owner. Rabbi Akiva says: to the poor. Rabbi Eliezer: “When you harvest the grapes of your vineyard, do not take the defective clusters” (Deuteronomy 24:21). If there is no grape harvesting, how can there be “defective clusters”? Rabbi Akiva said to him: “And from your vineyard do not take the defective clusters” (Leviticus 19:10) even if it consists entirely of defective clusters. If that is so, why is it said: “When you harvest the grapes of your vineyard, do not take the defective clusters”? [This teaches that] the poor have no right to claim the defective clusters before the harvest."
+  },
+  {
+   "he": "הַמַּקְדִּישׁ כַּרְמוֹ עַד שֶׁלֹּא נוֹדְעוּ בוֹ הָעוֹלְלוֹת, אֵין הָעוֹלְלוֹת לָעֲנִיִּים. מִשֶּׁנּוֹדְעוּ בוֹ הָעוֹלְלוֹת, הָעוֹלְלוֹת לָעֲנִיִּים. רַבִּי יוֹסֵי אוֹמֵר, יִתְּנוּ שְׂכַר גִּדּוּלָיו לַהֶקְדֵּשׁ. אֵיזֶה הִיא שִׁכְחָה בֶּעָרִיס, כָּל שֶׁאֵינוֹ יָכוֹל לִפְשֹׁט אֶת יָדוֹ וְלִטְּלָהּ, וּבְרֹגְלִיּוֹת, מִשֶּׁיַּעֲבֹר הֵימֶנָּה: \n",
+   "en": "One who dedicates his entire vineyard [to the Temple] before the “defective clusters” were recognizable, the “defective clusters” do not belong to the poor. After the defective clusters were recognizable, then they do belong to the poor. Rabbi Yose says: [the poor] must give the value of their improved growth to the Temple. What is deemed “forgotten” in the case of a trellis [a lattice for supporting plants]? Anything that one can no longer stretch his hand and take it. And in the case of ground-trained vines? From the time [the gatherers] pass by it."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1: An olive tree that has a name in the field, by its name, produce or position, is not forgotten; other olives are shichechah at two but not three, and Rabbi Yose says olives have no shichechah.\nMishnah 2: A tree between three rows, or one holding two seahs, is not forgotten, unless the owner had already begun; Rabbi Meir says only after the machbe has gone.\nMishnah 3: Peret is what falls during the harvest, but a cluster that was tangled in the leaves belongs to the owner, and one who places a basket under the vine is a robber of the poor.\nMishnah 4: An olelet has neither shoulder nor pendant; if there is doubt it belongs to the poor, and a single grape is disputed between Rabbi Yehuda and the Sages.\nMishnayot 5–6: Rabbi Yehuda and Rabbi Meir dispute thinning vines in the poor's share, and Beit Shammai and Beit Hillel dispute the added fifth, biur and peret and olelot in a fourth-year vineyard.\nMishnayot 7–8: Rabbi Eliezer and Rabbi Akiva dispute a vineyard entirely of olelot, a consecrated vineyard is treated by whether the olelot were recognizable, and shichechah on a trellis and on rogliyot is defined by reach and passing.",
+  "topics": [
+   {
+    "term": "Netofah olive (a tree with a name)",
+    "explanation": "Mishnah 1 says an olive tree with a name in the field is not \"forgotten\" even if the owner forgets it. The Bartenura explains that the Netofah olive was named for dripping oil, and a tree known in this way is something the owner remembers later, so it is not shichechah.",
+    "mishnah": 1,
+    "anchors": [
+     "אפילו כזית הנטופה בשעתו"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 7:1:1",
+     "quote": "על שם שהוא נוטף שמן קראו לו נטופה"
+    }
+   },
+   {
+    "term": "Hamachbe (\"until the machbe has gone\")",
+    "explanation": "Rabbi Meir says an olive tree is forgotten only \"after the machbe has gone.\" The Rambam says the machbe is the stick with which olives are beaten off the tree; the Bartenura says it is the gatherer who has searched every hiding place of the olives.",
+    "mishnah": 2,
+    "anchors": [
+     "משתלך המחבא"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 7:2:3",
+     "quote": "והמחבא שם העץ שחובטין בו הזיתים"
+    }
+   },
+   {
+    "term": "Peret (grapes that fall in the harvest)",
+    "explanation": "Peret is the mitzvah in the Torah of \"you shall not gather the peret of your vineyard,\" which the mishnah defines as grapes that fall during the harvesting. They are left for the poor.",
+    "mishnah": 3,
+    "anchors": [
+     "הנושר בשעת הבצירה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 7:3:1",
+     "quote": "ופרט כרמך לא תלקט"
+    }
+   },
+   {
+    "term": "Olelet: shoulder (katef) and pendant (natef)",
+    "explanation": "An olelet is a cluster with neither a katef nor a natef. The Rambam explains that katef refers to thin branches full of grapes that come out of the cluster, and that anything lacking this is what the Torah calls olelot.",
+    "mishnah": 4,
+    "anchors": [
+     "כל שאין לה לא כתף ולא נטף"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 7:4:1",
+     "quote": "כתף הוא שיצאו מן האשכול שריגים דקים מלאים ענב"
+    }
+   },
+   {
+    "term": "Medel (thinning vines)",
+    "explanation": "One who thins the vines uproots some of those that are close together so the others improve. The mishnah asks whether he may thin out what belongs to the poor, as Rabbi Yehuda permits and Rabbi Meir forbids.",
+    "mishnah": 5,
+    "anchors": [
+     "המדל בגפנים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 7:5:1",
+     "quote": "עוקר מאותם שבינתים והאחרים מתוקנים בכך"
+    }
+   },
+   {
+    "term": "Kerem revai'i (fourth-year fruit)",
+    "explanation": "The Rambam explains that fourth-year fruit is eaten by its owners in Jerusalem like maaser sheni. Beit Shammai and Beit Hillel dispute whether the added fifth and the biur apply to it, and whether the poor have peret and olelot in it.",
+    "mishnah": 6,
+    "anchors": [
+     "כרם רבעי"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 7:6:1",
+     "quote": "ודינו שיאכלו אותו בעליו בירושלים כמעשר שני"
+    }
+   },
+   {
+    "term": "Rogliyot (vines on the ground) and shichechah",
+    "explanation": "The mishnah ends by distinguishing a trellis (arig) from rogliyot. The Rambam explains that rogliyot are vines spread on the ground, which the foot touches, and a forgotten cluster there is defined by the moment the gatherer passes it.",
+    "mishnah": 8,
+    "anchors": [
+     "וברגליות"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 7:8:4",
+     "quote": "הגפנים השטוחות על הארץ שהרגל נוגעת בהם"
+    }
+   },
+   {
+    "term": "Shechar gidulav (the value of growth)",
+    "explanation": "Rabbi Yose says that when a vineyard is consecrated, the poor give hekdesh the value of its growth. The Rash MiShantz explains that this is what the vines improve in land that belongs to hekdesh, while the first tanna holds that the vineyard was already obligated in olelot.",
+    "mishnah": 8,
+    "anchors": [
+     "יתנו שכר גידוליו להקדש"
+    ],
+    "source": {
+     "name": "Rash MiShantz",
+     "ref": "Rash MiShantz on Mishnah Peah 7:8:4",
+     "quote": "מה שמשביחין בקרקע כל שעה ושעה שהקרקע של הקדש"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Shifkhoni and beishani: isn't that \"by its produce\"?",
+    "pasuk": {
+     "text": "בשמו, שהיה שפכוני או בישני",
+     "ref": "Mishnah Peah 7:1",
+     "label": "Mishnah Peah 7:1"
+    },
+    "question": "The mishnah gives three ways a tree has a name: by its name, produce and position, and explains \"by its name\" as shifkhoni or beishani. But a tree that yields much oil seems to be \"by its produce.\" What does \"by its name\" add?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Peah 7:1:2",
+      "quote": "לכאורה קשה ת\"ל דהיינו במעשיו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rashash: the wording \"that it was\" means it was shifkhoni or beishani in earlier days, and the name remains even though it no longer has any advantage.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Peah 7:1:2",
+        "quote": "דהיה פי' שהיה בימים הקודמים שפכוני"
+       }
+      ]
+     },
+     {
+      "text": "The Tosefot Yom Tov: the Bartenura's reading is more accurate, since shifkhoni and beishani are included in the mishnah under \"by its name\"; one place calls it shifkhoni and another beishani.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 7:1:1",
+        "quote": "שהרי שפכני ובישני נכללים במשנתינו בלישנא דבשמו"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam reads beishani differently, from \"shame\": those olives did not yield much oil.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 7:1:4",
+        "quote": "והזיתים ההם לא היו עושין שמן הרבה על כן נקראו בישני לקוח מבושה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the same word can mean great fruitfulness or a poor tree, and in both cases the tree is known and not forgotten.",
+    "mishnah": 1,
+    "anchors": [
+     "בשמו, שהיה שפכוני או בישני"
+    ]
+   },
+   {
+    "title": "Why is a tree between three rows not forgotten?",
+    "pasuk": {
+     "text": "זַיִת שֶׁנִּמְצָא עוֹמֵד בֵּין שָׁלשׁ שׁוּרוֹת שֶׁל שְׁנֵי מַלְבְּנִים",
+     "ref": "Mishnah Peah 7:2",
+     "label": "Mishnah Peah 7:2"
+    },
+    "question": "Why is an olive tree standing between three rows of two malbenim not shichechah? The Bartenura explains that the surrounding trees hide it, but is that the reason?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Peah 7:2:2",
+      "quote": "ולא מסתבר כלל לפרש טעמא לפי שהשורות מכסות את הזית",
+      "era": "rishon"
+     },
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Peah 7:15:1",
+      "quote": "וק\"ל דע\"כ התם טעמא משום דעניים חפוהו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura and the Rambam: the surrounding trees hid it, like a tree covered with straw.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 7:2:1",
+        "quote": "שהאילנות שסביביו הסתירוהו"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 7:2:1",
+        "quote": "אינה שכחה שהאילנות הסתירוה"
+       }
+      ]
+     },
+     {
+      "text": "The Rash MiShantz: because it stands among the rows and is surrounded on three sides, it is like something distinguished.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Peah 7:2:2",
+        "quote": "הוי כמו דבר מסוים"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin prefers the Rash's reading: the reason is that it is distinguished twice over, by the plots and the rows.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 7:15:1",
+        "quote": "טעמא דהכא משום דמסוים בכפל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the law of shichechah depends on being hidden or on being a recognized, distinguished tree.",
+    "mishnah": 2,
+    "anchors": [
+     "זַיִת שֶׁנִּמְצָא עוֹמֵד בֵּין שָׁלשׁ שׁוּרוֹת שֶׁל שְׁנֵי מַלְבְּנִים"
+    ]
+   },
+   {
+    "title": "\"As long as he has some below, he has on top\"",
+    "pasuk": {
+     "text": "כָּל זְמַן שֶׁיֶּשׁ לוֹ תַחְתָּיו, יֶשׁ לוֹ בְרֹאשׁוֹ",
+     "ref": "Mishnah Peah 7:2",
+     "label": "Mishnah Peah 7:2"
+    },
+    "question": "Why do olives under the tree save those still on the tree from being forgotten? A sheaf next to standing grain does not save the standing grain.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 7:2:1",
+      "quote": "ותמיה לי מ\"ש מעומר שאינו מציל את הקמה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rosh, in the Tosafot Rabbi Akiva Eiger: perhaps olive gatherers look up when they bring the olives, to see if there are olives above that they have not given up on.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 7:2:1",
+        "quote": "בעוד שיש להם זיתים תחת האילן כשמביאים הזיתים מסתכלין למעלה"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin: since the olives lie under the tree, it is clear that the owner still wants to beat off the rest of the tree.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 7:21:1",
+        "quote": "הכא מדמונחין הזיתים תחת האילן מוכח דעדיין רוצה להשיר הנשארים מהאילן"
+       }
+      ]
+     }
+    ],
+    "why": "It defines when the owner has given up on the olives, which is the heart of shichechah.",
+    "mishnah": 2,
+    "anchors": [
+     "כָּל זְמַן שֶׁיֶּשׁ לוֹ תַחְתָּיו, יֶשׁ לוֹ בְרֹאשׁוֹ"
+    ]
+   },
+   {
+    "title": "The basket under the vine: a robber of what?",
+    "pasuk": {
+     "text": "הַמַּנִּיחַ אֶת הַכַּלְכָּלָה תַּחַת הַגֶּפֶן בְּשָׁעָה שֶׁהוּא בוֹצֵר, הֲרֵי זֶה גּוֹזֵל אֶת הָעֲנִיִּים",
+     "ref": "Mishnah Peah 7:3",
+     "label": "Mishnah Peah 7:3"
+    },
+    "question": "A cluster that did not reach the ground belongs to the owner. So why is one who places a basket to catch peret a robber of the poor, if the peret never touched the ground?",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Peah 7:3:1",
+      "quote": "ומה תאמר אם כן למה הוא גוזל את העניים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Hon Ashir, from the Yerushalmi: the poor acquire only when it reaches the ground, but he is a robber because he caused it not to reach the ground by placing the basket.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Peah 7:3:1",
+        "quote": "שנייא היא שהוא גרם שלא הגיע"
+       }
+      ]
+     },
+     {
+      "text": "The Bartenura: the poor acquire peret as it falls, before it reaches the ground.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 7:3:6",
+        "quote": "זכו בו עניים קודם שיגיע לארץ"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin: the verse \"do not remove the landmark\" is needed because one might think the poor do not acquire until it falls to the ground.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 7:28:1",
+        "quote": "לא זכו עניים עד שיפול לארץ"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the poor acquire peret as it falls or only on the ground.",
+    "mishnah": 3,
+    "anchors": [
+     "הַמַּנִּיחַ אֶת הַכַּלְכָּלָה תַּחַת הַגֶּפֶן בְּשָׁעָה שֶׁהוּא בוֹצֵר, הֲרֵי זֶה גּוֹזֵל אֶת הָעֲנִיִּים"
+    ]
+   },
+   {
+    "title": "Thinning in the poor's share: what kind of partnership?",
+    "pasuk": {
+     "text": "הַמֵּדֵל בַּגְּפָנִים, כְּשֵׁם שֶׁהוּא מֵדֵל בְּתוֹךְ שֶׁלּוֹ, כֵּן הוּא מֵדֵל בְּשֶׁל עֲנִיִּים",
+     "ref": "Mishnah Peah 7:5",
+     "label": "Mishnah Peah 7:5"
+    },
+    "question": "The Bartenura says Rabbi Yehuda holds that the poor are like partners. But what partnership does the owner have in the olelot, and the poor in the clusters, when each one's share is distinct?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 7:5:2",
+      "quote": "אבל קשיא לטעמא דדין שותף יש להם",
+      "era": "acharon"
+     },
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Peah 7:38:1",
+      "quote": "ותמוה מה שותפות יש לבעה\"ב בהעוללות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: Rabbi Yehuda holds the poor have the law of partners, and Rabbi Meir holds they have the law of buyers.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 7:5:2",
+        "quote": "קסבר עניים דין שותף יש להם"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 7:5:3",
+        "quote": "קסבר עניים דין קונה יש להם בחלקם"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin: the dispute is rather that for Rabbi Yehuda it is like returning a lost item to the poor, since thinning enlarges the olelot beside it.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 7:38:1",
+        "quote": "פלוגתייהו דלר\"י הו\"ל כמשיב אבידה לעניים"
+       }
+      ]
+     },
+     {
+      "text": "The Rash MiShantz: the owner may thin out what belongs to the poor because the poor would not be delayed from gathering.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Peah 7:5:1",
+        "quote": "שלא היה להם לעניים לאחר מללקט"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the same dispute can be explained either by ownership or by the benefit to the poor.",
+    "mishnah": 5,
+    "anchors": [
+     "הַמֵּדֵל בַּגְּפָנִים, כְּשֵׁם שֶׁהוּא מֵדֵל בְּתוֹךְ שֶׁלּוֹ, כֵּן הוּא מֵדֵל בְּשֶׁל עֲנִיִּים"
+    ]
+   },
+   {
+    "title": "Why do Beit Hillel need \"hillulim\" if they learn from maaser?",
+    "pasuk": {
+     "text": "בֵּית הִלֵּל אוֹמְרִים, יֶשׁ לוֹ",
+     "ref": "Mishnah Peah 7:6",
+     "label": "Mishnah Peah 7:6"
+    },
+    "question": "Beit Hillel learn the fourth-year fruit from maaser by a gezerah shavah (kodesh kodesh). Then why is \"hillulim\" written, which teaches that he may redeem it?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Peah 7:6:4",
+      "quote": "ותימה לבית הלל למה לן קדש הלולים",
+      "era": "rishon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 7:6:3",
+      "quote": "ואם תאמר למה לן הלולים למשמע דאחליה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Ikar Tosafot Yom Tov: from the gezerah shavah alone we would not know that redeeming fourth-year fruit applies only when maaser sheni applies.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 7:6:3",
+        "quote": "דאנן מגזירה שוה לא הוה ידעינן דפדיון רבעי נוהג אלא בזמן שמעשר שני נוהג"
+       }
+      ]
+     },
+     {
+      "text": "The Rash MiShantz: without \"hillulim\" we would learn the gezerah shavah from Sheviit, where redemption does not work; or hillulim is needed in the third and sixth years.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Peah 7:6:4",
+        "quote": "דאי לאו הלולים נילף קדש קדש משביעית דלא מהני חילול"
+       },
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Peah 7:6:4",
+        "quote": "ויש לומר דמהני האי הלולים באותן שנים שאין מעשר שני נוהג"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what each source teaches, and how a gezerah shavah relates to a verse that already speaks of the same case.",
+    "mishnah": 6,
+    "anchors": [
+     "בֵּית הִלֵּל אוֹמְרִים, יֶשׁ לוֹ"
+    ]
+   },
+   {
+    "title": "Beit Shammai: peret and olelot, but not peah and shichechah?",
+    "pasuk": {
+     "text": "בֵּית שַׁמַּאי אוֹמְרִים, יֶשׁ לוֹ פֶרֶט וְיֶשׁ לוֹ עוֹלְלוֹת",
+     "ref": "Mishnah Peah 7:6",
+     "label": "Mishnah Peah 7:6"
+    },
+    "question": "Why does the mishnah mention only peret and olelot in fourth-year fruit, and not peah and shichechah?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Peah 7:6:1",
+      "quote": "ל\"י מדוע שבקי לפאה ושכחה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Yachin: the same applies to peah and shichechah, because Beit Shammai consider it like chullin.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 7:43:1",
+        "quote": "ה\"ה בפאה ושכחה דכחולין חשוב"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash suggests that Beit Hillel's \"all of it to the winepress\" implies that it has no peah or shichechah at all, and Beit Shammai did not bother to elaborate.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Peah 7:6:1",
+        "quote": "ואולי דב\"ה דאמרי כולו לגת משמעו דאף פאה ושכחה אין לו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how much of the poor's gifts apply to a vineyard whose fruit is holy.",
+    "mishnah": 6,
+    "anchors": [
+     "בֵּית שַׁמַּאי אוֹמְרִים, יֶשׁ לוֹ פֶרֶט וְיֶשׁ לוֹ עוֹלְלוֹת"
+    ]
+   },
+   {
+    "title": "\"Passes from it\": from row to row or within the row?",
+    "pasuk": {
+     "text": "וּבְרֹגְלִיּוֹת, מִשֶּׁיַּעֲבֹר הֵימֶנָּה",
+     "ref": "Mishnah Peah 7:8",
+     "label": "Mishnah Peah 7:8"
+    },
+    "question": "The Bartenura says each rogelit is its own row, and it is forbidden to go back from one row to another. But the law is that when one skips and passes over, he violates \"do not return\" even within the same row. What is the rule?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 7:8:3",
+      "quote": "ותמיהני דהא קיי\"ל במשנה ג' פרק ו' דכשדולג ועובר הוה בבל תשוב",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: each vine of the rogliyot is considered a row of its own, and it is forbidden to return from one row to another.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 7:8:7",
+        "quote": "ואסור לשוב מאמן לאמן"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin: with a trellis, whose vines are mixed together, the gatherer searches afterwards, so as long as he can stretch his hand it is not forgotten; with rogliyot, each vine lies alone and he does not search after passing it.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 7:54:1",
+        "quote": "אבל ברגליות כל גפן מונח לבדו"
+       }
+      ]
+     },
+     {
+      "text": "The Tosefot Yom Tov himself suggests ending: it is forbidden to return within the row once he has passed it.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 7:8:3",
+        "quote": "ואסור לשוב באומן כשעבר הימנו"
+       }
+      ]
+     }
+    ],
+    "why": "It defines when one has passed a vine and may no longer go back for it.",
+    "mishnah": 8,
+    "anchors": [
+     "וּבְרֹגְלִיּוֹת, מִשֶּׁיַּעֲבֹר הֵימֶנָּה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Rashash",
+   "Tosefot Yom Tov",
+   "Rambam",
+   "Rash MiShantz",
+   "Yachin",
+   "Bartenura",
+   "Tosafot Rabbi Akiva Eiger",
+   "Hon Ashir",
+   "Ikar Tosafot Yom Tov"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א: זית שיש לו שם בשדה, בשמו, במעשיו או במקומו, אינו שכחה; שאר הזיתים שניים שכחה ושלושה אינם שכחה, ורבי יוסי אומר שאין שכחה לזיתים.\nמשנה ב: זית שבין שלוש שורות, או שיש בו סאתיים, אינו שכחה, אלא אם התחיל בו; רבי מאיר אומר רק משתלך המחבא.\nמשנה ג: פרט הוא הנושר בשעת הבצירה, אבל אשכול שנסבך בעלים הוא של בעל הבית, והמניח כלכלה תחת הגפן גוזל את העניים.\nמשנה ד: עוללת היא שאין לה לא כתף ולא נטף; אם ספק לעניים, וגרגר יחידי נחלקו בו רבי יהודה וחכמים.\nמשניות ה-ו: רבי יהודה ורבי מאיר נחלקו בדילול גפנים בחלק העניים, ובית שמאי ובית הלל נחלקו בחומש, ביעור, פרט ועוללות בכרם רבעי.\nמשניות ז-ח: רבי אליעזר ורבי עקיבא נחלקו בכרם שכולו עוללות, המקדיש כרם נדון לפי ידיעת העוללות, ושכחה בעריס וברוגליות נקבעת לפי הושטת היד והעברה.",
+  "topics": [
+   {
+    "term": "זית הנטופה (אילן שיש לו שם)",
+    "explanation": "המשנה הראשונה אומרת שזית שיש לו שם בשדה אינו שכחה אף אם בעל השדה שכחו. ברטנורא מסביר שזית הנטופה נקרא על שם שהוא נוטף שמן, ואילן שידוע כך הוא דבר שהבעלים זוכר אחר זמן, ולכן אינו שכחה.",
+    "mishnah": 1,
+    "anchors": [
+     "אפילו כזית הנטופה בשעתו"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 7:1:1",
+     "quote": "על שם שהוא נוטף שמן קראו לו נטופה"
+    }
+   },
+   {
+    "term": "המחבא",
+    "explanation": "רבי מאיר אומר שזית נחשב שכחה רק \"משתלך המחבא\". הרמב\"ם מפרש שהמחבא הוא העץ שחובטים בו את הזיתים, וברטנורא מפרש שהוא המלקט שבדק בכל מחבואי הזיתים.",
+    "mishnah": 2,
+    "anchors": [
+     "משתלך המחבא"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 7:2:3",
+     "quote": "והמחבא שם העץ שחובטין בו הזיתים"
+    }
+   },
+   {
+    "term": "פרט",
+    "explanation": "פרט הוא הדין שבתורה \"ופרט כרמך לא תלקט\", והמשנה מגדירה אותו כענבים הנושרים בשעת הבצירה. הם מיועדים לעניים.",
+    "mishnah": 3,
+    "anchors": [
+     "הנושר בשעת הבצירה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 7:3:1",
+     "quote": "ופרט כרמך לא תלקט"
+    }
+   },
+   {
+    "term": "עוללת: כתף ונטף",
+    "explanation": "עוללת היא אשכול שאין לו לא כתף ולא נטף. הרמב\"ם מבאר שכתף הם שריגים דקים מלאים ענב שיוצאים מן האשכול, וכל מה שאין לו זאת הוא מה שהכתוב קורא עוללות.",
+    "mishnah": 4,
+    "anchors": [
+     "כל שאין לה לא כתף ולא נטף"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 7:4:1",
+     "quote": "כתף הוא שיצאו מן האשכול שריגים דקים מלאים ענב"
+    }
+   },
+   {
+    "term": "מדל בגפנים",
+    "explanation": "המדל בגפנים עוקר מן הגפנים התכופות זו לזו כדי שהאחרות יתוקנו. המשנה שואלת אם מותר לו לדלל גם את חלק העניים, כשרבי יהודה מתיר ורבי מאיר אוסר.",
+    "mishnah": 5,
+    "anchors": [
+     "המדל בגפנים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 7:5:1",
+     "quote": "עוקר מאותם שבינתים והאחרים מתוקנים בכך"
+    }
+   },
+   {
+    "term": "כרם רבעי",
+    "explanation": "הרמב\"ם מסביר שפירות שנה רביעית אוכלים אותם בעליהם בירושלים כמעשר שני. בית שמאי ובית הלל נחלקים אם חל עליהם חומש וביעור, ואם יש בהם פרט ועוללות לעניים.",
+    "mishnah": 6,
+    "anchors": [
+     "כרם רבעי"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 7:6:1",
+     "quote": "ודינו שיאכלו אותו בעליו בירושלים כמעשר שני"
+    }
+   },
+   {
+    "term": "רוגליות",
+    "explanation": "המשנה מסיימת בהבחנה בין עריס לרוגליות. הרמב\"ם מסביר שרוגליות הן הגפנים השטוחות על הארץ, והשכחה בהן נקבעת מרגע שהמלקט עובר מהן.",
+    "mishnah": 8,
+    "anchors": [
+     "וברגליות"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 7:8:4",
+     "quote": "הגפנים השטוחות על הארץ שהרגל נוגעת בהם"
+    }
+   },
+   {
+    "term": "שכר גידוליו",
+    "explanation": "רבי יוסי אומר שבהקדש כרם יתנו העניים להקדש את שכר גידוליו. רש משנץ מסביר שזה מה שמשביחים בקרקע של הקדש, ואילו התנא קמא סבור שהכרם כבר נתחייב בעוללות.",
+    "mishnah": 8,
+    "anchors": [
+     "יתנו שכר גידוליו להקדש"
+    ],
+    "source": {
+     "name": "רש משנץ",
+     "ref": "Rash MiShantz on Mishnah Peah 7:8:4",
+     "quote": "מה שמשביחין בקרקע כל שעה ושעה שהקרקע של הקדש"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "שפכוני ובישני: והלא זה \"במעשיו\"?",
+    "pasuk": {
+     "text": "בשמו, שהיה שפכוני או בישני",
+     "ref": "Mishnah Peah 7:1",
+     "label": "משנה פאה ז, א"
+    },
+    "question": "המשנה מונה שלושה דברים שבהם יש לאילן שם: בשמו, במעשיו ובמקומו, ומפרשת \"בשמו\" ששפכוני או בישני. אולם אילן שמוציא הרבה שמן נראה כ\"במעשיו\". מה מוסיף \"בשמו\"?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Peah 7:1:2",
+      "quote": "לכאורה קשה ת\"ל דהיינו במעשיו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"ש: לשון המשנה \"שהיה\" מורה שהיה שפכוני בימים הקודמים, והשם נשאר גם כשאין בו עכשיו יתרון.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Peah 7:1:2",
+        "quote": "דהיה פי' שהיה בימים הקודמים שפכוני"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: פירוש ברטנורא נכון יותר, שהרי שפכני ובישני נכללים במשנה בלשון \"בשמו\", ויש מקום שקוראים לו שפכני ויש מקום שקוראים לו בישני.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 7:1:1",
+        "quote": "שהרי שפכני ובישני נכללים במשנתינו בלישנא דבשמו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם מפרש בישני אחרת, מלשון בושה: אותם זיתים לא היו עושים הרבה שמן.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 7:1:4",
+        "quote": "והזיתים ההם לא היו עושין שמן הרבה על כן נקראו בישני לקוח מבושה"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה שאותה מילה יכולה לציין שפע או אילן גרוע, ובשני המקרים האילן ידוע ואינו שכחה.",
+    "mishnah": 1,
+    "anchors": [
+     "בשמו, שהיה שפכוני או בישני"
+    ]
+   },
+   {
+    "title": "מדוע זית שבין שלוש שורות אינו שכחה?",
+    "pasuk": {
+     "text": "זַיִת שֶׁנִּמְצָא עוֹמֵד בֵּין שָׁלשׁ שׁוּרוֹת שֶׁל שְׁנֵי מַלְבְּנִים",
+     "ref": "Mishnah Peah 7:2",
+     "label": "משנה פאה ז, ב"
+    },
+    "question": "מדוע זית העומד בין שלוש שורות של שני מלבנים אינו שכחה? ברטנורא מסביר שהאילנות שסביבו הסתירוהו, אך האם זה הטעם?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Peah 7:2:2",
+      "quote": "ולא מסתבר כלל לפרש טעמא לפי שהשורות מכסות את הזית",
+      "era": "rishon"
+     },
+     {
+      "name": "יכין",
+      "ref": "Yachin on Mishnah Peah 7:15:1",
+      "quote": "וק\"ל דע\"כ התם טעמא משום דעניים חפוהו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא ורמב\"ם: האילנות שסביבו הסתירוהו, כמו שחיפוהו בקש.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 7:2:1",
+        "quote": "שהאילנות שסביביו הסתירוהו"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 7:2:1",
+        "quote": "אינה שכחה שהאילנות הסתירוה"
+       }
+      ]
+     },
+     {
+      "text": "רש משנץ: מפני שהוא עומד בין השורות ומוקף משלוש רוחותיו, הוא נחשב כדבר מסוים.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Peah 7:2:2",
+        "quote": "הוי כמו דבר מסוים"
+       }
+      ]
+     },
+     {
+      "text": "יכין מעדיף את פירוש הרש: הטעם הוא שהוא מסוים כפל, מן המלבנות והשורות.",
+      "sources": [
+       {
+        "name": "יכין",
+        "ref": "Yachin on Mishnah Peah 7:15:1",
+        "quote": "טעמא דהכא משום דמסוים בכפל"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מבהיר אם דין השכחה תלוי בהסתר או בכך שהאילן ידוע ומסוים.",
+    "mishnah": 2,
+    "anchors": [
+     "זַיִת שֶׁנִּמְצָא עוֹמֵד בֵּין שָׁלשׁ שׁוּרוֹת שֶׁל שְׁנֵי מַלְבְּנִים"
+    ]
+   },
+   {
+    "title": "\"כל זמן שיש לו תחתיו יש לו בראשו\"",
+    "pasuk": {
+     "text": "כָּל זְמַן שֶׁיֶּשׁ לוֹ תַחְתָּיו, יֶשׁ לוֹ בְרֹאשׁוֹ",
+     "ref": "Mishnah Peah 7:2",
+     "label": "משנה פאה ז, ב"
+    },
+    "question": "מדוע זיתים שמתחת לאילן מצילים את אלה שבראש האילן משכחה? והרי עומר אינו מציל את הקמה.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 7:2:1",
+      "quote": "ותמיה לי מ\"ש מעומר שאינו מציל את הקמה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרא\"ש, בתוספות רבי עקיבא איגר: ושמא דרך מלקטי זיתים להסתכל למעלה בשעה שמביאים את הזיתים, אם יש שם זיתים שלא סילקו דעתם מהם.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 7:2:1",
+        "quote": "בעוד שיש להם זיתים תחת האילן כשמביאים הזיתים מסתכלין למעלה"
+       }
+      ]
+     },
+     {
+      "text": "יכין: מכיוון שהזיתים מונחים תחת האילן, מוכח שעדיין רוצה להשיר את הנשארים מן האילן.",
+      "sources": [
+       {
+        "name": "יכין",
+        "ref": "Yachin on Mishnah Peah 7:21:1",
+        "quote": "הכא מדמונחין הזיתים תחת האילן מוכח דעדיין רוצה להשיר הנשארים מהאילן"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מגדיר מתי הבעלים סילק דעתו מן הזיתים, והוא עיקר דין שכחה.",
+    "mishnah": 2,
+    "anchors": [
+     "כָּל זְמַן שֶׁיֶּשׁ לוֹ תַחְתָּיו, יֶשׁ לוֹ בְרֹאשׁוֹ"
+    ]
+   },
+   {
+    "title": "הכלכלה תחת הגפן: גוזל מה?",
+    "pasuk": {
+     "text": "הַמַּנִּיחַ אֶת הַכַּלְכָּלָה תַּחַת הַגֶּפֶן בְּשָׁעָה שֶׁהוּא בוֹצֵר, הֲרֵי זֶה גּוֹזֵל אֶת הָעֲנִיִּים",
+     "ref": "Mishnah Peah 7:3",
+     "label": "משנה פאה ז, ג"
+    },
+    "question": "אשכול שלא הגיע לארץ הוא של בעל הבית. ואם כן מדוע המניח כלכלה לקבל את הפרט הוא גוזל את העניים, והרי הפרט לא הגיע לארץ?",
+    "asked_by": [
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Peah 7:3:1",
+      "quote": "ומה תאמר אם כן למה הוא גוזל את העניים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הון עשיר, לפי הירושלמי: העניים זוכים רק כשהוא מגיע לארץ, אך הוא גוזל מפני שגרם שלא יגיע בכך שהניח את הכלכלה.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Peah 7:3:1",
+        "quote": "שנייא היא שהוא גרם שלא הגיע"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: העניים זוכים בפרט בנשירתו, עוד קודם שיגיע לארץ.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 7:3:6",
+        "quote": "זכו בו עניים קודם שיגיע לארץ"
+       }
+      ]
+     },
+     {
+      "text": "יכין: הפסוק \"אל תסג גבול\" נחוץ, שכן הייתי אומר שהעניים לא זכו עד שיפול לארץ.",
+      "sources": [
+       {
+        "name": "יכין",
+        "ref": "Yachin on Mishnah Peah 7:28:1",
+        "quote": "לא זכו עניים עד שיפול לארץ"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה אם העניים זוכים בפרט בשעת הנפילה או רק בקרקע.",
+    "mishnah": 3,
+    "anchors": [
+     "הַמַּנִּיחַ אֶת הַכַּלְכָּלָה תַּחַת הַגֶּפֶן בְּשָׁעָה שֶׁהוּא בוֹצֵר, הֲרֵי זֶה גּוֹזֵל אֶת הָעֲנִיִּים"
+    ]
+   },
+   {
+    "title": "דילול בחלק העניים: איזו שותפות?",
+    "pasuk": {
+     "text": "הַמֵּדֵל בַּגְּפָנִים, כְּשֵׁם שֶׁהוּא מֵדֵל בְּתוֹךְ שֶׁלּוֹ, כֵּן הוּא מֵדֵל בְּשֶׁל עֲנִיִּים",
+     "ref": "Mishnah Peah 7:5",
+     "label": "משנה פאה ז, ה"
+    },
+    "question": "ברטנורא אומר שרבי יהודה סבור שהעניים הם כשותפים. אך איזו שותפות יש לבעל הבית בעוללות ולעניים באשכולות, והרי חלקו של כל אחד מובחן?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 7:5:2",
+      "quote": "אבל קשיא לטעמא דדין שותף יש להם",
+      "era": "acharon"
+     },
+     {
+      "name": "יכין",
+      "ref": "Yachin on Mishnah Peah 7:38:1",
+      "quote": "ותמוה מה שותפות יש לבעה\"ב בהעוללות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: רבי יהודה סבור שיש לעניים דין שותף, ורבי מאיר סבור שיש להם דין קונה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 7:5:2",
+        "quote": "קסבר עניים דין שותף יש להם"
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 7:5:3",
+        "quote": "קסבר עניים דין קונה יש להם בחלקם"
+       }
+      ]
+     },
+     {
+      "text": "יכין: המחלוקת היא אלא שלרבי יהודה זה כמשיב אבידה לעניים, שהרי הדילול מרבה את העוללות שבצדו.",
+      "sources": [
+       {
+        "name": "יכין",
+        "ref": "Yachin on Mishnah Peah 7:38:1",
+        "quote": "פלוגתייהו דלר\"י הו\"ל כמשיב אבידה לעניים"
+       }
+      ]
+     },
+     {
+      "text": "רש משנץ: מותר לו לדלל גם בשל העניים, שלא היה להם לעניים איחור בלקט.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Peah 7:5:1",
+        "quote": "שלא היה להם לעניים לאחר מללקט"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה שאותה מחלוקת אפשר להסביר מצד הבעלות או מצד התועלת לעניים.",
+    "mishnah": 5,
+    "anchors": [
+     "הַמֵּדֵל בַּגְּפָנִים, כְּשֵׁם שֶׁהוּא מֵדֵל בְּתוֹךְ שֶׁלּוֹ, כֵּן הוּא מֵדֵל בְּשֶׁל עֲנִיִּים"
+    ]
+   },
+   {
+    "title": "מדוע זקוקים בית הלל ל\"הלולים\" אם הם לומדים ממעשר?",
+    "pasuk": {
+     "text": "בֵּית הִלֵּל אוֹמְרִים, יֶשׁ לוֹ",
+     "ref": "Mishnah Peah 7:6",
+     "label": "משנה פאה ז, ו"
+    },
+    "question": "בית הלל לומדים כרם רבעי ממעשר בגזירה שווה (קודש קודש). אם כן, למה נכתב \"הלולים\", שמלמד שיפדה אותו?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Peah 7:6:4",
+      "quote": "ותימה לבית הלל למה לן קדש הלולים",
+      "era": "rishon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 7:6:3",
+      "quote": "ואם תאמר למה לן הלולים למשמע דאחליה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עיקר תוספות יום טוב: מן הגזירה השווה לבדה לא היינו יודעים שפדיון רבעי נוהג רק בזמן שמעשר שני נוהג.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Peah 7:6:3",
+        "quote": "דאנן מגזירה שוה לא הוה ידעינן דפדיון רבעי נוהג אלא בזמן שמעשר שני נוהג"
+       }
+      ]
+     },
+     {
+      "text": "רש משנץ: בלי \"הלולים\" היינו לומדים בגזירה שווה משביעית שאין מועיל בה חילול; ועוד, ההלולים מועיל בשנים שאין בהן מעשר שני, בשלישית ובשישית.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Peah 7:6:4",
+        "quote": "דאי לאו הלולים נילף קדש קדש משביעית דלא מהני חילול"
+       },
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Peah 7:6:4",
+        "quote": "ויש לומר דמהני האי הלולים באותן שנים שאין מעשר שני נוהג"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה מה מלמד כל מקור, ואיך גזירה שווה מתייחסת לפסוק שכבר עוסק באותו עניין.",
+    "mishnah": 6,
+    "anchors": [
+     "בֵּית הִלֵּל אוֹמְרִים, יֶשׁ לוֹ"
+    ]
+   },
+   {
+    "title": "בית שמאי: פרט ועוללות, אך לא פאה ושכחה?",
+    "pasuk": {
+     "text": "בֵּית שַׁמַּאי אוֹמְרִים, יֶשׁ לוֹ פֶרֶט וְיֶשׁ לוֹ עוֹלְלוֹת",
+     "ref": "Mishnah Peah 7:6",
+     "label": "משנה פאה ז, ו"
+    },
+    "question": "מדוע המשנה מזכירה בכרם רבעי רק פרט ועוללות ולא פאה ושכחה?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Peah 7:6:1",
+      "quote": "ל\"י מדוע שבקי לפאה ושכחה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יכין: הוא הדין בפאה ושכחה, כי לבית שמאי הוא חשוב כחולין.",
+      "sources": [
+       {
+        "name": "יכין",
+        "ref": "Yachin on Mishnah Peah 7:43:1",
+        "quote": "ה\"ה בפאה ושכחה דכחולין חשוב"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש מציע שדברי בית הלל \"כולו לגת\" משמעם שאין בו גם פאה ושכחה, ובית שמאי לא טרח להאריך.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Peah 7:6:1",
+        "quote": "ואולי דב\"ה דאמרי כולו לגת משמעו דאף פאה ושכחה אין לו"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה כמה ממתנות עניים חלות בכרם שפירותיו קודש.",
+    "mishnah": 6,
+    "anchors": [
+     "בֵּית שַׁמַּאי אוֹמְרִים, יֶשׁ לוֹ פֶרֶט וְיֶשׁ לוֹ עוֹלְלוֹת"
+    ]
+   },
+   {
+    "title": "\"משיעבור הימנה\": מאומן לאומן או באומן עצמה?",
+    "pasuk": {
+     "text": "וּבְרֹגְלִיּוֹת, מִשֶּׁיַּעֲבֹר הֵימֶנָּה",
+     "ref": "Mishnah Peah 7:8",
+     "label": "משנה פאה ז, ח"
+    },
+    "question": "ברטנורא אומר שכל רוגלית היא אומן בפני עצמה, ואסור לשוב מאומן לאומן. אולם הדין הוא שכשדילג ועבר עובר בבל תשוב גם באותה אומן עצמה. מה הדין?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 7:8:3",
+      "quote": "ותמיהני דהא קיי\"ל במשנה ג' פרק ו' דכשדולג ועובר הוה בבל תשוב",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: כל גפן וגפן מן הרוגליות חשובה כאומן בפני עצמה, ואסור לשוב מאומן לאומן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 7:8:7",
+        "quote": "ואסור לשוב מאמן לאמן"
+       }
+      ]
+     },
+     {
+      "text": "יכין: בעריס, שגפניו מעורבים, דרך המלקט לחפש אחר הגמר, ולכן כל עוד יכול לפשוט ידו אינו שכחה; ברוגליות כל גפן מונח לבדו ואין דרכו לחפש אחרי שעבר ממנו.",
+      "sources": [
+       {
+        "name": "יכין",
+        "ref": "Yachin on Mishnah Peah 7:54:1",
+        "quote": "אבל ברגליות כל גפן מונח לבדו"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב עצמו מציע לסיים: ואסור לשוב באומן כשעבר הימנו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 7:8:3",
+        "quote": "ואסור לשוב באומן כשעבר הימנו"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מגדיר מתי עבר על הגפן ואינו רשאי עוד לשוב אליה.",
+    "mishnah": 8,
+    "anchors": [
+     "וּבְרֹגְלִיּוֹת, מִשֶּׁיַּעֲבֹר הֵימֶנָּה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "רש\"ש",
+   "תוספות יום טוב",
+   "רמב\"ם",
+   "רש משנץ",
+   "יכין",
+   "ברטנורא",
+   "תוספות רבי עקיבא איגר",
+   "הון עשיר",
+   "עיקר תוספות יום טוב"
+  ]
+ }
+}
