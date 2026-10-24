@@ -1,0 +1,1148 @@
+{
+ "date": "2026-10-24",
+ "hebrew_date": {
+  "hebrew": "י״ג בְּחֶשְׁוָן תשפ״ז",
+  "english": "13 Cheshvan 5787"
+ },
+ "masechet": "peah",
+ "perek": 8,
+ "ref": "Mishnah Peah 8",
+ "mishnayot": [
+  {
+   "he": "מֵאֵימָתַי כָּל אָדָם מֻתָּרִין בְּלֶקֶט. מִשֶּׁיֵּלְכוּ הַנָּמוֹשׁוֹת. בְּפֶרֶט וְעוֹלְלוֹת, מִשֶּׁיֵּלְכוּ הָעֲנִיִּים בַּכֶּרֶם וְיָבֹאוּ. וּבְזֵיתִים, מִשֶּׁתֵּרֵד רְבִיעָה שְׁנִיָּה. אָמַר רַבִּי יְהוּדָה, וַהֲלֹא יֵשׁ שֶׁאֵינָם מוֹסְקִין אֶת זֵיתֵיהֶם אֶלָּא לְאַחַר רְבִיעָה שְׁנִיָּה. אֶלָּא כְדֵי שֶׁיְּהֵא הֶעָנִי יוֹצֵא וְלֹא יְהֵא מֵבִיא בְּאַרְבָּעָה אִסָּרוֹת:  ",
+   "en": "From when are all people permitted to take gleanings, [forgotten sheaves and peah]? After the old ones of the poor have gone. And in the case of peret and defective clusters? After the poor have gone into the vineyard and come back again. And in the case of the olive trees? After the descent of the second rainfall. Rabbi Judah said: But aren’t there those who do not harvest their olives until after the second rainfall?” Rather, once the poor man has gone out [to gather the agricultural gifts taken from olive trees] and cannot bring back with him [more than the value of] four issars."
+  },
+  {
+   "he": "נֶאֱמָנִים עַל הַלֶּקֶט וְעַל הַשִּׁכְחָה וְעַל הַפֵּאָה בִּשְׁעָתָן, וְעַל מַעְשַׂר עָנִי בְּכָל שְׁנָתוֹ. וּבֶן לֵוִי נֶאֱמָן לְעוֹלָם. וְאֵינָן נֶאֱמָנִין אֶלָּא עַל דָּבָר שֶׁבְּנֵי אָדָם נוֹהֲגִין כֵּן:  ",
+   "en": "They [amei haaretz] are to be believed concerning gleanings, the forgotten sheaf and peah during their [harvest] season, and concerning the poor man’s tithe during its whole year. A Levite is always to be trusted. They are only believed in those things which men are accustomed to give them."
+  },
+  {
+   "he": "נֶאֱמָנִין עַל הַחִטִּים, וְאֵין נֶאֱמָנִין עַל הַקֶּמַח וְלֹא עַל הַפָּת. נֶאֱמָנִין עַל הַשְּׂעוֹרָה שֶׁל אֹרֶז, וְאֵין נֶאֱמָנִין עָלָיו בֵּין חַי בֵּין מְבֻשָּׁל. נֶאֱמָנִין עַל הַפּוֹל, וְאֵין נֶאֱמָנִין עַל הַגְּרִיסִין, לֹא חַיִּים וְלֹא מְבֻשָּׁלִין. נֶאֱמָנִין עַל הַשֶּׁמֶן לוֹמַר שֶׁל מַעְשַׂר עָנִי הוּא, וְאֵין נֶאֱמָנִין עָלָיו לוֹמַר שֶׁל זֵיתֵי נִקּוּף הוּא:  ",
+   "en": "They are trusted concerning wheat, but they are not trusted when it is flour or bread. They are trusted concerning rice in its husk, but they are not trusted when it is either raw or cooked. They are trusted concerning beans but they are not trusted when they have been pounded, neither raw nor cooked. They are trusted when concerning oil, to declare that it is from the poor person’s tithe, but they are not trusted over [oil] when they claim that it is from the olives [left on the] top [of the tree.]"
+  },
+  {
+   "he": "נֶאֱמָנִים עַל הַיָּרָק חַי, וְאֵין נֶאֱמָנִים עַל הַמְבֻשָּׁל, אֶלָּא אִם כֵּן הָיָה לוֹ דָּבָר מֻעָט, שֶׁכֵּן דֶּרֶךְ בַּעַל הַבַּיִת לִהְיוֹת מוֹצִיא מִלְּפָסוֹ:  ",
+   "en": "They are trusted concerning raw vegetables, but they are not trusted concerning are cooked ones, unless he has only a little bit, for so it was the custom of a householder to take out of his stew-pot [and give a little to the poor]."
+  },
+  {
+   "he": "אֵין פּוֹחֲתִין לָעֲנִיִּים בַּגֹּרֶן מֵחֲצִי קַב חִטִּים וְקַב שְׂעוֹרִים. רַבִּי מֵאִיר אוֹמֵר, חֲצִי קַב. קַב וָחֵצִי כֻסְּמִין, וְקַב גְּרוֹגָרוֹת, אוֹ מָנֶה דְּבֵלָה. רַבִּי עֲקִיבָא אוֹמֵר, פְּרָס. חֲצִי לֹג יָיִן. רַבִּי עֲקִיבָא אוֹמֵר, רְבִיעִית. רְבִיעִית שֶׁמֶן. רַבִּי עֲקִיבָא אוֹמֵר, שְׁמִינִית. וּשְׁאָר כָּל הַפֵּרוֹת, אָמַר אַבָּא שָׁאוּל, כְּדֵי שֶׁיִּמְכְּרֵם וְיִקַּח בָּהֶם מְזוֹן שְׁתֵּי סְעֻדּוֹת:  ",
+   "en": "They may not give to the poor from the threshing-floor less than a half-kav of wheat or a kav of barley. R. Meir says: [only] half a kav [of barley]. [They must give] a kav and a half of spelt, a kav of dried figs or a maneh of pressed figs. Rabbi Akiva says: half a maneh. [They must give] half a log of wine. Rabbi Akiva says: a quarter. [They must give] a quarter [log] of oil. Rabbi Akiva says: an eighth. As for other kinds of produce: Abba Shaul says, [they must give enough] so that he can sell it and buy food enough for two meals."
+  },
+  {
+   "he": "מִדָּה זוֹ אֲמוּרָה בְּכֹהֲנִים וּבִלְוִיִּם וּבְיִשְׂרְאֵלִים. הָיָה מַצִּיל, נוֹטֵל מֶחֱצָה וְנוֹתֵן מֶחֱצָה. הָיָה לוֹ דָבָר מֻעָט, נוֹתֵן לִפְנֵיהֶם, וְהֵן מְחַלְּקִין בֵּינֵיהֶם:  ",
+   "en": "This measure was stated for the priest, Levite and Israelite alike. If he was saving some [to give to his poor relatives], he can retain half and give the other half away. If he has only a small amount, then he must place it before them and they then divide it among themselves."
+  },
+  {
+   "he": "אֵין פּוֹחֲתִין לֶעָנִי הָעוֹבֵר מִמָּקוֹם לְמָקוֹם מִכִּכָּר בְּפוּנְדְיוֹן, מֵאַרְבַּע סְאִין בְּסֶלַע. לָן, נוֹתְנִין לוֹ פַּרְנָסַת לִינָה. שָׁבַת, נוֹתְנִין לוֹ מְזוֹן שָׁלשׁ סְעֻדּוֹת. מִי שֶׁיֶּשׁ לוֹ מְזוֹן שְׁתֵּי סְעֻדּוֹת, לֹא יִטֹּל מִן הַתַּמְחוּי. מְזוֹן אַרְבַּע עֶשְׂרֵה סְעֻדּוֹת, לֹא יִטֹּל מִן הַקֻּפָּה. וְהַקֻּפָּה נִגְבֵּית בִּשְׁנַיִם, וּמִתְחַלֶּקֶת בִּשְׁלשָׁה:  ",
+   "en": "They may not give a poor person wandering from place to place less than a loaf worth a pundion at a time when four seahs [of wheat cost] one sela. If he spends the night [at a place], they must give him the cost of what he needs for the night. If he stays over Shabbat they must give him enough food for three meals. He who has the money for two meals, he may not take anything from the charity dish. And if he has enough money for fourteen meals, he may not take any support from the communal fund. The communal fund is collected by two and distributed by three people."
+  },
+  {
+   "he": "מִי שֶׁיֶּשׁ לוֹ מָאתַיִם זוּז, לֹא יִטֹּל לֶקֶט שִׁכְחָה וּפֵאָה וּמַעְשַׂר עָנִי. הָיוּ לוֹ מָאתַיִם חָסֵר דִּינָר, אֲפִלּוּ אֶלֶף נוֹתְנִין לוֹ כְאַחַת, הֲרֵי זֶה יִטֹּל. הָיוּ מְמֻשְׁכָּנִים לְבַעַל חוֹבוֹ אוֹ לִכְתֻבַּת אִשְׁתּוֹ, הֲרֵי זֶה יִטֹּל. אֵין מְחַיְּבִין אוֹתוֹ לִמְכֹּר אֶת בֵּיתוֹ וְאֶת כְּלֵי תַשְׁמִישׁוֹ:  ",
+   "en": "One who possesses two hundred zuz, may not take gleanings” the forgotten sheaf, peah or the poor man’s tithe. If he possesses two hundred minus one denar, then even if a thousand [men] each give him at the same time, he may accept. If he had [two hundred zuz] mortgaged to a creditor or to his wife’s ketubah, he may take. They do not force him to sell his house or his tools."
+  },
+  {
+   "he": "מִי שֶׁיֶּשׁ לוֹ חֲמִשִּׁים זוּז וְהוּא נוֹשֵׂא וְנוֹתֵן בָּהֶם, הֲרֵי זֶה לֹא יִטֹּל. וְכָל מִי שֶׁאֵינוֹ צָרִיךְ לִטֹּל וְנוֹטֵל, אֵינוֹ נִפְטָר מִן הָעוֹלָם עַד שֶׁיִּצְטָרֵךְ לַבְּרִיּוֹת. וְכָל מִי שֶׁצָּרִיךְ לִטֹּל וְאֵינוֹ נוֹטֵל, אֵינוֹ מֵת מִן הַזִּקְנָה עַד שֶׁיְּפַרְנֵס אֲחֵרִים מִשֶּׁלּוֹ, וְעָלָיו הַכָּתוּב אוֹמֵר בָּרוּךְ הַגֶּבֶר אֲשֶׁר יִבְטַח בַּה' וְהָיָה ה' מִבְטַחוֹ (ירמיה יז). וְכֵן דַּיָּן שֶׁדָּן דִּין אֱמֶת לַאֲמִתּוֹ. וְכָל מִי שֶׁאֵינוֹ לֹא חִגֵּר, וְלֹא סוּמָא, וְלֹא פִסֵּחַ, וְעוֹשֶׂה עַצְמוֹ כְּאַחַד מֵהֶם, אֵינוֹ מֵת מִן הַזִּקְנָה עַד שֶׁיִּהְיֶה כְּאֶחָד מֵהֶם, שֶׁנֶּאֱמַר (דברים טז) צֶדֶק צֶדֶק תִּרְדֹּף. וְכָל דַּיָּן שֶׁלּוֹקֵחַ שֹׁחַד וּמַטֶּה אֶת הַדִּין, אֵינוֹ מֵת מִן הַזִּקְנָה עַד שֶׁעֵינָיו כֵּהוֹת, שֶׁנֶּאֱמַר (שמות כג) וְשֹׁחַד לֹא תִקָּח כִּי הַשֹּׁחַד יְעַוֵּר פִּקְחִים וְגוֹ':<br>סְלִיק מַסֶּכֶת פֵּאָה  ",
+   "en": "One who has fifty zuz and he is using them for his business, he must not take. And anyone who does not need to take [charity] and yet takes, will not depart from this world before he actually needs [charity] from others. And anyone who needs to take and does not take, will not die of old age until he supports others with his own money. Concerning him the verse says: “Blessed is the man who trusts in the Lord and whose hope is the Lord” (Jeremiah 17:7). And so too a judge who judges in truth according to its truth. And anyone who is not lame or blind but pretends to be as one of these, he will not die of old age before he actually becomes one of these, as it is said, “He who searches for evil, it shall come upon him” (Proverbs 11:27) and it is also said: “Righteousness, righteousness shall you pursue\" (Deuteronomy 16:20). And any judge who accepts a bribe or who perverts justice will not die in old age before his eyes have become dim, as it is said: “And you shall not accept a bribe, for a bribe blinds the eyes of those who have sight. (Exodus 23:8)”"
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1: Everyone may take leket after the nemushot have gone, peret and olelot after the poor have gone into the vineyard and come back, and olives after the second rainfall; Rabbi Yehudah objects that some do not harvest until after it, so the poor man need only be unable to bring back four issarot.\nMishnah 2: Poor people are believed that produce is leket, shichechah and peah in their season and maaser ani all its year, and a Levi is always believed, but only about what people customarily give them.\nMishnayot 3–4: They are believed about wheat but not flour or bread, rice in its husk but not raw or cooked, beans but not ground beans, oil as maaser ani but not as zeitei nikuf, and raw vegetables but not cooked unless there is little.\nMishnayot 5–6: The poor are not given less at the threshing floor than half a kav of wheat and the other measures listed, with Rabbi Meir, Rabbi Akiva and Abba Shaul disagreeing, and this applies to kohanim, Levi'im and Israelites; one who saves some for his relatives keeps half.\nMishnah 7: A wandering poor man gets at least a loaf for a pundion, lodging if he stays the night, and three meals on Shabbat; one with two meals may not take from the tamchui, nor one with fourteen from the kupah, which is collected by two and distributed by three.\nMishnayot 8–9: One with two hundred zuz may not take, but one with less may even if given a thousand at once, and a house and tools need not be sold; one with fifty who trades may not take, and the mishnah warns of the fate of one who takes without need, one who needs and does not, a false judge and one who feigns disability.",
+  "topics": [
+   {
+    "term": "Leket and the end of the poor's claim",
+    "explanation": "Leket, the stalks that fall in the harvest, belongs to the poor. The mishnah asks from when everyone is permitted to take it. The Rambam says the Torah's \"for the poor and the stranger you shall leave them\" applies only while the poor are seeking it; once they stop, it is permitted to everyone, since the Torah did not command that it be left to go to waste or to the birds.",
+    "mishnah": 1,
+    "anchors": [
+     "מותרין בלקט"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 8:1:1",
+     "quote": "וכשיפסקו העניים מלבקש אותם הם מותרים לכל בני אדם כי לא צוה הקב\"ה שיעזבוה לאיבוד או לעופות"
+    }
+   },
+   {
+    "term": "Nemushot",
+    "explanation": "The nemushot are the ones whose leaving marks the end of the poor's claim to leket. The Yachin explains them as the elders who go slowly and bent over, gathering each ear one at a time, and says they are called nemushot because they feel their way with sticks. He brings a second view that they are those who glean after the gleaners.",
+    "mishnah": 1,
+    "anchors": [
+     "הנמושות"
+    ],
+    "source": {
+     "name": "Yachin",
+     "ref": "Yachin on Mishnah Peah 8:2:1",
+     "quote": "והן הזקנים שהולכים לאט ושחוח. ומלקטין כל שבולת יחידי"
+    }
+   },
+   {
+    "term": "The second rainfall (revi'ah sheniyah)",
+    "explanation": "For olives the time is set at the second rainfall. The Bartenura explains that rain is called revi'ah because it causes the earth to conceive, bear and sprout, as a male covers a female; he gives a second explanation that it presses the dust down and makes it settle.",
+    "mishnah": 1,
+    "anchors": [
+     "משתרד רביעה שניה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 8:1:2",
+     "quote": "הַמָּטָר נִקְרָא רְבִיעָה מִפְּנֵי שֶׁהוּא רוֹבֵעַ אֶת הָאָרֶץ וּמוֹלִידָהּ וּמַצְמִיחָהּ"
+    }
+   },
+   {
+    "term": "Trust only in what is the usual way of giving",
+    "explanation": "The mishnah lets the poor be believed that produce is from the gifts of the poor, but only in what people usually give them. The Bartenura says this means things people are accustomed to give them, and not things that are not usually given them; the mishnah then spells it out.",
+    "mishnah": 2,
+    "anchors": [
+     "אלא על דבר שבני אדם נוהגין כן"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 8:2:5",
+     "quote": "נוֹהֲגִים לָתֵת לָהֶם כֵּן, וְלֹא עַל דָּבָר שֶׁאֵין רְגִילִים לָתֵת לָהֶם כַּיּוֹצֵא בוֹ"
+    }
+   },
+   {
+    "term": "Zeitei nikuf",
+    "explanation": "Zeitei nikuf are the olives that escaped the harvest and fell from the trees; the poor beat them off and they are the poor's share. The Rambam says the poor are not believed that oil is from them, because it is not possible to press or grind so small an amount.",
+    "mishnah": 3,
+    "anchors": [
+     "זיתי נקוף"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 8:3:6",
+     "quote": "הם הזיתים הנמלטים שנשרו מן האילנות וחובטין אותן העניים והן זכותם"
+    }
+   },
+   {
+    "term": "Tamchui and kupah",
+    "explanation": "The tamchui is the bowl the collectors carry each day to householders, who put cooked food into it for the poor. The kupah is the charity fund collected and distributed from one Friday to the next. The mishnah gives different limits for taking from each.",
+    "mishnah": 7,
+    "anchors": [
+     "מן התמחוי"
+    ],
+    "source": {
+     "name": "Yachin",
+     "ref": "Yachin on Mishnah Peah 8:37:1",
+     "quote": "קערה שמחזירן הגבאין בכל יום אצל הבעלי בתים. שיתנו לתוכה תבשיל"
+    }
+   },
+   {
+    "term": "Two hundred zuz",
+    "explanation": "One who has two hundred zuz may not take leket, shichechah, peah or the poor man's tithe. The Bartenura says the Sages established that this sum is enough for a year, for clothing and food.",
+    "mishnah": 8,
+    "anchors": [
+     "מי שיש לו מאתים זוז"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Peah 8:8:1",
+     "quote": "קִים לְהוּ לְרַבָּנָן שֶׁאֵלּוּ מַסְפִּיקִים לְשָׁנָה אַחַת לִכְסוּת וְלִמְזוֹנוֹת"
+    }
+   },
+   {
+    "term": "Fifty zuz that are traded with",
+    "explanation": "One who has only fifty zuz but does business with them may not take. The Rambam says fifty that are traded with are equal to two hundred that are not, and that one who knows how to trade is forbidden to take even if he works with only fifty of them.",
+    "mishnah": 9,
+    "anchors": [
+     "חמשים זוז והוא נושא ונותן בהם"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Peah 8:9:1",
+     "quote": "חמשים זוז אשר יסחרו בהם ישוו מאתים שלא יסחרו בהם"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Nemushot for leket, but not for peret?",
+    "pasuk": {
+     "text": "בפרט ועוללות, משילכו העניים בכרם ויבאו",
+     "ref": "Mishnah Peah 8:1",
+     "label": "Mishnah Peah 8:1"
+    },
+    "question": "For leket the mishnah says \"after the nemushot have gone,\" but for peret and olelot it says \"after the poor have gone into the vineyard and come back again.\" If nemushot means those who glean after the gleaners, the two wordings say the same thing. Why does the mishnah change its wording?",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Peah 8:1:1",
+      "quote": "ויש לתמוה דא\"כ היינו לקוטי בתר לקוטי דרישא",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Peah 8:1:5",
+      "quote": "לפ\"ז צ\"ע. דא\"ה היינו משילכו העניים ויבואו",
+      "era": "acharon"
+     },
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Peah 8:2:1",
+      "quote": "ולמה שני תנא בלישניה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Tosefot Yom Tov brings the Yerushalmi: nemushot is not taught for peret because the poor are fond of it and come right away.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 8:1:3",
+        "quote": "ולא תנינן נמושות על ידי שהן חביבין באין על אתר"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin finds the first view, that nemushot are the elders, more reasonable, since on the second view nemushot would be the same as \"after the poor have gone and come back.\"",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 8:2:1",
+        "quote": "ומסתבר כפי' קמא דאי כפי' ב' היינו משילכו עניים ויבואו"
+       }
+      ]
+     },
+     {
+      "text": "The Hon Ashir reads \"after the poor have gone into the vineyard and come back\" as meaning they must not just cut through the vineyard and leave without returning, but come back through it.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Peah 8:1:1",
+        "quote": "ולא יעשו הכרם קפנדריא ויצאו ממנה מבלי שיחזרו לאחור"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that two small differences in wording may reflect two different conditions for when the poor give up on a field.",
+    "mishnah": 1,
+    "anchors": [
+     "בפרט ועוללות, משילכו העניים בכרם ויבאו"
+    ]
+   },
+   {
+    "title": "When is the second rainfall?",
+    "pasuk": {
+     "text": "ובזיתים, משתרד רביעה שניה",
+     "ref": "Mishnah Peah 8:1",
+     "label": "Mishnah Peah 8:1"
+    },
+    "question": "For olives the mishnah sets the time at the second rainfall. The Bartenura gives 23 Marcheshvan here, but in Taanit he is said to explain it as 17 Marcheshvan. What is the date?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 8:1:5",
+      "quote": "פירש הר\"ב בכ\"ג במרחשון וכ\"פ במשנה ה' פרק ח' דנדרים",
+      "era": "acharon"
+     },
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Peah 8:1:3",
+      "quote": "כאן פי' ר\"ע ז\"ל כמ\"ד כ\"ג בחשון אבל בפ\"ק דתעניות סי' ד' וגם שם רפ\"ג פי' כמ\"ד י\"ז במרחשון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam gives three dates by the kind of year: 17 Marcheshvan in an early year, 23 in an average year, and Rosh Chodesh Kislev in a late year.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 8:1:3",
+        "quote": "בשנה המבכרת הוא בי\"ז במרחשון ובשנה הבינונית בכ\"ג במרחשון ובשנה המאוחרת בראש חדש כסליו"
+       }
+      ]
+     },
+     {
+      "text": "The Bartenura says that the time of the second rainfall in an average year is 23 Marcheshvan.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 8:1:2",
+        "quote": "וזמן רביעה שניה בשנה בינונית הוא בכ\"ג במרחשון"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the date depends on the year, and so the mishnah's \"second rainfall\" is a condition, not a fixed date.",
+    "mishnah": 1,
+    "anchors": [
+     "ובזיתים, משתרד רביעה שניה"
+    ]
+   },
+   {
+    "title": "If other poor are unaware, has the field been given up?",
+    "pasuk": {
+     "text": "מאימתי כל אדם מותרין בלקט",
+     "ref": "Mishnah Peah 8:1",
+     "label": "Mishnah Peah 8:1"
+    },
+    "question": "The Bartenura says that once the poor have gone, they have despaired of the field and what is left is hefker. But other poor, elsewhere, may not know, and small children of the poor also have a share. How can there be despair that permits it to everyone?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 8:1:3",
+      "quote": "וקשה לי הא מ\"מ גם לעניים קטנים יש חלק בזה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rashash: even if they had already acquired it, there is no theft in it, so the minors' share is not a difficulty.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Peah 8:2:3",
+        "quote": "נ\"ל דלק\"מ דהא אפי' אם כבר זכו בו אין בהם משום גזל"
+       }
+      ]
+     },
+     {
+      "text": "The Boaz says the \"it still needs study\" is not needed, and argues from the case of orphans' money, where the fact that minors cannot forgo is no reason to forbid profit.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Peah 8:1",
+        "quote": "מה צ\"ע. לפע\"ד זו א\"צ"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam does not ground the permission in the poor's despair at all: once there are no poor, the Torah did not command that it be left to waste or to the birds.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 8:1:1",
+        "quote": "כי לא צוה הקב\"ה שיעזבוה לאיבוד או לעופות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the permission to take leket may rest on the poor's despair, or on the end of the mitzvah itself, and the answers differ on which.",
+    "mishnah": 1,
+    "anchors": [
+     "מאימתי כל אדם מותרין בלקט"
+    ]
+   },
+   {
+    "title": "Doesn't the owner's field acquire it for him?",
+    "pasuk": {
+     "text": "מאימתי כל אדם מותרין בלקט",
+     "ref": "Mishnah Peah 8:1",
+     "label": "Mishnah Peah 8:1"
+    },
+    "question": "Once the poor have despaired and the leket becomes hefker, why doesn't the owner acquire it at once through his courtyard, which acquires without his knowledge? Even if the owner is not standing there, a courtyard that is not guarded also acquires.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 8:1:4",
+      "quote": "קשה לי הא הלקט שנופל בעת הקצירה שהוא על שדה דבעל הבית",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rashash: the courtyard is no better than his hand; if it came into his hand before the poor despaired, he would not acquire it.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Peah 8:2:2",
+        "quote": "דלא עדיפא חצירו מידו"
+       }
+      ]
+     },
+     {
+      "text": "The Lechem Shamayim: lest you say that since the poor have despaired it is the owner's and his field acquires it, the mishnah teaches that as long as he has not shown that he wishes to acquire it, it remains available to all.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Peah 8:1:1-2",
+        "quote": "דלא תימא כיון שנתייאשו ממנו עניים הרי הוא של בע\"ה שזכתה לו שדהו. קמ\"ל כל כמה דלא גלי דעתיה דניחא ליה דליקני"
+       }
+      ]
+     }
+    ],
+    "why": "It asks who owns leket after the poor give it up: the owner, through his field, or whoever takes it.",
+    "mishnah": 1,
+    "anchors": [
+     "מאימתי כל אדם מותרין בלקט"
+    ]
+   },
+   {
+    "title": "Why not believe him on flour, with a migo?",
+    "pasuk": {
+     "text": "נאמנין על החטים, ואין נאמנין על הקמח ולא על הפת",
+     "ref": "Mishnah Peah 8:3",
+     "label": "Mishnah Peah 8:3"
+    },
+    "question": "A poor man is believed that wheat is from the poor's gifts, but not that flour or bread is. If he says \"I gleaned it and ground it myself,\" he is believed. Why, then, is he not believed by a migo, that he could have said that?",
+    "asked_by": [
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Peah 8:14:1",
+      "quote": "ואע\"ג דבאמר טחנתי ואפיתי נאמן",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Peah 8:2:1",
+      "quote": "קשיא לי ליהמנינהו במגו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Tosefot Yom Tov, citing the Rash: since it is not the way to distribute flour and bread at all, they are like witnesses, and there is no migo against witnesses.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 8:3:2",
+        "quote": "מאחר שאין דרך לחלקו כלל קמח ופת הוו כמו עדים"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin: even so he is not believed by a migo, because it is a migo against witnesses.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 8:14:1",
+        "quote": "אפילו הכי אינו נאמן במגו. מדהו\"ל מגו במקום עדים"
+       }
+      ]
+     },
+     {
+      "text": "The Lechem Shamayim reads the mishnah as speaking of poor who are trustworthy about tithes.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Peah 8:2:1",
+        "quote": "אלא הב\"ע בעניים הנאמנים על המעשרות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows when the claim \"I could have said otherwise\" does not help.",
+    "mishnah": 3,
+    "anchors": [
+     "נאמנין על החטים, ואין נאמנין על הקמח ולא על הפת"
+    ]
+   },
+   {
+    "title": "Why is cooked produce believed only if there is little?",
+    "pasuk": {
+     "text": "אלא אם כן היה לו דבר מעט, שכן דרך בעל הבית להיות מוציא מלפסו",
+     "ref": "Mishnah Peah 8:4",
+     "label": "Mishnah Peah 8:4"
+    },
+    "question": "The poor are believed about raw vegetables but not cooked ones, unless there is little, since it is the way of a householder to take from his pot. A reason offered is that since the poor man can say the householder gave it to him, he can also say \"I cooked it from my gifts.\" Rabbi Akiva Eiger objects that he is believed to say he cooked it even without that. What is the reason?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 8:4:1",
+      "quote": "ותמיה לי הא בלא\"ה נאמן לומר אני בשלתי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: sometimes a householder forgot to tithe, and he tithes from the cooked food from within the pot.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 8:4:2",
+        "quote": "דפעמים שבעל הבית שכח מלעשר ומעשר מן המבושל מתוך הקדרה"
+       }
+      ]
+     },
+     {
+      "text": "The Melekhet Shelomoh brings Rabbi Yosef Ashkenazi: a small amount is not worth the poor man's trouble to cook, so the householder cooks it first and gives it to him cooked.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Peah 8:4:1",
+        "quote": "כי אינו ראוי לעני שאין העני רוצה ליטפל בו ולבשלו בעבור שהוא מעט"
+       }
+      ]
+     }
+    ],
+    "why": "It asks why the mishnah ties belief to the quantity of cooked food.",
+    "mishnah": 4,
+    "anchors": [
+     "אלא אם כן היה לו דבר מעט, שכן דרך בעל הבית להיות מוציא מלפסו"
+    ]
+   },
+   {
+    "title": "Why does the mishnah mention kohanim and Levi'im?",
+    "pasuk": {
+     "text": "מדה זו אמורה בכהנים ובלוים ובישראלים",
+     "ref": "Mishnah Peah 8:6",
+     "label": "Mishnah Peah 8:6"
+    },
+    "question": "The mishnah says the measure applies to kohanim, Levi'im and Israelites. Why was it necessary to say so, when the same is taught elsewhere?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 8:6:1",
+      "quote": "ולא אתפרש לי למאי איצטריך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Tosefot Yom Tov himself: you might have thought that since they have terumot and ma'asrot they need not be given maaser ani to a full meal, so the mishnah teaches that they must.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 8:6:1",
+        "quote": "דסלקא דעתך אמינא דכיון שיש להם תרומות ומעשרות לא נתחייב לתת להם ממעשר עני כדי שובען קמ\"ל"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin: it teaches that even though they have terumah and ma'aser, maaser ani is not given them less than the measure.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Peah 8:30:1",
+        "quote": "קמ\"ל אף שיש להן תרומה ומעשר. אפ\"ה אין פוחתין לו מעשר עני משיעור הנ\"ל"
+       }
+      ]
+     },
+     {
+      "text": "The Bartenura reads it as a statement about the givers: each of them who distributes maaser ani at the threshing floor must not give less than this measure.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 8:6:1",
+        "quote": "כָּל אֶחָד מֵהֶם שֶׁמְּחַלֵּק מַעְשַׂר עָנִי בַּגֹּרֶן לֹא יִפְחֹת מִזֶּה הַשִּׁעוּר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows two readings of the clause: about who receives, or about who gives.",
+    "mishnah": 6,
+    "anchors": [
+     "מדה זו אמורה בכהנים ובלוים ובישראלים"
+    ]
+   },
+   {
+    "title": "Enough for two meals: how can he then go without?",
+    "pasuk": {
+     "text": "מי שיש לו מזון שתי סעודות, לא יטול מן התמחוי",
+     "ref": "Mishnah Peah 8:7",
+     "label": "Mishnah Peah 8:7"
+    },
+    "question": "One who has food for two meals may not take from the tamchui. But if he eats one now and one tonight, he will have nothing for the next day. Why may he not take?",
+    "asked_by": [
+     {
+      "name": "Yesh Seder LaMishnah",
+      "ref": "Yesh Seder LaMishnah on Mishnah Peah 8:7:1",
+      "quote": "וקשה להרשב\"א הא דתנן מי שיש לו מזון שתי סעודות לא יטול מן התמחוי ואמאי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Yesh Seder LaMishnah: the mishnah speaks of a poor resident of the city; he may not take today from the tamchui, but tomorrow, when he needs, he takes.",
+      "sources": [
+       {
+        "name": "Yesh Seder LaMishnah",
+        "ref": "Yesh Seder LaMishnah on Mishnah Peah 8:7:1",
+        "quote": "לא יטול היום מן התמחוי אלא למחר כשיצטרך יקח מן התמחוי"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: food for two meals is food for one day, and the tamchui is distributed every day.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Peah 8:7:7",
+        "quote": "והוא מאכל ליום אחד לא יקח מן התמחוי שיחלקו בכל יום"
+       }
+      ]
+     },
+     {
+      "text": "The Bartenura: the tamchui is distributed every day.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Peah 8:7:4",
+        "quote": "לפי שהתמחוי מתחלק בכל יום"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the tamchui, distributed daily, is measured against a day's food, and the kupah against a week's.",
+    "mishnah": 7,
+    "anchors": [
+     "מי שיש לו מזון שתי סעודות, לא יטול מן התמחוי"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Hon Ashir",
+   "Lechem Shamayim",
+   "Yachin",
+   "Tosefot Yom Tov",
+   "Melekhet Shelomoh",
+   "Rambam",
+   "Bartenura",
+   "Tosafot Rabbi Akiva Eiger",
+   "Rashash",
+   "Boaz",
+   "Yesh Seder LaMishnah"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א: כל אדם מותר בלקט משילכו הנמושות, בפרט ועוללות משילכו העניים בכרם ויבואו, ובזיתים משתרד רביעה שנייה; רבי יהודה מקשה שיש שאינם מוסקים אלא אחריה, ולכן העני צריך רק שלא יביא בארבעה איסרות.\nמשנה ב: עניים נאמנים על הלקט, השכחה והפאה בשעתן ועל מעשר עני בכל שנתו, ובן לוי נאמן לעולם, אך רק על דבר שבני אדם נוהגים כן.\nמשניות ג-ד: נאמנים על החיטים ולא על הקמח והפת, על שעורה של אורז ולא על חי ומבושל, על הפול ולא על הגריסין, על השמן שהוא מעשר עני ולא שהוא מזיתי נקוף, ועל ירק חי ולא על מבושל אלא אם יש לו דבר מועט.\nמשניות ה-ו: אין פוחתין לעניים בגורן מחצי קב חיטים ושאר השיעורים, ורבי מאיר, רבי עקיבא ואבא שאול חלוקים, והמידה אמורה בכהנים, בלויים ובישראלים; מי שמציל נוטל מחצה ונותן מחצה.\nמשנה ז: עני העובר ממקום למקום מקבל לפחות ככר בפונדיון, פרנסת לינה אם לן, ושלוש סעודות בשבת; מי שיש לו מזון שתי סעודות לא יטול מן התמחוי, ומי שיש לו ארבע עשרה סעודות לא יטול מן הקופה, הנגבית בשניים ומתחלקת בשלושה.\nמשניות ח-ט: מי שיש לו מאתיים זוז לא יטול, ובחסר דינר נוטל אפילו נותנים לו אלף כאחת, ואין מחייבים למכור בית וכלי תשמישו; מי שיש לו חמישים זוז ונושא ונותן בהם לא יטול, והמשנה מזהירה מגורל הנוטל שלא לצורך, הצריך ואינו נוטל, הדיין והעושה עצמו כחגר.",
+  "topics": [
+   {
+    "term": "לקט ופקיעת זכות העניים",
+    "explanation": "לקט הוא השיבולים הנושרות בשעת הקציר, והוא של העניים. המשנה שואלת מאימתי מותר לכל אדם ליטול אותו. הרמב\"ם מסביר שהציווי \"לעני ולגר תעזוב אותם\" חל רק כל עוד העניים מבקשים אותו; משיפסקו, הוא מותר לכל אדם, כי התורה לא ציוותה להשאיר אותו לאיבוד או לעופות.",
+    "mishnah": 1,
+    "anchors": [
+     "מותרין בלקט"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 8:1:1",
+     "quote": "וכשיפסקו העניים מלבקש אותם הם מותרים לכל בני אדם כי לא צוה הקב\"ה שיעזבוה לאיבוד או לעופות"
+    }
+   },
+   {
+    "term": "נמושות",
+    "explanation": "הנמושות הן אלו שהליכתם מסמנת את סוף זכות העניים בלקט. היכין מסביר שהן הזקנים ההולכים לאט ובכפיפות, ומלקטים כל שיבולת לבדה, ונקראים נמושות על שם שהם ממשמשים במקלות. הוא מביא גם פירוש שני: הלוקטים אחר הלוקטים.",
+    "mishnah": 1,
+    "anchors": [
+     "הנמושות"
+    ],
+    "source": {
+     "name": "תפארת ישראל (יכין)",
+     "ref": "Yachin on Mishnah Peah 8:2:1",
+     "quote": "והן הזקנים שהולכים לאט ושחוח. ומלקטין כל שבולת יחידי"
+    }
+   },
+   {
+    "term": "רביעה שנייה",
+    "explanation": "בזיתים הזמן נקבע לפי הרביעה השנייה. ברטנורא מסביר שהגשם נקרא רביעה מפני שהוא רובע את הארץ ומוליד ומצמיח, ומביא פירוש אחר: שהוא משכיב את העפר ומרביץ אותו.",
+    "mishnah": 1,
+    "anchors": [
+     "משתרד רביעה שניה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 8:1:2",
+     "quote": "הַמָּטָר נִקְרָא רְבִיעָה מִפְּנֵי שֶׁהוּא רוֹבֵעַ אֶת הָאָרֶץ וּמוֹלִידָהּ וּמַצְמִיחָהּ"
+    }
+   },
+   {
+    "term": "נאמנות רק על דבר שדרך ליתן",
+    "explanation": "המשנה מאמינה לעניים שהתבואה היא ממתנות עניים, אך רק בדבר שבני אדם נוהגים לתת להם. ברטנורא מסביר שהכוונה לדבר שנוהגים לתת להם, ולא לדבר שאין רגילים לתת להם כיוצא בו, והמשנה מפרטת זאת להלן.",
+    "mishnah": 2,
+    "anchors": [
+     "אלא על דבר שבני אדם נוהגין כן"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 8:2:5",
+     "quote": "נוֹהֲגִים לָתֵת לָהֶם כֵּן, וְלֹא עַל דָּבָר שֶׁאֵין רְגִילִים לָתֵת לָהֶם כַּיּוֹצֵא בוֹ"
+    }
+   },
+   {
+    "term": "זיתי נקוף",
+    "explanation": "זיתי נקוף הם הזיתים שנמלטו ונשרו מן האילנות, ושהעניים חובטים אותם והם זכותם. הרמב\"ם מסביר שהעני אינו נאמן לומר שהשמן הוא מהם, כי אי אפשר לדרוך או לטחון דבר מועט.",
+    "mishnah": 3,
+    "anchors": [
+     "זיתי נקוף"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 8:3:6",
+     "quote": "הם הזיתים הנמלטים שנשרו מן האילנות וחובטין אותן העניים והן זכותם"
+    }
+   },
+   {
+    "term": "תמחוי וקופה",
+    "explanation": "התמחוי הוא הקערה שהגבאים מחזירים בכל יום אצל בעלי הבתים, והם נותנים לתוכה תבשיל לעניים. הקופה היא קופת הצדקה הנגבית ומתחלקת מערב שבת לערב שבת. המשנה קובעת גבולות שונים ליטילה מכל אחד מהם.",
+    "mishnah": 7,
+    "anchors": [
+     "מן התמחוי"
+    ],
+    "source": {
+     "name": "תפארת ישראל (יכין)",
+     "ref": "Yachin on Mishnah Peah 8:37:1",
+     "quote": "קערה שמחזירן הגבאין בכל יום אצל הבעלי בתים. שיתנו לתוכה תבשיל"
+    }
+   },
+   {
+    "term": "מאתיים זוז",
+    "explanation": "מי שיש לו מאתיים זוז לא יטול לקט, שכחה, פאה ומעשר עני. ברטנורא מסביר שחז\"ל קבעו שסכום זה מספיק לשנה אחת לכסות ולמזונות.",
+    "mishnah": 8,
+    "anchors": [
+     "מי שיש לו מאתים זוז"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Peah 8:8:1",
+     "quote": "קִים לְהוּ לְרַבָּנָן שֶׁאֵלּוּ מַסְפִּיקִים לְשָׁנָה אַחַת לִכְסוּת וְלִמְזוֹנוֹת"
+    }
+   },
+   {
+    "term": "חמישים זוז שנושא ונותן בהם",
+    "explanation": "מי שיש לו רק חמישים זוז אך נושא ונותן בהם אינו נוטל. הרמב\"ם מסביר שחמישים שסוחרים בהם שווים מאתיים שאינם סוחרים בהם, ומי שיודע לסחור אסור לו ליטול מתנות עניים אף אם עוסק רק בחמישים.",
+    "mishnah": 9,
+    "anchors": [
+     "חמשים זוז והוא נושא ונותן בהם"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Peah 8:9:1",
+     "quote": "חמשים זוז אשר יסחרו בהם ישוו מאתים שלא יסחרו בהם"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "נמושות בלקט, ובפרט ועוללות לא?",
+    "pasuk": {
+     "text": "בפרט ועוללות, משילכו העניים בכרם ויבאו",
+     "ref": "Mishnah Peah 8:1",
+     "label": "משנה פאה ח, 1"
+    },
+    "question": "בלקט אומרת המשנה \"משילכו הנמושות\", ובפרט ועוללות \"משילכו העניים בכרם ויבאו\". אם נמושות פירושו לוקטים אחר הלוקטים, שני הלשונות אומרים דבר אחד. מדוע שינתה המשנה את לשונה?",
+    "asked_by": [
+     {
+      "name": "חון עשיר",
+      "ref": "Hon Ashir on Mishnah Peah 8:1:1",
+      "quote": "ויש לתמוה דא\"כ היינו לקוטי בתר לקוטי דרישא",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Peah 8:1:5",
+      "quote": "לפ\"ז צ\"ע. דא\"ה היינו משילכו העניים ויבואו",
+      "era": "acharon"
+     },
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Peah 8:2:1",
+      "quote": "ולמה שני תנא בלישניה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב מביא את הירושלמי: לא שנינו נמושות בפרט, מפני שהעניים חביבים עליו ובאים מיד.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 8:1:3",
+        "quote": "ולא תנינן נמושות על ידי שהן חביבין באין על אתר"
+       }
+      ]
+     },
+     {
+      "text": "היכין מעדיף את הפירוש הראשון, שנמושות הם הזקנים, שכן לפי הפירוש השני נמושות הם כמו \"משילכו עניים ויבואו\".",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 8:2:1",
+        "quote": "ומסתבר כפי' קמא דאי כפי' ב' היינו משילכו עניים ויבואו"
+       }
+      ]
+     },
+     {
+      "text": "החון עשיר מפרש \"משילכו העניים בכרם ויבאו\" שלא יעשו את הכרם קפנדריא ויצאו בלי לחזור, אלא יחזרו דרכו.",
+      "sources": [
+       {
+        "name": "חון עשיר",
+        "ref": "Hon Ashir on Mishnah Peah 8:1:1",
+        "quote": "ולא יעשו הכרם קפנדריא ויצאו ממנה מבלי שיחזרו לאחור"
+       }
+      ]
+     }
+    ],
+    "why": "מראה ששינוי קטן בלשון עשוי לשקף שני תנאים שונים להתייאשות העניים משדה.",
+    "mishnah": 1,
+    "anchors": [
+     "בפרט ועוללות, משילכו העניים בכרם ויבאו"
+    ]
+   },
+   {
+    "title": "מתי הרביעה השנייה?",
+    "pasuk": {
+     "text": "ובזיתים, משתרד רביעה שניה",
+     "ref": "Mishnah Peah 8:1",
+     "label": "משנה פאה ח, 1"
+    },
+    "question": "בזיתים קובעת המשנה את הזמן לפי הרביעה השנייה. ברטנורא מפרש כאן כ\"ג במרחשון, אך במסכת תענית מובא שפירש י\"ז במרחשון. מהו התאריך?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 8:1:5",
+      "quote": "פירש הר\"ב בכ\"ג במרחשון וכ\"פ במשנה ה' פרק ח' דנדרים",
+      "era": "acharon"
+     },
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Peah 8:1:3",
+      "quote": "כאן פי' ר\"ע ז\"ל כמ\"ד כ\"ג בחשון אבל בפ\"ק דתעניות סי' ד' וגם שם רפ\"ג פי' כמ\"ד י\"ז במרחשון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם מונה שלושה תאריכים לפי סוג השנה: י\"ז במרחשון בשנה המבכרת, כ\"ג בבינונית, וראש חודש כסלו במאוחרת.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 8:1:3",
+        "quote": "בשנה המבכרת הוא בי\"ז במרחשון ובשנה הבינונית בכ\"ג במרחשון ובשנה המאוחרת בראש חדש כסליו"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא אומר שזמן הרביעה השנייה בשנה בינונית הוא כ\"ג במרחשון.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 8:1:2",
+        "quote": "וזמן רביעה שניה בשנה בינונית הוא בכ\"ג במרחשון"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהתאריך תלוי בשנה, ולכן \"רביעה שנייה\" במשנה היא תנאי ולא תאריך קבוע.",
+    "mishnah": 1,
+    "anchors": [
+     "ובזיתים, משתרד רביעה שניה"
+    ]
+   },
+   {
+    "title": "אם עניים אחרים אינם יודעים, האם נתייאשו מהשדה?",
+    "pasuk": {
+     "text": "מאימתי כל אדם מותרין בלקט",
+     "ref": "Mishnah Peah 8:1",
+     "label": "משנה פאה ח, 1"
+    },
+    "question": "ברטנורא אומר שמשהלכו העניים הם נתייאשו מהשדה, ומה שנמצא בו אחר כך הפקר. אך עניים אחרים במקומות אחרים אינם יודעים, וגם לעניים קטנים יש חלק בזה. כיצד יש יאוש שמתיר לכל אדם?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 8:1:3",
+      "quote": "וקשה לי הא מ\"מ גם לעניים קטנים יש חלק בזה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרש\"ש: אף אם כבר זכו בו, אין בו משום גזל, ולכן אין קושי מחלקם של הקטנים.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Peah 8:2:3",
+        "quote": "נ\"ל דלק\"מ דהא אפי' אם כבר זכו בו אין בהם משום גזל"
+       }
+      ]
+     },
+     {
+      "text": "הבועז אומר שה\"עדיין צ\"ע\" אינו נחוץ, ומוכיח ממעות יתומים, שבהם אין לאסור את הריווח מפני שיתומים אינם בני מחילה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Peah 8:1",
+        "quote": "מה צ\"ע. לפע\"ד זו א\"צ"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אינו מבסס את ההיתר על יאוש העניים כלל: משאין עניים, התורה לא ציוותה להשאיר אותו לאיבוד או לעופות.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 8:1:1",
+        "quote": "כי לא צוה הקב\"ה שיעזבוה לאיבוד או לעופות"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהיתר הלקט עשוי להיות מבוסס על יאוש העניים או על פקיעת המצווה עצמה, והתשובות חלוקות בזה.",
+    "mishnah": 1,
+    "anchors": [
+     "מאימתי כל אדם מותרין בלקט"
+    ]
+   },
+   {
+    "title": "האם שדהו של בעל הבית אינה קונה לו?",
+    "pasuk": {
+     "text": "מאימתי כל אדם מותרין בלקט",
+     "ref": "Mishnah Peah 8:1",
+     "label": "משנה פאה ח, 1"
+    },
+    "question": "משנתייאשו העניים ונעשה הלקט הפקר, מדוע אינו זוכה בו בעל השדה מיד מדין חצירו, שקונה שלא מדעתו? ואפילו אם הבעלים אינם עומדים שם, גם חצר שאינה משתמרת קונה.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 8:1:4",
+      "quote": "קשה לי הא הלקט שנופל בעת הקצירה שהוא על שדה דבעל הבית",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרש\"ש: חצירו אינה עדיפה מידו; לו בא לידו קודם היאוש, לא היה קונה.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Peah 8:2:2",
+        "quote": "דלא עדיפא חצירו מידו"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: שלא תאמר שכיוון שהעניים נתייאשו הוא של בעל הבית ושדהו זכתה לו, קמ\"ל שכל עוד לא גילה דעתו שנוח לו לזכות, יד כל אדם שווה בו.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Peah 8:1:1-2",
+        "quote": "דלא תימא כיון שנתייאשו ממנו עניים הרי הוא של בע\"ה שזכתה לו שדהו. קמ\"ל כל כמה דלא גלי דעתיה דניחא ליה דליקני"
+       }
+      ]
+     }
+    ],
+    "why": "שואלת של מי הלקט אחרי שהעניים מוותרים עליו: של בעל הבית מכוח שדהו, או של מי שנוטל.",
+    "mishnah": 1,
+    "anchors": [
+     "מאימתי כל אדם מותרין בלקט"
+    ]
+   },
+   {
+    "title": "מדוע לא נאמין לו על קמח מצד מיגו?",
+    "pasuk": {
+     "text": "נאמנין על החטים, ואין נאמנין על הקמח ולא על הפת",
+     "ref": "Mishnah Peah 8:3",
+     "label": "משנה פאה ח, 3"
+    },
+    "question": "עני נאמן לומר שחיטים הן ממתנות עניים, אך לא קמח או פת. ואם אמר \"אני לקטתי וטחנתי\", הוא נאמן. מדוע אם כן אינו נאמן מצד מיגו, שהיה יכול לומר כך?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Peah 8:14:1",
+      "quote": "ואע\"ג דבאמר טחנתי ואפיתי נאמן",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Peah 8:2:1",
+      "quote": "קשיא לי ליהמנינהו במגו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב בשם הר\"ש: כיוון שאין דרך לחלק קמח ופת כלל, הם כעדים, ואין מיגו במקום עדים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 8:3:2",
+        "quote": "מאחר שאין דרך לחלקו כלל קמח ופת הוו כמו עדים"
+       }
+      ]
+     },
+     {
+      "text": "היכין: אף על פי כן אינו נאמן מצד מיגו, מפני שזה מיגו במקום עדים.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 8:14:1",
+        "quote": "אפילו הכי אינו נאמן במגו. מדהו\"ל מגו במקום עדים"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים מפרש את המשנה בעניים הנאמנים על המעשרות.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Peah 8:2:1",
+        "quote": "אלא הב\"ע בעניים הנאמנים על המעשרות"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מתי הטענה \"יכולתי לומר אחרת\" אינה מועילה.",
+    "mishnah": 3,
+    "anchors": [
+     "נאמנין על החטים, ואין נאמנין על הקמח ולא על הפת"
+    ]
+   },
+   {
+    "title": "מדוע מבושל נאמן רק אם יש מעט?",
+    "pasuk": {
+     "text": "אלא אם כן היה לו דבר מעט, שכן דרך בעל הבית להיות מוציא מלפסו",
+     "ref": "Mishnah Peah 8:4",
+     "label": "משנה פאה ח, 4"
+    },
+    "question": "העניים נאמנים על ירק חי ולא על מבושל, אלא אם כן יש לו דבר מועט, שכן דרך בעל הבית להוציא מלפסו. נאמר טעם שמתוך שיכול לומר שבעל הבית נתן לו, יכול לומר גם שבישל ממתנותיו. רבי עקיבא איגר מקשה שהוא נאמן לומר שבישל גם בלי זה. מה הטעם?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Peah 8:4:1",
+      "quote": "ותמיה לי הא בלא\"ה נאמן לומר אני בשלתי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: לפעמים בעל הבית שכח לעשר ומעשר מן המבושל מתוך הקדרה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 8:4:2",
+        "quote": "דפעמים שבעל הבית שכח מלעשר ומעשר מן המבושל מתוך הקדרה"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את רבי יוסף אשכנזי: כמות מועטת אינה כדאית לעני לטרוח ולבשלה, ולכן בעל הבית מבשלה תחילה ונותנה לו מבושלת.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Peah 8:4:1",
+        "quote": "כי אינו ראוי לעני שאין העני רוצה ליטפל בו ולבשלו בעבור שהוא מעט"
+       }
+      ]
+     }
+    ],
+    "why": "שואלת מדוע המשנה קושרת את הנאמנות לכמות האוכל המבושל.",
+    "mishnah": 4,
+    "anchors": [
+     "אלא אם כן היה לו דבר מעט, שכן דרך בעל הבית להיות מוציא מלפסו"
+    ]
+   },
+   {
+    "title": "מדוע המשנה מזכירה כהנים ולויים?",
+    "pasuk": {
+     "text": "מדה זו אמורה בכהנים ובלוים ובישראלים",
+     "ref": "Mishnah Peah 8:6",
+     "label": "משנה פאה ח, 6"
+    },
+    "question": "המשנה אומרת שהמידה אמורה בכהנים, בלויים ובישראלים. מדוע היה צריך לומר זאת, והרי כך שנינו במקום אחר?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosefot Yom Tov on Mishnah Peah 8:6:1",
+      "quote": "ולא אתפרש לי למאי איצטריך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב עצמו: סלקא דעתך שכיוון שיש להם תרומות ומעשרות לא נתחייב לתת להם ממעשר עני כדי שובעם, ולכן המשנה מלמדת שחייב.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosefot Yom Tov on Mishnah Peah 8:6:1",
+        "quote": "דסלקא דעתך אמינא דכיון שיש להם תרומות ומעשרות לא נתחייב לתת להם ממעשר עני כדי שובען קמ\"ל"
+       }
+      ]
+     },
+     {
+      "text": "היכין: קמ\"ל שאף שיש להן תרומה ומעשר, אין פוחתין להם ממעשר עני משיעור זה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Peah 8:30:1",
+        "quote": "קמ\"ל אף שיש להן תרומה ומעשר. אפ\"ה אין פוחתין לו מעשר עני משיעור הנ\"ל"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא מפרש שהדבר נאמר על הנותנים: כל אחד מהם שמחלק מעשר עני בגורן לא יפחת משיעור זה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 8:6:1",
+        "quote": "כָּל אֶחָד מֵהֶם שֶׁמְּחַלֵּק מַעְשַׂר עָנִי בַּגֹּרֶן לֹא יִפְחֹת מִזֶּה הַשִּׁעוּר"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שני פירושים לסיפא: על מי שמקבל, או על מי שנותן.",
+    "mishnah": 6,
+    "anchors": [
+     "מדה זו אמורה בכהנים ובלוים ובישראלים"
+    ]
+   },
+   {
+    "title": "יש לו מזון שתי סעודות: האם יישאר בלי?",
+    "pasuk": {
+     "text": "מי שיש לו מזון שתי סעודות, לא יטול מן התמחוי",
+     "ref": "Mishnah Peah 8:7",
+     "label": "משנה פאה ח, 7"
+    },
+    "question": "מי שיש לו מזון שתי סעודות לא יטול מן התמחוי. אך אם יאכל אחת עכשיו ואחת בלילה, לא יישאר לו כלום למחר. מדוע אינו נוטל?",
+    "asked_by": [
+     {
+      "name": "יש סדר למשנה",
+      "ref": "Yesh Seder LaMishnah on Mishnah Peah 8:7:1",
+      "quote": "וקשה להרשב\"א הא דתנן מי שיש לו מזון שתי סעודות לא יטול מן התמחוי ואמאי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יש סדר למשנה: המשנה מדברת בעני תושב העיר; לא יטול היום מן התמחוי, ומחר כשיצטרך יקח.",
+      "sources": [
+       {
+        "name": "יש סדר למשנה",
+        "ref": "Yesh Seder LaMishnah on Mishnah Peah 8:7:1",
+        "quote": "לא יטול היום מן התמחוי אלא למחר כשיצטרך יקח מן התמחוי"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: מזון שתי סעודות הוא מאכל ליום אחד, והתמחוי מתחלק בכל יום.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Peah 8:7:7",
+        "quote": "והוא מאכל ליום אחד לא יקח מן התמחוי שיחלקו בכל יום"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: התמחוי מתחלק בכל יום.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Peah 8:7:4",
+        "quote": "לפי שהתמחוי מתחלק בכל יום"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד התמחוי, המתחלק מדי יום, נמדד לפי מזון יום, והקופה לפי מזון שבוע.",
+    "mishnah": 7,
+    "anchors": [
+     "מי שיש לו מזון שתי סעודות, לא יטול מן התמחוי"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "חון עשיר",
+   "לחם שמים",
+   "תפארת ישראל (יכין)",
+   "תוספות יום טוב",
+   "מלאכת שלמה",
+   "רמב\"ם",
+   "ברטנורא",
+   "תוספות רבי עקיבא איגר",
+   "רש\"ש",
+   "תפארת ישראל (בועז)",
+   "יש סדר למשנה"
+  ]
+ }
+}
