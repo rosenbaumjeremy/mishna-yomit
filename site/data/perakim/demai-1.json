@@ -1,0 +1,1116 @@
+{
+ "date": "2026-10-25",
+ "hebrew_date": {
+  "hebrew": "י״ד בְּחֶשְׁוָן תשפ״ז",
+  "english": "14 Cheshvan 5787"
+ },
+ "masechet": "demai",
+ "perek": 1,
+ "ref": "Mishnah Demai 1",
+ "mishnayot": [
+  {
+   "he": "הַקַּלִּין שֶׁבַּדְּמַאי, הַשִּׁיתִין, וְהָרִימִין וְהָעֻזְרָדִין, וּבְנוֹת שׁוּחַ, וּבְנוֹת שִׁקְמָה, וְנוֹבְלוֹת הַתְּמָרָה, וְהַגֻּפְנִין, וְהַנִּצְפָּה. וּבִיהוּדָה, הָאוֹג, וְהַחֹמֶץ שֶׁבִּיהוּדָה, וְהַכֻּסְבָּר. רַבִּי יְהוּדָה אוֹמֵר, כָּל הַשִּׁיתִין פְּטוּרִין, חוּץ מִשֶּׁל דּוּפְרָה. כָּל הָרִימִין פְּטוּרִין, חוּץ מֵרִימֵי שִׁקְמוֹנָה. כָּל בְּנוֹת שִׁקְמָה פְּטוּרוֹת, חוּץ מִן הַמֻּסְטָפוֹס: \n",
+   "en": "The [following] are treated leniently in regard to [the rules of] demai: unripe figs, wild jujuba, azarolus, wild white figs, young sycamore figs, fallen dates, fennel and capers. In Judea also sumac, Judean vinegar, and coriander. Rabbi Judah says: all unripe figs are exempt, except for those from a tree that bears fruit twice a year. All wild jujuba are exempt, except the wild jujuba of Shikmonah. All young sycamore figs are exempt, except those that have been scarified."
+  },
+  {
+   "he": "הַדְּמַאי אֵין לוֹ חֹמֶשׁ, וְאֵין לוֹ בִעוּר, וְנֶאֱכָל לְאוֹנֵן, וְנִכְנָס לִירוּשָׁלַיִם וְיוֹצֵא, וּמְאַבְּדִין אֶת מִעוּטוֹ בַּדְּרָכִים, וְנוֹתְנוֹ לְעַם הָאָרֶץ, וְיֹאכַל כְּנֶגְדּוֹ. וּמְחַלְּלִים אוֹתוֹ כֶּסֶף עַל כֶּסֶף, נְחֹשֶׁת עַל נְחשֶׁת, כֶּסֶף עַל נְחֹשֶׁת, וּנְחֹשֶׁת עַל הַפֵּרוֹת, וּבִלְבַד שֶׁיַּחֲזֹר וְיִפְדֶּה אֶת הַפֵּרוֹת, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, יַעֲלֶה הַפֵּרוֹת וְיֵאָכְלוּ בִירוּשָׁלָיִם: \n",
+   "en": "The [second tithe of] demai is not subject to [the rules of adding a] fifth. It has no mandated time of removal. It may be eaten by an onen. It may be brought into Jerusalem and taken out again. They may allow a small amount to be lost on the road. One may give it to an am haaretz and consume its equivalent in Jerusalem. [Second tithe money of demai] may be redeemed silver [coins] for [other] silver [coins], copper [coins] for [other] copper [coins], silver for copper, and copper for produce, provided that the produce is again redeemed for money, the words of Rabbi Meir. But the sages say: the produce itself must be brought up and eaten in Jerusalem."
+  },
+  {
+   "he": "הַלּוֹקֵחַ לְזֶרַע וְלִבְהֵמָה, קֶמַח לְעוֹרוֹת, שֶׁמֶן לְנֵר, שֶׁמֶן לָסוּךְ בּוֹ אֶת הַכֵּלִים, פָּטוּר מִן הַדְּמַאי. מִכְּזִיב וּלְהַלָּן, פָּטוּר מִן הַדְּמַאי. חַלַּת עַם הָאָרֶץ, וְהַמְדֻמָּע, וְהַלָּקוּחַ בְּכֶסֶף מַעֲשֵׂר שֵׁנִי, וּשְׁיָרֵי הַמְּנָחוֹת, פְּטוּרִין מִן הַדְּמַאי. שֶׁמֶן עָרֵב, בֵּית שַׁמַּאי מְחַיְּבִין, וּבֵית הִלֵּל פּוֹטְרִין: \n",
+   "en": "If a man bought [grain from an am haaretz] to be used for seed or for animal [feed], flour for hides, oil for a lamp, or oil for greasing utensils, it is exempt from [the rules of] demai. [Produce grown] beyond Cheziv and north is exempt from [the rules of] demai. The hallah of an am haaretz, produce mixed with terumah, produce bought with second tithe money, and the leftovers of minhah offerings are exempt from [the rules of] demai. Oil spiced [with spices from an am haaretz]: Bet Shammai makes it liable [to the rules of demai]. But Bet Hillel exempts it."
+  },
+  {
+   "he": "הַדְּמַאי, מְעָרְבִין בּוֹ, וּמִשְׁתַּתְּפִין בּוֹ, וּמְבָרְכִין עָלָיו, וּמְזַמְּנִין עָלָיו, וּמַפְרִישִׁין אוֹתוֹ עָרוֹם, בֵּין הַשְּׁמָשׁוֹת. הָא אִם הִקְדִּים מַעֲשֵׂר שֵׁנִי לָרִאשׁוֹן, אֵין בְּכָךְ כְּלוּם. שֶׁמֶן שֶׁהַגַּרְדִּי סָךְ בְּאֶצְבְּעוֹתָיו, חַיָּב בִּדְּמַאי. וְשֶׁהַסּוֹרֵק נוֹתֵן בַּצֶּמֶר, פָּטוּר מִן הַדְּמָאי: \n",
+   "en": "Demai may be used to make an eruv, and to make an [alley] partnership, and they recite a blessing over it, and they make an invitation [to recite Birkat Hamazon] over it, and one may separate [tithes] from it even when one is naked, or when it is twilight [on the eve of Shabbat]. And if he took out second tithe from it before the first tithe, it doesn’t matter. The oil with which the weaver greases his fingers is liable to [the rules of] demai, but [the oil] which the wool-comber puts on the wool is exempt from [the rules of] demai."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 lists produce that the Sages treated leniently for demai (doubtfully tithed produce): unripe figs, wild jujubes, azarolus, caper and the like, plus sumac, vinegar and coriander in Judea; Rabbi Judah exempts only some of them and excludes the better varieties.\nMishnah 2 gives the leniencies of the second tithe of demai: no added fifth, no biur, it may be eaten by an onen, brought into Jerusalem and taken out, a small amount may be lost on the road, and it may be given to an am haaretz; redemption may be done more freely, and Rabbi Meir and the Sages disagree about redeeming produce with copper.\nMishnah 3 lists purchases exempt from demai (seed, animal feed, flour for hides, oil for a lamp), produce from beyond Kziv, the challah of an am haaretz, produce mixed with terumah, produce bought with second-tithe money and the remains of meal offerings, and records Beit Shammai and Beit Hillel on spiced oil.\nMishnah 4 says demai may be used for an eruv and shituf, a blessing and zimun, may be separated while naked or at twilight, and that taking second tithe before first tithe is of no consequence; oil on a weaver's fingers is liable, oil the wool-comber puts on the wool is exempt.",
+  "topics": [
+   {
+    "term": "Demai: the doubtfully tithed produce",
+    "explanation": "Demai is produce bought from an am haaretz, a person not trusted to have tithed. It is a doubt whether the gifts were separated. The one who buys it must separate only terumat maaser and the second tithe, as the sources explain, and not the other gifts.",
+    "mishnah": 1,
+    "anchors": [
+     "הַקַּלִּין שֶׁבַּדְּמַאי"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 1:1:1",
+     "quote": "הדמאי והוא הספק שלא נודע אם הוציאו ממנו מתנות הקב\"ה"
+    }
+   },
+   {
+    "term": "The two doubts behind the leniencies",
+    "explanation": "The fruits of the first mishnah are cheap and usually come from ownerless land, so there are two doubts: perhaps they are ownerless and exempt, and even if guarded and liable, perhaps they were already tithed. Two doubts together are the reason for the leniency.",
+    "mishnah": 1,
+    "anchors": [
+     "הַקַּלִּין שֶׁבַּדְּמַאי"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 1:1:1",
+     "quote": "וְאִית בְּהוּ תְּרֵי סְפֵקֵי…סָפֵק בָּאִים מִן הַהֶפְקֵר וּפְטוּרִים מִן הַמַּעֲשֵׂר"
+    }
+   },
+   {
+    "term": "Second tithe of demai and the added fifth",
+    "explanation": "A person who redeems true second tithe adds a fifth. For demai the Sages did not require this, because most amei haaretz do tithe, so the Torah-level requirement is kept and the added fifth, which is not essential, is dropped.",
+    "mishnah": 2,
+    "anchors": [
+     "הַדְּמַאי אֵין לוֹ חֹמֶש"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 1:2:1",
+     "quote": "הַפּוֹדֶה מַעֲשֵׂר שֵׁנִי שֶׁל דְּמַאי אֵינוֹ נוֹתֵן אֶת הַחֹמֶש"
+    }
+   },
+   {
+    "term": "Onen",
+    "explanation": "An onen is a mourner on the day of a close relative's death, before burial. True second tithe may not be eaten by an onen, but for demai the Sages did not extend the prohibition.",
+    "mishnah": 2,
+    "anchors": [
+     "וְנֶאֱכָל לְאוֹנֵן"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 1:2:2",
+     "quote": "ואונן הוא האיש שמת לו מת"
+    }
+   },
+   {
+    "term": "Kziv and the lands settled from Egypt",
+    "explanation": "Kziv marks the edge of the land that the returnees from Babylon took possession of. Beyond it, the land was settled by those who left Egypt only, and produce there is treated as outside Eretz Yisrael and exempt from demai, since the presumption outside the land is exemption.",
+    "mishnah": 3,
+    "anchors": [
+     "מִכְּזִיב וּלְהַלָּן"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 1:3:4",
+     "quote": "כְּזִיב הוּא סוֹף הַמָּקוֹם שֶׁכָּבְשׁוּ עוֹלֵי בָּבֶל"
+    }
+   },
+   {
+    "term": "Mudma, terumah mixed in produce",
+    "explanation": "Mudma is produce into which terumah has fallen and mixed, and it must all go to the kohen. Since the whole goes to a kohen, the Sages did not require tithing it as demai.",
+    "mishnah": 3,
+    "anchors": [
+     "וְהַמְדֻמָּע"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 1:3:3",
+     "quote": "והמדומע הוא דבר המעורב מחולין ותרומה"
+    }
+   },
+   {
+    "term": "Eruv and shituf",
+    "explanation": "The eruv chatzerot and techumin and the shituf mevo'ot are the Shabbat arrangements that allow carrying and walking beyond the usual limits. The mishnah teaches that demai is valid food for making them.",
+    "mishnah": 4,
+    "anchors": [
+     "מְעָרְבִין בּו",
+     "מִשְׁתַּתְּפִין בּו"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 1:4:2",
+     "quote": "הוא שתופי מבואות"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Is the exemption only for doubtful produce or even for certain produce?",
+    "pasuk": {
+     "text": "הַקַּלִּין שֶׁבַּדְּמַאי, הַשִּׁיתִין",
+     "ref": "Mishnah Demai 1:1",
+     "label": "Mishnah Demai 1:1"
+    },
+    "question": "The mishnah says the lenient items are exempt as demai. Does the exemption apply only where there is a doubt, or is the produce exempt even if it is certainly untithed?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Demai 1:1:2",
+      "quote": "ר\"ל ס\"ל דמאי דמאי דוקא. אבל ודאי חייב…ור\"י ס\"ל דדמאי לאו דוקא דאפי' ודאי נמי פטור",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 1:1:1",
+      "quote": "ומינה משמע דבודאי חייב לעשר והוא כדעת ר\"ל בירושלמי…אבל ר\"י חולק התם דאף בודאי פטור",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura gives the two doubts as the reason, so the leniency depends on a doubt and certain produce stays liable (Resh Lakish's view, as RAE says).",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 1:1:1",
+        "quote": "אִם תִּמְצָא לוֹמַר שֶׁבָּאִים מִן הַשָּׁמוּר וְחַיָּבִים בְּמַעֲשֵׂר, שֶׁמָּא נִתְעַשְּׂרו"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Yochanan, according to Melekhet Shelomoh, holds that demai is not meant precisely and even certain produce of this kind is exempt.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 1:1:2",
+        "quote": "ור\"י ס\"ל דדמאי לאו דוקא דאפי' ודאי נמי פטור"
+       },
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 1:1:1",
+        "quote": "אבל ר\"י חולק התם דאף בודאי פטור"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the leniencies in this mishnah rest on doubt or on a separate exemption.",
+    "mishnah": 1,
+    "anchors": [
+     "הַקַּלִּין שֶׁבַּדְּמַאי, הַשִּׁיתִין"
+    ]
+   },
+   {
+    "title": "Vinegar in Judea: why the Mishnah states it",
+    "pasuk": {
+     "text": "הָאוֹג, וְהַחֹמֶץ שֶׁבִּיהוּדָה",
+     "ref": "Mishnah Demai 1:1",
+     "label": "Mishnah Demai 1:1"
+    },
+    "question": "The mishnah exempts vinegar in Judea. TYT asks why it needs saying, given that Shekalim implies they feared that wine would turn sour while libations were being brought.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 1:1:6",
+      "quote": "ואע\"ג דתנן בסוף פרק ד דשקלים לענין מספק יין לנסכים ואם החמיץ יין החמיץ לו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rav Nachman, in TYT, says that when libations were brought from Judea the wine did not turn sour until barley was added, and Bartenura says the same.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 1:1:6",
+        "quote": "חדא דהכי אמר רב נחמן בתחלה כשהיו מביאים נסכים מיהודה לא היה יינו של יהודה מחמיץ"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 1:1:11",
+        "quote": "בִּתְחִלָּה לֹא הָיָה הַיַּיִן שֶׁבִּיהוּדָה מַחְמִיץ"
+       }
+      ]
+     },
+     {
+      "text": "TYT adds that even if it never turned sour, the Mishnah still states it because we do not rely on a miracle.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 1:1:6",
+        "quote": "מ\"מ איצטריך למתני. משום דאין סומכין על הנס"
+       }
+      ]
+     },
+     {
+      "text": "Petach Einayim challenges the proof from Yoma and says TYT and others did not mention the Yerushalmi.",
+      "sources": [
+       {
+        "name": "Petach Einayim",
+        "ref": "Petach Einayim on Mishnah Demai 1:1:1",
+        "quote": "דלא זכרו דברי הירושלמי שילהי פ\"ק דיומא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mefarshim reconcile a leniency with an implied stringency.",
+    "mishnah": 1,
+    "anchors": [
+     "הָאוֹג, וְהַחֹמֶץ שֶׁבִּיהוּדָה"
+    ]
+   },
+   {
+    "title": "Why the Sages did not forbid demai to an onen",
+    "pasuk": {
+     "text": "וְנֶאֱכָל לְאוֹנֵן, וְנִכְנָס לִירוּשָׁלַיִם",
+     "ref": "Mishnah Demai 1:2",
+     "label": "Mishnah Demai 1:2"
+    },
+    "question": "Why did the Sages permit an onen to eat second tithe of demai, when true second tithe is forbidden to him?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 1:2:2",
+      "quote": "ושאלני מהר\"ר משה כהן למה לא גזרו באונן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "TYT quotes the Yerushalmi: impurity is common while aninut is not, so the Sages decreed against the common case only.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 1:2:2",
+        "quote": "טומאה מצויה אנינה אינה מצויה גזרו על דבר המצוי ולא גזרו על דבר שאינו מצוי"
+       }
+      ]
+     },
+     {
+      "text": "TYT adds that the Sages relied on the principle that most amei haaretz do tithe.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 1:1:1",
+        "quote": "ומהאי טעמא נמי ניחא דלא גזרו באונן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the principle behind how demai was drawn up: stringency only where a stumble is likely.",
+    "mishnah": 2,
+    "anchors": [
+     "וְנֶאֱכָל לְאוֹנֵן, וְנִכְנָס לִירוּשָׁלַיִם"
+    ]
+   },
+   {
+    "title": "What is lost on the road, and what is the difficulty in Bartenura",
+    "pasuk": {
+     "text": "וּמְאַבְּדִין אֶת מִעוּטוֹ בַּדְּרָכִים",
+     "ref": "Mishnah Demai 1:2",
+     "label": "Mishnah Demai 1:2"
+    },
+    "question": "Bartenura says that for demai a small loss on the road is not a concern, while for certain produce one may lose nothing. Hon Ashir asks what that contrast means.",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Demai 1:2:2",
+      "quote": "ובזה יצא לנו קושיא גדולה דהיכי קאמר מה שאין כן בודאי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir says that for demai one is exempt from bringing a small amount to Jerusalem, while for certain produce it must be brought, and nothing is said about liability if it is lost.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Demai 1:2:2",
+        "quote": "דבדמאי נפטר בטענה זו להיותו דבר מועט שלא להביאו בירושלם"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz brings the Yerushalmi where this refers to terumat maaser of demai, where one need not worry if it is lost.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Demai 1:2:6",
+        "quote": "אבל תרומת מעשר של דמאי אין חוששין עליהם אם תאבד ולכך מאבדין מיעוטו בדרכים"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh quotes a reading that omits the words 'on the road', so the meaning is that one with a small amount of second tithe may let it be lost.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 1:2:6",
+        "quote": "ברוב הספרים ל\"ג בדרכים וכן עיקר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how three mefarshim read the same words differently.",
+    "mishnah": 2,
+    "anchors": [
+     "וּמְאַבְּדִין אֶת מִעוּטוֹ בַּדְּרָכִים"
+    ]
+   },
+   {
+    "title": "\"One may give it to an am haaretz and eat its equivalent\"",
+    "pasuk": {
+     "text": "וְנוֹתְנוֹ לְעַם הָאָרֶץ",
+     "ref": "Mishnah Demai 1:2",
+     "label": "Mishnah Demai 1:2"
+    },
+    "question": "What does it mean to give it to an am haaretz and eat the equivalent? Melekhet Shelomoh brings the objection of R. Yosef Ashkenazi to the explanation that Bartenura gives.",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Demai 1:2:7",
+      "quote": "פי' זה שפי' ר\"ע ז\"ל אינו נראה כי ממ\"נ אין אנו צריכין לזה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: one takes the equivalent from his own property and eats it in Jerusalem in a state of purity.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 1:2:7",
+        "quote": "לוֹקֵחַ מִנְּכָסָיו וְאוֹכֵל בְּטָהֳרַת מַעֲשֵׂר בִּירוּשָׁלַיִם"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing R. Yosef Ashkenazi: there are two separate laws, giving as a gift to the am haaretz and eating the equivalent.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 1:2:7",
+        "quote": "ר\"ל מותר ליתנו מתנה לע\"ה. ואוכל כנגדו הוא דין אחר"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir: the permission to give to an am haaretz refers only to the small amount mentioned, and a large amount is forbidden.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Demai 1:2:4",
+        "quote": "האי מיעוט הנזכר, אבל הרבה אסור ליתנו לעם הארץ"
+       }
+      ]
+     }
+    ],
+    "why": "It shows a three-way difference in how the end of the clause works.",
+    "mishnah": 2,
+    "anchors": [
+     "וְנוֹתְנוֹ לְעַם הָאָרֶץ"
+    ]
+   },
+   {
+    "title": "Redeeming and the text 'provided that he again redeems'",
+    "pasuk": {
+     "text": "וּבִלְבַד שֶׁיַּחֲזֹר וְיִפְדֶּה אֶת הַפֵּרוֹת",
+     "ref": "Mishnah Demai 1:2",
+     "label": "Mishnah Demai 1:2"
+    },
+    "question": "The words 'provided that he again redeems the produce' are hard to understand in context. RAE records that Bartenura does not have these words in his text. What then does the clause mean?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 1:2:4",
+      "quote": "כתב הר\"ב דלא גרס ליה",
+      "era": "acharon"
+     },
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Demai 1:2:8",
+      "quote": "גרסי' ול\"ג ובלבד",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura's version does not have the word 'provided' and reads the clause as an option.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 1:2:10",
+        "quote": "גָּרְסִינַן, וְלֹא גָרְסִינַן וּבִלְבָד שֶׁיַּחֲזֹר וְיִפְדֶּה"
+       }
+      ]
+     },
+     {
+      "text": "Ikar TYT: the Tosafot kept the text and explained that the intention at the start matters.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 1:2:2",
+        "quote": "אֲבָל הַתּוֹסָפוֹת קִיְּמוּ הַגִּירְסָא וּפֵרְשׁו"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: redeeming the produce again is a leniency, because with certain produce one must bring it up.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 1:2:8",
+        "quote": "אדרבה היא קולא מה שחוזר ופודה את הפירות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the text of the Mishnah changes the law.",
+    "mishnah": 2,
+    "anchors": [
+     "וּבִלְבַד שֶׁיַּחֲזֹר וְיִפְדֶּה אֶת הַפֵּרוֹת"
+    ]
+   },
+   {
+    "title": "The challah of an am haaretz",
+    "pasuk": {
+     "text": "חַלַּת עַם הָאָרֶץ",
+     "ref": "Mishnah Demai 1:3",
+     "label": "Mishnah Demai 1:3"
+    },
+    "question": "Why is the challah of an am haaretz exempt from demai? TYT notes that Bartenura and the Rash explain it as challah of a dough that a chaver prepared for him, and asks how that fits the Yerushalmi.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 1:3:2",
+      "quote": "ולכאורה מוקמי להו הר\"ש והר\"ב הכא בשתקן לו גבל חבר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the challah that a chaver prepared for him.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 1:3:5",
+        "quote": "שֶׁתִּקֵּן לוֹ גַּבָּל חָבֵר"
+       }
+      ]
+     },
+     {
+      "text": "Ikar TYT: the Yerushalmi disputes whether the reason is awe of holy things (R. Oshaya) or that the Sages did not decree on these matters (R. Yochanan).",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 1:3:1",
+        "quote": "פְּלִיגֵי רַבִּי אוֹשַׁעְיָא וְרַבִּי יוֹחָנָן…לְרַבִּי אוֹשַׁעְיָא אֵימַת קָדָשִׁים עָלָיו"
+       }
+      ]
+     },
+     {
+      "text": "Rambam follows R. Yochanan: when they decreed demai, they did not decree on these things.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 1:3:5",
+        "quote": "בשעה שגזרו על הדמאי לא גזרו על הדברים הללו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the machlokes behind the list in this mishnah.",
+    "mishnah": 3,
+    "anchors": [
+     "חַלַּת עַם הָאָרֶץ"
+    ]
+   },
+   {
+    "title": "Taking second tithe before first tithe",
+    "pasuk": {
+     "text": "הָא אִם הִקְדִּים מַעֲשֵׂר שֵׁנִי לָרִאשׁוֹן",
+     "ref": "Mishnah Demai 1:4",
+     "label": "Mishnah Demai 1:4"
+    },
+    "question": "The mishnah says nothing is lost if second tithe is taken before first tithe. Hon Ashir notes that the Rambam, in his commentary, says one must still separate first tithe from the second tithe already taken.",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Demai 1:4:3",
+      "quote": "אבל ראיתי להרמב\"ם שכתב דצריך שיפריש אף המעשר ראשון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: it is permitted so long as the measures are kept.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 1:4:6",
+        "quote": "וזה מותר בלבד שישמור השיעורין"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: for certain produce he could not make the confession.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 1:4:7",
+        "quote": "אֵינוֹ יָכוֹל לְהִתְוַדּוֹת"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: in the Yerushalmi, Resh Lakish says after the fact only, and R. Yochanan says even at the outset.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 1:4:2",
+        "quote": "ר\"י ס\"ל דאפי' לכתחלה מותר להקדים שני לראשון בדמאי"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Rambam's commentary and his Mishneh Torah are read.",
+    "mishnah": 4,
+    "anchors": [
+     "הָא אִם הִקְדִּים מַעֲשֵׂר שֵׁנִי לָרִאשׁוֹן"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Melekhet Shelomoh",
+   "Tosafot Rabbi Akiva Eiger",
+   "Bartenura",
+   "Tosafot Yom Tov",
+   "Petach Einayim",
+   "Hon Ashir",
+   "Rash MiShantz",
+   "Ikar Tosafot Yom Tov",
+   "Rambam"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מונה פירות שהקלו בהם חכמים בדמאי: שיתין, רימין, עוזרדין, בנות שוח, בנות שקמה, נובלות התמרה, גופנין ונצפה, ביהודה גם האוג, החומץ והכסבר; רבי יהודה פוטר רק חלק מהם ומוציא את הסוגים החשובים.\nמשנה ב מביאה קולות במעשר שני של דמאי: אין לו חומש ואין לו ביעור, נאכל לאונן, נכנס לירושלים ויוצא, מאבדין את מעוטו בדרכים ונותנו לעם הארץ; מחללים אותו בקלות יתר, ורבי מאיר וחכמים חלוקים בחילול נחשת על הפירות.\nמשנה ג מונה דברים הפטורים מן הדמאי: הלוקח לזרע ולבהמה, קמח לעורות, שמן לנר, מכזיב ולהלן, חלת עם הארץ, המדומע, הלקוח בכסף מעשר שני ושירי המנחות; ובשמן ערב חולקים בית שמאי ובית הלל.\nמשנה ד אומרת שמערבין בדמאי ומשתתפין בו, מברכין ומזמנין עליו, ומפרישין אותו ערום ובין השמשות, ואם הקדים מעשר שני לראשון אין בכך כלום; שמן שהגרדי סך חייב, ושהסורק נותן בצמר פטור.",
+  "topics": [
+   {
+    "term": "דמאי: הפירות הספק מעושרים",
+    "explanation": "דמאי הם תבואה ופירות הנלקחים מעם הארץ, שאינו נאמן על המעשרות. יש ספק אם הופרשו מהם המתנות. הלוקח צריך להפריש רק תרומת מעשר ומעשר שני, כפי שמבארים המפרשים.",
+    "mishnah": 1,
+    "anchors": [
+     "הַקַּלִּין שֶׁבַּדְּמַאי"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 1:1:1",
+     "quote": "הדמאי והוא הספק שלא נודע אם הוציאו ממנו מתנות הקב\"ה"
+    }
+   },
+   {
+    "term": "שני הספקות שבקולות",
+    "explanation": "הפירות שבמשנה א פחותי ערך וחזקתם שבאים מן ההפקר, ולכן יש שני ספקות: שמא הם הפקר ופטורים, ואף אם הם שמורים וחייבים, שמא נתעשרו. שני ספקות יחד הם טעם ההקלה.",
+    "mishnah": 1,
+    "anchors": [
+     "הַקַּלִּין שֶׁבַּדְּמַאי"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 1:1:1",
+     "quote": "וְאִית בְּהוּ תְּרֵי סְפֵקֵי…סָפֵק בָּאִים מִן הַהֶפְקֵר וּפְטוּרִים מִן הַמַּעֲשֵׂר"
+    }
+   },
+   {
+    "term": "מעשר שני של דמאי והחומש",
+    "explanation": "הפודה מעשר שני ודאי מוסיף חומש. בדמאי לא חייבו זאת, משום שרוב עמי הארץ מעשרין; הקרן שמעכבת מן התורה נשארה, והחומש שאינו מעכב לא נקבע.",
+    "mishnah": 2,
+    "anchors": [
+     "הַדְּמַאי אֵין לוֹ חֹמֶש"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 1:2:1",
+     "quote": "הַפּוֹדֶה מַעֲשֵׂר שֵׁנִי שֶׁל דְּמַאי אֵינוֹ נוֹתֵן אֶת הַחֹמֶש"
+    }
+   },
+   {
+    "term": "אונן",
+    "explanation": "אונן הוא מי שמת לו מת ביום פטירתו קודם הקבורה. מעשר שני ודאי אסור לאונן, אבל בדמאי לא הרחיבו חכמים את האיסור.",
+    "mishnah": 2,
+    "anchors": [
+     "וְנֶאֱכָל לְאוֹנֵן"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 1:2:2",
+     "quote": "ואונן הוא האיש שמת לו מת"
+    }
+   },
+   {
+    "term": "כזיב וארץ עולי מצרים",
+    "explanation": "כזיב היא סוף המקום שכבשו עולי בבל. מעבר לה כבשו עולי מצרים בלבד, והפירות שם נחשבים כמו מחוץ לארץ ופטורים מן הדמאי, שחזקת חוץ לארץ היא פטור.",
+    "mishnah": 3,
+    "anchors": [
+     "מִכְּזִיב וּלְהַלָּן"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 1:3:4",
+     "quote": "כְּזִיב הוּא סוֹף הַמָּקוֹם שֶׁכָּבְשׁוּ עוֹלֵי בָּבֶל"
+    }
+   },
+   {
+    "term": "מדומע, תרומה שנתערבה",
+    "explanation": "מדומע הוא תערובת של תרומה בחולין, והכל נתן לכהן. מאחר שהכל הולך לכהן, לא חייבו חכמים לעשרו כדמאי.",
+    "mishnah": 3,
+    "anchors": [
+     "וְהַמְדֻמָּע"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 1:3:3",
+     "quote": "והמדומע הוא דבר המעורב מחולין ותרומה"
+    }
+   },
+   {
+    "term": "עירוב ושיתוף",
+    "explanation": "עירובי חצרות ותחומין ושיתוף מבואות הם סידורי שבת המתירים טלטול והליכה מעבר לגבול הרגיל. המשנה מלמדת שדמאי ראוי לשמש בהם.",
+    "mishnah": 4,
+    "anchors": [
+     "מְעָרְבִין בּו",
+     "מִשְׁתַּתְּפִין בּו"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 1:4:2",
+     "quote": "הוא שתופי מבואות"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "האם ההקלה רק בספק או גם בודאי?",
+    "pasuk": {
+     "text": "הַקַּלִּין שֶׁבַּדְּמַאי, הַשִּׁיתִין",
+     "ref": "Mishnah Demai 1:1",
+     "label": "משנה דמאי א, א"
+    },
+    "question": "המשנה אומרת שהקלין פטורים בדמאי. האם הפטור רק כשיש ספק, או שהפירות פטורים גם אם בודאי לא עושרו?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Demai 1:1:2",
+      "quote": "ר\"ל ס\"ל דמאי דמאי דוקא. אבל ודאי חייב…ור\"י ס\"ל דדמאי לאו דוקא דאפי' ודאי נמי פטור",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 1:1:1",
+      "quote": "ומינה משמע דבודאי חייב לעשר והוא כדעת ר\"ל בירושלמי…אבל ר\"י חולק התם דאף בודאי פטור",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא נותן את שני הספקות כטעם, ולכן ההקלה תלויה בספק ופירות ודאיים חייבים (שיטת ריש לקיש, כדברי הרע\"א).",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 1:1:1",
+        "quote": "אִם תִּמְצָא לוֹמַר שֶׁבָּאִים מִן הַשָּׁמוּר וְחַיָּבִים בְּמַעֲשֵׂר, שֶׁמָּא נִתְעַשְּׂרו"
+       }
+      ]
+     },
+     {
+      "text": "רבי יוחנן, לפי מלאכת שלמה, סובר שדמאי אינו דוקא ואף ודאי פטור בפירות אלה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 1:1:2",
+        "quote": "ור\"י ס\"ל דדמאי לאו דוקא דאפי' ודאי נמי פטור"
+       },
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 1:1:1",
+        "quote": "אבל ר\"י חולק התם דאף בודאי פטור"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם ההקלות במשנה תלויות בספק או בפטור נפרד.",
+    "mishnah": 1,
+    "anchors": [
+     "הַקַּלִּין שֶׁבַּדְּמַאי, הַשִּׁיתִין"
+    ]
+   },
+   {
+    "title": "חומץ ביהודה: למה צריך המשנה לומר",
+    "pasuk": {
+     "text": "הָאוֹג, וְהַחֹמֶץ שֶׁבִּיהוּדָה",
+     "ref": "Mishnah Demai 1:1",
+     "label": "משנה דמאי א, א"
+    },
+    "question": "המשנה פוטרת חומץ ביהודה. התוספות יום טוב שואל למה צריך לומר זאת, והרי משמע ממסכת שקלים שחששו שמא יחמיץ היין בשעה שהביאו נסכים.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 1:1:6",
+      "quote": "ואע\"ג דתנן בסוף פרק ד דשקלים לענין מספק יין לנסכים ואם החמיץ יין החמיץ לו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רב נחמן, כפי שמביא התוספות יום טוב, אומר שבשעה שהביאו נסכים מיהודה לא החמיץ היין עד שנותנים לתוכו שעורים, וכך אומר ברטנורא.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 1:1:6",
+        "quote": "חדא דהכי אמר רב נחמן בתחלה כשהיו מביאים נסכים מיהודה לא היה יינו של יהודה מחמיץ"
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 1:1:11",
+        "quote": "בִּתְחִלָּה לֹא הָיָה הַיַּיִן שֶׁבִּיהוּדָה מַחְמִיץ"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב מוסיף שאף אם מעולם לא החמיץ, צריך היה לשנות, משום שאין סומכין על הנס.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 1:1:6",
+        "quote": "מ\"מ איצטריך למתני. משום דאין סומכין על הנס"
+       }
+      ]
+     },
+     {
+      "text": "פתח עינים חולק על הראיה מיומא ואומר שלא זכרו דברי הירושלמי.",
+      "sources": [
+       {
+        "name": "פתח עינים",
+        "ref": "Petach Einayim on Mishnah Demai 1:1:1",
+        "quote": "דלא זכרו דברי הירושלמי שילהי פ\"ק דיומא"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך מיישבים הקלה עם חומרה העולה ממקום אחר.",
+    "mishnah": 1,
+    "anchors": [
+     "הָאוֹג, וְהַחֹמֶץ שֶׁבִּיהוּדָה"
+    ]
+   },
+   {
+    "title": "למה לא גזרו על דמאי באונן",
+    "pasuk": {
+     "text": "וְנֶאֱכָל לְאוֹנֵן, וְנִכְנָס לִירוּשָׁלַיִם",
+     "ref": "Mishnah Demai 1:2",
+     "label": "משנה דמאי א, ב"
+    },
+    "question": "למה התירו לאונן לאכול מעשר שני של דמאי, והרי מעשר שני ודאי אסור לו?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 1:2:2",
+      "quote": "ושאלני מהר\"ר משה כהן למה לא גזרו באונן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב מביא את הירושלמי: טומאה מצויה ואנינה אינה מצויה, וגזרו רק על דבר המצוי.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 1:2:2",
+        "quote": "טומאה מצויה אנינה אינה מצויה גזרו על דבר המצוי ולא גזרו על דבר שאינו מצוי"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב מוסיף שסמכו על כך שרוב עמי הארץ מעשרין.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 1:1:1",
+        "quote": "ומהאי טעמא נמי ניחא דלא גזרו באונן"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את העיקרון שבתקנת הדמאי: חומרה רק היכן שהסיכוי להיכשל גדול.",
+    "mishnah": 2,
+    "anchors": [
+     "וְנֶאֱכָל לְאוֹנֵן, וְנִכְנָס לִירוּשָׁלַיִם"
+    ]
+   },
+   {
+    "title": "מה מאבדים בדרך, ומה הקושיה בברטנורא",
+    "pasuk": {
+     "text": "וּמְאַבְּדִין אֶת מִעוּטוֹ בַּדְּרָכִים",
+     "ref": "Mishnah Demai 1:2",
+     "label": "משנה דמאי א, ב"
+    },
+    "question": "ברטנורא אומר שבדמאי אין חוששים להפסד מעט בדרך, ואילו בודאי אסור להפסיד דבר. הון עשיר שואל מה פירוש ההשוואה.",
+    "asked_by": [
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Demai 1:2:2",
+      "quote": "ובזה יצא לנו קושיא גדולה דהיכי קאמר מה שאין כן בודאי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הון עשיר: בדמאי נפטר מלהביא מעט לירושלים, ובודאי צריך להביאו, ולא נאמר דבר על אחריות אם אבד.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Demai 1:2:2",
+        "quote": "דבדמאי נפטר בטענה זו להיותו דבר מועט שלא להביאו בירושלם"
+       }
+      ]
+     },
+     {
+      "text": "ר\"ש משנץ מביא את הירושלמי שבו הדבר נאמר בתרומת מעשר של דמאי, שאין חוששים אם תאבד.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Demai 1:2:6",
+        "quote": "אבל תרומת מעשר של דמאי אין חוששין עליהם אם תאבד ולכך מאבדין מיעוטו בדרכים"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא גרסה שאין בה 'בדרכים', ופירושו שמי שיש לו מעט מעשר שני מותר לאבדו.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 1:2:6",
+        "quote": "ברוב הספרים ל\"ג בדרכים וכן עיקר"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שלושה מפרשים הקוראים אותן מילים אחרת.",
+    "mishnah": 2,
+    "anchors": [
+     "וּמְאַבְּדִין אֶת מִעוּטוֹ בַּדְּרָכִים"
+    ]
+   },
+   {
+    "title": "\"ונותנו לעם הארץ ויאכל כנגדו\"",
+    "pasuk": {
+     "text": "וְנוֹתְנוֹ לְעַם הָאָרֶץ",
+     "ref": "Mishnah Demai 1:2",
+     "label": "משנה דמאי א, ב"
+    },
+    "question": "מה פירוש שנותנו לעם הארץ ואוכל כנגדו? מלאכת שלמה מביא את קושיית ר' יוסף אשכנזי על פירוש ברטנורא.",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Demai 1:2:7",
+      "quote": "פי' זה שפי' ר\"ע ז\"ל אינו נראה כי ממ\"נ אין אנו צריכין לזה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: לוקח מנכסיו ואוכל בטהרת מעשר בירושלים כנגד מה שנתן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 1:2:7",
+        "quote": "לוֹקֵחַ מִנְּכָסָיו וְאוֹכֵל בְּטָהֳרַת מַעֲשֵׂר בִּירוּשָׁלַיִם"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם ר' יוסף אשכנזי: שני דינים נפרדים, מתנה לעם הארץ ואוכל כנגדו.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 1:2:7",
+        "quote": "ר\"ל מותר ליתנו מתנה לע\"ה. ואוכל כנגדו הוא דין אחר"
+       }
+      ]
+     },
+     {
+      "text": "הון עשיר: ההיתר לתת לעם הארץ הוא רק במועט הנזכר, ובמרובה אסור.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Demai 1:2:4",
+        "quote": "האי מיעוט הנזכר, אבל הרבה אסור ליתנו לעם הארץ"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שלוש דרכים להבין את סוף המשפט.",
+    "mishnah": 2,
+    "anchors": [
+     "וְנוֹתְנוֹ לְעַם הָאָרֶץ"
+    ]
+   },
+   {
+    "title": "חילול והנוסח 'ובלבד שיחזור ויפדה'",
+    "pasuk": {
+     "text": "וּבִלְבַד שֶׁיַּחֲזֹר וְיִפְדֶּה אֶת הַפֵּרוֹת",
+     "ref": "Mishnah Demai 1:2",
+     "label": "משנה דמאי א, ב"
+    },
+    "question": "המילים 'ובלבד שיחזור ויפדה את הפירות' קשות בהקשרן. הרע\"א מביא שברטנורא אינו גורס אותן. מה פירוש המשפט?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 1:2:4",
+      "quote": "כתב הר\"ב דלא גרס ליה",
+      "era": "acharon"
+     },
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Demai 1:2:8",
+      "quote": "גרסי' ול\"ג ובלבד",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא אינו גורס 'ובלבד' ומפרש שיכול לפדות אם ירצה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 1:2:10",
+        "quote": "גָּרְסִינַן, וְלֹא גָרְסִינַן וּבִלְבָד שֶׁיַּחֲזֹר וְיִפְדֶּה"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: התוספות קיימו הגירסא ופירשו שהכוונה בתחילה קובעת.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 1:2:2",
+        "quote": "אֲבָל הַתּוֹסָפוֹת קִיְּמוּ הַגִּירְסָא וּפֵרְשׁו"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: מה שחוזר ופודה את הפירות הוא קולא, שהרי בודאי צריך להעלותם.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 1:2:8",
+        "quote": "אדרבה היא קולא מה שחוזר ופודה את הפירות"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך נוסח המשנה משנה את ההלכה.",
+    "mishnah": 2,
+    "anchors": [
+     "וּבִלְבַד שֶׁיַּחֲזֹר וְיִפְדֶּה אֶת הַפֵּרוֹת"
+    ]
+   },
+   {
+    "title": "חלת עם הארץ",
+    "pasuk": {
+     "text": "חַלַּת עַם הָאָרֶץ",
+     "ref": "Mishnah Demai 1:3",
+     "label": "משנה דמאי א, ג"
+    },
+    "question": "למה חלת עם הארץ פטורה מן הדמאי? התוספות יום טוב מביא שברטנורא והר\"ש מפרשים בחלה שתקן לו חבר, ושואל איך זה מתיישב עם הירושלמי.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 1:3:2",
+      "quote": "ולכאורה מוקמי להו הר\"ש והר\"ב הכא בשתקן לו גבל חבר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: חלה שתקן לו גבל חבר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 1:3:5",
+        "quote": "שֶׁתִּקֵּן לוֹ גַּבָּל חָבֵר"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: בירושלמי חלוקים רבי אושעיא ורבי יוחנן אם הטעם אימת קדשים או שלא גזרו על דברים אלה.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 1:3:1",
+        "quote": "פְּלִיגֵי רַבִּי אוֹשַׁעְיָא וְרַבִּי יוֹחָנָן…לְרַבִּי אוֹשַׁעְיָא אֵימַת קָדָשִׁים עָלָיו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם הולך כרבי יוחנן: בשעה שגזרו על הדמאי לא גזרו על הדברים הללו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 1:3:5",
+        "quote": "בשעה שגזרו על הדמאי לא גזרו על הדברים הללו"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את המחלוקת שמאחורי הרשימה במשנה.",
+    "mishnah": 3,
+    "anchors": [
+     "חַלַּת עַם הָאָרֶץ"
+    ]
+   },
+   {
+    "title": "הקדמת מעשר שני לראשון",
+    "pasuk": {
+     "text": "הָא אִם הִקְדִּים מַעֲשֵׂר שֵׁנִי לָרִאשׁוֹן",
+     "ref": "Mishnah Demai 1:4",
+     "label": "משנה דמאי א, ד"
+    },
+    "question": "המשנה אומרת שאין בכך כלום אם הקדים מעשר שני לראשון. הון עשיר מעיר שהרמב\"ם אומר שצריך עדיין להפריש מעשר ראשון מן המעשר שני שהפריש.",
+    "asked_by": [
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Demai 1:4:3",
+      "quote": "אבל ראיתי להרמב\"ם שכתב דצריך שיפריש אף המעשר ראשון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: מותר ובלבד שישמור השיעורין.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 1:4:6",
+        "quote": "וזה מותר בלבד שישמור השיעורין"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: בודאי לא יוכל להתוודות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 1:4:7",
+        "quote": "אֵינוֹ יָכוֹל לְהִתְוַדּוֹת"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: בירושלמי ריש לקיש אומר בדיעבד בלבד, ורבי יוחנן אומר שאפילו לכתחילה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 1:4:2",
+        "quote": "ר\"י ס\"ל דאפי' לכתחלה מותר להקדים שני לראשון בדמאי"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך קוראים את פירוש הרמב\"ם ואת חיבורו.",
+    "mishnah": 4,
+    "anchors": [
+     "הָא אִם הִקְדִּים מַעֲשֵׂר שֵׁנִי לָרִאשׁוֹן"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "מלאכת שלמה",
+   "תוספות רבי עקיבא איגר",
+   "ברטנורא",
+   "תוספות יום טוב",
+   "פתח עינים",
+   "הון עשיר",
+   "ר\"ש משנץ",
+   "עיקר תוספות יום טוב",
+   "רמב\"ם"
+  ]
+ }
+}
