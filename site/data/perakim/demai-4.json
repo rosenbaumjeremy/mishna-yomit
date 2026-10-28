@@ -1,0 +1,1128 @@
+{
+ "date": "2026-10-28",
+ "hebrew_date": {
+  "hebrew": "י״ז בְּחֶשְׁוָן תשפ״ז",
+  "english": "17 Cheshvan 5787"
+ },
+ "masechet": "demai",
+ "perek": 4,
+ "ref": "Mishnah Demai 4",
+ "mishnayot": [
+  {
+   "he": "הַלּוֹקֵחַ פֵּרוֹת מִמִּי שֶׁאֵינוֹ נֶאֱמָן עַל הַמַּעַשְׂרוֹת, וְשָׁכַח לְעַשְּׂרָן, וְשׁוֹאֲלוֹ בְשַׁבָּת, יֹאכַל עַל פִּיו. חָשְׁכָה מוֹצָאֵי שַׁבָּת, לֹא יֹאכַל עַד שֶׁיְּעַשֵּׂר. לֹא מְצָאוֹ, אָמַר לוֹ אֶחָד שֶׁאֵינוֹ נֶאֱמָן עַל הַמַּעַשְׂרוֹת, מְעֻשָּׂרִין הֵן, אוֹכֵל עַל פִּיו. חָשְׁכָה מוֹצָאֵי שַׁבָּת, לֹא יֹאכַל עַד שֶׁיְּעַשֵּׂר. תְּרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי שֶׁחָזְרָה לִמְקוֹמָהּ, רַבִּי שִׁמְעוֹן שְׁזוּרִי אוֹמֵר, אַף בְּחֹל שׁוֹאֲלוֹ וְאוֹכְלוֹ עַל פִּיו: \n",
+   "en": "One who buys produce from someone who is not trustworthy in respect of tithes, and he forgot to tithe it, and he asked [the seller] on Shabbat [if they were tithed], he may eat based on his word. At nightfall of Shabbat, he may not eat of it unless he had first tithed it. If he could not find the seller, and another person who was not trustworthy in respect of tithes said to him “they are tithed,” he may eat of it at his word. At nightfall of Shabbat, he may not eat of it unless he had first tithed it. Terumat maaser of demai which had become mixed up again [with the produce] from which it had been taken: Rabbi Shimon Shezuri says: even on a week day he may ask the seller and eat based on his word."
+  },
+  {
+   "he": "הַמַּדִּיר אֶת חֲבֵרוֹ שֶׁיֹּאכַל אֶצְלוֹ, וְהוּא אֵינוֹ מַאֲמִינוֹ עַל הַמַּעַשְׂרוֹת, אוֹכֵל עִמּוֹ בַּשַּׁבָּת הָרִאשׁוֹנָה, וְאַף עַל פִּי שֶׁאֵינוֹ מַאֲמִינוֹ עַל הַמַּעַשְׂרוֹת, וּבִלְבַד שֶׁיֹּאמַר לוֹ מְעֻשָּׂרִין הֵן. וּבְשַׁבָּת שְׁנִיָּה, אַף עַל פִּי שֶׁנָּדַר מִמֶּנּוּ הֲנָיָה, לֹא יֹאכַל עַד שֶׁיְּעַשֵּׂר: \n",
+   "en": "One who vowed [that his friend could not benefit from him] unless he eats with him, and the friend does not trust him in respect of tithes, he may eat with him on the first Shabbat even though he does not trust him in respect of tithes, provided that his friend said to him that the food had been tithed. But on the second week, even though he had vowed that he would not benefit from him, he may not eat with him unless he first tithed [the produce]."
+  },
+  {
+   "he": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, אֵין אָדָם צָרִיךְ לִקְרוֹת שֵׁם לְמַעְשַׂר עָנִי שֶׁל דְּמַאי. וַחֲכָמִים אוֹמְרִים, קוֹרֵא שֵׁם וְאֵינוֹ צָרִיךְ לְהַפְרִישׁ: \n",
+   "en": "Rabbi Eliezer says: a man need not designate the poor man’s tithe of demai. But the sages say: he must designate it, but he need not separate."
+  },
+  {
+   "he": "מִי שֶׁקָּרָא שֵׁם לִתְרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי וּלְמַעְשַׂר עָנִי שֶׁל וַדַּאי, לֹא יִטְּלֵם בְּשַׁבָּת. וְאִם הָיָה כֹהֵן אוֹ עָנִי לְמוּדִים לֶאֱכֹל אֶצְלוֹ, יָבֹאוּ וְיֹאכְלוּ, וּבִלְבַד שֶׁיּוֹדִיעֵם: \n",
+   "en": "One who had designated the terumat maaser of demai, or the poor man’s tithe of produce that had certainly not been tithed, he should not separate them on Shabbat. But if the priest or the poor man regularly ate with him, they may come and eat provided that he informs them."
+  },
+  {
+   "he": "הָאוֹמֵר לְמִי שֶׁאֵינוֹ נֶאֱמָן עַל הַמַּעַשְׂרוֹת, קַח לִי מִמִּי שֶׁהוּא נֶאֱמָן וּמִמִּי שֶׁהוּא מְעַשֵּׂר, אֵינוֹ נֶאֱמָן. מֵאִישׁ פְּלוֹנִי, הֲרֵי זֶה נֶאֱמָן. הָלַךְ לִקַּח מִמֶּנּוּ, וְאָמַר לוֹ לֹא מְצָאתִיו וְלָקַחְתִּי לְךָ מֵאַחֵר שֶׁהוּא נֶאֱמָן, אֵינוֹ נֶאֱמָן: \n",
+   "en": "One who says to another who is not trustworthy in respect of tithes: “Buy [produce] for me from one who is trustworthy or from one who gives tithes,” [the messenger] may not be trusted. “Buy it for me from so-and-so,” he is to be trusted. If he went to buy it from him [and then came back] and said: “I did not find him, so I bought for you from another man who is trustworthy,” he may not be trusted."
+  },
+  {
+   "he": "הַנִּכְנָס לְעִיר וְאֵינוֹ מַכִּיר אָדָם שָׁם, אָמַר, מִי כָּאן נֶאֱמָן. מִי כָּאן מְעַשֵּׂר. אָמַר לוֹ אֶחָד, אֲנִי, אֵינוֹ נֶאֱמָן. אָמַר לוֹ, אִישׁ פְּלוֹנִי נֶאֱמָן, הֲרֵי זֶה נֶאֱמָן. הָלַךְ לִקַּח מִמֶּנּוּ, אָמַר לוֹ, מִי כָּאן מוֹכֵר יָשָׁן. אָמַר לוֹ, מִי שֶׁשְּׁלָחֲךָ אֶצְלִי, אַף עַל פִּי שֶׁהֵן כְּגוֹמְלִין זֶה אֶת זֶה, הֲרֵי אֵלּוּ נֶאֱמָנִין: \n",
+   "en": "One enters a city and doesn’t know anyone. He says: “Who here is trustworthy? Who gives tithes here?” One person one responds: “I am.” He may not be trusted. [But if] he replied: “So-and-so is trustworthy,” he may be trusted. He went to buy from so-and-so, and he asked him: “Who here sells aged produce?” and so-and-so replied: “He sent you to me,” though they appear to be repaying each other, they may be trusted."
+  },
+  {
+   "he": "הַחַמָּרִים שֶׁנִּכְנְסוּ לְעִיר, אָמַר אֶחָד, שֶׁלִּי חָדָשׁ וְשֶׁל חֲבֵרִי יָשָׁן, שֶׁלִּי אֵינוֹ מְתֻקָּן וְשֶׁל חֲבֵרִי מְתֻקָּן, אֵינָן נֶאֱמָנִין. רַבִּי יְהוּדָה אוֹמֵר, נֶאֱמָנִין: \n",
+   "en": "If donkey-drivers entered a city and one of them declared: “My produce is new but my friend’s produce is old,” or, “My produce has not been tithed but my friend’s produce has been tithed,” they may not be trusted. Rabbi Judah says: they may be trusted."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 A buyer from someone not trusted about tithes may, on Shabbat, ask him whether the produce is tithed and eat on his word, but after Shabbat he must tithe; Rabbi Shimon Shezuri extends this to a weekday for terumat maaser of demai that fell back into its place. Mishnah 2 A host who vowed that his friend may not benefit from him unless he eats with him is trusted on the first Shabbat if he says the food is tithed, but not on the second. Mishnah 3 Rabbi Eliezer says one need not call a name for maaser ani of demai, while the Sages say he calls a name but need not separate it. Mishnah 4 One who called a name for terumat maaser of demai or maaser ani of certain produce may not take them on Shabbat, but a priest or poor man accustomed to eat with him may eat if told. Mishnayot 5–6 A messenger told to buy from a trustworthy person is not believed, but if told to buy from a named person he is; a stranger in a city who is told who is trustworthy may rely on it. Mishnah 7 Donkey-drivers who praise each other's produce are not believed, though Rabbi Judah says they are.",
+  "topics": [
+   {
+    "term": "Eimat Shabbat – the awe of Shabbat",
+    "explanation": "An am haaretz is not trusted about tithes on a weekday, but on Shabbat the mishnah lets a buyer ask him whether the produce was tithed and rely on his answer. The reason given is that he is more afraid to sin and lie on Shabbat than on a weekday. The leniency lasts only until the end of Shabbat.",
+    "mishnah": 1,
+    "anchors": [
+     "יאכל על פיו"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 4:1:1",
+     "quote": "אימת שבת עליו ר\"ל שעמי הארץ הוא חמור בעיניהם לעשות עבירה ביום שבת"
+    }
+   },
+   {
+    "term": "Terumat maaser of demai that returned to its place",
+    "explanation": "Terumat maaser is a tenth of the maaser given to the Levi. If it falls back into the produce it came from, and the produce is less than a hundred times its size, it becomes forbidden to non-priests (dimua). Rabbi Shimon Shezuri says that here even on a weekday the buyer may ask and rely on the answer.",
+    "mishnah": 1,
+    "anchors": [
+     "תרומת מעשר של דמאי שחזרה למקומה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 4:1:2",
+     "quote": "וּתְרוּמַת מַעֲשֵׂר הַוְיָא אֶחָד מִמֵּאָה, וּכְשֶׁחָזְרָה לִמְקוֹמָהּ לְפָחוֹת מִמֵּאָה חָזְרָה וּמְדַמַּעַת"
+    }
+   },
+   {
+    "term": "The first Shabbat – the wedding feast (protegma)",
+    "explanation": "When one has vowed that his friend may not benefit from him unless the friend eats with him, the friend may eat the first time even though he does not trust the host about tithes, as long as the host says the food is tithed. The Yerushalmi explains this as the Shabbat of the protegma, the first feast of a groom, to avoid hostility. After that week he must tithe first.",
+    "mishnah": 2,
+    "anchors": [
+     "בשבת הראשונה"
+    ],
+    "source": {
+     "name": "Rash MiShantz",
+     "ref": "Rash MiShantz on Mishnah Demai 4:2:2",
+     "quote": "בשבת של פרוטגמא התירו משום איבה לסעודות בחור שנשא בתולה"
+    }
+   },
+   {
+    "term": "Maaser ani of demai and \"calling a name\"",
+    "explanation": "Calling a name (kriat shem) means declaring which part of the produce will be the tithe, without yet separating it. Rabbi Eliezer says that for demai one need not even call a name for maaser ani. The Sages say he calls the name but need not separate it, so that the poor man has no claim on him.",
+    "mishnah": 3,
+    "anchors": [
+     "אין אדם צריך לקרות שם למעשר עני של דמאי"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 4:3:1",
+     "quote": "דמאי אינו חייב להוציא ממנו מעשר עני"
+    }
+   },
+   {
+    "term": "Calling a name before Shabbat",
+    "explanation": "Someone who called a name on Friday for the terumat maaser of demai or the maaser ani of certain produce may not take them on Shabbat to give them away, because gifts to a priest or a poor man may not be handed over on Shabbat. But a priest or a poor man who regularly eats at his table may come and eat, provided he is told what it is.",
+    "mishnah": 4,
+    "anchors": [
+     "מי שקרא שם"
+    ],
+    "source": {
+     "name": "Ikar Tosafot Yom Tov",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 4:4:1",
+     "quote": "שֶׁקָּרָא שֵׁם. רְצוֹנוֹ לוֹמַר בְּעֶרֶב שַׁבָּת"
+    }
+   },
+   {
+    "term": "Who is \"trustworthy\" in this mishnah",
+    "explanation": "Rambam explains that when the mishnah says one is trustworthy it means a man who is reliable about purity and impurity and does not feed forbidden or impure food. The messenger sent to buy from \"a trustworthy person\" is not believed, but if he was told to buy from a named person he is.",
+    "mishnah": 5,
+    "anchors": [
+     "ממי שהוא נאמן"
+    ],
+    "source": {
+     "name": "Tosafot Yom Tov",
+     "ref": "Tosafot Yom Tov on Mishnah Demai 4:5:1",
+     "quote": "איש נאמן על טומאה וטהרה שאינו מאכיל איסור ולא טמא"
+    }
+   },
+   {
+    "term": "The stranger in town (achsanai)",
+    "explanation": "A traveler who enters a city and knows no one asks who is trustworthy. A man who says \"I am\" is not believed, but one who names someone else is believed, even though he himself is suspect. Rambam explains this as a leniency for a stranger who does not know the townspeople.",
+    "mishnah": 6,
+    "anchors": [
+     "הנכנס לעיר ואינו מכיר אדם שם"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 4:6:1",
+     "quote": "מפני שהוא גר ואינו מכיר אנשי המדינה"
+    }
+   },
+   {
+    "term": "Donkey-drivers who repay each other (gomlin)",
+    "explanation": "Donkey-drivers bring grain from a cheap place to an expensive one. When one praises his friend's produce, he may be doing so because the friend will praise his in return. Rabbi Judah says they are nevertheless trusted, because most am haaretz do tithe demai.",
+    "mishnah": 7,
+    "anchors": [
+     "החמרים שנכנסו לעיר"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 4:7:2",
+     "quote": "גּוֹמְלִים זֶה אֶת זֶה וּמְשַׁבֵּחַ שֶׁל חֲבֵרוֹ בְּעִיר זוֹ כְּדֵי שֶׁיְּשַׁבַּח חֲבֵרוֹ אֶת שֶׁלּוֹ בְּעִיר אַחֶרֶת"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why rely on his word on Shabbat?",
+    "pasuk": {
+     "text": "וְשׁוֹאֲלוֹ בְשַׁבָּת, יֹאכַל עַל פִּיו",
+     "ref": "Mishnah Demai 4:1",
+     "label": "Mishnah Demai 4:1"
+    },
+    "question": "The mishnah lets the buyer eat on Shabbat on the seller's word, while the produce may be tevel. Why not simply tithe it on Shabbat, since separating demai is only a rabbinic prohibition?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 4:1:2",
+      "quote": "קשה לי אמאי נסמוך ע\"ז להתיר האכילה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Akiva Eiger himself suggests that the rabbis feared people would say that demai is separated on Shabbat, whereas eating on the seller's word raises no such worry.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 4:1:2",
+        "quote": "ואפשר דחיישינן שמא יאמרו דמפרישין דמאי בשבת"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov, quoting Rambam, says the leniency was granted only for the needs of that Shabbat, so after Shabbat everything must be tithed.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 4:1:2",
+        "quote": "שלא הקילו והאמינוהו אלא לצורך אותו שבת"
+       }
+      ]
+     }
+    ],
+    "why": "Shows how the leniency of asking on Shabbat is limited to Shabbat and not meant to replace tithing.",
+    "mishnah": 1,
+    "anchors": [
+     "וְשׁוֹאֲלוֹ בְשַׁבָּת, יֹאכַל עַל פִּיו"
+    ]
+   },
+   {
+    "title": "Believing a suspect about the returned terumat maaser",
+    "pasuk": {
+     "text": "רַבִּי שִׁמְעוֹן שְׁזוּרִי אוֹמֵר, אַף בְּחֹל שׁוֹאֲלוֹ וְאוֹכְלוֹ עַל פִּיו",
+     "ref": "Mishnah Demai 4:1",
+     "label": "Mishnah Demai 4:1"
+    },
+    "question": "A person suspected about tithes is normally not believed even about others' produce. Why does Rabbi Shimon Shezuri allow asking the am haaretz even on a weekday, and what exactly does he say?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Demai 4:1:3",
+      "quote": "ואע\"ג דקיימא לן החשוד על הדבר לא דנו ולא מעידו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rash MiShantz: the awe of dimua is on him, so he is believed.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Demai 4:1:3",
+        "quote": "הכא דאימת דימוע עליו נאמן"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: once the name of terumah was called on it, the am haaretz fears dimua and is afraid to lie.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 4:1:3",
+        "quote": "אֵימַת דִּמּוּעַ עַל עַם הָאָרֶץ וְיָרֵא לְשַׁקֵּר"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: according to Rashi and Raavad, one asks him whether he had already tithed it for himself; Rambam reads that he is asked whether he separated again.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 4:1:7",
+        "quote": "שואלין את העם הארץ אם כבר תיקנה גם כן לעצמו"
+       }
+      ]
+     }
+    ],
+    "why": "Explains the principle of dimua awe and the difference between Rashi and Rambam on what the am haaretz is asked.",
+    "mishnah": 1,
+    "anchors": [
+     "רַבִּי שִׁמְעוֹן שְׁזוּרִי אוֹמֵר, אַף בְּחֹל שׁוֹאֲלוֹ וְאוֹכְלוֹ עַל פִּיו"
+    ]
+   },
+   {
+    "title": "A repeated phrase: \"even though he does not trust him\"",
+    "pasuk": {
+     "text": "אַף עַל פִּי שֶׁאֵינוֹ מַאֲמִינוֹ עַל הַמַּעַשְׂרוֹת, וּבִלְבַד",
+     "ref": "Mishnah Demai 4:2",
+     "label": "Mishnah Demai 4:2"
+    },
+    "question": "The mishnah says twice that he may eat even though he does not trust the host about tithes. Why the repetition?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 4:2:4",
+      "quote": "ק\"ל שהוא כפל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Lechem Shamayim: do not think he trusts him this Shabbat; he does not trust him, yet the rabbis permitted relying on him on the first Shabbat.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Demai 4:2:3",
+        "quote": "לא תימא משום דמהימן ליה האידנא בשבת"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov notes that with the Yerushalmi's text the difficulty is somewhat resolved.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 4:2:4",
+        "quote": "ולגירסת ירושלמי מיושב קצת"
+       }
+      ]
+     }
+    ],
+    "why": "Shows how the commentators read an apparently redundant phrase.",
+    "mishnah": 2,
+    "anchors": [
+     "אַף עַל פִּי שֶׁאֵינוֹ מַאֲמִינוֹ עַל הַמַּעַשְׂרוֹת, וּבִלְבַד"
+    ]
+   },
+   {
+    "title": "Why is the second Shabbat different from the buyer in the first mishnah?",
+    "pasuk": {
+     "text": "וּבְשַׁבָּת שְׁנִיָּה, אַף עַל פִּי שֶׁנָּדַר מִמֶּנּוּ הֲנָיָה, לֹא יֹאכַל עַד שֶׁיְּעַשֵּׂר",
+     "ref": "Mishnah Demai 4:2",
+     "label": "Mishnah Demai 4:2"
+    },
+    "question": "In mishnah 1 the buyer may rely on the seller's word every Shabbat, but here the guest may rely on the host only on the first Shabbat. What distinguishes the two cases?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Demai 4:2:5",
+      "quote": "ולא דמי ללוקח פירות דלעיל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Lechem Shamayim: there the buyer tithes everything at the end of Shabbat, while here the guest does not tithe afterward.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Demai 4:2:5",
+        "quote": "דהתם למ\"ש מעשר על הכל"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the first Shabbat was permitted for the sake of peace.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 4:2:2",
+        "quote": "התירו זה מפני דרכי שלום"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: one cannot say the difference is that the buyer has nothing else to eat, since Rambam rules this even when he has tithed produce of that kind.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 4:2:6",
+        "quote": "שהרי פסק הרמב\"ם מהירושלמי דאפילו היה לו פירות מתוקנים"
+       }
+      ]
+     }
+    ],
+    "why": "Shows that the leniency here is for peace and not from the Shabbat awe of mishnah 1.",
+    "mishnah": 2,
+    "anchors": [
+     "וּבְשַׁבָּת שְׁנִיָּה, אַף עַל פִּי שֶׁנָּדַר מִמֶּנּוּ הֲנָיָה, לֹא יֹאכַל עַד שֶׁיְּעַשֵּׂר"
+    ]
+   },
+   {
+    "title": "Are am haaretz suspected about maaser ani?",
+    "pasuk": {
+     "text": "אֵין אָדָם צָרִיךְ לִקְרוֹת שֵׁם לְמַעְשַׂר עָנִי שֶׁל דְּמַאי",
+     "ref": "Mishnah Demai 4:3",
+     "label": "Mishnah Demai 4:3"
+    },
+    "question": "The dispute of Rabbi Eliezer and the Sages seems to depend on whether am haaretz are suspected about maaser ani, yet the beginning of the tractate says they are suspected. How is this to be understood?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 4:3:1",
+      "quote": "וקשה דבריש מכילתין מפרש דעמי הארץ חשודים על מעשר עני",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 4:3:2",
+      "quote": "איך אמרינן דלא נחשדו על מעשר עני",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: am haaretz are not suspected about maaser ani, since they know that untithed produce is liable to death for it; so Rabbi Eliezer says no name need be called.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 4:3:1",
+        "quote": "דְּלֹא נֶחְשְׁדוּ עַמֵּי הָאָרֶץ עַל מַעְשַׂר עָנִי"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the Sages' view is so that maaser sheni of demai is kept, since in some years maaser ani takes the place of maaser sheni.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 4:3:2",
+        "quote": "כדי שיתקיים מעשר שני המחויב לדמאי"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz: the Sages hold that they are suspected, so the buyer calls a name and need not separate it for the poor.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Demai 4:3:1",
+        "quote": "ורבנן סברי אפי' הכי חשודין הן הלכך הלוקח קורא עליו שם"
+       }
+      ]
+     }
+    ],
+    "why": "The dispute shows how different works read the suspicion on maaser ani.",
+    "mishnah": 3,
+    "anchors": [
+     "אֵין אָדָם צָרִיךְ לִקְרוֹת שֵׁם לְמַעְשַׂר עָנִי שֶׁל דְּמַאי"
+    ]
+   },
+   {
+    "title": "Why these two tithes and not terumah gedolah?",
+    "pasuk": {
+     "text": "מִי שֶׁקָּרָא שֵׁם לִתְרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי וּלְמַעְשַׂר עָנִי שֶׁל וַדַּאי",
+     "ref": "Mishnah Demai 4:4",
+     "label": "Mishnah Demai 4:4"
+    },
+    "question": "Why does the mishnah speak of terumat maaser of demai and maaser ani of certain produce, and not of terumah gedolah or maaser rishon?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Demai 4:4:1",
+      "quote": "וליתני תרומה גדולה של ודאי",
+      "era": "rishon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 4:4:1",
+      "quote": "קשה לי דהא מצי למנקט בלוי שקרא שם לתרומת מעשר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: of demai the Israelite himself calls the name and gives it to the priest, whereas for certain produce the Levi separates terumat maaser.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 4:4:1",
+        "quote": "לְפִי שֶׁהַיִּשְׂרָאֵל קוֹרֵא לָהּ שֵׁם וְנוֹתְנָהּ לַכֹּהֵן"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz: terumah gedolah is not usually kept; people separate it right away.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Demai 4:4:1",
+        "quote": "לאו אורחיה דמילתא לשהות תרומה ורגילין להפרישה לאלתר"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov: maaser rishon is not mentioned because calling a name gives no benefit in giving it to the Levi on Shabbat.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 4:4:2",
+        "quote": "אֵין בּוֹ תּוֹעֶלֶת לִתְּנוֹ לַלֵּוִי בְּשַׁבָּת"
+       }
+      ]
+     }
+    ],
+    "why": "Clarifies which tithes can be designated before Shabbat and used on it.",
+    "mishnah": 4,
+    "anchors": [
+     "מִי שֶׁקָּרָא שֵׁם לִתְרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי וּלְמַעְשַׂר עָנִי שֶׁל וַדַּאי"
+    ]
+   },
+   {
+    "title": "Why not believe him on the strength of a \"migo\"?",
+    "pasuk": {
+     "text": "מֵאִישׁ פְּלוֹנִי, הֲרֵי זֶה נֶאֱמָן",
+     "ref": "Mishnah Demai 4:5",
+     "label": "Mishnah Demai 4:5"
+    },
+    "question": "If the messenger says he did not find so-and-so and bought elsewhere, why is he not believed on the argument that he could have claimed he did find him and bought from him?",
+    "asked_by": [
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 4:5:2",
+      "quote": "וְאֵין לוֹמַר נְהֵמְנוּהוּ בְּמִגּוֹ דְּאִי בָעֵי אָמַר שֶׁמְּצָאוֹ וְלָקַח מִמֶּנּו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ikar Tosafot Yom Tov: this is not a good migo, since he fears the man will be found to have lied if so-and-so comes and is asked.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 4:5:2",
+        "quote": "אֵין זֶה מִגּוֹ טוֹב שֶׁמִּתְיָרֵא שֶׁיִּמָּצֵא בַּדַּאי"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: when told \"from so-and-so\" he cannot excuse himself, since he may not buy from anyone else.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 4:5:1",
+        "quote": "לֹא מָצֵי לְאִשְׁתַּמוֹטֵי דְּהָא אֵינוֹ רַשַּׁאי לִקַּח מֵאַחֵר"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: he is believed because certainly he would not buy from another, fearing that the man will be asked.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 4:5:1",
+        "quote": "בודאי אינו לוקח מאחר לפי שהוא מתיירא שמא ישאל האיש ההוא"
+       }
+      ]
+     }
+    ],
+    "why": "Shows why the migo argument fails here.",
+    "mishnah": 5,
+    "anchors": [
+     "מֵאִישׁ פְּלוֹנִי, הֲרֵי זֶה נֶאֱמָן"
+    ]
+   },
+   {
+    "title": "Believing a suspect who vouches for another",
+    "pasuk": {
+     "text": "אָמַר לוֹ, אִישׁ פְּלוֹנִי נֶאֱמָן, הֲרֵי זֶה נֶאֱמָן",
+     "ref": "Mishnah Demai 4:6",
+     "label": "Mishnah Demai 4:6"
+    },
+    "question": "The man who answers is himself not trusted, yet his word that so-and-so is trustworthy is accepted. How is that consistent with the first mishnah, where even testimony about others' produce is not accepted from a suspect?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 4:6:2",
+      "quote": "מתניתין דריש פירקין מוכחת נמי הכי דאינו נאמן אף על של אחרים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: it is a leniency granted for a stranger because of life-sustaining need, and only where he knows no one there.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 4:6:1",
+        "quote": "קֻלָּא הִיא שֶׁהֵקֵלּוּ בְּאַכְסְנַאי מִשּׁוּם חַיֵּי נֶפֶש"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: the cases are not alike, since the man who testifies here may himself be trustworthy, and is only not trusted for himself because he is not known.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Demai 4:6:1-2",
+        "quote": "דילמא האי דקמסהיד איהו גופיה נאמן הוא"
+       }
+      ]
+     },
+     {
+      "text": "Akiva Eiger: the Yerushalmi's difficulty is not from the law of a suspect, because to establish a man as trustworthy a single witness does not suffice.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 4:6:2",
+        "quote": "בזה לא מהני עדות ע\"א"
+       }
+      ]
+     }
+    ],
+    "why": "Shows the limits of the innkeeper leniency.",
+    "mishnah": 6,
+    "anchors": [
+     "אָמַר לוֹ, אִישׁ פְּלוֹנִי נֶאֱמָן, הֲרֵי זֶה נֶאֱמָן"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Rabbi Akiva Eiger",
+   "Tosafot Yom Tov",
+   "Rash MiShantz",
+   "Bartenura",
+   "Lechem Shamayim",
+   "Rambam",
+   "Ikar Tosafot Yom Tov"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א הלוקח פירות ממי שאינו נאמן על המעשרות שואלו בשבת ואוכל על פיו, אך במוצאי שבת צריך לעשר; ורבי שמעון שזורי מתיר גם בחול בתרומת מעשר של דמאי שחזרה למקומה. משנה ב המדיר את חברו שיאכל אצלו אוכל עמו בשבת הראשונה אם אמר לו שהאוכל מעושר, אך לא בשבת השנייה. משנה ג רבי אליעזר אומר שאין צריך לקרוא שם למעשר עני של דמאי, וחכמים אומרים שקורא שם ואינו צריך להפריש. משנה ד מי שקרא שם לתרומת מעשר של דמאי או למעשר עני של ודאי אינו נוטלם בשבת, אך כהן או עני הלמודים לאכול אצלו אוכלים אם הודיעם. משניות ה-ו השליח שנשלח לקנות ממי שנאמן אינו נאמן, אך אם נשלח לאיש פלוני הוא נאמן; ומי שנכנס לעיר ואינו מכיר אדם סומך על מי שמצביע על נאמן. משנה ז החמרים המשבחים זה את זה אינם נאמנים, ורבי יהודה אומר שהם נאמנים.",
+  "topics": [
+   {
+    "term": "אימת שבת",
+    "explanation": "עם הארץ אינו נאמן על המעשרות בימות החול, אך בשבת המשנה מתירה לקונה לשאול אותו אם הפירות מעושרים ולסמוך על דבריו. הטעם הוא שהוא ירא יותר לחטוא ולשקר בשבת מאשר בחול, וההיתר נמשך רק עד צאת השבת.",
+    "mishnah": 1,
+    "anchors": [
+     "יאכל על פיו"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 4:1:1",
+     "quote": "אימת שבת עליו ר\"ל שעמי הארץ הוא חמור בעיניהם לעשות עבירה ביום שבת"
+    }
+   },
+   {
+    "term": "תרומת מעשר של דמאי שחזרה למקומה",
+    "explanation": "תרומת מעשר היא עשירית מן המעשר הניתן ללוי. אם היא חוזרת ונופלת אל הפירות שממנם הופרשה, והפירות פחות ממאה כנגדה, היא נעשית מדמעת. רבי שמעון שזורי אומר שכאן אפילו בחול שואלים את המוכר וסומכים על דבריו.",
+    "mishnah": 1,
+    "anchors": [
+     "תרומת מעשר של דמאי שחזרה למקומה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 4:1:2",
+     "quote": "וּתְרוּמַת מַעֲשֵׂר הַוְיָא אֶחָד מִמֵּאָה, וּכְשֶׁחָזְרָה לִמְקוֹמָהּ לְפָחוֹת מִמֵּאָה חָזְרָה וּמְדַמַּעַת"
+    }
+   },
+   {
+    "term": "השבת הראשונה – סעודת הנישואין",
+    "explanation": "מי שהדיר את חברו שיאכל אצלו, החבר אוכל בפעם הראשונה אף שאינו מאמינו על המעשרות, ובלבד שהמארח אומר לו שהאוכל מעושר. הירושלמי מסביר שזו שבת של הפרוטגמא, סעודת החתן, כדי למנוע איבה. מן השבת השנייה צריך לעשר קודם.",
+    "mishnah": 2,
+    "anchors": [
+     "בשבת הראשונה"
+    ],
+    "source": {
+     "name": "רש משנץ",
+     "ref": "Rash MiShantz on Mishnah Demai 4:2:2",
+     "quote": "בשבת של פרוטגמא התירו משום איבה לסעודות בחור שנשא בתולה"
+    }
+   },
+   {
+    "term": "מעשר עני של דמאי וקריאת שם",
+    "explanation": "קריאת שם היא הכרזה איזה חלק מן הפירות יהיה המעשר, בלי להפרישו בפועל. רבי אליעזר אומר שבדמאי אין צריך אפילו לקרוא שם למעשר עני. חכמים אומרים שהוא קורא שם ואינו צריך להפריש, כדי שלא יהיה לעני טענה עליו.",
+    "mishnah": 3,
+    "anchors": [
+     "אין אדם צריך לקרות שם למעשר עני של דמאי"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 4:3:1",
+     "quote": "דמאי אינו חייב להוציא ממנו מעשר עני"
+    }
+   },
+   {
+    "term": "קריאת שם בערב שבת",
+    "explanation": "מי ששם שם בערב שבת לתרומת מעשר של דמאי או למעשר עני של ודאי אינו נוטלם בשבת כדי לתתם, שהרי אסור לתת מתנות לכהן ולעני בשבת. אבל כהן או עני הלמודים לאכול אצלו באים ואוכלים, ובלבד שהוא מודיעם מה הם אוכלים.",
+    "mishnah": 4,
+    "anchors": [
+     "מי שקרא שם"
+    ],
+    "source": {
+     "name": "עיקר תוספות יום טוב",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 4:4:1",
+     "quote": "שֶׁקָּרָא שֵׁם. רְצוֹנוֹ לוֹמַר בְּעֶרֶב שַׁבָּת"
+    }
+   },
+   {
+    "term": "מיהו נאמן במשנה זו",
+    "explanation": "הרמב\"ם מסביר שנאמן במשנה הוא איש נאמן על טומאה וטהרה שאינו מאכיל איסור ולא טמא. השליח שנשלח לקנות ממי שהוא נאמן אינו נאמן, אך אם נאמר לו לקנות מאיש פלוני הוא נאמן.",
+    "mishnah": 5,
+    "anchors": [
+     "ממי שהוא נאמן"
+    ],
+    "source": {
+     "name": "תוספות יום טוב",
+     "ref": "Tosafot Yom Tov on Mishnah Demai 4:5:1",
+     "quote": "איש נאמן על טומאה וטהרה שאינו מאכיל איסור ולא טמא"
+    }
+   },
+   {
+    "term": "האכסנאי בעיר",
+    "explanation": "מי שנכנס לעיר ואינו מכיר איש שואל מי נאמן. מי שאומר \"אני\" אינו נאמן, אך מי שמצביע על אחר נאמן, אף שהוא עצמו חשוד. הרמב\"ם מסביר שזו הקלה לגר שאינו מכיר את אנשי העיר.",
+    "mishnah": 6,
+    "anchors": [
+     "הנכנס לעיר ואינו מכיר אדם שם"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 4:6:1",
+     "quote": "מפני שהוא גר ואינו מכיר אנשי המדינה"
+    }
+   },
+   {
+    "term": "החמרים הגומלים זה לזה",
+    "explanation": "החמרים מביאים תבואה ממקום הזול למקום היקר. כשאחד משבח את פירות חברו, ייתכן שהוא עושה זאת כדי שחברו ישבח את שלו. רבי יהודה אומר שבכל זאת הם נאמנים, שהרי רוב עמי הארץ מעשרים את הדמאי.",
+    "mishnah": 7,
+    "anchors": [
+     "החמרים שנכנסו לעיר"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 4:7:2",
+     "quote": "גּוֹמְלִים זֶה אֶת זֶה וּמְשַׁבֵּחַ שֶׁל חֲבֵרוֹ בְּעִיר זוֹ כְּדֵי שֶׁיְּשַׁבַּח חֲבֵרוֹ אֶת שֶׁלּוֹ בְּעִיר אַחֶרֶת"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "למה סומכים על דבריו בשבת?",
+    "pasuk": {
+     "text": "וְשׁוֹאֲלוֹ בְשַׁבָּת, יֹאכַל עַל פִּיו",
+     "ref": "Mishnah Demai 4:1",
+     "label": "משנה דמאי ד, א"
+    },
+    "question": "המשנה מתירה לקונה לאכול בשבת על פי המוכר, אף שייתכן שהפירות טבל. מדוע לא פשוט לעשר בשבת, והרי הפרשת דמאי אסורה רק מדרבנן?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 4:1:2",
+      "quote": "קשה לי אמאי נסמוך ע\"ז להתיר האכילה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רבי עקיבא איגר עצמו מציע שחששו שיאמרו שמפרישים דמאי בשבת, ואילו באכילה על פי המוכר אין חשש כזה.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 4:1:2",
+        "quote": "ואפשר דחיישינן שמא יאמרו דמפרישין דמאי בשבת"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב מביא מהרמב\"ם שההיתר ניתן רק לצורך אותה שבת, ולכן במוצאי שבת צריך לעשר על הכל.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 4:1:2",
+        "quote": "שלא הקילו והאמינוהו אלא לצורך אותו שבת"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שההיתר לשאול בשבת מוגבל לשבת ואינו תחליף לעישור.",
+    "mishnah": 1,
+    "anchors": [
+     "וְשׁוֹאֲלוֹ בְשַׁבָּת, יֹאכַל עַל פִּיו"
+    ]
+   },
+   {
+    "title": "האמנת חשוד בתרומת מעשר שחזרה",
+    "pasuk": {
+     "text": "רַבִּי שִׁמְעוֹן שְׁזוּרִי אוֹמֵר, אַף בְּחֹל שׁוֹאֲלוֹ וְאוֹכְלוֹ עַל פִּיו",
+     "ref": "Mishnah Demai 4:1",
+     "label": "משנה דמאי ד, א"
+    },
+    "question": "חשוד על דבר אינו נאמן בדרך כלל. מדוע רבי שמעון שזורי מתיר לשאול את עם הארץ אפילו בחול, ומה בדיוק שואלים אותו?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Demai 4:1:3",
+      "quote": "ואע\"ג דקיימא לן החשוד על הדבר לא דנו ולא מעידו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרש משנץ: אימת הדימוע עליו ולכן הוא נאמן.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Demai 4:1:3",
+        "quote": "הכא דאימת דימוע עליו נאמן"
+       }
+      ]
+     },
+     {
+      "text": "הברטנורא: מאחר שנקרא עליה שם תרומה, עם הארץ ירא מדימוע ופוחד לשקר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 4:1:3",
+        "quote": "אֵימַת דִּמּוּעַ עַל עַם הָאָרֶץ וְיָרֵא לְשַׁקֵּר"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב: לפי רש\"י והראב\"ד שואלים אותו אם כבר תיקנה לעצמו, והרמב\"ם מפרש שהוא אומר שחזר והתקין.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 4:1:7",
+        "quote": "שואלין את העם הארץ אם כבר תיקנה גם כן לעצמו"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר את עקרון אימת הדימוע ואת המחלוקת בין רש\"י לרמב\"ם במה שואלים את עם הארץ.",
+    "mishnah": 1,
+    "anchors": [
+     "רַבִּי שִׁמְעוֹן שְׁזוּרִי אוֹמֵר, אַף בְּחֹל שׁוֹאֲלוֹ וְאוֹכְלוֹ עַל פִּיו"
+    ]
+   },
+   {
+    "title": "כפל הלשון: אף על פי שאינו מאמינו",
+    "pasuk": {
+     "text": "אַף עַל פִּי שֶׁאֵינוֹ מַאֲמִינוֹ עַל הַמַּעַשְׂרוֹת, וּבִלְבַד",
+     "ref": "Mishnah Demai 4:2",
+     "label": "משנה דמאי ד, ב"
+    },
+    "question": "המשנה אומרת פעמיים שהוא אוכל אף על פי שאינו מאמינו על המעשרות. מה טעם הכפל?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 4:2:4",
+      "quote": "ק\"ל שהוא כפל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לחם שמים: אל תאמר שהוא מאמינו עכשיו בשבת; הוא אינו מאמינו, ובכל זאת התירו לו לסמוך עליו בשבת הראשונה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Demai 4:2:3",
+        "quote": "לא תימא משום דמהימן ליה האידנא בשבת"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב מציין שלפי גרסת הירושלמי הדבר מיושב קצת.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 4:2:4",
+        "quote": "ולגירסת ירושלמי מיושב קצת"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך המפרשים קוראים לשון שנראה מיותר.",
+    "mishnah": 2,
+    "anchors": [
+     "אַף עַל פִּי שֶׁאֵינוֹ מַאֲמִינוֹ עַל הַמַּעַשְׂרוֹת, וּבִלְבַד"
+    ]
+   },
+   {
+    "title": "במה שונה השבת השנייה מהלוקח שבמשנה א?",
+    "pasuk": {
+     "text": "וּבְשַׁבָּת שְׁנִיָּה, אַף עַל פִּי שֶׁנָּדַר מִמֶּנּוּ הֲנָיָה, לֹא יֹאכַל עַד שֶׁיְּעַשֵּׂר",
+     "ref": "Mishnah Demai 4:2",
+     "label": "משנה דמאי ד, ב"
+    },
+    "question": "במשנה א הלוקח סומך על המוכר בכל שבת, ואילו כאן האורח סומך על המארח רק בשבת הראשונה. במה נבדלים שני המקרים?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Demai 4:2:5",
+      "quote": "ולא דמי ללוקח פירות דלעיל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לחם שמים: שם הלוקח מעשר על הכל במוצאי שבת, ואילו כאן האורח אינו מעשר אחר כך.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Demai 4:2:5",
+        "quote": "דהתם למ\"ש מעשר על הכל"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: השבת הראשונה הותרה מפני דרכי שלום.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 4:2:2",
+        "quote": "התירו זה מפני דרכי שלום"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב: אי אפשר לחלק שללוקח אין מה לאכול, שהרי הרמב\"ם פוסק כך אפילו אם יש לו פירות מתוקנים מאותו המין.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 4:2:6",
+        "quote": "שהרי פסק הרמב\"ם מהירושלמי דאפילו היה לו פירות מתוקנים"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שההקלה כאן היא מפני דרכי שלום ולא מאימת שבת של משנה א.",
+    "mishnah": 2,
+    "anchors": [
+     "וּבְשַׁבָּת שְׁנִיָּה, אַף עַל פִּי שֶׁנָּדַר מִמֶּנּוּ הֲנָיָה, לֹא יֹאכַל עַד שֶׁיְּעַשֵּׂר"
+    ]
+   },
+   {
+    "title": "האם עמי הארץ חשודים על מעשר עני?",
+    "pasuk": {
+     "text": "אֵין אָדָם צָרִיךְ לִקְרוֹת שֵׁם לְמַעְשַׂר עָנִי שֶׁל דְּמַאי",
+     "ref": "Mishnah Demai 4:3",
+     "label": "משנה דמאי ד, ג"
+    },
+    "question": "נראה שמחלוקת רבי אליעזר וחכמים תלויה בשאלה אם עמי הארץ חשודים על מעשר עני, ובתחילת המסכת מפורש שהם חשודים. איך מבינים זאת?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 4:3:1",
+      "quote": "וקשה דבריש מכילתין מפרש דעמי הארץ חשודים על מעשר עני",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 4:3:2",
+      "quote": "איך אמרינן דלא נחשדו על מעשר עני",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: עמי הארץ לא נחשדו על מעשר עני, שהם יודעים שפירות טבולים למעשר עני הם במיתה; ולכן אין צריך לקרוא שם.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 4:3:1",
+        "quote": "דְּלֹא נֶחְשְׁדוּ עַמֵּי הָאָרֶץ עַל מַעְשַׂר עָנִי"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: דעת חכמים כדי שיתקיים מעשר שני המחויב לדמאי, שבשנים מסוימות מעשר עני במקום מעשר שני.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 4:3:2",
+        "quote": "כדי שיתקיים מעשר שני המחויב לדמאי"
+       }
+      ]
+     },
+     {
+      "text": "הרש משנץ: חכמים סוברים שהם חשודים, ולכן הלוקח קורא שם ואינו צריך להפריש וליתן לעני.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Demai 4:3:1",
+        "quote": "ורבנן סברי אפי' הכי חשודין הן הלכך הלוקח קורא עליו שם"
+       }
+      ]
+     }
+    ],
+    "why": "המחלוקת מראה איך המפרשים השונים מבינים את החשד על מעשר עני.",
+    "mishnah": 3,
+    "anchors": [
+     "אֵין אָדָם צָרִיךְ לִקְרוֹת שֵׁם לְמַעְשַׂר עָנִי שֶׁל דְּמַאי"
+    ]
+   },
+   {
+    "title": "מדוע דווקא שתי המעשרות האלה ולא תרומה גדולה?",
+    "pasuk": {
+     "text": "מִי שֶׁקָּרָא שֵׁם לִתְרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי וּלְמַעְשַׂר עָנִי שֶׁל וַדַּאי",
+     "ref": "Mishnah Demai 4:4",
+     "label": "משנה דמאי ד, ד"
+    },
+    "question": "מדוע המשנה מזכירה תרומת מעשר של דמאי ומעשר עני של ודאי, ולא תרומה גדולה או מעשר ראשון?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Demai 4:4:1",
+      "quote": "וליתני תרומה גדולה של ודאי",
+      "era": "rishon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 4:4:1",
+      "quote": "קשה לי דהא מצי למנקט בלוי שקרא שם לתרומת מעשר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: בדמאי ישראל קורא שם ונותן לכהן, ואילו בוודאי הלוי מפריש תרומת מעשר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 4:4:1",
+        "quote": "לְפִי שֶׁהַיִּשְׂרָאֵל קוֹרֵא לָהּ שֵׁם וְנוֹתְנָהּ לַכֹּהֵן"
+       }
+      ]
+     },
+     {
+      "text": "הרש משנץ: אין דרך להשהות תרומה גדולה, ורגילים להפרישה מיד.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Demai 4:4:1",
+        "quote": "לאו אורחיה דמילתא לשהות תרומה ורגילין להפרישה לאלתר"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: מעשר ראשון לא הוזכר כי קריאת שם אינה מועילה לתתו ללוי בשבת.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 4:4:2",
+        "quote": "אֵין בּוֹ תּוֹעֶלֶת לִתְּנוֹ לַלֵּוִי בְּשַׁבָּת"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר אילו מעשרות אפשר לקרוא עליהם שם לפני שבת ולהשתמש בהם בה.",
+    "mishnah": 4,
+    "anchors": [
+     "מִי שֶׁקָּרָא שֵׁם לִתְרוּמַת מַעֲשֵׂר שֶׁל דְּמַאי וּלְמַעְשַׂר עָנִי שֶׁל וַדַּאי"
+    ]
+   },
+   {
+    "title": "מדוע לא נאמין לו מטעם מגו?",
+    "pasuk": {
+     "text": "מֵאִישׁ פְּלוֹנִי, הֲרֵי זֶה נֶאֱמָן",
+     "ref": "Mishnah Demai 4:5",
+     "label": "משנה דמאי ד, ה"
+    },
+    "question": "אם השליח אומר שלא מצא את פלוני וקנה מאחר, מדוע אינו נאמן מטעם שיכול היה לומר שמצאו וקנה ממנו?",
+    "asked_by": [
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 4:5:2",
+      "quote": "וְאֵין לוֹמַר נְהֵמְנוּהוּ בְּמִגּוֹ דְּאִי בָעֵי אָמַר שֶׁמְּצָאוֹ וְלָקַח מִמֶּנּו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עיקר תוספות יום טוב: זה אינו מגו טוב, כי הוא מתיירא שיימצא שקרן אם יבוא אותו פלוני וישאלנו.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 4:5:2",
+        "quote": "אֵין זֶה מִגּוֹ טוֹב שֶׁמִּתְיָרֵא שֶׁיִּמָּצֵא בַּדַּאי"
+       }
+      ]
+     },
+     {
+      "text": "הברטנורא: כשנאמר לו מאיש פלוני אינו יכול להשתמט, שהרי אינו רשאי ליקח מאחר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 4:5:1",
+        "quote": "לֹא מָצֵי לְאִשְׁתַּמוֹטֵי דְּהָא אֵינוֹ רַשַּׁאי לִקַּח מֵאַחֵר"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: הוא נאמן כי בוודאי אינו לוקח מאחר, מתיירא שמא ישאל האיש ההוא.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 4:5:1",
+        "quote": "בודאי אינו לוקח מאחר לפי שהוא מתיירא שמא ישאל האיש ההוא"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מדוע טענת מגו אינה מועילה כאן.",
+    "mishnah": 5,
+    "anchors": [
+     "מֵאִישׁ פְּלוֹנִי, הֲרֵי זֶה נֶאֱמָן"
+    ]
+   },
+   {
+    "title": "האמנת חשוד שמעיד על אחר",
+    "pasuk": {
+     "text": "אָמַר לוֹ, אִישׁ פְּלוֹנִי נֶאֱמָן, הֲרֵי זֶה נֶאֱמָן",
+     "ref": "Mishnah Demai 4:6",
+     "label": "משנה דמאי ד, ו"
+    },
+    "question": "האיש המשיב אינו נאמן בעצמו, ובכל זאת מקבלים את דבריו שפלוני נאמן. איך זה מתיישב עם משנה א, שם אין מקבלים מחשוד אפילו עדות על פירות של אחרים?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 4:6:2",
+      "quote": "מתניתין דריש פירקין מוכחת נמי הכי דאינו נאמן אף על של אחרים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: זו הקלה שהקלו באכסנאי משום חיי נפש, ודווקא כשאינו מכיר אדם שם.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 4:6:1",
+        "quote": "קֻלָּא הִיא שֶׁהֵקֵלּוּ בְּאַכְסְנַאי מִשּׁוּם חַיֵּי נֶפֶש"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: אין המקרים דומים, כי המעיד כאן אולי נאמן הוא בעצמו, ורק על עצמו אינו נאמן מאחר שלא הוחזק.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Demai 4:6:1-2",
+        "quote": "דילמא האי דקמסהיד איהו גופיה נאמן הוא"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר: קושיית הירושלמי אינה מדין חשוד, כי להחזיק אדם כנאמן אין עד אחד מועיל.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 4:6:2",
+        "quote": "בזה לא מהני עדות ע\"א"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את גבולות ההקלה לאכסנאי.",
+    "mishnah": 6,
+    "anchors": [
+     "אָמַר לוֹ, אִישׁ פְּלוֹנִי נֶאֱמָן, הֲרֵי זֶה נֶאֱמָן"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות רבי עקיבא איגר",
+   "תוספות יום טוב",
+   "רש משנץ",
+   "ברטנורא",
+   "לחם שמים",
+   "רמב\"ם",
+   "עיקר תוספות יום טוב"
+  ]
+ }
+}
