@@ -1,0 +1,1120 @@
+{
+ "date": "2026-10-30",
+ "hebrew_date": {
+  "hebrew": "י״ט בְּחֶשְׁוָן תשפ״ז",
+  "english": "19 Cheshvan 5787"
+ },
+ "masechet": "demai",
+ "perek": 6,
+ "ref": "Mishnah Demai 6",
+ "mishnayot": [
+  {
+   "he": "הַמְקַבֵּל שָׂדֶה מִיִּשְׂרָאֵל, מִן הַנָּכְרִי וּמִן הַכּוּתִי, יְחַלֵּק לִפְנֵיהֶם. הַחוֹכֵר שָׂדֶה מִיִּשְׂרָאֵל, תּוֹרֵם וְנוֹתֵן לוֹ. אָמַר רַבִּי יְהוּדָה, אֵימָתַי, בִּזְמַן שֶׁנָּתַן לוֹ מֵאוֹתָהּ הַשָּׂדֶה וּמֵאוֹתוֹ הַמִּין, אֲבָל אִם נָתַן לוֹ מִשָּׂדֶה אַחֶרֶת אוֹ מִמִּין אַחֵר, מְעַשֵּׂר וְנוֹתֵן לוֹ:  ",
+   "en": "One who has received a field from a Jew, or from a Gentile, or from a Samaritan [for a share in the produce], he divvies up the produce in front of them [without first separating tithes]. One who has hired a field from a Jew [for a fixed amount from the produce], he first gives terumah [from the rental] and then gives it to him (the field owner). Rabbi Judah said: When is this so? When he pays him [the rental with produce] of the same field and of the same kind; but when he pays him with the produce of another field or of another kind, he must [also] tithe [the rental first] and then give it to him."
+  },
+  {
+   "he": "הַחוֹכֵר שָׂדֶה מִן הַנָּכְרִי, מְעַשֵּׂר וְנוֹתֵן לוֹ. רַבִּי יְהוּדָה אוֹמֵר, אַף הַמְקַבֵּל שְׂדֵה אֲבוֹתָיו מִן הַנָּכְרִי, מְעַשֵּׂר וְנוֹתֵן לוֹ:  ",
+   "en": "One who has hired a field from a Gentile [for a fixed amount from the produce], he first gives tithes [from the rental] and then gives it to him (the field owner). Rabbi Judah says: even if one rented from a Gentile a field which had formerly belonged to his fathers [for a share in the produce], he first gives tithes and then gives it to him."
+  },
+  {
+   "he": "כֹּהֵן וְלֵוִי שֶׁקִּבְּלוּ שָׂדֶה מִיִּשְׂרָאֵל, כְּשֵׁם שֶׁחוֹלְקִין בַּחֻלִּין כָּךְ חוֹלְקִין בַּתְּרוּמָה. רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַף הַמַּעַשְׂרוֹת שֶׁלָּהֶן, שֶׁעַל מְנָת כֵּן בָּאוּ:  ",
+   "en": "A priest or a Levite who rented a field from an Israelite [for a share in the produce], just as they divide the non-sacred produce, so they divide the terumah. Rabbi Eliezer says: the tithes belong to them (the tenants), for they entered the field with this expectation."
+  },
+  {
+   "he": "יִשְׂרָאֵל שֶׁקִּבֵּל מִכֹּהֵן וּמִלֵּוִי, הַמַּעַשְׂרוֹת לַבְּעָלִים. רַבִּי יִשְׁמָעֵאל אוֹמֵר, הַקַּרְתָּנִי שֶׁקִּבֵּל שָׂדֶה מִירוּשַׁלְמִי, מַעֲשֵׂר שֵׁנִי שֶׁל יְרוּשַׁלְמִי. וַחֲכָמִים אוֹמְרִים, יָכוֹל הוּא הַקַּרְתָּנִי לַעֲלוֹת וּלְאָכְלוֹ בִירוּשָׁלָיִם:  ",
+   "en": "If an Israelite rented a field from a priest or from a Levite [for a share in the produce] the tithes belong to the owners [of the field]. Rabbi Ishmael says: if a city dweller [from outside of Jerusalem] rented a field from a Jerusalemite, the second tithe belongs to the inhabitant of Jerusalem. But the sages say: the city dweller may go up and eat the second tithe in Jerusalem."
+  },
+  {
+   "he": "הַמְקַבֵּל זֵיתִים לְשֶׁמֶן, כְּשֵׁם שֶׁחוֹלְקִין בַּחֻלִּין כָּךְ חוֹלְקִין בַּתְּרוּמָה. רַבִּי יְהוּדָה אוֹמֵר, יִשְׂרָאֵל שֶׁקִּבֵּל מִכֹּהֵן וּמִלֵּוִי זֵיתִים לְשֶׁמֶן לְמַחֲצִית שָׂכָר, הַמַּעַשְׂרוֹת לַבְּעָלִים:  ",
+   "en": "[An Israelite] who rents olive trees [from a priest or a Levite] for [a share in the] oil: just as they divide the non-sacred produce, so they divide the terumah. Rabbi Judah says: an Israelite who rented [olive trees] from a priest or a levite for the oil for a share of half the profit, the tithes belong to the owner."
+  },
+  {
+   "he": "בֵּית שַׁמַּאי אוֹמְרִים, לֹא יִמְכֹּר אָדָם אֶת זֵיתָיו אֶלָּא לְחָבֵר. בֵּית הִלֵּל אוֹמְרִים, אַף לִמְעַשֵּׂר. וּצְנוּעֵי בֵית הִלֵּל הָיוּ נוֹהֲגִין כְּדִבְרֵי בֵית שַׁמָּאי:  ",
+   "en": "Bet Shammai says: a man may sell his olives only to a “chaver (an ‘associate’).” But Bet Hillel says: [one may sell them] even to one who only] tithes. And the pious among Bet Hillel used to act in accordance with the words of Bet Shammai."
+  },
+  {
+   "he": "שְׁנַיִם שֶׁבָּצְרוּ אֶת כַּרְמֵיהֶם לְתוֹךְ גַּת אַחַת, אֶחָד מְעַשֵּׂר וְאֶחָד שֶׁאֵינוֹ מְעַשֵּׂר, הַמְעַשֵּׂר מְעַשֵּׂר אֶת שֶׁלּוֹ, וְחֶלְקוֹ בְּכָל מָקוֹם שֶׁהוּא:  ",
+   "en": "Two gathered [the fruit of] their vineyards into one winepress, one of whom tithes and the other does not tithe the one who tithes may tithe his own share and his share wherever it may be."
+  },
+  {
+   "he": "שְׁנַיִם שֶׁקִּבְּלוּ שָׂדֶה בַאֲרִיסוּת, אוֹ שֶׁיָּרְשׁוּ אוֹ שֶׁנִּשְׁתַּתְּפוּ, יָכוֹל הוּא לוֹמַר, טֹל אַתָּה חִטִּים שֶׁבְּמָקוֹם פְּלוֹנִי וַאֲנִי חִטִּים שֶׁבְּמָקוֹם פְּלוֹנִי, אַתָּה יַיִן שֶׁבְּמָקוֹם פְּלוֹנִי וַאֲנִי יַיִן שֶׁבְּמָקוֹם פְּלוֹנִי. אֲבָל לֹא יֹאמַר לוֹ, טֹל אַתָּה חִטִּים וַאֲנִי שְׂעוֹרִים, טֹל אַתָּה יַיִן וַאֲנִי אֶטֹּל שָׁמֶן:  ",
+   "en": "Two men who rented a field [for a share in the produce], or inherited [a field], or became partners in it: the one [who tithes] may say to the other [who does not tithe], “You take the wheat which is in this place and I will take the wheat which is in that place.” Or, “You take the wine which is in this place and I will take the wine which is in that place.” But he may not say to him: “You take the wheat and I will take the barley,” or, “You take the wine and I will take the oil.”"
+  },
+  {
+   "he": "חָבֵר וְעַם הָאָרֶץ שֶׁיָּרְשׁוּ אֶת אֲבִיהֶם עַם הָאָרֶץ, יָכוֹל הוּא לוֹמַר לוֹ, טֹל אַתָּה חִטִּים שֶׁבְּמָקוֹם פְּלוֹנִי וַאֲנִי חִטִּים שֶׁבְּמָקוֹם פְּלוֹנִי, אַתָּה יַיִן שֶׁבְּמָקוֹם פְּלוֹנִי וַאֲנִי יַיִן שֶׁבְּמָקוֹם פְּלוֹנִי. אֲבָל לֹא יֹאמַר לוֹ, טֹל אַתָּה חִטִּים וַאֲנִי שְׂעוֹרִים, טֹל אַתָּה הַלַּח וַאֲנִי אֶטֹּל אֶת הַיָּבֵשׁ:  ",
+   "en": "A chaver (rabbinic associate) and an am haaretz who inherited [the property of] their father who was an am haaretz, he (the chaver) may say to him (the am haaretz): “You take the wheat which is in this place and I will take the wheat which is in that place.” Or, “You take the wine which is in this place and I will take the wine which is in that place.” But he may not say to him: “You take the wheat and I will take the barley,” or, “You take the wine and I will take the oil,” or: “You take the moist produce and I will take the dry produce.”"
+  },
+  {
+   "he": "גֵּר וְגוֹי שֶׁיָּרְשׁוּ אֶת אֲבִיהֶם גּוֹי, יָכוֹל הוּא לוֹמַר, טֹל אַתָּה עֲבוֹדָה זָרָה וַאֲנִי מָעוֹת, אַתָּה יַיִן וַאֲנִי פֵרוֹת. וְאִם מִשֶּׁבָּאוּ לִרְשׁוּת הַגֵּר, אָסוּר:  ",
+   "en": "A convert and a gentile who inherited [the property of] their father, a gentile: he (the convert) can say [to his brother the gentile]: “You take the idols and I will take the money,” or: “You take the wine and I will take the produce.” But from the time [that any part of the inheritance] came into the possession of the convert, he is forbidden [to say so]."
+  },
+  {
+   "he": "הַמּוֹכֵר פֵּרוֹת בְּסוּרְיָא, וְאָמַר מִשֶּׁל אֶרֶץ יִשְׂרָאֵל הֵן, חַיָּב לְעַשֵּׂר. מְעֻשָּׂרִין הֵן, נֶאֱמָן, שֶׁהַפֶּה שֶׁאָסַר הוּא הַפֶּה שֶׁהִתִּיר. מִשֶּׁלִּי הֵן, חַיָּב לְעַשֵּׂר, מְעֻשָּׂרִין הֵן, נֶאֱמָן, שֶׁהַפֶּה שֶׁאָסַר הוּא הַפֶּה שֶׁהִתִּיר. וְאִם יָדוּעַ שֶׁיֶּשׁ לוֹ שָׂדֶה אֶחָד בְּסוּרְיָא, חַיָּב לְעַשֵּׂר:  ",
+   "en": "One who sells produce in Syria and declared “It was grown in the land of Israel,” the purchaser must tithe it. [But if he also said], “It has been tithed,” he may be trusted, because the mouth that forbade is the same mouth that permitted. [If he said: The produce is] from my own field,” the purchaser must tithe it. [But if he added:] “It has already been tithed,” he may be trusted, because the mouth that forbade is the same mouth that permitted. If it was known that he had a field in Syria, the purchaser must tithe it."
+  },
+  {
+   "he": "עַם הָאָרֶץ שֶׁאָמַר לְחָבֵר, קַח לִי אֲגֻדַּת יָרָק, קַח לִי גְלֻסְקָן אֶחָד, לוֹקֵחַ סְתָם וּפָטוּר. וְאִם אָמַר, שֶׁלִּי זֶה, וְזֶה שֶׁל חֲבֵרִי, וְנִתְעָרְבוּ, חַיָּב לְעַשֵּׂר, וַאֲפִלּוּ הֵן מֵאָה:  ",
+   "en": "If an am haaretz said to a chaver, “Buy me a bundle of vegetables,” or: “Buy me a loaf of bread,” the chaver may buy it without checking [whether it had been tithed], and he is exempt [from tithing it]. But if the chaver said: “This one I am buying for myself and this one for my friend,” and they got mixed up, he must tithe [them both], even if there were one hundred [for the am haaretz.]"
+  }
+ ],
+ "english": {
+  "summary": "Mishnayot 1–2 say that one who takes a field to share the crop may divide it in front of the owner without tithing, while one who leases for a fixed amount gives terumah first, and Rabbi Judah says the lessee must also tithe if he pays from another field or kind; a lessee from a gentile must tithe, and Rabbi Judah adds the same for one renting his ancestral field.\nMishnayot 3–5 deal with a priest or levite taking a field from an Israelite, where the terumah is divided like the produce and Rabbi Eliezer gives them the tithes, and with an Israelite renting from a priest or levite, where the tithes go to the owner, with Rabbi Ishmael and the sages on second tithe and Rabbi Judah on olives.\nMishnah 6 records Beit Shammai saying to sell olives only to a chaver, Beit Hillel allowing a seller to one who tithes, and that the pious of Beit Hillel followed Beit Shammai.\nMishnayot 7–10 say that two who press their vineyards in one winepress may be tithed by the one who tithes, and that partners and heirs may divide the same kind of produce from different places, but not wheat for barley or wine for oil, with a convert allowed more room before the inheritance comes into his hands.\nMishnayot 11–12 say a seller in Syria is believed when he says the produce was tithed, and that a chaver who buys for an am haaretz is exempt unless the two purchases get mixed.",
+  "topics": [
+   {
+    "term": "Mekabel: sharecropping (arisut)",
+    "explanation": "A mekabel takes a field from its owner to work and sow it, and pays the owner a fixed fraction of the crop, such as a half or a third. The mishnah therefore lets him divide the crop in front of the owner without first tithing.",
+    "mishnah": 1,
+    "anchors": [
+     "הַמְקַבֵּל שָׂדֶה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 6:1:1",
+     "quote": "מקבל שדה הוא שיפסוק עם בעל השדה"
+    }
+   },
+   {
+    "term": "Chokher: a lease for a fixed amount",
+    "explanation": "A chokher leases a field for a fixed quantity of produce per year, whether the field yields much or little. Because the rent is fixed and not a share, the mishnah has him set aside terumah and then pay the owner.",
+    "mishnah": 1,
+    "anchors": [
+     "הַחוֹכֵר שָׂדֶה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 6:1:3",
+     "quote": "מְקַבֵּל הַשָּׂדֶה בְּדָבָר קָצוּב, כָּךְ וְכָךְ כּוֹרִין לְשָׁנָה, בֵּין"
+    }
+   },
+   {
+    "term": "Lo tichonem: not giving a foothold in the Land",
+    "explanation": "The Torah says not to make a covenant with the nations of Canaan and not to show them favor. The tradition applies this to not giving them a foothold on the land, and the commentators use it to explain the penalty that makes a lessee from a gentile tithe.",
+    "mishnah": 2,
+    "anchors": [
+     "מְעַשֵּׂר וְנוֹתֵן לוֹ."
+    ],
+    "source": {
+     "name": "Ikar Tosafot Yom Tov",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 6:1:4",
+     "quote": "לֹא תִכְרֹת לָהֶם בְּרִית וְלֹא תְחָנֵּם,"
+    }
+   },
+   {
+    "term": "Tzenuei Beit Hillel",
+    "explanation": "The mishnah says that the pious of Beit Hillel acted like Beit Shammai even though the halakhah follows Beit Hillel. The Bartenura explains them as the careful, meticulous members of Beit Hillel.",
+    "mishnah": 6,
+    "anchors": [
+     "וּצְנוּעֵי בֵית הִלֵּל"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 6:6:4",
+     "quote": "וָתִיקִין הַמְדַקְדְּקִים בְּמִצְוֹת שֶׁהָיוּ בְּבֵית הִלֵּל:"
+    }
+   },
+   {
+    "term": "Brerah: this is his share",
+    "explanation": "Brerah is the principle that when partners divide, each is taken to have received his own share from the start. The mishnah allows dividing the same kind of produce at different places, and the commentators rely on brerah for this.",
+    "mishnah": 8,
+    "anchors": [
+     "טֹל אַתָּה חִטִּים"
+    ],
+    "source": {
+     "name": "Lechem Shamayim",
+     "ref": "Lechem Shamayim on Mishnah Demai 6:8:1-5",
+     "quote": "דכי חלקו שדה בקמותיה במין א' אמרינן יש ברירה וזהו חלקו המגיעו:"
+    }
+   },
+   {
+    "term": "A chaver",
+    "explanation": "The chaver in this mishnah is someone trusted in matters of purity and in the tithes. He may not sell produce that is not tithed to an am haaretz, which is why the mishnah limits what partners may exchange.",
+    "mishnah": 9,
+    "anchors": [
+     "חָבֵר וְעַם הָאָרֶץ"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 6:9:1",
+     "quote": "הַנֶּאֱמָן לְטָהֳרוֹת וְאֵין צָרִיךְ לוֹמַר לְמַעַשְׂרוֹת:"
+    }
+   },
+   {
+    "term": "A convert's inheritance",
+    "explanation": "A convert inheriting from his gentile father is not an inheritance from the Torah but by the enactment of the sages. Therefore, before the share comes into his hands, the mishnah lets him exchange items that would otherwise be forbidden.",
+    "mishnah": 10,
+    "anchors": [
+     "גֵּר וְגוֹי שֶׁיָּרְשׁוּ"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 6:10:1",
+     "quote": "וגר אינו יורש את אביו מן התורה"
+    }
+   },
+   {
+    "term": "Syria (Suria)",
+    "explanation": "Syria is lands King David conquered that were not part of the Land of Israel itself. It is treated as the Land of Israel in some laws and as outside it in others, which is why the mishnah's rules for selling its produce depend on what the seller says.",
+    "mishnah": 11,
+    "anchors": [
+     "בְּסוּרְיָא,"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 6:11:1",
+     "quote": "הֵם אֲרָצוֹת שֶׁכָּבַשׁ דָּוִד שֶׁלֹּא הָיוּ מֵאֶרֶץ יִשְׂרָאֵל"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Lessee from a gentile versus a Jew",
+    "pasuk": {
+     "text": "הַחוֹכֵר שָׂדֶה מִן הַנָּכְרִי, מְעַשֵּׂר וְנוֹתֵן לוֹ. רַבִּי יְהוּדָה אוֹמֵר, אַף הַמְקַבֵּל",
+     "ref": "Mishnah Demai 6:2",
+     "label": "Mishnah Demai 6:2"
+    },
+    "question": "Mishnah 1 has a lessee from a Jew give only terumah before paying the rent, yet Mishnah 2 makes a lessee from a gentile tithe it all. Why the difference?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Demai 6:1:4",
+      "quote": "הכא אתמר תורם ונותן לו והכא אתמר מעשר ונותן",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It is a penalty, so that no Jew will lease a field from a gentile and it will be left fallow in the gentile's hands.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 6:2:1",
+        "quote": "קְנָס קָנְסוּ חֲכָמִים לְחוֹכֵר שָׂדֶה מִן הָעוֹבֵד כּוֹכָבִים שֶׁיְּהֵא מְעַשֵּׂר מַה שֶּׁנּוֹתֵן לוֹ, כְּדֵי שֶׁלֹּא יְהֵא שׁוּם יִשְׂרָאֵל חוֹכֵר"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam grounds the penalty in the tradition 'do not give them a resting place on the land': press them until they must sell.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 6:2:1",
+        "quote": "ובאה הקבלה לא תתן להם חנייה בקרקע ולפיכך נדחוק אותם שלא"
+       }
+      ]
+     },
+     {
+      "text": "In the Yerushalmi's other view, as Rash brings it, the full law applies to a gentile lessee, because he is paying a debt out of the kohen's and levi's share and a gentile will not tithe, whereas a Jew will eventually separate.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Demai 6:1:4",
+        "quote": "רבי לא בשם רבי יוחנן אמר תפשה מדת הדין בחוכר מן הנכרי ולא תפשה בחוכר מישראל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the perek's leasing laws are shaped by protecting Jewish holding of the Land.",
+    "mishnah": 2,
+    "anchors": [
+     "הַחוֹכֵר שָׂדֶה מִן הַנָּכְרִי, מְעַשֵּׂר וְנוֹתֵן לוֹ. רַבִּי יְהוּדָה אוֹמֵר, אַף הַמְקַבֵּל"
+    ]
+   },
+   {
+    "title": "The reason for the penalty on a field of one's fathers",
+    "pasuk": {
+     "text": "רַבִּי יְהוּדָה אוֹמֵר, אַף הַמְקַבֵּל שְׂדֵה אֲבוֹתָיו מִן הַנָּכְרִי, מְעַשֵּׂר וְנוֹתֵן לוֹ",
+     "ref": "Mishnah Demai 6:2",
+     "label": "Mishnah Demai 6:2"
+    },
+    "question": "Why does Rabbi Judah also penalize someone who rents his ancestral field from a gentile, and what exactly does the penalty achieve?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 6:2:2",
+      "quote": "זהו כפי' רש\"י בב\"מ (דף קא ע\"א) אבל תוס' כתבו שם בשם ר\"ח דהטעם כדי שיכבד עליו המעשר וימנע מלקבלה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the heavy tithing will push him to buy the field, since it is dear to him.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 6:2:2",
+        "quote": "וּכְשֶׁיִּכְבַּד עָלָיו הַמַּעֲשֵׂר יִקְנֶנָּה."
+       }
+      ]
+     },
+     {
+      "text": "Tosafot (cited by Rabbi Akiva Eiger in the name of Rabbeinu Chananel): the tithe will burden him so that he refrains from renting it, and the field remains fallow in the gentile's hands.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 6:2:2",
+        "quote": "דהטעם כדי שיכבד עליו המעשר וימנע מלקבלה ויהא השדה בורה ביד העובד כוכבים"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: if he must tithe the whole crop from his own share, the field will stay fallow in the gentile's hands and he will have to sell it to a Jew.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 6:2:2",
+        "quote": "יניחנה ותשאר בורה ביד הנכרי ויצטרך למכרה לישראל ואיני"
+       }
+      ]
+     }
+    ],
+    "why": "Two readings of the penalty: pressure to buy, or pressure to stop leasing.",
+    "mishnah": 2,
+    "anchors": [
+     "רַבִּי יְהוּדָה אוֹמֵר, אַף הַמְקַבֵּל שְׂדֵה אֲבוֹתָיו מִן הַנָּכְרִי, מְעַשֵּׂר וְנוֹתֵן לוֹ"
+    ]
+   },
+   {
+    "title": "Why Rabbi Eliezer gives the tithes to the tenants",
+    "pasuk": {
+     "text": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַף הַמַּעַשְׂרוֹת שֶׁלָּהֶן, שֶׁעַל מְנָת כֵּן",
+     "ref": "Mishnah Demai 6:3",
+     "label": "Mishnah Demai 6:3"
+    },
+    "question": "If the priest or levite tenant entered the field on the condition of receiving the tithes, how did they acquire them, when the tithes are not yet theirs?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Demai 6:3:3",
+      "quote": "דְּאַף עַל גַּב דְּעַל מְנָת כֵּן יָרְדוּ בְּמַה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "As the Yerushalmi has Rabbi Eliezer answer: an unstated agreement is like saying 'detach produce from this land and acquire your tithes with it'.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 6:3:3",
+        "quote": "סתמו נעשה כאומר לו תלוש מקרקע זה שתקנה לך"
+       }
+      ]
+     },
+     {
+      "text": "The Ikar Tosafot Yom Tov brings the same reasoning on Rabbi Eliezer's view.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 6:3:1",
+        "quote": "דַּהֲוָה לֵיהּ כְּאוֹמֵר לוֹ תְּלֹשׁ מִקַּרְקַע זֶה שֶׁתִּקָּנֶה לְךָ,"
+       }
+      ]
+     }
+    ],
+    "why": "It explains why the halakhah follows the sages and not Rabbi Eliezer.",
+    "mishnah": 3,
+    "anchors": [
+     "רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַף הַמַּעַשְׂרוֹת שֶׁלָּהֶן, שֶׁעַל מְנָת כֵּן"
+    ]
+   },
+   {
+    "title": "Olives versus a field",
+    "pasuk": {
+     "text": "הַמְקַבֵּל זֵיתִים לְשֶׁמֶן, כְּשֵׁם שֶׁחוֹלְקִין בַּחֻלִּין כָּךְ חוֹלְקִין בַּתְּרוּמָה. רַבִּי יְהוּדָה אוֹמֵר,",
+     "ref": "Mishnah Demai 6:5",
+     "label": "Mishnah Demai 6:5"
+    },
+    "question": "In Mishnah 4 the tithes of a field belong to its owner, yet for olive trees (Mishnah 5) they are divided like the terumah. Why does an olive grove differ from a field?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Demai 6:5:2",
+      "quote": "וְאַף עַל גַּב דִּלְעֵיל לַבְּעָלִים,",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: here he received no land, only trees, and the sages do not treat olives as land.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 6:5:2",
+        "quote": "הָכָא שָׁאנֵי דְּלֹא קִבֵּל קַרְקַע אֶלָּא אִילָנוֹת, וְרַבָּנָן לֹא"
+       }
+      ]
+     },
+     {
+      "text": "The Yerushalmi, as brought by Tosafot Yom Tov: Rabbi Judah treats olives as land, and the sages do not.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 6:5:2",
+        "quote": "רבי יהודה עביד זיתים כקרקע ורבנן לא עבדי זיתים"
+       }
+      ]
+     },
+     {
+      "text": "The Boaz gives the same simple reason: trees are not like land.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Demai 6:1",
+        "quote": "הטעם כאן פשוט דהאילנות אינם כקרקע."
+       }
+      ]
+     }
+    ],
+    "why": "It marks where the sages stop treating a leased item as land.",
+    "mishnah": 5,
+    "anchors": [
+     "הַמְקַבֵּל זֵיתִים לְשֶׁמֶן, כְּשֵׁם שֶׁחוֹלְקִין בַּחֻלִּין כָּךְ חוֹלְקִין בַּתְּרוּמָה. רַבִּי יְהוּדָה אוֹמֵר,"
+    ]
+   },
+   {
+    "title": "The dispute of Beit Shammai and Beit Hillel on selling olives",
+    "pasuk": {
+     "text": "בֵּית שַׁמַּאי אוֹמְרִים, לֹא יִמְכֹּר אָדָם אֶת זֵיתָיו אֶלָּא לְחָבֵר. בֵּית הִלֵּל אוֹמְרִים, אַף לִמְעַשֵּׂר.",
+     "ref": "Mishnah Demai 6:6",
+     "label": "Mishnah Demai 6:6"
+    },
+    "question": "Does the dispute turn on whether one may cause impurity to non-sacred produce in the Land of Israel, as the Rambam says, or on something else?",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Demai 6:6:1",
+      "quote": "יש לתמוה מהרמב\"ם דתלה פלוגתיהו באם אסור לגרום טומאה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam: Beit Hillel hold it is permitted to cause impurity to non-sacred produce in the Land of Israel.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 6:6:2",
+        "quote": "לפי שדעת בית הלל שמותר לגרום טומאה"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura adds that Beit Hillel permit it because we can always attribute the sale to some small pretext.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 6:6:3",
+        "quote": "בַּעֲלִילָה כָּל דְּהוּ דְּמָצִינַן לִתְלוֹת תָּלִינַן."
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the dispute is about causing impurity or about the pretext available to the seller.",
+    "mishnah": 6,
+    "anchors": [
+     "בֵּית שַׁמַּאי אוֹמְרִים, לֹא יִמְכֹּר אָדָם אֶת זֵיתָיו אֶלָּא לְחָבֵר. בֵּית הִלֵּל אוֹמְרִים, אַף לִמְעַשֵּׂר."
+    ]
+   },
+   {
+    "title": "Why a share is also tithed as demai",
+    "pasuk": {
+     "text": "הַמְעַשֵּׂר מְעַשֵּׂר אֶת שֶׁלּוֹ, וְחֶלְקוֹ בְּכָל מָקוֹם שֶׁהוּא",
+     "ref": "Mishnah Demai 6:7",
+     "label": "Mishnah Demai 6:7"
+    },
+    "question": "Why must the one who tithes also tithe as demai the half share of his partner held in his hand, if he already tithed his own half for certain?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 6:7:1",
+      "quote": "והשתא הא דפסק הר\"ב לקמן בפרק ז משנה ד דקיימא לן בדרבנן דיש ברירה",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 6:7:2",
+      "quote": "א\"כ הכא אמאי אינו חייב לעשר שנית על כל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: since there is no brerah, we suspect that half of the tithing partner's share is in his friend's hand and half of the friend's share is in his own.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 6:7:4",
+        "quote": "וּמִשּׁוּם דְּאֵין בְּרֵירָה חַיְשִׁינַן שֶׁמָּא חֲצִי חֶלְקוֹ שֶׁל הַמְּעַשֵּׂר בְּיַד חֲבֵרוֹ שֶׁאֵינוֹ"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam reads it differently, as Ikar Tosafot Yom Tov brings: they divided the grapes, each took his tithes, and afterwards the grapes were mixed and trodden together.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 6:7:1",
+        "quote": "אֲבָל הָרַ\"מ מְפָרֵשׁ דְּמַיְרֵי שֶׁחִלְּקוּ הָעֲנָבִים וְהִפְרִישׁ מֵחֶלְקוֹ מַעַשְׂרוֹתָיו וְאַחַר כָּךְ נִתְעָרְבוּ הָעֲנָבִים וְדָרְכוּ בְּיַחַד, אִם כֵּן אֵין זֶה עִנְיָן"
+       }
+      ]
+     },
+     {
+      "text": "Rambam himself: after he treads with the other's untithed share, whatever he takes from the wine must be tithed as demai.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 6:7:1",
+        "quote": "וענין הדבר כי כשיבצרו הענבים מוציא מעשר ודאי מחציו וכשידרוך אותם עם חלק חבירו שאינו מעושר ונתערב הכל ולקח חלקו"
+       }
+      ]
+     }
+    ],
+    "why": "The explanation of brerah here is the key to the rest of the perek.",
+    "mishnah": 7,
+    "anchors": [
+     "הַמְעַשֵּׂר מְעַשֵּׂר אֶת שֶׁלּוֹ, וְחֶלְקוֹ בְּכָל מָקוֹם שֶׁהוּא"
+    ]
+   },
+   {
+    "title": "'The mouth that forbade is the mouth that permitted'",
+    "pasuk": {
+     "text": "מְעֻשָּׂרִין הֵן, נֶאֱמָן, שֶׁהַפֶּה שֶׁאָסַר הוּא הַפֶּה שֶׁהִתִּיר. מִשֶּׁלִּי",
+     "ref": "Mishnah Demai 6:11",
+     "label": "Mishnah Demai 6:11"
+    },
+    "question": "On what basis is the seller believed? The Bartenura gives a migo, but the mishnah only said he is exempt.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 6:11:1",
+      "quote": "וקשיא דלא תנן נאמן אלא פטור ומנלן דנאמן.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: because he could have said the produce came from outside the Land and he would have been believed.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 6:11:1",
+        "quote": "הִלְכָּךְ כִּי אָמַר מְעֻשָּׂרִין הֵן נֶאֱמָן מִגּוֹ דְּאִי בָעֵי אָמַר שֶׁל חוּץ לָאָרֶץ הֵן"
+       }
+      ]
+     },
+     {
+      "text": "The Raavad, cited by Tosafot Yom Tov: most produce in Syria belongs to gentiles, so he is presumed not obligated to tithe.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 6:11:1",
+        "quote": "מפני שרוב פירות שבסוריא של עובדי כוכבים הם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why the same Syrian seller is believed about tithing in one case but not in another.",
+    "mishnah": 11,
+    "anchors": [
+     "מְעֻשָּׂרִין הֵן, נֶאֱמָן, שֶׁהַפֶּה שֶׁאָסַר הוּא הַפֶּה שֶׁהִתִּיר. מִשֶּׁלִּי"
+    ]
+   },
+   {
+    "title": "Brerah in the last mishnah",
+    "pasuk": {
+     "text": "וְאִם אָמַר, שֶׁלִּי זֶה, וְזֶה שֶׁל חֲבֵרִי, וְנִתְעָרְבוּ, חַיָּב לְעַשֵּׂר, וַאֲפִלּוּ",
+     "ref": "Mishnah Demai 6:12",
+     "label": "Mishnah Demai 6:12"
+    },
+    "question": "Mishnah 12 treats the chaver's purchase as having brerah, yet Mishnah 7 was explained as having no brerah. How can both stand?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 6:12:2",
+      "quote": "ואולי יש לתרץ דשאני לעיל כשהיו שותפין בקמותיה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: in Mishnah 7 they were partners, reaped together, an act showing they wish to be partners, so even those who allow brerah would not.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 6:12:2",
+        "quote": "שעכשיו עשו מעשה המורה שרוצים לעמוד בשותפות ולכך אין ברירה אפילו למ\"ד יש ברירה"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim rejects this: where the shares were already recognised and later mixed there is no brerah, but where they were never recognised there is.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Demai 6:12:1-6",
+        "quote": "משא\"כ בשלא הוכרו מעולם אמרינן לעולם יש ברירה בדרבנן."
+       }
+      ]
+     },
+     {
+      "text": "Rash: there is brerah when he gives it to the am haaretz, that this is the one he bought for him from the start.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Demai 6:12:1",
+        "quote": "דיש ברירה כשנותנה לעם הארץ שזו היא שלקחה מתחלה לצרכו"
+       }
+      ]
+     }
+    ],
+    "why": "It is the central machlokes on brerah in the perek.",
+    "mishnah": 12,
+    "anchors": [
+     "וְאִם אָמַר, שֶׁלִּי זֶה, וְזֶה שֶׁל חֲבֵרִי, וְנִתְעָרְבוּ, חַיָּב לְעַשֵּׂר, וַאֲפִלּוּ"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Rash MiShantz",
+   "Bartenura",
+   "Rambam",
+   "Tosafot Rabbi Akiva Eiger",
+   "Tosafot Yom Tov",
+   "Ikar Tosafot Yom Tov",
+   "Boaz",
+   "Hon Ashir",
+   "Lechem Shamayim"
+  ]
+ },
+ "hebrew": {
+  "summary": "משניות א-ב אומרות שהמקבל שדה על חלק מהיבול מחלק לפני הבעלים בלי להפריש מעשרות, ואילו החוכר בסכום קצוב תורם ואחר כך נותן, ורבי יהודה אומר שהחוכר מעשר גם כשהוא משלם משדה אחרת או ממין אחר; והחוכר מנכרי מעשר, ורבי יהודה מוסיף כך גם במקבל שדה אבותיו.\nמשניות ג-ה עוסקות בכהן ולוי שקיבלו שדה מישראל, שבהם התרומה נחלקת כמו היבול ורבי אליעזר נותן להם את המעשרות, ובישראל שקיבל מכהן ולוי, שבו המעשרות לבעלים, עם רבי ישמעאל והחכמים במעשר שני ורבי יהודה בזיתים.\nמשנה ו מביאה את בית שמאי האומרים למכור זיתים רק לחבר, את בית הלל המתירים גם למעשר, ואת צנועי בית הלל שנהגו כבית שמאי.\nמשניות ז-י אומרות ששניים שבצרו את כרמיהם לגת אחת, המעשר מעשר את שלו, ושותפים ויורשים יכולים לחלק מין אחד ממקומות שונים אך לא חיטים בשעורים או יין בשמן, וגר מקבל יותר מרחב לפני שהירושה באה לידו.\nמשניות יא-יב אומרות שהמוכר בסוריא נאמן באומרו שהפירות מעושרים, ושחבר הקונה לעם הארץ פטור אלא אם נתערבו שתי הקניות.",
+  "topics": [
+   {
+    "term": "מקבל: אריסות",
+    "explanation": "מקבל לוקח שדה מבעליה כדי לעבדה ולזורעה, ונותן לבעל השדה חלק קבוע מהיבול, כחצי או כשליש. לכן המשנה מתירה לו לחלק את היבול לפני הבעלים בלי להפריש מעשרות קודם.",
+    "mishnah": 1,
+    "anchors": [
+     "הַמְקַבֵּל שָׂדֶה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 6:1:1",
+     "quote": "מקבל שדה הוא שיפסוק עם בעל השדה"
+    }
+   },
+   {
+    "term": "חוכר: חכירה בסכום קצוב",
+    "explanation": "חוכר שוכר שדה תמורת כמות קצובה של תבואה בכל שנה, בין אם השדה מניבה הרבה ובין אם מעט. מכיון שהשכירות קצובה ואינה חלק מהיבול, המשנה אומרת שהוא תורם ואחר כך נותן לבעלים.",
+    "mishnah": 1,
+    "anchors": [
+     "הַחוֹכֵר שָׂדֶה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 6:1:3",
+     "quote": "מְקַבֵּל הַשָּׂדֶה בְּדָבָר קָצוּב, כָּךְ וְכָךְ כּוֹרִין לְשָׁנָה, בֵּין"
+    }
+   },
+   {
+    "term": "לא תחנם: שלא לתת חנייה בארץ",
+    "explanation": "התורה אומרת שלא לכרות ברית עם עמי כנען ולא לחנן אותם. הקבלה מבינה זאת כאיסור לתת להם חנייה בקרקע, והמפרשים משתמשים בכך כדי להסביר את הקנס שמחייב את החוכר מנכרי לעשר.",
+    "mishnah": 2,
+    "anchors": [
+     "מְעַשֵּׂר וְנוֹתֵן לוֹ."
+    ],
+    "source": {
+     "name": "עיקר תוספות יום טוב",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 6:1:4",
+     "quote": "לֹא תִכְרֹת לָהֶם בְּרִית וְלֹא תְחָנֵּם,"
+    }
+   },
+   {
+    "term": "צנועי בית הלל",
+    "explanation": "המשנה אומרת שצנועי בית הלל נהגו כבית שמאי אף שההלכה כבית הלל. ברטנורא מסביר שהם הוותיקים המדקדקים במצוות שבבית הלל.",
+    "mishnah": 6,
+    "anchors": [
+     "וּצְנוּעֵי בֵית הִלֵּל"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 6:6:4",
+     "quote": "וָתִיקִין הַמְדַקְדְּקִים בְּמִצְוֹת שֶׁהָיוּ בְּבֵית הִלֵּל:"
+    }
+   },
+   {
+    "term": "ברירה: זהו חלקו",
+    "explanation": "ברירה היא העיקרון שכשהשותפים מחלקים, נחשב שכל אחד קיבל מההתחלה את חלקו. המשנה מתירה לחלק מין אחד של תבואה במקומות שונים, והמפרשים נשענים על הברירה.",
+    "mishnah": 8,
+    "anchors": [
+     "טֹל אַתָּה חִטִּים"
+    ],
+    "source": {
+     "name": "לחם שמים",
+     "ref": "Lechem Shamayim on Mishnah Demai 6:8:1-5",
+     "quote": "דכי חלקו שדה בקמותיה במין א' אמרינן יש ברירה וזהו חלקו המגיעו:"
+    }
+   },
+   {
+    "term": "חבר",
+    "explanation": "החבר במשנה הוא מי שנאמן בענייני טהרות ומעשרות. הוא אינו רשאי למכור פירות שלא עושרו לעם הארץ, ולכן המשנה מגבילה מה שותפים רשאים להחליף ביניהם.",
+    "mishnah": 9,
+    "anchors": [
+     "חָבֵר וְעַם הָאָרֶץ"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 6:9:1",
+     "quote": "הַנֶּאֱמָן לְטָהֳרוֹת וְאֵין צָרִיךְ לוֹמַר לְמַעַשְׂרוֹת:"
+    }
+   },
+   {
+    "term": "ירושת הגר",
+    "explanation": "ירושת גר מאביו הנכרי אינה מן התורה אלא מתקנת חכמים. לכן, כל עוד חלקו לא הגיע לידו, המשנה מתירה לו להחליף דברים שאחרת היו אסורים.",
+    "mishnah": 10,
+    "anchors": [
+     "גֵּר וְגוֹי שֶׁיָּרְשׁוּ"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 6:10:1",
+     "quote": "וגר אינו יורש את אביו מן התורה"
+    }
+   },
+   {
+    "term": "סוריא",
+    "explanation": "סוריא היא ארצות שכבש דוד שלא היו חלק מארץ ישראל עצמה. היא נחשבת כארץ ישראל בחלק מהדינים וכחוץ לארץ באחרים, ולכן דיני מכירת פירותיה במשנה תלויים במה שהמוכר אומר.",
+    "mishnah": 11,
+    "anchors": [
+     "בְּסוּרְיָא,"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 6:11:1",
+     "quote": "הֵם אֲרָצוֹת שֶׁכָּבַשׁ דָּוִד שֶׁלֹּא הָיוּ מֵאֶרֶץ יִשְׂרָאֵל"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "חוכר מנכרי לעומת חוכר מישראל",
+    "pasuk": {
+     "text": "הַחוֹכֵר שָׂדֶה מִן הַנָּכְרִי, מְעַשֵּׂר וְנוֹתֵן לוֹ. רַבִּי יְהוּדָה אוֹמֵר, אַף הַמְקַבֵּל",
+     "ref": "Mishnah Demai 6:2",
+     "label": "משנה דמאי ו, 2"
+    },
+    "question": "במשנה א החוכר מישראל רק תורם לפני שהוא נותן את השכירות, ואילו במשנה ב החוכר מנכרי מעשר הכול. מה ההבדל?",
+    "asked_by": [
+     {
+      "name": "ר\"ש משנץ",
+      "ref": "Rash MiShantz on Mishnah Demai 6:1:4",
+      "quote": "הכא אתמר תורם ונותן לו והכא אתמר מעשר ונותן",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "זה קנס, כדי שלא יחכור שום ישראל שדה מנכרי והיא תישאר בורה בידו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 6:2:1",
+        "quote": "קְנָס קָנְסוּ חֲכָמִים לְחוֹכֵר שָׂדֶה מִן הָעוֹבֵד כּוֹכָבִים שֶׁיְּהֵא מְעַשֵּׂר מַה שֶּׁנּוֹתֵן לוֹ, כְּדֵי שֶׁלֹּא יְהֵא שׁוּם יִשְׂרָאֵל חוֹכֵר"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם מבסס את הקנס על הקבלה 'לא תתן להם חנייה בקרקע': לדחוק אותם עד שיצטרכו למכור.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 6:2:1",
+        "quote": "ובאה הקבלה לא תתן להם חנייה בקרקע ולפיכך נדחוק אותם שלא"
+       }
+      ]
+     },
+     {
+      "text": "לפי הדעה האחרת בירושלמי, כפי שהר\"ש מביא, זו שורת הדין בחוכר מנכרי, כי הוא פורע חובו מחלקם של הכהן והלוי והנכרי לא יעשר, ואילו ישראל סופו להפריש.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Demai 6:1:4",
+        "quote": "רבי לא בשם רבי יוחנן אמר תפשה מדת הדין בחוכר מן הנכרי ולא תפשה בחוכר מישראל"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד דיני החכירה בפרק מושפעים מהשמירה על אחיזת ישראל בארץ.",
+    "mishnah": 2,
+    "anchors": [
+     "הַחוֹכֵר שָׂדֶה מִן הַנָּכְרִי, מְעַשֵּׂר וְנוֹתֵן לוֹ. רַבִּי יְהוּדָה אוֹמֵר, אַף הַמְקַבֵּל"
+    ]
+   },
+   {
+    "title": "טעם הקנס בשדה אבותיו",
+    "pasuk": {
+     "text": "רַבִּי יְהוּדָה אוֹמֵר, אַף הַמְקַבֵּל שְׂדֵה אֲבוֹתָיו מִן הַנָּכְרִי, מְעַשֵּׂר וְנוֹתֵן לוֹ",
+     "ref": "Mishnah Demai 6:2",
+     "label": "משנה דמאי ו, 2"
+    },
+    "question": "מדוע רבי יהודה קונס גם את המקבל שדה אבותיו מן הנכרי, ומה הקנס מועיל?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 6:2:2",
+      "quote": "זהו כפי' רש\"י בב\"מ (דף קא ע\"א) אבל תוס' כתבו שם בשם ר\"ח דהטעם כדי שיכבד עליו המעשר וימנע מלקבלה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: כשיכבד עליו המעשר הוא יקנה את השדה, כי היא חביבה עליו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 6:2:2",
+        "quote": "וּכְשֶׁיִּכְבַּד עָלָיו הַמַּעֲשֵׂר יִקְנֶנָּה."
+       }
+      ]
+     },
+     {
+      "text": "תוספות (כפי שמובא בתוספות רבי עקיבא איגר בשם ר\"ח): המעשר יכבד עליו והוא ימנע מלקבלה והשדה תישאר בורה ביד הנכרי.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 6:2:2",
+        "quote": "דהטעם כדי שיכבד עליו המעשר וימנע מלקבלה ויהא השדה בורה ביד העובד כוכבים"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: אם יהיה חייב להוציא את המעשרות מחלקו לבדו, השדה תישאר בורה ביד הנכרי והוא יצטרך למכרה לישראל.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 6:2:2",
+        "quote": "יניחנה ותשאר בורה ביד הנכרי ויצטרך למכרה לישראל ואיני"
+       }
+      ]
+     }
+    ],
+    "why": "שתי הבנות בקנס: לחץ לקנות, או לחץ להפסיק לחכור.",
+    "mishnah": 2,
+    "anchors": [
+     "רַבִּי יְהוּדָה אוֹמֵר, אַף הַמְקַבֵּל שְׂדֵה אֲבוֹתָיו מִן הַנָּכְרִי, מְעַשֵּׂר וְנוֹתֵן לוֹ"
+    ]
+   },
+   {
+    "title": "מדוע ר' אליעזר נותן את המעשרות למקבלים",
+    "pasuk": {
+     "text": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַף הַמַּעַשְׂרוֹת שֶׁלָּהֶן, שֶׁעַל מְנָת כֵּן",
+     "ref": "Mishnah Demai 6:3",
+     "label": "משנה דמאי ו, 3"
+    },
+    "question": "אם הכהן או הלוי נכנסו לשדה על מנת לקבל את המעשרות, במה קנו אותם?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Demai 6:3:3",
+      "quote": "דְּאַף עַל גַּב דְּעַל מְנָת כֵּן יָרְדוּ בְּמַה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כפי שהירושלמי מביא את תשובת רבי אליעזר: סתמו נעשה כאומר לו 'תלוש מקרקע זה שתקנה לך מעשרותיך'.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 6:3:3",
+        "quote": "סתמו נעשה כאומר לו תלוש מקרקע זה שתקנה לך"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב מביא את אותו הנימוק בדעת רבי אליעזר.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 6:3:1",
+        "quote": "דַּהֲוָה לֵיהּ כְּאוֹמֵר לוֹ תְּלֹשׁ מִקַּרְקַע זֶה שֶׁתִּקָּנֶה לְךָ,"
+       }
+      ]
+     }
+    ],
+    "why": "זה מסביר מדוע ההלכה כחכמים ולא כרבי אליעזר.",
+    "mishnah": 3,
+    "anchors": [
+     "רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַף הַמַּעַשְׂרוֹת שֶׁלָּהֶן, שֶׁעַל מְנָת כֵּן"
+    ]
+   },
+   {
+    "title": "זיתים לעומת שדה",
+    "pasuk": {
+     "text": "הַמְקַבֵּל זֵיתִים לְשֶׁמֶן, כְּשֵׁם שֶׁחוֹלְקִין בַּחֻלִּין כָּךְ חוֹלְקִין בַּתְּרוּמָה. רַבִּי יְהוּדָה אוֹמֵר,",
+     "ref": "Mishnah Demai 6:5",
+     "label": "משנה דמאי ו, 5"
+    },
+    "question": "במשנה ד המעשרות של שדה שייכים לבעלים, ואילו בזיתים (משנה ה) הם נחלקים כמו התרומה. במה שונה מטע זיתים משדה?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Demai 6:5:2",
+      "quote": "וְאַף עַל גַּב דִּלְעֵיל לַבְּעָלִים,",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: כאן הוא לא קיבל קרקע אלא אילנות, והחכמים לא עושים זיתים כקרקע.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 6:5:2",
+        "quote": "הָכָא שָׁאנֵי דְּלֹא קִבֵּל קַרְקַע אֶלָּא אִילָנוֹת, וְרַבָּנָן לֹא"
+       }
+      ]
+     },
+     {
+      "text": "הירושלמי, כפי שתוספות יום טוב מביא: רבי יהודה עושה זיתים כקרקע, וחכמים אינם עושים זיתים כקרקע.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 6:5:2",
+        "quote": "רבי יהודה עביד זיתים כקרקע ורבנן לא עבדי זיתים"
+       }
+      ]
+     },
+     {
+      "text": "בועז נותן את אותו טעם פשוט: האילנות אינם כקרקע.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Demai 6:1",
+        "quote": "הטעם כאן פשוט דהאילנות אינם כקרקע."
+       }
+      ]
+     }
+    ],
+    "why": "זה מציין היכן חכמים מפסיקים לראות בנכס מוחכר כקרקע.",
+    "mishnah": 5,
+    "anchors": [
+     "הַמְקַבֵּל זֵיתִים לְשֶׁמֶן, כְּשֵׁם שֶׁחוֹלְקִין בַּחֻלִּין כָּךְ חוֹלְקִין בַּתְּרוּמָה. רַבִּי יְהוּדָה אוֹמֵר,"
+    ]
+   },
+   {
+    "title": "מחלוקת בית שמאי ובית הלל במכירת זיתים",
+    "pasuk": {
+     "text": "בֵּית שַׁמַּאי אוֹמְרִים, לֹא יִמְכֹּר אָדָם אֶת זֵיתָיו אֶלָּא לְחָבֵר. בֵּית הִלֵּל אוֹמְרִים, אַף לִמְעַשֵּׂר.",
+     "ref": "Mishnah Demai 6:6",
+     "label": "משנה דמאי ו, 6"
+    },
+    "question": "האם המחלוקת תלויה בשאלה אם מותר לגרום טומאה לחולין שבארץ ישראל, כדברי הרמב\"ם, או בדבר אחר?",
+    "asked_by": [
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Demai 6:6:1",
+      "quote": "יש לתמוה מהרמב\"ם דתלה פלוגתיהו באם אסור לגרום טומאה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: בית הלל סוברים שמותר לגרום טומאה לחולין שבארץ ישראל.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 6:6:2",
+        "quote": "לפי שדעת בית הלל שמותר לגרום טומאה"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא מוסיף שבית הלל מתירים כי אנו יכולים לתלות בעלילה כל דהו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 6:6:3",
+        "quote": "בַּעֲלִילָה כָּל דְּהוּ דְּמָצִינַן לִתְלוֹת תָּלִינַן."
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם המחלוקת היא בגרימת טומאה או בעילה שיש למוכר.",
+    "mishnah": 6,
+    "anchors": [
+     "בֵּית שַׁמַּאי אוֹמְרִים, לֹא יִמְכֹּר אָדָם אֶת זֵיתָיו אֶלָּא לְחָבֵר. בֵּית הִלֵּל אוֹמְרִים, אַף לִמְעַשֵּׂר."
+    ]
+   },
+   {
+    "title": "מדוע גם החלק מתוקן כדמאי",
+    "pasuk": {
+     "text": "הַמְעַשֵּׂר מְעַשֵּׂר אֶת שֶׁלּוֹ, וְחֶלְקוֹ בְּכָל מָקוֹם שֶׁהוּא",
+     "ref": "Mishnah Demai 6:7",
+     "label": "משנה דמאי ו, 7"
+    },
+    "question": "מדוע המעשר חייב לתקן כדמאי גם את חצי חלק חבירו שבידו, אם כבר עישר את חלקו בוודאי?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 6:7:1",
+      "quote": "והשתא הא דפסק הר\"ב לקמן בפרק ז משנה ד דקיימא לן בדרבנן דיש ברירה",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 6:7:2",
+      "quote": "א\"כ הכא אמאי אינו חייב לעשר שנית על כל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: מפני שאין ברירה, חוששים שמא חצי חלקו של המעשר ביד חברו וחצי חלק חברו בידו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 6:7:4",
+        "quote": "וּמִשּׁוּם דְּאֵין בְּרֵירָה חַיְשִׁינַן שֶׁמָּא חֲצִי חֶלְקוֹ שֶׁל הַמְּעַשֵּׂר בְּיַד חֲבֵרוֹ שֶׁאֵינוֹ"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם מפרש אחרת, כפי שעיקר תוספות יום טוב מביא: הם חילקו את הענבים, כל אחד הפריש מחלקו, ואחר כך הענבים נתערבו ונדרכו יחד.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 6:7:1",
+        "quote": "אֲבָל הָרַ\"מ מְפָרֵשׁ דְּמַיְרֵי שֶׁחִלְּקוּ הָעֲנָבִים וְהִפְרִישׁ מֵחֶלְקוֹ מַעַשְׂרוֹתָיו וְאַחַר כָּךְ נִתְעָרְבוּ הָעֲנָבִים וְדָרְכוּ בְּיַחַד, אִם כֵּן אֵין זֶה עִנְיָן"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם עצמו: כשהוא דורך עם חלק חבירו שאינו מעושר, כל מה שלוקח מהיין חייב מעשר דמאי.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 6:7:1",
+        "quote": "וענין הדבר כי כשיבצרו הענבים מוציא מעשר ודאי מחציו וכשידרוך אותם עם חלק חבירו שאינו מעושר ונתערב הכל ולקח חלקו"
+       }
+      ]
+     }
+    ],
+    "why": "הבנת הברירה כאן היא מפתח לשאר הפרק.",
+    "mishnah": 7,
+    "anchors": [
+     "הַמְעַשֵּׂר מְעַשֵּׂר אֶת שֶׁלּוֹ, וְחֶלְקוֹ בְּכָל מָקוֹם שֶׁהוּא"
+    ]
+   },
+   {
+    "title": "'הפה שאסר הוא הפה שהתיר'",
+    "pasuk": {
+     "text": "מְעֻשָּׂרִין הֵן, נֶאֱמָן, שֶׁהַפֶּה שֶׁאָסַר הוּא הַפֶּה שֶׁהִתִּיר. מִשֶּׁלִּי",
+     "ref": "Mishnah Demai 6:11",
+     "label": "משנה דמאי ו, 11"
+    },
+    "question": "על מה מאמינים את המוכר? ברטנורא נותן מיגו, אבל המשנה אמרה רק שהוא פטור.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 6:11:1",
+      "quote": "וקשיא דלא תנן נאמן אלא פטור ומנלן דנאמן.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: כי אילו רצה היה אומר שהפירות מחוץ לארץ והיה נאמן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 6:11:1",
+        "quote": "הִלְכָּךְ כִּי אָמַר מְעֻשָּׂרִין הֵן נֶאֱמָן מִגּוֹ דְּאִי בָעֵי אָמַר שֶׁל חוּץ לָאָרֶץ הֵן"
+       }
+      ]
+     },
+     {
+      "text": "הראב\"ד, כפי שמובא בתוספות יום טוב: רוב הפירות שבסוריא של עובדי כוכבים, ולכן אינו חייב לעשר.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 6:11:1",
+        "quote": "מפני שרוב פירות שבסוריא של עובדי כוכבים הם"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה מדוע אותו מוכר בסוריא נאמן בענין מעשר במקרה אחד ולא באחר.",
+    "mishnah": 11,
+    "anchors": [
+     "מְעֻשָּׂרִין הֵן, נֶאֱמָן, שֶׁהַפֶּה שֶׁאָסַר הוּא הַפֶּה שֶׁהִתִּיר. מִשֶּׁלִּי"
+    ]
+   },
+   {
+    "title": "ברירה במשנה האחרונה",
+    "pasuk": {
+     "text": "וְאִם אָמַר, שֶׁלִּי זֶה, וְזֶה שֶׁל חֲבֵרִי, וְנִתְעָרְבוּ, חַיָּב לְעַשֵּׂר, וַאֲפִלּוּ",
+     "ref": "Mishnah Demai 6:12",
+     "label": "משנה דמאי ו, 12"
+    },
+    "question": "משנה יב מתייחסת לקנייה של החבר כאילו יש ברירה, ואילו משנה ז הוסברה כאילו אין ברירה. איך אפשר לקיים את שתיהן?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 6:12:2",
+      "quote": "ואולי יש לתרץ דשאני לעיל כשהיו שותפין בקמותיה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: במשנה ז הם היו שותפים וקצרו בשותפות, מעשה המורה שרוצים לעמוד בשותפות, ולכן אין ברירה אפילו למ\"ד יש ברירה בדרבנן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 6:12:2",
+        "quote": "שעכשיו עשו מעשה המורה שרוצים לעמוד בשותפות ולכך אין ברירה אפילו למ\"ד יש ברירה"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים דוחה זאת: כשחלקיהם הוכרו ואחר כך נתערבו אין ברירה, אך כשלא הוכרו מעולם יש ברירה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Demai 6:12:1-6",
+        "quote": "משא\"כ בשלא הוכרו מעולם אמרינן לעולם יש ברירה בדרבנן."
+       }
+      ]
+     },
+     {
+      "text": "ר\"ש: יש ברירה כשהוא נותן לעם הארץ, שזו היא שלקח מתחילה לצורכו.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Demai 6:12:1",
+        "quote": "דיש ברירה כשנותנה לעם הארץ שזו היא שלקחה מתחלה לצרכו"
+       }
+      ]
+     }
+    ],
+    "why": "זו המחלוקת המרכזית בפרק על ברירה.",
+    "mishnah": 12,
+    "anchors": [
+     "וְאִם אָמַר, שֶׁלִּי זֶה, וְזֶה שֶׁל חֲבֵרִי, וְנִתְעָרְבוּ, חַיָּב לְעַשֵּׂר, וַאֲפִלּוּ"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "ר\"ש משנץ",
+   "ברטנורא",
+   "רמב\"ם",
+   "תוספות רבי עקיבא איגר",
+   "תוספות יום טוב",
+   "עיקר תוספות יום טוב",
+   "בועז",
+   "הון עשיר",
+   "לחם שמים"
+  ]
+ }
+}
