@@ -1,0 +1,1224 @@
+{
+ "date": "2026-10-31",
+ "hebrew_date": {
+  "hebrew": "כ׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "20 Cheshvan 5787"
+ },
+ "masechet": "demai",
+ "perek": 7,
+ "ref": "Mishnah Demai 7",
+ "mishnayot": [
+  {
+   "he": "הַמַּזְמִין אֶת חֲבֵרוֹ שֶׁיֹּאכַל אֶצְלוֹ, וְהוּא אֵינוֹ מַאֲמִינוֹ עַל הַמַּעַשְׂרוֹת, אוֹמֵר מֵעֶרֶב שַׁבָּת, מַה שֶּׁאֲנִי עָתִיד לְהַפְרִישׁ מָחָר, הֲרֵי הוּא מַעֲשֵׂר, וּשְׁאָר מַעֲשֵׂר סָמוּךְ לוֹ, זֶה שֶׁעָשִׂיתִי מַעֲשֵׂר עָשׂוּי תְּרוּמַת מַעֲשֵׂר עָלָיו, וּמַעֲשֵׂר שֵׁנִי בִּצְפוֹנוֹ אוֹ בִדְרוֹמוֹ, וּמְחֻלָּל עַל הַמָּעוֹת: \n",
+   "en": "One who invites his friend [before Shabbat] to eat with him [on Shabbat], and [his friend] does not trust him in respect of tithes, [the friend] may say on the eve of Shabbat, “What I will set apart tomorrow, behold it shall be tithe, and what is nearest to it shall be the rest of the tithe. That which I made tithe will become the terumah of the tithe for the whole, and the second tithe is to the north or to the south and it shall be exchanged for money.”"
+  },
+  {
+   "he": "מָזְגוּ לוֹ אֶת הַכּוֹס, אוֹמֵר, מַה שֶּׁאֲנִי עָתִיד לְשַׁיֵּר בְּשׁוּלֵי הַכּוֹס, הֲרֵי הוּא מַעֲשֵׂר, וּשְׁאָר מַעֲשֵׂר סָמוּךְ לוֹ, זֶה שֶׁעָשִׂיתִי מַעֲשֵׂר עָשׂוּי תְּרוּמַת מַעֲשֵׂר עָלָיו, וּמַעֲשֵׂר שֵׁנִי בְּפִיו, וּמְחֻלָּל עַל הַמָּעוֹת: \n",
+   "en": "They pour him a cup [of wine on the sabbath], he says: “What I will leave at the bottom of the cup shall be tithe, and what is nearest to it shall be the rest of the tithe. That which I made tithe shall become terumat maaser for the whole, and second tithe is at the mouth of the cup, and it is exchanged for money."
+  },
+  {
+   "he": "פּוֹעֵל שֶׁאֵינוֹ מַאֲמִין לְבַעַל הַבַּיִת, נוֹטֵל גְּרוֹגֶרֶת אַחַת וְאוֹמֵר, זוֹ וְתֵשַׁע הַבָּאוֹת אַחֲרֶיהָ, עֲשׂוּיוֹת מַעֲשֵׂר עַל תִּשְׁעִים שֶׁאֲנִי אוֹכֵל, זוֹ עֲשׂוּיָה תְרוּמַת מַעֲשֵׂר עֲלֵיהֶן, וּמַעֲשֵׂר שֵׁנִי בָּאַחֲרוֹנָה, וּמְחֻלָּל עַל הַמָּעוֹת, וְחוֹשֵׂךְ גְּרוֹגֶרֶת אֶחָת. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, לֹא יַחְשׂךְ, מִפְּנֵי שֶׁהוּא מְמַעֵט מְלַאכְתּוֹ שֶׁל בַּעַל הַבָּיִת. רַבִּי יוֹסֵי אוֹמֵר לֹא יַחְשׂךְ, מִפְּנֵי שֶׁהוּא תְנַאי בֵּית דִּין: \n",
+   "en": "A worker who does not trust his employer [in respect of tithes], may take one dried fig and say: “This one and the nine which come after it shall become tithe for the ninety which I shall eat. This one shall become the terumat maaser for them, and the last ones shall be second tithe which shall be exchanged for money.” And he must put aside one dried fig. Rabban Shimon ben Gamaliel says: he does not put one aside, because this reduces the work for his employer. Rabbi Yose says: he does not put one aside, because this is a court stipulation [imposed upon the employer]."
+  },
+  {
+   "he": "הַלּוֹקֵחַ יַיִן מִבֵּין הַכּוּתִים, אוֹמֵר, שְׁנֵי לֻגִּין שֶׁאֲנִי עָתִיד לְהַפְרִישׁ, הֲרֵי הֵן תְּרוּמָה, וַעֲשָׂרָה מַעֲשֵׂר, וְתִשְׁעָה מַעֲשֵׂר שֵׁנִי. מֵחֵל וְשׁוֹתֶה: \n",
+   "en": "One who buys wine among Samaritans, he may say: “Two logs which I shall set apart shall be terumah, ten logs tithe, and nine logs second tithe.” He may then pour the wine and drink it."
+  },
+  {
+   "he": "הָיוּ לוֹ תְאֵנִים שֶׁל טֶבֶל בְּתוֹךְ בֵּיתוֹ, וְהוּא בְּבֵית הַמִּדְרָשׁ אוֹ בַשָּׂדֶה, אוֹמֵר, שְׁתֵּי תְאֵנִים שֶׁאֲנִי עָתִיד לְהַפְרִישׁ, הֲרֵי הֵן תְּרוּמָה, וְעֶשֶׂר מַעֲשֵׂר רִאשׁוֹן, וְתֵשַׁע מַעֲשֵׂר שֵׁנִי. הָיוּ דְמַאי, אוֹמֵר, מַה שֶּׁאֲנִי עָתִיד לְהַפְרִישׁ לְמָחָר, הֲרֵי הוּא מַעֲשֵׂר, וּשְׁאָר מַעֲשֵׂר סָמוּךְ לוֹ, זֶה שֶׁעָשִׂיתִי מַעֲשֵׂר עָשׂוּי תְּרוּמַת מַעֲשֵׂר עָלָיו, וּמַעֲשֵׂר שֵׁנִי בִּצְפוֹנוֹ אוֹ בִדְרוֹמוֹ, וּמְחֻלָּל עַל הַמָּעוֹת: \n",
+   "en": "He had figs of tevel in his house, and he is in the house of study or in the field: he may say: “The two figs which I shall set apart shall be terumah, ten figs shall be first tithe, and nine figs second tithe.” If the figs were demai, he may say: “Whatever I shall separate tomorrow will be tithe, and the rest of the tithe is adjacent to it. That which I made tithe will become terumat maaser for the whole, and the second tithe is to the north or to the south and it shall be exchanged for money.”"
+  },
+  {
+   "he": "הָיוּ לְפָנָיו שְׁתֵּי כַלְכָּלוֹת שֶׁל טֶבֶל, וְאָמַר, מַעַשְׂרוֹת זוֹ בָזוֹ, הָרִאשׁוֹנָה מְעֻשָּׂרֶת. שֶׁל זוֹ בָזוֹ וְשֶׁל זוֹ בָזוֹ, הָרִאשׁוֹנָה מְעֻשֶּׂרֶת. מַעַשְׂרוֹתֵיהֶן מַעַשְׂרוֹת כַּלְכָּלָה בַחֲבֶרְתָּהּ, קָרָא שֵׁם: \n",
+   "en": "There were before him two baskets full of tevel, and he said: “Let the tithes of this [basket] be in that [basket],” the first [basket] is tithed. [If he said:] “Let the tithes of this [basket] be in that [basket], and the tithes of that [basket] in this [basket],” the first basket is tithed [whereas the second is not]. [If he said:] “Let the tithes be so that the tithes of each basket be in the other,” he has designated [the tithes of either basket]."
+  },
+  {
+   "he": "מֵאָה טֶבֶל מֵאָה חֻלִּין, נוֹטֵל מֵאָה וְאֶחָד. מֵאָה טֶבֶל מֵאָה מַעֲשֵׂר, נוֹטֵל מֵאָה וְאֶחָד. מֵאָה חֻלִּין מְתֻקָּנִים מֵאָה מַעֲשֵׂר, נוֹטֵל מֵאָה וָעֶשֶׂר. מֵאָה טֶבֶל תִּשְׁעִים מַעֲשֵׂר, תִּשְׁעִים טֶבֶל וּשְׁמוֹנִים מַעֲשֵׂר, לֹא הִפְסִיד כְּלוּם. זֶה הַכְּלָל, כָּל זְמַן שֶׁהַטֶּבֶל מְרֻבֶּה, לֹא הִפְסִיד כְּלוּם: \n",
+   "en": "One hundred [parts of] tevel which [were mixed with] a hundred [parts of] common produce, one must take out a hundred and one [parts]. One hundred [parts of] tevel which [were mixed with] a hundred [parts of first] tithe, one must take out a hundred and one [parts]. One hundred [parts of] common produce from which tithes had been separated [were mixed with] a hundred [parts of] tithe, one must take out a hundred and ten [parts]. One hundred [parts of] tevel [were mixed with] ninety [parts of] tithe, or ninety [parts of] tevel [were mixed with] eighty [parts of] tithe, he has not lost anything. This is the general rule: whenever the tevel is the greater [portion of the mixture] he has not lost anything."
+  },
+  {
+   "he": "מִי שֶׁהָיוּ לוֹ עֶשֶׂר שׁוּרוֹת שֶׁל עֶשֶׂר עֶשֶׂר כַּדֵּי יַיִן, וְאָמַר, שׁוּרָה הַחִיצוֹנָה אַחַת מַעֲשֵׂר, וְאֵין יָדוּעַ אֵיזוֹ הִיא, נוֹטֵל שְׁתֵּי חָבִיּוֹת לוֹכְסָן. חֲצִי שׁוּרָה הַחִיצוֹנָה אַחַת מַעֲשֵׂר, וְאֵין יָדוּעַ אֵיזוֹ הִיא, נוֹטֵל אַרְבַּע חָבִיּוֹת מֵאַרְבַּע זָוִיּוֹת. שׁוּרָה אַחַת מַעֲשֵׂר, וְאֵין יָדוּעַ אֵיזוֹ הִיא, נוֹטֵל שׁוּרָה אַחַת לוֹכְסָן. חֲצִי שׁוּרָה אַחַת מַעֲשֵׂר, וְאֵין יָדוּעַ אֵיזוֹ הִיא, נוֹטֵל שְׁתֵּי שׁוּרוֹת לוֹכְסָן. חָבִית אַחַת מַעֲשֵׂר, וְאֵין יָדוּעַ אֵיזוֹ הִיא, נוֹטֵל מִכָּל חָבִית וְחָבִית: \n",
+   "en": "One who had ten rows each containing ten jugs of wine, and said: “One exterior row shall be tithe,” and it is not known which row [he meant], he must take two jugs [each from the ends of] a diagonal line. [If he had said:] “One half of one exterior row shall be tithe” and it is not known which half row [he meant], he must take four jugs from the four corners. [If he had said:] “One row shall be tithe,” and it is not known which row [he meant], he must take one [whole] row in a diagonal line. [If he had said:] “Half of one row shall be tithe,” and it is not known which half row [he meant], he must take two rows in a diagonal line. [If he had said:] “One jug shall be tithe,” and it is not known which jug [he meant],he must take from every jug."
+  }
+ ],
+ "english": {
+  "summary": "Mishnayot 1–2: A guest who does not trust his host on tithes states a condition before Shabbat, and again at the cup, so that what he leaves is maaser and the rest is tithed.\nMishnah 3: A worker who does not trust his employer designates a fig and nine after it as maaser and holds back one fig; Rabban Shimon ben Gamliel and Rabbi Yose forbid the holding back.\nMishnayot 4–5: One who buys wine from Samaritans, or has tevel figs at home and cannot separate, may name what he will separate; for demai he uses the Shabbat formula.\nMishnah 6: With two baskets of tevel, saying the tithes of one are in the other tithes the first, and the second statement does not work.\nMishnah 7: When tevel is mixed with common produce or tithe, one takes a hundred and one, a hundred and ten, or nothing is lost when the tevel is the larger part.\nMishnah 8: With rows of jugs of wine and one jug named maaser but unknown which, he takes jugs along a diagonal or from the corners.",
+  "topics": [
+   {
+    "term": "Tevel and demai",
+    "explanation": "Tevel is produce from which terumah and the tithes were not yet separated; it may not be eaten until they are. Demai is produce of an am ha'aretz about which there is doubt whether it was tithed.",
+    "mishnah": 5,
+    "anchors": [
+     "היו לו תאנים של טבל"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 7:5:1",
+     "quote": "לפי שהטבל חייב במתנות מדאורייתא והעיקר בדאורייתא אין ברירה"
+    }
+   },
+   {
+    "term": "Terumat maaser",
+    "explanation": "Terumat maaser is the tenth that the Levi gives the kohen from the maaser he receives. Here the one who separates names one of the tithe as terumat maaser for the nine next to it.",
+    "mishnah": 1,
+    "anchors": [
+     "עשוי תרומת מעשר עליו"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 7:1:2",
+     "quote": "זה האחד שעשיתי תחלה מעשר עשוי תרומת מעשר על תשעה הסמוכים לו"
+    }
+   },
+   {
+    "term": "A condition made before Shabbat",
+    "explanation": "Separating tithes on Shabbat is forbidden, but for demai one may stipulate on Friday what he will later set aside. The mishnah uses this so that a guest can eat tithed food on Shabbat.",
+    "mishnah": 1,
+    "anchors": [
+     "אומר מערב שבת"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 7:1:1",
+     "quote": "והיכא דהתנה מערב שבת מותר להפריש בשבת אבל לא התנה אסור"
+    }
+   },
+   {
+    "term": "A court's condition",
+    "explanation": "Rabbi Yose says a worker may not hold back the fig because it is a court's condition: terumat maaser comes from the employer, and the second tithe from the worker.",
+    "mishnah": 3,
+    "anchors": [
+     "תנאי בית דין"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 7:3:4",
+     "quote": "שתהא תרומת מעשר משל בעל הבית ומעשר שני משל פועל"
+    }
+   },
+   {
+    "term": "Bererah",
+    "explanation": "Bererah is the principle that a later separation shows in retrospect what was already set aside. The mishnah relies on it, and the mefarshim limit it to rabbinic law.",
+    "mishnah": 4,
+    "anchors": [
+     "מחל ושותה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 7:4:4",
+     "quote": "קימא לן דבדרבנן יש ברירה אבל בדאורייתא אין ברירה"
+    }
+   },
+   {
+    "term": "Fixing a place on bein hashmashot",
+    "explanation": "Designating where the tithes will sit, such as north or south, counts as separation. At twilight on Friday it is forbidden for certain tevel, and so the mishnah does not mention the second tithe being redeemed.",
+    "mishnah": 4,
+    "anchors": [
+     "שני לוגין שאני עתיד להפריש"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Demai 7:4:1",
+     "quote": "דקביעות מקום חשוב כהפרשה ואסור בין השמשות"
+    }
+   },
+   {
+    "term": "Not separating from the exempt for the obligated",
+    "explanation": "Produce already exempt cannot serve as the source for tithes owed on other produce. In the two baskets, the first is tithed, and the second statement does not work.",
+    "mishnah": 6,
+    "anchors": [
+     "הראשונה מעושרת"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 7:6:1",
+     "quote": "העיקר בזה שאין תורמין ומעשרין מן הפטור על החיוב"
+    }
+   },
+   {
+    "term": "A hundred and one",
+    "explanation": "When tevel is mixed with common produce, one takes one hundred and one parts, one more than the tevel, because terumat maaser rises in one hundred and one.",
+    "mishnah": 7,
+    "anchors": [
+     "נוטל מאה ואחד"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Demai 7:7:1",
+     "quote": "שמור זה העיקר והוא שתרומת מעשר עולה באחד ומאה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Eating at the table of one you do not trust",
+    "pasuk": {
+     "text": "המזמין את חבירו שיאכל אצלו והוא אינו מאמינו על המעשרות",
+     "ref": "Mishnah Demai 7:1",
+     "label": "Mishnah Demai 7:1"
+    },
+    "question": "The mishnah has a guest who does not trust his host on tithes eat at the host's table. But Demai 3 says one may not be a guest of an am ha'aretz. How can he eat there at all?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 7:1:2",
+      "era": "acharon",
+      "quote": "דאי בלא הדירו היאך אוכל אצלו והא תנן בפ\"ב שאינו מתארח אצל עם הארץ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says the mishnah speaks of an invitation without a vow, since with a vow one may eat with him in the first Shabbat; or else the earlier mishnah is the first Shabbat of a groom and this one is other Shabbatot.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 7:1:1",
+        "quote": "אי נמי התם בשבת ראשונה של בחור שנשא בתולה והכא בשאר שבתות"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov says that here the mishnah seeks a remedy for one who wants to eat tithed food, even though he did not accept him as trustworthy.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 7:1:2",
+        "quote": "דהכא בעי למצוא תקנה למי שרוצה לאכול מתוקן ואף על פי שלא קבל עליו להיות נאמן"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin says that when he invited him, it is permitted for the sake of the ways of peace.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Demai 7:1:1",
+        "quote": "נ\"ל דבהזמינו שרי מדרכי שלום"
+       }
+      ]
+     }
+    ],
+    "why": "It shows when a person may sit at a table he cannot rely on, and what fixes the food.",
+    "mishnah": 1,
+    "anchors": [
+     "המזמין את חבירו שיאכל אצלו והוא אינו מאמינו על המעשרות"
+    ]
+   },
+   {
+    "title": "Why say the condition again at the cup?",
+    "pasuk": {
+     "text": "מזגו לו את הכוס אומר מה שאני עתיד לשייר בשולי הכוס",
+     "ref": "Mishnah Demai 7:2",
+     "label": "Mishnah Demai 7:2"
+    },
+    "question": "Mishnah 1 already had him make the condition on Friday. What does Mishnah 2 add by having him say it again when the cup is poured?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 7:2:1",
+      "era": "acharon",
+      "quote": "וקצת קשה דמתני' היא אומר וכו' ומאי קמ\"ל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov suggests that without this mishnah one might think it was said for a weekday, and that on Shabbat he would not say it because it looks like fixing on Shabbat; so it teaches that even on Shabbat he must whisper it.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 7:2:1",
+        "quote": "דאי ממתני' הוה אמינא דבחול שנויה אבל בשבת לא יאמר"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura says what he stipulated on Friday is not enough; he must say it again on Shabbat when he comes to eat and drink.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 7:2:2",
+        "quote": "ואין די לו במה שהתנה מערב שבת אבל צריך לחזור ולומר בשבת"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says that since he set the condition on Friday in general, he repeats it when they pour the cup.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 7:2:1",
+        "quote": "אחר שהקדים התנאי מערב שבת על דרך כלל כמו שנתבאר בהלכה ראשונה ישנהו כשימזגו לו את הכוס"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what the Friday condition does and what must still be done on Shabbat itself.",
+    "mishnah": 2,
+    "anchors": [
+     "מזגו לו את הכוס אומר מה שאני עתיד לשייר בשולי הכוס"
+    ]
+   },
+   {
+    "title": "If it is terumah now he drinks it mixed; if later, tevel",
+    "pasuk": {
+     "text": "מה שאני עתיד לשייר בשולי הכוס הרי הוא מעשר",
+     "ref": "Mishnah Demai 7:2",
+     "label": "Mishnah Demai 7:2"
+    },
+    "question": "What he leaves in the cup is to be maaser. If it becomes holy now, the whole cup is mixed with it; if only when he finishes, he drank tevel in the meantime. How does the stipulation work?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Demai 7:2:2",
+      "era": "acharon",
+      "quote": "בירושלמי פריך אם באומר מעכשיו תהא תרומה הרי הכל מתערב יחד ונעשה מדומע ואם באומר לכשאשתה הא לא הוי תרומה אלא לאחר ששתה ונמצא שותה טבל"
+     },
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 7:2:2",
+      "era": "acharon",
+      "quote": "וקשה על זה הא על כרחין מעכשיו קדשה דאל\"כ נמצא שותה טבלים"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Demai 7:2:1",
+      "era": "acharon",
+      "quote": "כיון דבשעת חלות התרומה אין הדבר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura brings the Yerushalmi's answer: he says that from now it is terumah and, when he drinks, it is terumah; so he did not drink tevel and it was not mixed.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 7:2:2",
+        "quote": "ומשני באומר מעכשיו ולכשאשתה תהא תרומה ונמצא שלא שתה טבל וגם לא היה מדומע"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov answers that here it is demai, a rabbinic matter, where there is bererah, and it becomes clear in retrospect that it was holy from now.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 7:2:2",
+        "quote": "דהכא בדמאי ובדרבנן קי\"ל דיש ברירה כדלקמן והוברר למפרע דמעכשיו קדשה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a condition can take effect backwards without any tevel being drunk.",
+    "mishnah": 2,
+    "anchors": [
+     "מה שאני עתיד לשייר בשולי הכוס הרי הוא מעשר"
+    ]
+   },
+   {
+    "title": "What does the worker who 'holds back' a fig do, and why not?",
+    "pasuk": {
+     "text": "רבן שמעון בן גמליאל אומר לא יחשוך מפני שהוא ממעט מלאכתו של בעל הבית",
+     "ref": "Mishnah Demai 7:3",
+     "label": "Mishnah Demai 7:3"
+    },
+    "question": "Rabban Shimon ben Gamliel says he may not hold back one fig because he lessens his employer's work. How does holding back one fig out of a hundred reduce work, and what is 'holding back'?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Demai 7:3:3",
+      "era": "acharon",
+      "quote": "הוקשה לו על דברי רשב\"ג לפי פי' של הר\"ש והרא\"ש ז\"ל דלא יתכן לומר שאם ימנע אדם עצמו מלאכול גרוגרת אחרת אחר שאכל צ\"ט יחליש כחו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura, the Rash and Rabbi Akiva Eiger (citing the Yerushalmi) say he may not starve himself, since he would lessen his employer's work.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 7:3:3",
+        "quote": "שאם לא יאכל מרעיב עצמו וממעט מסעודתו ונמצא ממעט בכך מלאכתו של בעל הבית"
+       },
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Demai 7:3:2",
+        "quote": "ואם לא יאכל מרעיב עצמו ונמצא ממעט מלאכתו של בעה\"ב"
+       },
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 7:3:1",
+        "quote": "לא ירעיב עצמו ולא יסגף נפשו מפני שממעט במלאכת בעה\"ב"
+       }
+      ]
+     },
+     {
+      "text": "The Melekhet Shelomoh quotes the Rambam's reading: Rabban Shimon ben Gamliel forbids taking one from the employer, since that diminishes his property and is theft.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 7:3:3",
+        "quote": "ורשב\"ג חלק שלא יחסרנה מבעה\"ב שהוא מחסר ממונו וגזל הוא בידו"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says Rabbi Yose does not disagree with the first tanna but gives the reason: it is a court's condition that terumat maaser comes from the employer.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 7:3:1",
+        "quote": "כי תנאי ב\"ד הוא שלא יחסר תרומת מעשר של דמאי אלא משל בעה\"ב"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the machlokes over what 'holds back' means and whether the employer or the worker bears the terumat maaser.",
+    "mishnah": 3,
+    "anchors": [
+     "רבן שמעון בן גמליאל אומר לא יחשוך מפני שהוא ממעט מלאכתו של בעל הבית"
+    ]
+   },
+   {
+    "title": "May he drink at once, on the basis of a bererah?",
+    "pasuk": {
+     "text": "אומר שני לוגין שאני עתיד להפריש הרי הן תרומה",
+     "ref": "Mishnah Demai 7:4",
+     "label": "Mishnah Demai 7:4"
+    },
+    "question": "The mishnah has him say what he will later separate is terumah and tithes, and then begin to drink. That relies on bererah for an obligation that is from the Torah. Is that the halakhah?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Demai 7:4:4",
+      "era": "acharon",
+      "quote": "וסתם מתניתין אתיא כרבי מאיר דאמר אף בדאורייתא יש ברירה"
+     },
+     {
+      "name": "Rambam",
+      "ref": "Rambam on Mishnah Demai 7:4:1",
+      "era": "rishon",
+      "quote": "וזאת הלכה היא לר\"מ שהוא סובר יש ברירה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says it is not the halakhah: where the obligation is from the Torah there is no bererah, so for certain tevel he may not eat or drink until he separates.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 7:4:4",
+        "quote": "קימא לן דבדרבנן יש ברירה אבל בדאורייתא אין ברירה הילכך בודאי טבל לא יאכל ולא ישתה עד שיפריש"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam agrees that the halakhah is not like Rabbi Meir, and he must separate terumah and tithes before drinking.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 7:4:1",
+        "quote": "ומפני זה אין הלכה כר\"מ שהוא לו זה הסתם אבל יוציא תרומה ומעשרות קודם שתייתו על כל פנים"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger suggests that the tanna holds there is bererah even in a root-from-the-Torah matter, though not in one fully from the Torah.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 7:4:3",
+        "quote": "י\"ל דתנא ס\"ל דגם בשורש דאורייתא יש ברירה אבל לא בדאורייתא גמור"
+       }
+      ]
+     }
+    ],
+    "why": "It shows where the mishnah relies on bererah and where practice must separate first.",
+    "mishnah": 4,
+    "anchors": [
+     "אומר שני לוגין שאני עתיד להפריש הרי הן תרומה"
+    ]
+   },
+   {
+    "title": "Why is the second statement 'of this in that' not effective?",
+    "pasuk": {
+     "text": "של זו בזו ושל זו בזו הראשונה מעושרת",
+     "ref": "Mishnah Demai 7:6",
+     "label": "Mishnah Demai 7:6"
+    },
+    "question": "When he says the tithes of the first are in the second and then those of the second in the first, only the first is tithed. Why does the second statement not take effect?",
+    "asked_by": [
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 7:6:4",
+      "era": "acharon",
+      "quote": "ואין להקשות דהא במפריש מפטור על החיוב תרומתו תרומה אלא דיחזור ויתרום ואם כן איך קאמר ולא אמר כלום"
+     },
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 7:6:3",
+      "era": "acharon",
+      "quote": "ומזה אני תמיה על הרמב\"ם שפוסק למשנתנו בהלכות מעשר ובמסכת תמורה פסק דלא כר\"מ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura and the Rambam say the second statement separates from what is already exempt onto what is obligated, and one may not separate from the exempt for the obligated.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 7:6:4",
+        "quote": "ואין מפרישין מן הפטור על החיוב ולא אמר כלום"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 7:6:1",
+        "quote": "לפי שהראשונה נפטרה בדבורו הראשון והשניה חייבת ואין מפרישין מן הפטור על החיוב"
+       }
+      ]
+     },
+     {
+      "text": "The Ikar Tosafot Yom Tov distinguishes: there the separated terumah is recognisable and so is terumah; here nothing was separated or recognised, so there is no concern.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 7:6:4",
+        "quote": "שהפריש והתרומה ניכרת לכך תרומתו תרומה … שלא נתרמה ולא ניכרת אין כאן בית מחוש כלל"
+       }
+      ]
+     },
+     {
+      "text": "The Ikar Tosafot Yom Tov brings the Yerushalmi: this is Rabbi Meir, who says only the first language takes hold.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 7:6:3",
+        "quote": "דרבי מאיר היא דאמר אינו תופס אלא לשון ראשון"
+       }
+      ]
+     }
+    ],
+    "why": "It shows two different grounds for the same ruling, one a general rule and one Rabbi Meir's.",
+    "mishnah": 6,
+    "anchors": [
+     "של זו בזו ושל זו בזו הראשונה מעושרת"
+    ]
+   },
+   {
+    "title": "Why 'lost nothing' only if the tevel exceeds by ten?",
+    "pasuk": {
+     "text": "מאה טבל תשעים מעשר תשעים טבל ושמונים מעשר לא הפסיד כלום",
+     "ref": "Mishnah Demai 7:7",
+     "label": "Mishnah Demai 7:7"
+    },
+    "question": "Why does the mishnah say he lost nothing when the tevel exceeds the maaser, and why does that depend on a margin of ten?",
+    "asked_by": [
+     {
+      "name": "Tiferet Yisrael (Boaz)",
+      "ref": "Boaz on Mishnah Demai 7:4",
+      "era": "acharon",
+      "quote": "סיפא דלא הפסיד כלום מלתא בלא טעמא דאיך תלוי זה באם הטבל מרובה י' ממעשר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says that since the tevel has ten extra, it is treated as if he had other produce to separate from.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 7:7:5",
+        "quote": "דכיון דאיכא בטבל עשרה יתרים דיינינן ליה כאילו יש לו פרנסה ממקום אחר"
+       }
+      ]
+     },
+     {
+      "text": "The Ikar Tosafot Yom Tov says we need ten because with ten extra parts one can separate one for terumat maaser.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 7:7:4",
+        "quote": "וכל שיש לו עשרה חלקים יתרים שיש לנו להפריש מהן אחת לתרומת מעשר"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says one does not name terumat maaser of the tevel and take ninety-one, since that would make the maaser mixed with terumah.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 7:7:4",
+        "quote": "שלא נקרא שם לתרומת מעשר של טבל ונוציא צ\"א … חזר המעשר ההוא כולו מדומע"
+       }
+      ]
+     }
+    ],
+    "why": "It shows three ways of explaining a rule the Boaz found hard to explain.",
+    "mishnah": 7,
+    "anchors": [
+     "מאה טבל תשעים מעשר תשעים טבל ושמונים מעשר לא הפסיד כלום"
+    ]
+   },
+   {
+    "title": "Why a diagonal and not a whole row?",
+    "pasuk": {
+     "text": "שורה אחת מעשר ואין ידוע איזו היא נוטל שורה אחת לוכסן",
+     "ref": "Mishnah Demai 7:8",
+     "label": "Mishnah Demai 7:8"
+    },
+    "question": "If one jug in an unknown row was named maaser, why does he take one jug from each row along a diagonal and not an entire row? And how can one jug serve for a hundred?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Demai 7:8:9",
+      "era": "acharon",
+      "quote": "ומפני מה נוטל באלכסון ואינו נוטל שורה אחת כולה ביושר"
+     },
+     {
+      "name": "Rambam",
+      "ref": "Rambam on Mishnah Demai 7:8:1",
+      "era": "rishon",
+      "quote": "היאך יוציא חבית מעשר מק' חביות והלא עשירותם עשר חביות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says that along the diagonal he takes one jug from every row, counting either way, which a straight row would not do.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Demai 7:8:9",
+        "quote": "נמצא נוטל חבית אחת מכל שורה ושורה"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam answers that this maaser was not decreed on those jugs, and goes on to illustrate it with a diagram.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Demai 7:8:1",
+        "quote": "יש לך לדעת שלא גזר זה המעשר על החביות האלו"
+       }
+      ]
+     },
+     {
+      "text": "The Ikar Tosafot Yom Tov says that all this concern is only for the terumat maaser in it.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 7:8:1",
+        "quote": "וכל החרדה הזאת בשביל תרומת מעשר שיש בו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the logic of the jug-selection rules and what is really at stake in them.",
+    "mishnah": 8,
+    "anchors": [
+     "שורה אחת מעשר ואין ידוע איזו היא נוטל שורה אחת לוכסן"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Bartenura",
+   "Tiferet Yisrael (Yachin)",
+   "Rambam",
+   "Rashash",
+   "Melekhet Shelomoh",
+   "Rash MiShantz",
+   "Tosafot Rabbi Akiva Eiger",
+   "Ikar Tosafot Yom Tov",
+   "Tiferet Yisrael (Boaz)"
+  ]
+ },
+ "hebrew": {
+  "summary": "משניות א-ב: אורח שאינו מאמין לבעל הבית על המעשרות מתנה תנאי מערב שבת, וחוזר עליו בכוס, כדי שמה שישייר יהיה מעשר והשאר מתוקן.\nמשנה ג: פועל שאינו מאמין לבעל הבית מייעד גרוגרת ותשע אחריה למעשר וחושך גרוגרת אחת; רבן שמעון בן גמליאל ורבי יוסי אוסרים את החשכון.\nמשניות ד-ה: הלוקח יין מן הכותים, או שיש לו תאנים של טבל בבית ואינו יכול להפריש, אומר מה שיפריש; בדמאי משתמש בנוסח של שבת.\nמשנה ו: בשני סלים של טבל, האומר מעשרות זו בזו מעשר את הראשונה, והאמירה השנייה אינה פועלת.\nמשנה ז: כשטבל מעורב בחולין או במעשר, נוטלים מאה ואחד, מאה ועשר, או שלא הפסיד כלום כשהטבל הוא הרוב.\nמשנה ח: בשורות של חביות יין, כשנקראה חבית אחת מעשר ואין ידוע איזו, נוטל חביות באלכסון או מן הזוויות.",
+  "topics": [
+   {
+    "term": "טבל ודמאי",
+    "explanation": "טבל הוא תבואה שלא הופרשו ממנה תרומה ומעשרות, ואסור לאכלה עד שיפרישו. דמאי הוא תבואה של עם הארץ שיש ספק אם עישרוה.",
+    "mishnah": 5,
+    "anchors": [
+     "היו לו תאנים של טבל"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 7:5:1",
+     "quote": "לפי שהטבל חייב במתנות מדאורייתא והעיקר בדאורייתא אין ברירה"
+    }
+   },
+   {
+    "term": "תרומת מעשר",
+    "explanation": "תרומת מעשר היא העשירית שהלוי נותן לכהן מן המעשר שקיבל. כאן המפריש קורא לאחד מן המעשר תרומת מעשר על התשעה הסמוכים לו.",
+    "mishnah": 1,
+    "anchors": [
+     "עשוי תרומת מעשר עליו"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 7:1:2",
+     "quote": "זה האחד שעשיתי תחלה מעשר עשוי תרומת מעשר על תשעה הסמוכים לו"
+    }
+   },
+   {
+    "term": "תנאי מערב שבת",
+    "explanation": "הפרשת מעשרות בשבת אסורה, אך בדמאי אפשר להתנות מערב שבת על מה שיפריש אחר כך. המשנה משתמשת בכך כדי שאורח יוכל לאכול בשבת אוכל מתוקן.",
+    "mishnah": 1,
+    "anchors": [
+     "אומר מערב שבת"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 7:1:1",
+     "quote": "והיכא דהתנה מערב שבת מותר להפריש בשבת אבל לא התנה אסור"
+    }
+   },
+   {
+    "term": "תנאי בית דין",
+    "explanation": "רבי יוסי אומר שהפועל לא יחשוך את הגרוגרת כי זה תנאי בית דין: תרומת מעשר משל בעל הבית ומעשר שני משל הפועל.",
+    "mishnah": 3,
+    "anchors": [
+     "תנאי בית דין"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 7:3:4",
+     "quote": "שתהא תרומת מעשר משל בעל הבית ומעשר שני משל פועל"
+    }
+   },
+   {
+    "term": "ברירה",
+    "explanation": "ברירה היא העיקרון שהפרשה מאוחרת מגלה למפרע מה כבר הופרש. המשנה נשענת עליה, והמפרשים מגבילים אותה לדין דרבנן.",
+    "mishnah": 4,
+    "anchors": [
+     "מחל ושותה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 7:4:4",
+     "quote": "קימא לן דבדרבנן יש ברירה אבל בדאורייתא אין ברירה"
+    }
+   },
+   {
+    "term": "קביעות מקום בבין השמשות",
+    "explanation": "קביעת מקום למעשרות, למשל בצפון או בדרום, נחשבת הפרשה. בבין השמשות של ערב שבת היא אסורה בטבל ודאי, ולכן המשנה לא מזכירה חילול מעשר שני.",
+    "mishnah": 4,
+    "anchors": [
+     "שני לוגין שאני עתיד להפריש"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Demai 7:4:1",
+     "quote": "דקביעות מקום חשוב כהפרשה ואסור בין השמשות"
+    }
+   },
+   {
+    "term": "אין מפרישין מן הפטור על החיוב",
+    "explanation": "תבואה שכבר נפטרה אינה יכולה לשמש מקור למעשרות החלים על תבואה אחרת. בשני הסלים הראשון מעושר, והאמירה השנייה אינה פועלת.",
+    "mishnah": 6,
+    "anchors": [
+     "הראשונה מעושרת"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 7:6:1",
+     "quote": "העיקר בזה שאין תורמין ומעשרין מן הפטור על החיוב"
+    }
+   },
+   {
+    "term": "מאה ואחד",
+    "explanation": "כשטבל מעורב בחולין נוטלים מאה ואחד, אחד יותר מהטבל, כי תרומת מעשר עולה באחד ומאה.",
+    "mishnah": 7,
+    "anchors": [
+     "נוטל מאה ואחד"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Demai 7:7:1",
+     "quote": "שמור זה העיקר והוא שתרומת מעשר עולה באחד ומאה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "לאכול אצל מי שאינו נאמן על המעשרות",
+    "pasuk": {
+     "text": "המזמין את חבירו שיאכל אצלו והוא אינו מאמינו על המעשרות",
+     "ref": "Mishnah Demai 7:1",
+     "label": "משנה דמאי ז, א"
+    },
+    "question": "המשנה מתירה לאורח שאינו מאמין לבעל הבית על המעשרות לאכול אצלו. אך שנינו בפרק ג שאין מתארחים אצל עם הארץ. כיצד אפשר לאכול שם?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 7:1:2",
+      "era": "acharon",
+      "quote": "דאי בלא הדירו היאך אוכל אצלו והא תנן בפ\"ב שאינו מתארח אצל עם הארץ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: המשנה עוסקת בהזמינו ולא הדירו, שאילו הדירו אוכל עמו בשבת ראשונה; או שהמשנה שם עוסקת בשבת ראשונה של חתן, וכאן בשאר שבתות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 7:1:1",
+        "quote": "אי נמי התם בשבת ראשונה של בחור שנשא בתולה והכא בשאר שבתות"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: כאן המשנה מבקשת תקנה למי שרוצה לאכול מתוקן, אף על פי שלא קיבל עליו להיות נאמן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 7:1:2",
+        "quote": "דהכא בעי למצוא תקנה למי שרוצה לאכול מתוקן ואף על פי שלא קבל עליו להיות נאמן"
+       }
+      ]
+     },
+     {
+      "text": "היכין: כשהזמינו מותר מפני דרכי שלום.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Demai 7:1:1",
+        "quote": "נ\"ל דבהזמינו שרי מדרכי שלום"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מתי מותר לשבת אל שולחן שאי אפשר לסמוך עליו, ומה מתקן את האוכל.",
+    "mishnah": 1,
+    "anchors": [
+     "המזמין את חבירו שיאכל אצלו והוא אינו מאמינו על המעשרות"
+    ]
+   },
+   {
+    "title": "למה לחזור על התנאי בכוס?",
+    "pasuk": {
+     "text": "מזגו לו את הכוס אומר מה שאני עתיד לשייר בשולי הכוס",
+     "ref": "Mishnah Demai 7:2",
+     "label": "משנה דמאי ז, ב"
+    },
+    "question": "במשנה א כבר התנה מערב שבת. מה מוסיפה משנה ב בכך שהוא אומר שוב כשמוזגים לו את הכוס?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 7:2:1",
+      "era": "acharon",
+      "quote": "וקצת קשה דמתני' היא אומר וכו' ומאי קמ\"ל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: ייתכן שהייתי אומר שהמשנה שנויה בחול, ובשבת לא יאמר כי זה כמתקן בשבת, ולכן היא מלמדת שגם בשבת צריך שילחש.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 7:2:1",
+        "quote": "דאי ממתני' הוה אמינא דבחול שנויה אבל בשבת לא יאמר"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: אין די במה שהתנה מערב שבת, וצריך לחזור ולומר בשבת כשבא לאכול ולשתות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 7:2:2",
+        "quote": "ואין די לו במה שהתנה מערב שבת אבל צריך לחזור ולומר בשבת"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: אחר שהקדים את התנאי מערב שבת על דרך כלל, הוא חוזר ושונה אותו כשמוזגים לו את הכוס.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 7:2:1",
+        "quote": "אחר שהקדים התנאי מערב שבת על דרך כלל כמו שנתבאר בהלכה ראשונה ישנהו כשימזגו לו את הכוס"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מה עושה התנאי של ערב שבת ומה צריך עדיין לעשות בשבת עצמה.",
+    "mishnah": 2,
+    "anchors": [
+     "מזגו לו את הכוס אומר מה שאני עתיד לשייר בשולי הכוס"
+    ]
+   },
+   {
+    "title": "אם מעכשיו הכול מתערב, ואם לכשאשתה שותה טבל",
+    "pasuk": {
+     "text": "מה שאני עתיד לשייר בשולי הכוס הרי הוא מעשר",
+     "ref": "Mishnah Demai 7:2",
+     "label": "משנה דמאי ז, ב"
+    },
+    "question": "מה שישייר בכוס יהיה מעשר. אם יתקדש מעכשיו, כל הכוס מתערב בו; ואם רק לכשישתה, הוא שתה טבל בינתיים. כיצד פועל התנאי?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Demai 7:2:2",
+      "era": "acharon",
+      "quote": "בירושלמי פריך אם באומר מעכשיו תהא תרומה הרי הכל מתערב יחד ונעשה מדומע ואם באומר לכשאשתה הא לא הוי תרומה אלא לאחר ששתה ונמצא שותה טבל"
+     },
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 7:2:2",
+      "era": "acharon",
+      "quote": "וקשה על זה הא על כרחין מעכשיו קדשה דאל\"כ נמצא שותה טבלים"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Demai 7:2:1",
+      "era": "acharon",
+      "quote": "כיון דבשעת חלות התרומה אין הדבר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא מביא את תשובת הירושלמי: הוא אומר מעכשיו ולכשאשתה תהא תרומה, ונמצא שלא שתה טבל וגם לא היה מדומע.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 7:2:2",
+        "quote": "ומשני באומר מעכשיו ולכשאשתה תהא תרומה ונמצא שלא שתה טבל וגם לא היה מדומע"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: כאן מדובר בדמאי, ובדרבנן יש ברירה, ונתברר למפרע שהיה קדוש מעכשיו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Demai 7:2:2",
+        "quote": "דהכא בדמאי ובדרבנן קי\"ל דיש ברירה כדלקמן והוברר למפרע דמעכשיו קדשה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך תנאי יכול לחול למפרע בלי ששותים טבל.",
+    "mishnah": 2,
+    "anchors": [
+     "מה שאני עתיד לשייר בשולי הכוס הרי הוא מעשר"
+    ]
+   },
+   {
+    "title": "מהו חושך גרוגרת, ולמה אסור?",
+    "pasuk": {
+     "text": "רבן שמעון בן גמליאל אומר לא יחשוך מפני שהוא ממעט מלאכתו של בעל הבית",
+     "ref": "Mishnah Demai 7:3",
+     "label": "משנה דמאי ז, ג"
+    },
+    "question": "רבן שמעון בן גמליאל אומר שלא יחשוך משום שהוא ממעט מלאכתו של בעל הבית. כיצד משפיע חשכון של גרוגרת אחת ממאה על המלאכה, ומהו \"חושך\"?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Demai 7:3:3",
+      "era": "acharon",
+      "quote": "הוקשה לו על דברי רשב\"ג לפי פי' של הר\"ש והרא\"ש ז\"ל דלא יתכן לומר שאם ימנע אדם עצמו מלאכול גרוגרת אחרת אחר שאכל צ\"ט יחליש כחו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא, הרש ורבי עקיבא איגר (בשם הירושלמי): לא ירעיב את עצמו, כי בכך הוא ממעט את מלאכת בעל הבית.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 7:3:3",
+        "quote": "שאם לא יאכל מרעיב עצמו וממעט מסעודתו ונמצא ממעט בכך מלאכתו של בעל הבית"
+       },
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Demai 7:3:2",
+        "quote": "ואם לא יאכל מרעיב עצמו ונמצא ממעט מלאכתו של בעה\"ב"
+       },
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 7:3:1",
+        "quote": "לא ירעיב עצמו ולא יסגף נפשו מפני שממעט במלאכת בעה\"ב"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את פירוש הרמב\"ם: רשב\"ג אוסר לחסר מבעל הבית, כי הוא מחסר ממונו וזה גזל.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Demai 7:3:3",
+        "quote": "ורשב\"ג חלק שלא יחסרנה מבעה\"ב שהוא מחסר ממונו וגזל הוא בידו"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: רבי יוסי אינו חולק על התנא הראשון אלא נותן טעם: תנאי בית דין שתרומת מעשר תהיה משל בעל הבית.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 7:3:1",
+        "quote": "כי תנאי ב\"ד הוא שלא יחסר תרומת מעשר של דמאי אלא משל בעה\"ב"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את המחלוקת במשמעות \"חושך\" ומי נושא בתרומת מעשר, בעל הבית או הפועל.",
+    "mishnah": 3,
+    "anchors": [
+     "רבן שמעון בן גמליאל אומר לא יחשוך מפני שהוא ממעט מלאכתו של בעל הבית"
+    ]
+   },
+   {
+    "title": "האם מותר לשתות מיד מכוח ברירה?",
+    "pasuk": {
+     "text": "אומר שני לוגין שאני עתיד להפריש הרי הן תרומה",
+     "ref": "Mishnah Demai 7:4",
+     "label": "משנה דמאי ז, ד"
+    },
+    "question": "המשנה מתירה לו לומר מה שיפריש אחר כך הוא תרומה ומעשרות, ואז להתחיל לשתות. זה נשען על ברירה בחיוב מן התורה. האם כך ההלכה?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Demai 7:4:4",
+      "era": "acharon",
+      "quote": "וסתם מתניתין אתיא כרבי מאיר דאמר אף בדאורייתא יש ברירה"
+     },
+     {
+      "name": "רמב\"ם",
+      "ref": "Rambam on Mishnah Demai 7:4:1",
+      "era": "rishon",
+      "quote": "וזאת הלכה היא לר\"מ שהוא סובר יש ברירה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: אין זו הלכה; בדאורייתא אין ברירה, ולכן בטבל ודאי לא יאכל ולא ישתה עד שיפריש.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 7:4:4",
+        "quote": "קימא לן דבדרבנן יש ברירה אבל בדאורייתא אין ברירה הילכך בודאי טבל לא יאכל ולא ישתה עד שיפריש"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: אין הלכה כרבי מאיר, ועל כל פנים יוציא תרומה ומעשרות קודם שתייתו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 7:4:1",
+        "quote": "ומפני זה אין הלכה כר\"מ שהוא לו זה הסתם אבל יוציא תרומה ומעשרות קודם שתייתו על כל פנים"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר: אפשר שהתנא סובר שגם בשורש דאורייתא יש ברירה, אך לא בדאורייתא גמור.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Demai 7:4:3",
+        "quote": "י\"ל דתנא ס\"ל דגם בשורש דאורייתא יש ברירה אבל לא בדאורייתא גמור"
+       }
+      ]
+     }
+    ],
+    "why": "מראה היכן המשנה נשענת על ברירה והיכן המעשה צריך להפריש קודם.",
+    "mishnah": 4,
+    "anchors": [
+     "אומר שני לוגין שאני עתיד להפריש הרי הן תרומה"
+    ]
+   },
+   {
+    "title": "למה אין אמירת \"של זו בזו\" השנייה מועילה?",
+    "pasuk": {
+     "text": "של זו בזו ושל זו בזו הראשונה מעושרת",
+     "ref": "Mishnah Demai 7:6",
+     "label": "משנה דמאי ז, ו"
+    },
+    "question": "כשאמר \"של זו בזו\" ואחר כך \"ושל זו בזו\", רק הראשונה מעושרת. מדוע אינה חלה האמירה השנייה?",
+    "asked_by": [
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 7:6:4",
+      "era": "acharon",
+      "quote": "ואין להקשות דהא במפריש מפטור על החיוב תרומתו תרומה אלא דיחזור ויתרום ואם כן איך קאמר ולא אמר כלום"
+     },
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Demai 7:6:3",
+      "era": "acharon",
+      "quote": "ומזה אני תמיה על הרמב\"ם שפוסק למשנתנו בהלכות מעשר ובמסכת תמורה פסק דלא כר\"מ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא והרמב\"ם: האמירה השנייה מפרישה מן הפטור על החיוב, ואין מפרישין מן הפטור על החיוב.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 7:6:4",
+        "quote": "ואין מפרישין מן הפטור על החיוב ולא אמר כלום"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 7:6:1",
+        "quote": "לפי שהראשונה נפטרה בדבורו הראשון והשניה חייבת ואין מפרישין מן הפטור על החיוב"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: שם התרומה ניכרת ולכן תרומתו תרומה, וכאן לא נתרמה ולא ניכרת ואין בית מחוש.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 7:6:4",
+        "quote": "שהפריש והתרומה ניכרת לכך תרומתו תרומה … שלא נתרמה ולא ניכרת אין כאן בית מחוש כלל"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: זו שיטת רבי מאיר, האומר שאינו תופס אלא לשון ראשון.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 7:6:3",
+        "quote": "דרבי מאיר היא דאמר אינו תופס אלא לשון ראשון"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שתי סיבות שונות לאותו דין: כלל כללי ושיטת רבי מאיר.",
+    "mishnah": 6,
+    "anchors": [
+     "של זו בזו ושל זו בזו הראשונה מעושרת"
+    ]
+   },
+   {
+    "title": "למה לא הפסיד כלום דווקא כשהטבל מרובה בעשרה?",
+    "pasuk": {
+     "text": "מאה טבל תשעים מעשר תשעים טבל ושמונים מעשר לא הפסיד כלום",
+     "ref": "Mishnah Demai 7:7",
+     "label": "משנה דמאי ז, ז"
+    },
+    "question": "מדוע אומרת המשנה שלא הפסיד כלום כשהטבל מרובה על המעשר, ולמה הדבר תלוי בהפרש של עשרה?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (בועז)",
+      "ref": "Boaz on Mishnah Demai 7:4",
+      "era": "acharon",
+      "quote": "סיפא דלא הפסיד כלום מלתא בלא טעמא דאיך תלוי זה באם הטבל מרובה י' ממעשר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: כיוון שיש בטבל עשרה יתרים, דנים אותו כאילו יש לו פרנסה ממקום אחר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 7:7:5",
+        "quote": "דכיון דאיכא בטבל עשרה יתרים דיינינן ליה כאילו יש לו פרנסה ממקום אחר"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: צריך עשרה כי עם עשרה חלקים יתרים אפשר להפריש אחד לתרומת מעשר.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 7:7:4",
+        "quote": "וכל שיש לו עשרה חלקים יתרים שיש לנו להפריש מהן אחת לתרומת מעשר"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: לא קוראים שם לתרומת מעשר של הטבל ונוטלים צ\"א, כי אז המעשר חוזר מדומע.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 7:7:4",
+        "quote": "שלא נקרא שם לתרומת מעשר של טבל ונוציא צ\"א … חזר המעשר ההוא כולו מדומע"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שלוש דרכים להסביר דין שקשה לבעל הבועז להסבירו.",
+    "mishnah": 7,
+    "anchors": [
+     "מאה טבל תשעים מעשר תשעים טבל ושמונים מעשר לא הפסיד כלום"
+    ]
+   },
+   {
+    "title": "למה באלכסון ולא שורה שלמה?",
+    "pasuk": {
+     "text": "שורה אחת מעשר ואין ידוע איזו היא נוטל שורה אחת לוכסן",
+     "ref": "Mishnah Demai 7:8",
+     "label": "משנה דמאי ז, ח"
+    },
+    "question": "אם נקרא שם מעשר על חבית אחת בשורה לא ידועה, למה נוטל חבית מכל שורה באלכסון ולא שורה שלמה? וכיצד חבית אחת מספיקה למאה?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Demai 7:8:9",
+      "era": "acharon",
+      "quote": "ומפני מה נוטל באלכסון ואינו נוטל שורה אחת כולה ביושר"
+     },
+     {
+      "name": "רמב\"ם",
+      "ref": "Rambam on Mishnah Demai 7:8:1",
+      "era": "rishon",
+      "quote": "היאך יוציא חבית מעשר מק' חביות והלא עשירותם עשר חביות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: באלכסון הוא נוטל חבית אחת מכל שורה, בין שימנה את השורות ממזרח למערב ובין מצפון לדרום, מה שאין כן בשורה ישרה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Demai 7:8:9",
+        "quote": "נמצא נוטל חבית אחת מכל שורה ושורה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: המעשר הזה לא נגזר על החביות האלה, והוא ממשיך ומציג זאת בציור.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Demai 7:8:1",
+        "quote": "יש לך לדעת שלא גזר זה המעשר על החביות האלו"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: כל החרדה הזאת היא בשביל תרומת מעשר שיש בו.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Demai 7:8:1",
+        "quote": "וכל החרדה הזאת בשביל תרומת מעשר שיש בו"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את ההיגיון בכללי בחירת החביות ומה עומד באמת על הפרק.",
+    "mishnah": 8,
+    "anchors": [
+     "שורה אחת מעשר ואין ידוע איזו היא נוטל שורה אחת לוכסן"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "ברטנורא",
+   "תפארת ישראל (יכין)",
+   "רמב\"ם",
+   "רש\"ש",
+   "מלאכת שלמה",
+   "רש משנץ",
+   "תוספות רבי עקיבא איגר",
+   "עיקר תוספות יום טוב",
+   "תפארת ישראל (בועז)"
+  ]
+ }
+}
