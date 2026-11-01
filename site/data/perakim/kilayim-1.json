@@ -1,0 +1,736 @@
+{
+ "date": "2026-11-01",
+ "hebrew_date": {
+  "hebrew": "כ״א בְּחֶשְׁוָן תשפ״ז",
+  "english": "21 Cheshvan 5787"
+ },
+ "masechet": "kilayim",
+ "perek": 1,
+ "ref": "Mishnah Kilayim 1",
+ "mishnayot": [
+  {
+   "he": "הַחִטִּים וְהַזּוּנִין אֵינָן כִּלְאַיִם זֶה בָזֶה. הַשְּׂעֹרִים וְשִׁבֹּלֶת שׁוּעָל, הַכֻּסְּמִין וְהַשִּׁיפוֹן, הַפּוֹל וְהַסַּפִּיר, הַפֻּרְקְדָן וְהַטֹּפֵחַ, וּפוֹל הַלָּבָן וְהַשְּׁעוּעִים, אֵינָם כִּלְאַיִם זֶה בָזֶה: \n",
+   "en": "Wheat and zunin do not constitute kilayim one with the other. Barley and oats, spelt and rye, or beans and sapir (a type of bean), or purkdan and tofah (two similar types of beans), or white beans and kidney beans, do not constitute kilayim one with the other."
+  },
+  {
+   "he": "הַקִּשּׁוּת וְהַמְּלָפְפוֹן, אֵינָם כִּלְאַיִם זֶה בָזֶה. רַבִּי יְהוּדָה אוֹמֵר, כִּלְאָיִם. חֲזֶרֶת וַחֲזֶרֶת גַּלִּים, עֻלְשִׁין וְעֻלְשֵׁי שָׂדֶה, כְּרֵשִׁים וּכְרֵשֵׁי שָׂדֶה, כֻּסְבָּר וְכֻסְבַּר שָׂדֶה, חַרְדָּל וְחַרְדָּל מִצְרִי, וּדְלַעַת הַמִּצְרִי וְהָרְמוּצָה, וּפוֹל מִצְרִי וְהֶחָרוּב, אֵינָם כִּלְאַיִם זֶה בָזֶה: \n",
+   "en": "Cucumbers and melons do not constitute kilayim one with the other. Rabbi Judah said they do constitute kilayim. Lettuce and wild lettuce, endives and wild endives, leek and wild leek, coriander and wild coriander, or mustard and Egyptian mustard, Egyptian gourd and the bitter gourd, or Egyptian beans and carob shaped beans do not constitute kilayim one with the other."
+  },
+  {
+   "he": "הַלֶּפֶת וְהַנָּפוּץ, וְהַכְּרוּב וְהַתְּרוֹבְתוֹר, הַתְּרָדִים וְהַלְּעוּנִים, אֵינָם כִּלְאַיִם זֶה בָזֶה. הוֹסִיף רַבִּי עֲקִיבָא, הַשּׁוּם וְהַשּׁוּמָנִית, הַבָּצָל וְהַבְּצַלְצוּל, וְהַתֻּרְמוֹס וְהַפְּלַסְלוֹס, אֵינָן כִּלְאַיִם זֶה בָזֶה: \n",
+   "en": "Turnips and the cabbage turnip, cabbage and cauliflower, beet and rumex do not constitute kilayim one with the other. Rabbi Akiva added: garlic and small wild garlic, onion and small wild onion, lupine and wild lupine do not constitute kilayim one with the other."
+  },
+  {
+   "he": "וּבָאִילָן, הָאֲגָסִים וְהַקְּרֻסְתּוּמֵלִין, וְהַפְּרִישִׁים וְהָעֻזְרָדִים, אֵינָם כִּלְאַיִם זֶה בָזֶה. הַתַּפּוּחַ וְהַחַזְרָד, הַפַּרְסְקִים וְהַשְּׁקֵדִין, וְהַשִּׁזָּפִין וְהָרִימִין, אַף עַל פִּי שֶׁדּוֹמִין זֶה לָזֶה, כִּלְאַיִם זֶה בָזֶה: \n",
+   "en": "As for trees: the pear and the crustumenian pear, the medlar and azarolus, do not constitute kilayim one with the other. The apple and the crab-apple, or the peach and almond, or the jujube and rimin, even though they are similar one to the other, they nevertheless constitute kilayim one with the other."
+  },
+  {
+   "he": "הַצְּנוֹן וְהַנָּפוּץ, הַחַרְדָּל וְהַלַּפְסָן, וּדְלַעַת יְוָנִית עִם הַמִּצְרִית וְהָרְמוּצָה, אַף עַל פִּי שֶׁדּוֹמִין זֶה לָזֶה, כִּלְאַיִם זֶה בָזֶה: \n",
+   "en": "The radish and the cabbage turnip, mustard and charlock mustard, Greek gourd with Egyptian gourd or [Greek gourd] with bitter gourd, even though they are similar one to the other, are nevertheless kilayim one with the other."
+  },
+  {
+   "he": "הַזְּאֵב וְהַכֶּלֶב, כֶּלֶב הַכֻּפְרִי וְהַשּׁוּעָל, הָעִזִּים וְהַצְּבָאִים, הַיְּעֵלִים וְהָרְחֵלִים, הַסּוּס וְהַפֶּרֶד, הַפֶּרֶד וְהַחֲמוֹר, הַחֲמוֹר וְהֶעָרוֹד, אַף עַל פִּי שֶׁדּוֹמִין זֶה לָזֶה, כִּלְאַיִם זֶה בָזֶה: \n",
+   "en": "A wolf and a dog, a wild dog and a fox, a goat and a deer, a gazelle and a ewe-lamb, a horse and a mule, or a mule and a donkey, a donkey and a wild donkey, even though they are similar one to the other, constitute nevertheless, kilayim one with the other."
+  },
+  {
+   "he": "אֵין מְבִיאִין אִילָן בְּאִילָן, יָרָק בְּיָרָק, וְלֹא אִילָן בְּיָרָק, וְלֹא יָרָק בְּאִילָן. רַבִּי יְהוּדָה מַתִּיר יָרָק בְּאִילָן: \n",
+   "en": "They may not graft from one tree to another, or from one vegetable to another, or from a tree to a vegetable, or from a vegetable to a tree. Rabbi Judah permits it from a vegetable to a tree."
+  },
+  {
+   "he": "אֵין נוֹטְעִין יְרָקוֹת בְּתוֹךְ סַדָּן שֶׁל שִׁקְמָה. אֵין מַרְכִּיבִין פֵּיגָם עַל גַּבֵּי קִדָּה לְבָנָה, מִפְּנֵי שֶׁהוּא יָרָק בְּאִילָן. אֵין נוֹטְעִין יִחוּר שֶׁל תְּאֵנָה לְתוֹךְ הַחֲצוּב, שֶׁיְּהֵא מְקֵרוֹ. אֵין תּוֹחֲבִין זְמוֹרָה שֶׁל גֶּפֶן לְתוֹךְ הָאֲבַטִּיחַ, שֶׁתְּהֵא זוֹרֶקֶת מֵימֶיהָ לְתוֹכוֹ, מִפְּנֵי שֶׁהוּא אִילָן בְּיָרָק. אֵין נוֹתְנִין זֶרַע דְּלַעַת לְתוֹךְ הַחַלָּמִית, שֶׁתְּהֵא מְשַׁמַּרְתּוֹ, מִפְּנֵי שֶׁהוּא יָרָק בְּיָרָק: \n",
+   "en": "They may not plant vegetables in a trunk of a sycamore tree. They may not graft rue on white cassia, since that is [grafting] a vegetable on a tree. They may not plant a young fig-shoot in sea squill so that it might provide shade for it. They may not insert a vine branch into a melon, in order that the latter might shoot its moisture to the former, since that is [grafting] a tree on a vegetable. They may not place gourd seed into anchusa for the purpose of preserving it (the gourd seed), since that is [grafting] a vegetable on another vegetable."
+  },
+  {
+   "he": "הַטּוֹמֵן לֶפֶת וּצְנוֹנוֹת תַּחַת הַגֶּפֶן, אִם הָיוּ מִקְצָת עָלָיו מְגֻלִּין, אֵינוֹ חוֹשֵׁשׁ לֹא מִשּׁוּם כִּלְאַיִם, וְלֹא מִשּׁוּם שְׁבִיעִית, וְלֹא מִשּׁוּם מַעַשְׂרוֹת, וְנִטָּלִים בְּשַׁבָּת. הַזּוֹרֵעַ חִטָּה וּשְׂעוֹרָה כְּאַחַת, הֲרֵי זֶה כִלְאָיִם. רַבִּי יְהוּדָה אוֹמֵר, אֵינוֹ כִּלְאַיִם, עַד שֶׁיְּהוּ שְׁנֵי חִטִּים וּשְׂעוֹרָה, אוֹ חִטָּה וּשְׁתֵּי שְׂעוֹרִים, אוֹ חִטָּה וּשְׂעוֹרָה וְכֻסָּמֶת: \n",
+   "en": "One who buries turnips or radishes beneath a vine, if some of their leaves are uncovered, he need not have fear [of having transgressed] kilayim, or the sabbatical year, or tithes and they may also be pulled up on Shabbat. One who plants a [grain of] wheat and [a grain of] barley at one time, behold this is kilayim. Rabbi Judah says: it is not kilayim unless there are two grains of wheat and two grains of barley, or one grain of wheat and two grains of barley, or a grain of wheat, a grain of barley and a grain of spelt."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 lists pairs of grains and beans, such as wheat and zunin, barley and oats, spelt and rye, that do not constitute kilayim one with the other. Mishnayot 2–3 give pairs of vegetables, cucumbers and melons (where Rabbi Judah says they are kilayim), lettuce and wild lettuce, turnips and cabbage turnip, with Rabbi Akiva adding garlic, onion and lupine. Mishnayot 4–5 turn to trees and to vegetables that are similar yet are kilayim, such as apple and crab-apple, peach and almond, radish and cabbage turnip. Mishnah 6 lists pairs of animals that, though similar, are kilayim, from a wolf and a dog to a donkey and a wild donkey. Mishnayot 7–8 forbid grafting tree on tree, vegetable on vegetable, and tree on vegetable, with Rabbi Judah permitting a vegetable on a tree, and give examples. Mishnah 9 says one who buries turnips beneath a vine with some leaves uncovered need not fear kilayim, and sets out when sowing wheat and barley together is kilayim, according to the first Tanna and Rabbi Judah.",
+  "topics": [
+   {
+    "term": "Kilayim of seeds",
+    "explanation": "The mishnah teaches which pairs of species do not count as kilayim when sown together, and which do. The Rambam identifies the source as the verse 'Do not sow your field with kilayim'.",
+    "mishnah": 9,
+    "anchors": [
+     "הזורע חטה ושעורה כאחת"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 1:9:1",
+     "quote": "שדך לא תזרע כלאים"
+    }
+   },
+   {
+    "term": "Zunin",
+    "explanation": "Zunin are a grain the mishnah pairs with wheat and says is not kilayim with it. The Rambam describes it as a kind of wheat that changes in the land.",
+    "mishnah": 1,
+    "anchors": [
+     "והזונין"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 1:1:1",
+     "quote": "מין ממיני החטה וישתנה בארץ בתבניתו וטבעו"
+    }
+   },
+   {
+    "term": "Grafting (harkavah) of trees and vegetables",
+    "explanation": "The mishnah forbids bringing a tree into a tree, or a vegetable into a vegetable, and so on. The Rambam adds that it applies when the kinds differ, and that the halakhah is not like Rabbi Judah.",
+    "mishnah": 7,
+    "anchors": [
+     "אין מביאין אילן באילן"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 1:7:1",
+     "quote": "אין מרכיבין אילן באילן כשישתנו המינין"
+    }
+   },
+   {
+    "term": "Similar species and the taste of the fruit",
+    "explanation": "Some species look alike, yet the mishnah makes them kilayim. Bartenura says that in the case of radish and nafuts they followed the taste of the fruit.",
+    "mishnah": 5,
+    "anchors": [
+     "אף על פי שדומין זה לזה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 1:5:1",
+     "quote": "שֶׁהָלְכוּ בָּזֶה אַחַר טַעַם הַפְּרִי"
+    }
+   },
+   {
+    "term": "Burying turnips and radishes beneath a vine",
+    "explanation": "If one buries turnips and radishes to keep them, not in the way of planting, the mishnah says one need not fear kilayim. Bartenura says he has made known that he does not want them to take root.",
+    "mishnah": 9,
+    "anchors": [
+     "הטומן לפת וצנונות תחת הגפן"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 1:9:1",
+     "quote": "גַּלֵּי דַעְתֵּיהּ שֶׁאֵינוֹ רוֹצֶה בְּהַשְׁרָשָׁתָן"
+    }
+   },
+   {
+    "term": "Kilayim of animals",
+    "explanation": "Mishnah 6 lists pairs of animals that are kilayim though similar. Melekhet Shelomoh notes that kilayim of animals covers both leading together and breeding.",
+    "mishnah": 6,
+    "anchors": [
+     "הזאב והכלב"
+    ],
+    "source": {
+     "name": "Melekhet Shelomoh",
+     "ref": "Melekhet Shelomoh on Mishnah Kilayim 1:6:1",
+     "quote": "אחד כלאים דהנהגה ואחד כלאים דהרבעה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why are wheat and zunin taught as a pair of their own?",
+    "pasuk": {
+     "text": "הַחִטִּים וְהַזּוּנִין אֵינָן כִּלְאַיִם זֶה בָזֶה",
+     "ref": "Mishnah Kilayim 1:1",
+     "label": "Mishnah Kilayim 1:1"
+    },
+    "question": "The whole mishnah teaches its species in pairs, so why does it single out wheat and zunin at the start, as if they needed their own statement?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 1:1:2",
+      "era": "acharon",
+      "quote": "הקשה הרש\"ש ז\"ל כיון דכולה מתני' זוגי זוגי קתני"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Melekhet Shelomoh says the mishnah teaches wheat and zunin as a separate clause because it is needed in itself, so that no one errs.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 1:1:2",
+        "quote": "תנא גבי חטין וזונין בבא בפ\"ע ולגופיה אצטריך לאשמעי' דלא תטעה"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura gives a reason that zunin are not kilayim with wheat, but are with other grains: after the generation of the Flood corrupted its ways, the earth too began to bring forth zunin from sown wheat.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 1:1:2",
+        "quote": "לְפִי שֶׁכְּשֶׁהִשְׁחִיתוּ דּוֹר הַמַּבּוּל אֶת דַּרְכָּם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why zunin, though a weed-like grain, still needs its own statement.",
+    "mishnah": 1,
+    "anchors": [
+     "הַחִטִּים וְהַזּוּנִין אֵינָן כִּלְאַיִם זֶה בָזֶה"
+    ]
+   },
+   {
+    "title": "Kusmin and shipon: one kind or two?",
+    "pasuk": {
+     "text": "הַכֻּסְּמִין וְהַשִּׁיפוֹן, הַפּוֹל וְהַסַּפִּיר",
+     "ref": "Mishnah Kilayim 1:1",
+     "label": "Mishnah Kilayim 1:1"
+    },
+    "question": "Elsewhere (Menachot) kusmin are called a kind of wheat, and shipon a kind of barley. How, then, can this mishnah say that wheat, kusmin, barley and shipon pair off one with the other as kilayim?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Kilayim 1:1:1",
+      "era": "rishon",
+      "quote": "ותימה דבמנחות פרק רבי ישמעאל (מנחות דף ע.) תנא כוסמין מין חטים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rash MiShantz says the Menachot statement must be taken as speaking of the law of challah.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Kilayim 1:1:1",
+        "quote": "וצריך לומר דלענין חלה מיתני'"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura likewise says that the statement of Menachot is said regarding challah, where they combine to make up the shiur challah, while for kilayim they are kilayim one with the other.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 1:1:3",
+        "quote": "הַנֵּי מִילֵי לְעִנְיַן חַלָּה שֶׁמִּצְטָרְפִין זֶה עִם זֶה לְשִׁעוּר חַלָּה"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the boundary between the law of kilayim and the other laws that group these grains together.",
+    "mishnah": 1,
+    "anchors": [
+     "הַכֻּסְּמִין וְהַשִּׁיפוֹן, הַפּוֹל וְהַסַּפִּיר"
+    ]
+   },
+   {
+    "title": "Radish and cabbage turnip: what makes two plants one kind?",
+    "pasuk": {
+     "text": "הַצְּנוֹן וְהַנָּפוּץ, הַחַרְדָּל וְהַלַּפְסָן",
+     "ref": "Mishnah Kilayim 1:5",
+     "label": "Mishnah Kilayim 1:5"
+    },
+    "question": "Radish and nafuts look alike, yet the mishnah makes them kilayim, while turnip and nafuts (mishnah 3) are not kilayim. By what test is kilayim decided: the leaves, the fruit, or the taste?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 1:5:1",
+      "era": "acharon",
+      "quote": "דמקשה והרי צנון ונפוץ עליו דומים ואת אמרת כלאים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: they went in this case by the taste of the fruit.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 1:5:1",
+        "quote": "שֶׁהָלְכוּ בָּזֶה אַחַר טַעַם הַפְּרִי"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov, quoting the Rambam: since the taste of one fruit is very far from the taste of the other.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 1:5:1",
+        "quote": "הואיל וטעם פרי זה רחוק מטעם פרי זה ביותר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the measure used throughout the perek for telling similar species apart.",
+    "mishnah": 5,
+    "anchors": [
+     "הַצְּנוֹן וְהַנָּפוּץ, הַחַרְדָּל וְהַלַּפְסָן"
+    ]
+   },
+   {
+    "title": "Why does the Gemara ask about grafting vegetables, if our mishnah forbids it?",
+    "pasuk": {
+     "text": "אֵין מְבִיאִין אִילָן בְּאִילָן, יָרָק בְּיָרָק",
+     "ref": "Mishnah Kilayim 1:7",
+     "label": "Mishnah Kilayim 1:7"
+    },
+    "question": "Our mishnah says outright that one may not graft a vegetable on a vegetable. Why then does the Gemara (Chullin) ask what the law is for someone who grafts two kinds of vegetables?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Kilayim 1:7:1",
+      "era": "rishon",
+      "quote": "וירק בירק תימה בפרק ואלו טרפות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rash MiShantz: the doubt is in respect of outside Israel, where kilayim of seeds is permitted.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Kilayim 1:7:1",
+        "quote": "ויש לומר דמיבעיא ליה בחוצה לארץ דשרי כלאי זרעים"
+       }
+      ]
+     }
+    ],
+    "why": "It reconciles our mishnah with a question that seems to ignore it.",
+    "mishnah": 7,
+    "anchors": [
+     "אֵין מְבִיאִין אִילָן בְּאִילָן, יָרָק בְּיָרָק"
+    ]
+   },
+   {
+    "title": "Why bring the Targum for the word kedah?",
+    "pasuk": {
+     "text": "אֵין מַרְכִּיבִין פֵּיגָם עַל גַּבֵּי קִדָּה לְבָנָה",
+     "ref": "Mishnah Kilayim 1:8",
+     "label": "Mishnah Kilayim 1:8"
+    },
+    "question": "Why was it necessary for Bartenura to bring the Targum and the verse in Psalms to identify the word kedah?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Kilayim 1:8:1",
+      "era": "acharon",
+      "quote": "ולכאורה קשה למאי נצרך להביא מהתרגום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rashash proposes his own reason for it.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Kilayim 1:8:1",
+        "quote": "ואולי משום די\"ל דבשמים ראש לא קאי עלה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the identification of the plant rests on a source, not just a guess.",
+    "mishnah": 8,
+    "anchors": [
+     "אֵין מַרְכִּיבִין פֵּיגָם עַל גַּבֵּי קִדָּה לְבָנָה"
+    ]
+   },
+   {
+    "title": "Why must one sow two species for it to be kilayim?",
+    "pasuk": {
+     "text": "הַזּוֹרֵעַ חִטָּה וּשְׂעוֹרָה כְּאַחַת, הֲרֵי זֶה כִלְאָיִם",
+     "ref": "Mishnah Kilayim 1:9",
+     "label": "Mishnah Kilayim 1:9"
+    },
+    "question": "The mishnah says that sowing wheat and barley together is kilayim, and Rabbi Judah requires more. Why does the Torah's prohibition need two species? Since in animals, 'Do not breed your animal with kilayim' is said without requiring two kinds.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 1:9:7",
+      "era": "acharon",
+      "quote": "הקשה על זה דאשכחן…בהמתך לא תרביע כלאים ולא אמרינן שני מינין בבהמתך"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 1:9:2",
+      "era": "acharon",
+      "quote": "ועדיין קשה לר' יהודה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: if one kind alone made kilayim in a field, there would be nothing left one could sow in one's field.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 1:9:7",
+        "quote": "בשדה כי תימא דחד מינא עושה כלאים אם כן אין לך דבר שתוכל לזרוע בשדך"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura on Rabbi Judah: he holds that land without seed is not called a field.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 1:9:6",
+        "quote": "וְסָבַר דְּקַרְקַע בְּלֹא זֶרַע לֹא אִקְּרֵי שָׂדֶה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Rishonim and Acharonim read the verse behind Rabbi Judah's view.",
+    "mishnah": 9,
+    "anchors": [
+     "הַזּוֹרֵעַ חִטָּה וּשְׂעוֹרָה כְּאַחַת, הֲרֵי זֶה כִלְאָיִם"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Melekhet Shelomoh",
+   "Bartenura",
+   "Rash MiShantz",
+   "Tosafot Yom Tov",
+   "Rashash",
+   "Tosafot Rabbi Akiva Eiger",
+   "Rambam"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מונה זוגות של תבואות וקטניות, כגון חטים וזונין, שעורים ושבולת שועל, כוסמין ושיפון, שאינם כלאים זה בזה. משניות ב-ג מביאות זוגות של ירקות: קישות ומלפפון (שרבי יהודה אומר שהם כלאים), חזרת וחזרת גלים, לפת ונפוץ, ורבי עקיבא מוסיף שום, בצל ותרמוס. משניות ד-ה עוברות לאילנות ולירקות הדומים זה לזה ובכל זאת כלאים, כגון תפוח וחזרד, פרסקים ושקדים, צנון ונפוץ. משנה ו מונה זוגות של בהמות וחיות שאף על פי שדומות זו לזו הן כלאים, מן הזאב והכלב ועד החמור והערוד. משניות ז-ח אוסרות להביא אילן באילן, ירק בירק, ואילן בירק, ורבי יהודה מתיר ירק באילן, ומביאות דוגמאות. משנה ט אומרת שהטומן לפת וצנונות תחת הגפן ומקצת עליו מגולין אינו חושש משום כלאים, וקובעת מתי הזורע חטה ושעורה כאחת הוא כלאים לדעת התנא הראשון ולדעת רבי יהודה.",
+  "topics": [
+   {
+    "term": "כלאי זרעים",
+    "explanation": "המשנה מלמדת אילו זוגות של מינים אינם כלאים כשזורעים אותם יחד ואילו כן. הרמב\"ם מציין שמקור הדין בפסוק \"שדך לא תזרע כלאים\".",
+    "mishnah": 9,
+    "anchors": [
+     "הזורע חטה ושעורה כאחת"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 1:9:1",
+     "quote": "שדך לא תזרע כלאים"
+    }
+   },
+   {
+    "term": "זונין",
+    "explanation": "הזונין הם תבואה שהמשנה מזווגת עם החיטים ואומרת שאינה כלאים עמהן. הרמב\"ם מתאר אותם כמין מן החיטה שמשתנה בארץ.",
+    "mishnah": 1,
+    "anchors": [
+     "והזונין"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 1:1:1",
+     "quote": "מין ממיני החטה וישתנה בארץ בתבניתו וטבעו"
+    }
+   },
+   {
+    "term": "הרכבה באילנות וירקות",
+    "explanation": "המשנה אוסרת להביא אילן באילן, וירק בירק, וכן הלאה. הרמב\"ם מוסיף שהדבר נאמר כשהמינים שונים, ושאין הלכה כרבי יהודה.",
+    "mishnah": 7,
+    "anchors": [
+     "אין מביאין אילן באילן"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 1:7:1",
+     "quote": "אין מרכיבין אילן באילן כשישתנו המינין"
+    }
+   },
+   {
+    "term": "מינים דומים וטעם הפרי",
+    "explanation": "יש מינים הדומים זה לזה, ובכל זאת המשנה אוסרת אותם בכלאים. ברטנורא אומר שבצנון ובנפוץ הלכו אחר טעם הפרי.",
+    "mishnah": 5,
+    "anchors": [
+     "אף על פי שדומין זה לזה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 1:5:1",
+     "quote": "שֶׁהָלְכוּ בָּזֶה אַחַר טַעַם הַפְּרִי"
+    }
+   },
+   {
+    "term": "טמינת לפת וצנונות תחת הגפן",
+    "explanation": "הטומן לפת וצנונות כדי לשמרם, שלא כדרך שתילה, אינו חושש משום כלאים. ברטנורא אומר שגילה דעתו שאינו רוצה בהשרשתן.",
+    "mishnah": 9,
+    "anchors": [
+     "הטומן לפת וצנונות תחת הגפן"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 1:9:1",
+     "quote": "גַּלֵּי דַעְתֵּיהּ שֶׁאֵינוֹ רוֹצֶה בְּהַשְׁרָשָׁתָן"
+    }
+   },
+   {
+    "term": "כלאי בהמה",
+    "explanation": "משנה ו מונה זוגות בהמות שהן כלאים אף שדומות זו לזו. מלאכת שלמה מציין שכלאי בהמה כוללים הנהגה והרבעה.",
+    "mishnah": 6,
+    "anchors": [
+     "הזאב והכלב"
+    ],
+    "source": {
+     "name": "מלאכת שלמה",
+     "ref": "Melekhet Shelomoh on Mishnah Kilayim 1:6:1",
+     "quote": "אחד כלאים דהנהגה ואחד כלאים דהרבעה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "למה החיטים והזונין שנויים כזוג בפני עצמו?",
+    "pasuk": {
+     "text": "הַחִטִּים וְהַזּוּנִין אֵינָן כִּלְאַיִם זֶה בָזֶה",
+     "ref": "Mishnah Kilayim 1:1",
+     "label": "משנה כלאים א, א"
+    },
+    "question": "כל המשנה שונה את המינים זוגות זוגות, ואם כן למה נשנו החיטים והזונין בראש כאילו הם צריכים הלכה לעצמם?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 1:1:2",
+      "era": "acharon",
+      "quote": "הקשה הרש\"ש ז\"ל כיון דכולה מתני' זוגי זוגי קתני"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מלאכת שלמה: נשנתה בבא בפני עצמה מפני שהיא נצרכת לגופה, כדי שלא יטעה אדם.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 1:1:2",
+        "quote": "תנא גבי חטין וזונין בבא בפ\"ע ולגופיה אצטריך לאשמעי' דלא תטעה"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא נותן טעם לכך שהזונין אינם כלאים עם החיטים אך הם כלאים עם שאר התבואות: משהשחיתו דור המבול את דרכם, גם הארץ הוציאה זונין מן החיטים הנזרעות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 1:1:2",
+        "quote": "לְפִי שֶׁכְּשֶׁהִשְׁחִיתוּ דּוֹר הַמַּבּוּל אֶת דַּרְכָּם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה למה צריכה הלכה לעצמה גם בזונין.",
+    "mishnah": 1,
+    "anchors": [
+     "הַחִטִּים וְהַזּוּנִין אֵינָן כִּלְאַיִם זֶה בָזֶה"
+    ]
+   },
+   {
+    "title": "כוסמין ושיפון: מין אחד או שנים?",
+    "pasuk": {
+     "text": "הַכֻּסְּמִין וְהַשִּׁיפוֹן, הַפּוֹל וְהַסַּפִּיר",
+     "ref": "Mishnah Kilayim 1:1",
+     "label": "משנה כלאים א, א"
+    },
+    "question": "במנחות נאמר שכוסמין מין חיטים ושיפון מין שעורים, ואם כן איך המשנה כאן מזווגת אותם כמינים נפרדים לענין כלאים?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Kilayim 1:1:1",
+      "era": "rishon",
+      "quote": "ותימה דבמנחות פרק רבי ישמעאל (מנחות דף ע.) תנא כוסמין מין חטים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש משנץ: צריך לומר שמימרת מנחות נאמרה לענין חלה.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Kilayim 1:1:1",
+        "quote": "וצריך לומר דלענין חלה מיתני'"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: מה שנאמר במנחות נאמר לענין חלה שמצטרפים לשיעור חלה, אבל לענין כלאים הם כלאים זה בזה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 1:1:3",
+        "quote": "הַנֵּי מִילֵי לְעִנְיַן חַלָּה שֶׁמִּצְטָרְפִין זֶה עִם זֶה לְשִׁעוּר חַלָּה"
+       }
+      ]
+     }
+    ],
+    "why": "מגדיר את הגבול בין דין כלאים לדינים אחרים שבהם מצרפים את התבואות.",
+    "mishnah": 1,
+    "anchors": [
+     "הַכֻּסְּמִין וְהַשִּׁיפוֹן, הַפּוֹל וְהַסַּפִּיר"
+    ]
+   },
+   {
+    "title": "צנון ונפוץ: מה עושה שני צמחים למין אחד?",
+    "pasuk": {
+     "text": "הַצְּנוֹן וְהַנָּפוּץ, הַחַרְדָּל וְהַלַּפְסָן",
+     "ref": "Mishnah Kilayim 1:5",
+     "label": "משנה כלאים א, ה"
+    },
+    "question": "הצנון והנפוץ דומים, ובכל זאת המשנה אוסרת אותם בכלאים, ואילו הלפת והנפוץ (משנה ג) אינם כלאים. לפי איזה מבחן נקבעים כלאים: העלים, הפרי או הטעם?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 1:5:1",
+      "era": "acharon",
+      "quote": "דמקשה והרי צנון ונפוץ עליו דומים ואת אמרת כלאים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: הלכו בזה אחר טעם הפרי.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 1:5:1",
+        "quote": "שֶׁהָלְכוּ בָּזֶה אַחַר טַעַם הַפְּרִי"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב, בשם הרמב\"ם: הואיל וטעם פרי זה רחוק מטעם פרי זה ביותר.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 1:5:1",
+        "quote": "הואיל וטעם פרי זה רחוק מטעם פרי זה ביותר"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את המדד שבו נבדלים מינים דומים בכל הפרק.",
+    "mishnah": 5,
+    "anchors": [
+     "הַצְּנוֹן וְהַנָּפוּץ, הַחַרְדָּל וְהַלַּפְסָן"
+    ]
+   },
+   {
+    "title": "למה הגמרא מסתפקת בהרכבת ירק אם המשנה כבר אסרה?",
+    "pasuk": {
+     "text": "אֵין מְבִיאִין אִילָן בְּאִילָן, יָרָק בְּיָרָק",
+     "ref": "Mishnah Kilayim 1:7",
+     "label": "משנה כלאים א, ז"
+    },
+    "question": "המשנה אומרת במפורש שאין מביאין ירק בירק, אז למה בגמרא (חולין) מסתפקים מה הדין בהרכיב שני מיני דשאים?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Kilayim 1:7:1",
+      "era": "rishon",
+      "quote": "וירק בירק תימה בפרק ואלו טרפות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש משנץ: הספק הוא בחוץ לארץ, ששם מותרים כלאי זרעים.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Kilayim 1:7:1",
+        "quote": "ויש לומר דמיבעיא ליה בחוצה לארץ דשרי כלאי זרעים"
+       }
+      ]
+     }
+    ],
+    "why": "מיישב את המשנה עם ספק שנראה כמתעלם ממנה.",
+    "mishnah": 7,
+    "anchors": [
+     "אֵין מְבִיאִין אִילָן בְּאִילָן, יָרָק בְּיָרָק"
+    ]
+   },
+   {
+    "title": "למה מביא הברטנורא את התרגום על קדה?",
+    "pasuk": {
+     "text": "אֵין מַרְכִּיבִין פֵּיגָם עַל גַּבֵּי קִדָּה לְבָנָה",
+     "ref": "Mishnah Kilayim 1:8",
+     "label": "משנה כלאים א, ח"
+    },
+    "question": "למה היה צריך הרע\"ב להביא את התרגום ואת הפסוק בתהלים כדי לפרש את המילה קדה?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Kilayim 1:8:1",
+      "era": "acharon",
+      "quote": "ולכאורה קשה למאי נצרך להביא מהתרגום"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרש\"ש מציע טעם משלו לכך.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Kilayim 1:8:1",
+        "quote": "ואולי משום די\"ל דבשמים ראש לא קאי עלה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שזיהוי הצמח נשען על מקור.",
+    "mishnah": 8,
+    "anchors": [
+     "אֵין מַרְכִּיבִין פֵּיגָם עַל גַּבֵּי קִדָּה לְבָנָה"
+    ]
+   },
+   {
+    "title": "למה צריך לזרוע שני מינים כדי שיהיה כלאים?",
+    "pasuk": {
+     "text": "הַזּוֹרֵעַ חִטָּה וּשְׂעוֹרָה כְּאַחַת, הֲרֵי זֶה כִלְאָיִם",
+     "ref": "Mishnah Kilayim 1:9",
+     "label": "משנה כלאים א, ט"
+    },
+    "question": "המשנה אומרת שהזורע חטה ושעורה כאחת הרי זה כלאים, ורבי יהודה מצריך יותר. למה האיסור בזרעים צריך שני מינים, והרי בבהמה נאמר \"בהמתך לא תרביע כלאים\" בלא תנאי כזה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 1:9:7",
+      "era": "acharon",
+      "quote": "הקשה על זה דאשכחן…בהמתך לא תרביע כלאים ולא אמרינן שני מינין בבהמתך"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 1:9:2",
+      "era": "acharon",
+      "quote": "ועדיין קשה לר' יהודה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: אילו מין אחד לבדו עושה כלאים בשדה, לא היה דבר שאפשר לזרוע בשדך.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 1:9:7",
+        "quote": "בשדה כי תימא דחד מינא עושה כלאים אם כן אין לך דבר שתוכל לזרוע בשדך"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא בדעת רבי יהודה: סבור שקרקע בלא זרע אינה נקראת שדה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 1:9:6",
+        "quote": "וְסָבַר דְּקַרְקַע בְּלֹא זֶרַע לֹא אִקְּרֵי שָׂדֶה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך קוראים הראשונים והאחרונים את הפסוק שביסוד דעת רבי יהודה.",
+    "mishnah": 9,
+    "anchors": [
+     "הַזּוֹרֵעַ חִטָּה וּשְׂעוֹרָה כְּאַחַת, הֲרֵי זֶה כִלְאָיִם"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "מלאכת שלמה",
+   "ברטנורא",
+   "רש משנץ",
+   "תוספות יום טוב",
+   "רש\"ש",
+   "תוספות רבי עקיבא איגר",
+   "רמב\"ם"
+  ]
+ }
+}
