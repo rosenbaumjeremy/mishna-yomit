@@ -1,0 +1,1140 @@
+{
+ "date": "2026-11-02",
+ "hebrew_date": {
+  "hebrew": "כ״ב בְּחֶשְׁוָן תשפ״ז",
+  "english": "22 Cheshvan 5787"
+ },
+ "masechet": "kilayim",
+ "perek": 2,
+ "ref": "Mishnah Kilayim 2",
+ "mishnayot": [
+  {
+   "he": "כָּל סְאָה שֶׁיֶּשׁ בּוֹ רֹבַע מִמִּין אַחֵר, יְמַעֵט. רַבִּי יוֹסֵי אוֹמֵר, יָבֹר. בֵּין מִמִּין אֶחָד בֵּין מִשְּׁנֵי מִינִין. רַבִּי שִׁמְעוֹן אוֹמֵר, לֹא אָמְרוּ אֶלָּא מִמִּין אֶחָד. וַחֲכָמִים אוֹמְרִים, כָּל שֶׁהוּא כִלְאַיִם בַּסְּאָה מִצְטָרֵף לְרֹבַע: \n",
+   "en": "Any seah which contains a quarter [of a kav] of a different species, one should reduce [its proportion of the latter] Rabbi Yose says: one should pick [it all out]. Whether it consists of one species or of two species. Rabbi Shimon says: they said this only if it consists of one species. But the sages say: anything which is kilayim, in a seah [it adds up] in making up the quarter."
+  },
+  {
+   "he": "בַּמֶּה דְבָרִים אֲמוּרִים. תְּבוּאָה בִתְבוּאָה וְקִטְנִית בְּקִטְנִית, תְּבוּאָה בְקִטְנִית וְקִטְנִית בִּתְבוּאָה. בֶּאֱמֶת אָמְרוּ, זֵרְעוֹנֵי גִנָּה שֶׁאֵינָן נֶאֱכָלִין, מִצְטָרְפִין אֶחָד מֵעֶשְׂרִים וְאַרְבַּע בְּנוֹפֵל לְבֵית סְאָה. רַבִּי שִׁמְעוֹן אוֹמֵר, כְּשֵׁם שֶׁאָמְרוּ לְהַחְמִיר כָּךְ אָמְרוּ לְהָקֵל, הַפִּשְׁתָּן בַּתְּבוּאָה מִצְטָרֶפֶת אֶחָד מֵעֶשְׂרִים וְאַרְבַּע בְּנוֹפֵל לְבֵית סְאָה: \n",
+   "en": "To what does this refer? To [an mixture of] grain [occurring] with [different] grain, or pulse with [different] pulse, to grain with pulse, and to pulse with grain. However they stated: Seeds from a garden which are not eaten, they add up [with other seeds to form an amount sufficient to prohibit the sowing of a seah] when there is 1/24 of the quantity [of such seed] that is necessary to sow a bet seah. Rabbi Shimon says: just as they ruled to be stringent so too they ruled to be lenient flax [mixed in with] produce, combines when there is 1/24 of the quantity [of such seed] that is necessary to sow a bet seah."
+  },
+  {
+   "he": "הָיְתָה שָׂדֵהוּ זְרוּעָה חִטִּים וְנִמְלַךְ לְזָרְעָהּ שְׂעוֹרִים, יַמְתִּין לָהּ עַד שֶׁתַּתְלִיעַ, וְיוֹפַךְ, וְאַחַר כָּךְ יִזְרַע. אִם צִמְּחָה, לֹא יֹאמַר אֶזְרַע וְאַחַר כָּךְ אוֹפָךְ, אֶלָּא הוֹפֵךְ וְאַחַר כָּךְ זוֹרֵעַ. כַּמָּה יְהֵא חוֹרֵשׁ, כְּתַלְמֵי הָרְבִיעָה. אַבָּא שָׁאוּל אוֹמֵר, כְּדֵי שֶׁלֹּא יְשַׁיֵּר רֹבַע לְבֵית סְאָה: \n",
+   "en": "If one’s field was sown with wheat, and he changed his mind and decided to sow it with barley, he must wait until it [the wheat] rots. He turns [the soil] and then he may sow [the barley], if it [the wheat] had already grown. He should not say: “I shall [first] sow [the barley] and, then turn [the soil]” rather he must first turn [the soil] and then sow. How much must he plow [when overturning the soil]? Like the furrows [that are plowed after the [first] rainy season. Abba Shaul says: [one should plow] so that one does not leave [unplowed] as much [ground] as holds a quarter [kav] to a bet seah."
+  },
+  {
+   "he": "זְרוּעָה וְנִמְלַךְ לְנָטְעָהּ, לֹא יֹאמַר אֶטַּע וְאַחַר כָּךְ אוֹפָךְ, אֶלָּא הוֹפֵךְ וְאַחַר כָּךְ נוֹטֵעַ. נְטוּעָה וְנִמְלַךְ לְזָרְעָהּ, לֹא יֹאמַר אֶזְרַע וְאַחַר כָּךְ אֲשָׁרֵשׁ, אֶלָּא מְשָׁרֵשׁ וְאַחַר כָּךְ זוֹרֵעַ. אִם רָצָה, גּוֹמֵם עַד פָּחוֹת מִטֶּפַח, זוֹרֵעַ, וְאַחַר כָּךְ מְשָׁרֵשׁ: \n",
+   "en": "[His field was] sown [with grain, or pulse, or garden-seed], and he changed his mind and decided to plant it [with vines], he may not say: “First I shall plant [the vines] and then turn [the soil],” but he must [first] turn [the soil] and then he may plant [the vines]. [If it was] ‘planted’ [with vines] and he changed his mind and decided to seed [with grain, pulse or garden-seed], he may not say: “First I shall sow [the grain etc.] and then I uproot [the vines],” but he must [first] uproot [the vines] and then he may sow [the grain etc.] If he wants, he may cut down [the vines] to less than a handbreadth [above ground], and then he may sow [the grain] and later, he uproots [the vines]."
+  },
+  {
+   "he": "הָיְתָה שָׂדֵהוּ זְרוּעָה קַנְבּוֹס אוֹ לוּף, לֹא יְהֵא זוֹרֵעַ וּבָא עַל גַּבֵּיהֶם, שֶׁאֵינָן עוֹשִׂין אֶלָּא לִשְׁלֹשָׁה שָׁנִים. תְּבוּאָה שֶׁעָלָה בָהּ סְפִיחֵי אִסְטִיס, וְכֵן מְקוֹם הַגְּרָנוֹת שֶׁעָלוּ בָהֶן מִינִין הַרְבֵּה, וְכֵן תִּלְתָּן שֶׁהֶעֱלָה מִינֵי צְמָחִים, אֵין מְחַיְּבִין אוֹתוֹ לְנַכֵּשׁ. אִם נִכֵּשׁ אוֹ כִסַּח, אוֹמְרִים לוֹ, עֲקֹר אֶת הַכֹּל חוּץ מִמִּין אֶחָד: \n",
+   "en": "His field was sown cumin or with arum, he must not sow on top of them, since they produce crops only after three years. [A field of] grain among which sprang up some aftergrowth woad, alternatively an area of threshing-floors in which many species sprang up, alternatively [a field of] clover among which grew up a number of species of herbs, he is not obliged to weed them out. But if he weeded or cut down the weeds, they say to him: “Uproot it all, except for one species.”"
+  },
+  {
+   "he": "הָרוֹצֶה לַעֲשׂוֹת שָׂדֵהוּ מֵשָׁר מֵשָׁר מִכָּל מִין, בֵּית שַׁמַּאי אוֹמְרִים, שְׁלֹשָׁה תְלָמִים שֶׁל פָּתִיחַ. וּבֵית הִלֵּל אוֹמְרִים, מְלֹא הָעֹל הַשָּׁרוֹנִי. וּקְרוֹבִין דִּבְרֵי אֵלּוּ לִהְיוֹת כְּדִבְרֵי אֵלּוּ: \n",
+   "en": "One who wants to lay out his field in long straight rows each sown with a different species:Bet Shammai says: three furrows of newly broken land. But Bet Hillel says: the width of a Sharon yoke. And the words of these are close to the words of these."
+  },
+  {
+   "he": "הָיָה רֹאשׁ תּוֹר חִטִּים נִכְנָס בְּתוֹךְ שֶׁל שְׂעוֹרִים, מֻתָּר, מִפְּנֵי שֶׁהוּא נִרְאֶה כְּסוֹף שָׂדֵהוּ. שֶׁלּוֹ חִטִּים וְשֶׁל חֲבֵרוֹ מִין אַחֵר, מֻתָּר לִסְמֹךְ לוֹ מֵאוֹתוֹ הַמִּין. שֶׁלּוֹ חִטִּים וְשֶׁל חֲבֵרוֹ חִטִּים, מֻתָּר לִסְמֹךְ לוֹ תֶּלֶם שֶׁל פִּשְׁתָּן, וְלֹא תֶלֶם שֶׁל מִין אַחֵר. רַבִּי שִׁמְעוֹן אוֹמֵר, אֶחָד זֶרַע פִּשְׁתָּן וְאֶחָד כָּל הַמִּינִין. רַבִּי יוֹסֵי אוֹמֵר, אַף בְּאֶמְצַע שָׂדֵהוּ מֻתָּר לִבְדֹּק בְּתֶלֶם שֶׁל פִּשְׁתָּן: \n",
+   "en": "If the point of an angle of a wheat [field] overlaps into a barley [field], it is permitted because it looks like the end of his field. If his [field] is of wheat, and his neighbor’s is of another species, he may sow [next to the border] some of the same species [as that of his neighbor]. If his field was of wheat and that of his neighbor’s was of wheat, he may sow next to him a row of flax, but not a row of any other species. Rabbi Shimon says: it is all the same whether he sows flax or any other species. Rabbi Yose said: even in the middle of one's field it is permitted to check one’s field with a row of flax."
+  },
+  {
+   "he": "אֵין סוֹמְכִין לִשְׂדֵה תְבוּאָה חַרְדָּל וְחָרִיעַ, אֲבָל סוֹמְכִין לִשְׂדֵה יְרָקוֹת חַרְדָּל וְחָרִיעַ. וְסוֹמֵךְ לְבוּר, וּלְנִיר, וּלְגָפָה, וּלְדֶרֶךְ, וּלְגָדֵר גָּבוֹהַּ עֲשָׂרָה טְפָחִים, וּלְחָרִיץ שֶׁהוּא עָמֹק עֲשָׂרָה וְרָחָב אַרְבָּעָה, וּלְאִילָן שֶׁהוּא מֵסֵךְ עַל הָאָרֶץ, וּלְסֶלַע גָּבוֹהַּ עֲשָׂרָה וְרָחָב אַרְבָּעָה: \n",
+   "en": "They may not sow mustard or safflower close to a field of grain, but they may sow mustard or safflower close to a vegetable field. And they may sow close to fallow land or to plowed land, or to a wall made with loose stones, or to a path, or to a fence ten handbreadths high, or to a trench ten [handbreadths] deep and four wide, or to a tree forming a tent over the ground, or to a rock ten [handbreadths] high and four wide."
+  },
+  {
+   "he": "הָרוֹצֶה לַעֲשׂוֹת שָׂדֵהוּ קָרַחַת קָרַחַת מִכָּל מִין, עוֹשֶׂה עֶשְׂרִים וְאַרְבַּע קָרָחוֹת לְבֵית סְאָה, מִקָּרַחַת לְבֵית רֹבַע, וְזוֹרֵעַ בְּתוֹכָהּ כָּל מִין שֶׁיִּרְצֶה. הָיְתָה קָרַחַת אַחַת אוֹ שְׁתַּיִם, זוֹרְעָם חַרְדָּל. שָׁלֹשׁ, לֹא יִזְרַע חַרְדָּל, מִפְּנֵי שֶׁהִיא נִרְאֵית כִּשְׂדֵה חַרְדָּל, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, תֵּשַׁע קָרָחוֹת מֻתָּרוֹת, עֶשֶׂר אֲסוּרוֹת. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, אֲפִלּוּ כָל שָׂדֵהוּ בֵּית כּוֹר, לֹא יַעֲשֶׂה בְתוֹכָהּ חוּץ מִקָּרַחַת אַחַת: \n",
+   "en": "One who wishes to make his field into square plots [each sown] with a different species, he should divide it into twenty-four square plots for a bet seah, a square plot per bet rova, and he may then sow in each whatever species he wants. If there is one square plot or two [inside his field], he may sow them with mustard, but if there are three he may not sow them with mustard, since it looks like a field of mustard, the words of Rabbi Meir. But the sages say: nine square plots are permitted, ten are forbidden. Rabbi Eliezer ben Yaakov says: even though the whole of his field is a bet-kor, he may not make within it more than one square plot."
+  },
+  {
+   "he": "כָּל שֶׁהוּא בְתוֹךְ בֵּית רֹבַע, עוֹלֶה בְמִדַּת בֵּית רֹבַע. אֲכִילַת הַגֶּפֶן וְהַקֶּבֶר וְהַסֶּלַע, עוֹלִין בְּמִדַּת בֵּית רֹבַע. תְּבוּאָה בִתְבוּאָה, בֵּית רֹבַע. יָרָק בְּיָרָק, שִׁשָּׁה טְפָחִים. תְּבוּאָה בְיָרָק, יָרָק בִּתְבוּאָה, בֵּית רֹבַע. רַבִּי אֱלִיעֶזֶר אוֹמֵר, יָרָק בִּתְבוּאָה, שִׁשָּׁה טְפָחִים: \n",
+   "en": "Whatever there is within a bet rova [which separates different species] is included in the area of a bet rova: the space which vine roots consume, a grave, a rock, [all] count in the measure of a bet rova. [One who wants to sow one type of] grain [in a field of another type] of grain the measure is a bet rova. Vegetables within [a field of other] vegetables the measure is six handbreadths. Vegetables within [a field of] grain, or grain within [a field of] vegetables the measure is a bet rova. Rabbi Eliezer says: vegetables in [a field of] grain the measure is six handbreadths."
+  },
+  {
+   "he": "תְּבוּאָה נוֹטָה עַל גַּבֵּי תְבוּאָה, וְיָרָק עַל גַּבֵּי יָרָק, תְּבוּאָה עַל גַּבֵּי יָרָק, יָרָק עַל גַּבֵּי תְבוּאָה, הַכֹּל מֻתָּר, חוּץ מִדְּלַעַת יְוָנִית. רַבִּי מֵאִיר אוֹמֵר, אַף הַקִּשּׁוּת וּפוֹל הַמִּצְרִי, וְרוֹאֶה אֲנִי אֶת דִּבְרֵיהֶן מִדְּבָרָי: \n",
+   "en": "Stalks of grain which are leaning over other stalks of grain, or vegetable [plants] on other [] vegetable plants, or stalks of grain over vegetables plants or vegetable plants over stalks of grain, all this is permitted, except in the case of the Greek gourd. Rabbi Meir says: also in the case of the cucumber or Egyptian beans. But I recognize their words [as more acceptable] than mine."
+  }
+ ],
+ "english": {
+  "summary": "Mishnayot 1–2 teach that a seah containing a rova of another species must be reduced, with Rabbi Yose, Rabbi Shimon and the sages disputing how to count, and that small garden seeds combine at one twenty-fourth of the amount sown on a bet seah.\nMishnayot 3–5 say a man who changes his mind must wait for the earlier crop to rot and turn the soil before sowing, and the same for vines. Cumin and arum may not be sown over, and weeds that came up on their own need not be weeded, but one who weeds must uproot all but one species.\nMishnah 6 lays out beds of different species, where Bet Shammai require three furrows of petiach and Bet Hillel the width of the Sharon yoke.\nMishnayot 7–8 deal with a row that enters a neighbor's field, flax as a test row, mustard and safflower near grain, and what separates species: fallow land, a path, a fence, a trench, a tree or a rock.\nMishnah 9 treats square plots, with Rabbi Meir permitting twenty-four to a bet seah, the sages nine, and Rabbi Eliezer ben Yaakov only one.\nMishnayot 10–11 give the measures between species and permit stalks leaning over others, except the Greek gourd and, according to Rabbi Meir, the cucumber and Egyptian beans.",
+  "topics": [
+   {
+    "term": "Rova (a quarter-kav) in a seah, and 'yema'et'",
+    "explanation": "A seah is six kavs, so a rova, one quarter of a kav, is one twenty-fourth of a seah. If a seah of one species contains a rova of another species, the mishnah says one must reduce it. The mefarshim describe reducing as either removing some of the other species or adding to the seah until the other species falls below the rova.",
+    "mishnah": 1,
+    "anchors": [
+     "ימעט"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 2:1:1",
+     "quote": "אסור לו לזרוע אותו הזרע עד שימעט זה הזרע האחר"
+    }
+   },
+   {
+    "term": "Bet seah and 'one twenty-fourth of what falls to a bet seah'",
+    "explanation": "Bet seah is the area in which one seah of wheat is sown, fifty cubits by fifty. For garden seeds that are not eaten, the amount that makes a seah forbidden is one twenty-fourth of the quantity sown over such an area. The mefarshim then work out what this comes to in kavs.",
+    "mishnah": 2,
+    "anchors": [
+     "אחד מעשרים וארבע בנופל לבית סאה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 2:2:2",
+     "quote": "ונופל לבית סאה הוא שיעור הזרע שיזרעו בזה המקום"
+    }
+   },
+   {
+    "term": "Turning over the soil (hafikhah) after a change of mind",
+    "explanation": "A man whose field was sown with wheat and who decides to sow barley must wait until the wheat rots and then turn the soil. Only after that may he sow. The mefarshim explain what the turning is for and how long the wheat takes to rot.",
+    "mishnah": 3,
+    "anchors": [
+     "ימתין לה עד שתתליע"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 2:3:2",
+     "quote": "יהפך הקרקע במחרשה בשביל שלא יצמח הזרע"
+    }
+   },
+   {
+    "term": "Appearing to maintain kilayim (mekayem kilayim)",
+    "explanation": "When weeds of many species grow up on their own, the owner need not weed them. If he does weed or cut some of them, it shows that he wants the rest, so he is told to uproot all but one species. The mefarshim explain this through how it looks to an onlooker.",
+    "mishnah": 5,
+    "anchors": [
+     "עקר את הכל"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 2:5:6",
+     "quote": "מפני שהוא נראה כמקים כלאים"
+    }
+   },
+   {
+    "term": "Mesher and 'three furrows of petiach'",
+    "explanation": "A mesher is a row or bed sown with one species. Bet Shammai require three furrows of petiach between beds of different species, and Bet Hillel require the width of the Sharon yoke. The mefarshim differ on what petiach means and how large the gap is.",
+    "mishnah": 6,
+    "anchors": [
+     "שלשה תלמים של פתיח"
+    ],
+    "source": {
+     "name": "Rash MiShantz",
+     "ref": "Rash MiShantz on Mishnah Kilayim 2:6:2",
+     "quote": "עושה המשר רחב כשיעור ג' תלמים של פתיח"
+    }
+   },
+   {
+    "term": "Kerachat (a square plot)",
+    "explanation": "A kerachat is a square plot sown with one species inside a larger field. Rabbi Meir allows twenty-four of them to a bet seah, one for each bet rova. The sages say only nine are permitted and ten are forbidden.",
+    "mishnah": 9,
+    "anchors": [
+     "עשרים וארבע קרחות לבית סאה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 2:9:1",
+     "quote": "מקום פנוי שאינו זרוע כשהוא מרבע קרוי קרחת"
+    }
+   },
+   {
+    "term": "'The eating of the vine' (akhilat hagefen)",
+    "explanation": "The mishnah says that the area taken up by the vine's 'eating', the grave and the rock count toward the measure of a bet rova. The mefarshim explain what 'eating' means here: the ground the vine's branches take up around it.",
+    "mishnah": 10,
+    "anchors": [
+     "אכילת הגפן"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 2:10:1",
+     "quote": "מה שיתפשטו ענפיו על הארץ"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Bitul of a visible mixture",
+    "pasuk": {
+     "text": "כל סאה שיש בו רבע ממין אחר ימעט",
+     "ref": "Mishnah Kilayim 2:1",
+     "label": "Mishnah Kilayim 2:1"
+    },
+    "question": "How can a minority of another species be 'reduced' or nullified in a seah when the two species are plainly visible, and does nullification by a majority apply here at all?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:1:1",
+      "quote": "ותמיהא לי מילתא דלא שייך ביטול ברוב אלא כשאין ניכרין",
+      "era": "acharon"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Kilayim 2:1:2",
+      "quote": "וק\"ל דהא תרומה ג\"כ מה\"ת בטלה ברובה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Tosafot Yom Tov himself says the Torah forbade only when one wants to sow kilayim, and the sages forbade it for how it looks and set a measure, so reducing part of it suffices.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:1:1",
+        "quote": "שהתורה לא אסרה אלא כשרוצה לזרוע כלאים אבל כשאינו רוצה לא אסרתו התורה אלא שחכמים אסרו מפני מראית העין"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim says this is not a nullification of a forbidden thing, since it concerns a mixture that happened of itself in detached produce.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 2:1:1",
+        "quote": "לאו ביטול איסור הוא… בתלוש עסקינן"
+       }
+      ]
+     },
+     {
+      "text": "The Ikar Tosafot Yom Tov says that by Torah law one in two is nullified, and the sages forbade it because of how it looks.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 2:1:1",
+        "quote": "דדבר תורה חד בתרי בטל אלא דחכמים אסרו מפני מראית העין"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the rule of a rova is a rabbinic measure of appearance, not ordinary nullification.",
+    "mishnah": 1,
+    "anchors": [
+     "כל סאה שיש בו רבע ממין אחר ימעט"
+    ]
+   },
+   {
+    "title": "Cumin and arum 'only after three years'",
+    "pasuk": {
+     "text": "שאינן עושין אלא לשלשה שנים",
+     "ref": "Mishnah Kilayim 2:5",
+     "label": "Mishnah Kilayim 2:5"
+    },
+    "question": "What does the mishnah mean that these species yield only after three years, and why should one not sow over them?",
+    "asked_by": [
+     {
+      "name": "Rambam",
+      "ref": "Rambam on Mishnah Kilayim 2:5:2",
+      "quote": "ואיני יודע היאך אלו עושות לשלש שנים",
+      "era": "rishon"
+     },
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:5:1",
+      "quote": "קשה מאי קאמר בתחלה שאין התלעה מועלת",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says these species stay in the ground three years and do not rot, so rotting and plowing do not help.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 2:5:1",
+        "quote": "לפי שמתקימים בארץ שלש שנים ואינן מתליעין"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says that one may not plow over them until their roots are uprooted.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 2:5:2",
+        "quote": "אין חורשין עליו עד שיעקרו שרשיו"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger reports the Rambam as saying that even though they yield only after three years, one may not sow another species until the roots are uprooted.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 2:5:1",
+        "quote": "אע\"פ שאין עושין עד אחר ג' שנים מ\"מ אסור לזרוע בתוך כך מין אחר"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes what is required before one may sow another species over a perennial.",
+    "mishnah": 5,
+    "anchors": [
+     "שאינן עושין אלא לשלשה שנים"
+    ]
+   },
+   {
+    "title": "Why uproot everything after weeding",
+    "pasuk": {
+     "text": "אם נכש או כסח אומרים לו עקר את הכל חוץ ממין אחד",
+     "ref": "Mishnah Kilayim 2:5",
+     "label": "Mishnah Kilayim 2:5"
+    },
+    "question": "In the first mishnah, after reducing, a man may keep the rest. Why here, once he weeds or cuts, must he uproot everything but one species?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:5:4",
+      "quote": "וקשה דמ\"ש מריש פרקין דאחר שמיעט רשאי לשייר המותר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Tosafot Yom Tov answers by the Tosafot's reading: there the sages obligated him to reduce, and here they did not obligate him at all.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:5:4",
+        "quote": "לפירוש התוספות שכתבתי לא קשיא דהתם חכמים חייבוהו למעט"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura says that now his intention is revealed that he wants the ones left, so it looks like maintaining kilayim.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 2:5:6",
+        "quote": "דהשתא גלי דעתיה דניחא ליה באותם הנשארים"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says that when he cut some and left some, he showed that he wants to keep the rest.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 2:5:5",
+        "quote": "והניח קצת הודיע בזה שרצונו להשאיר הנשאר"
+       }
+      ]
+     }
+    ],
+    "why": "It separates a field the owner is not obliged to clear from one where his act shows he wants it.",
+    "mishnah": 5,
+    "anchors": [
+     "אם נכש או כסח אומרים לו עקר את הכל חוץ ממין אחד"
+    ]
+   },
+   {
+    "title": "The measure of 'petiach'",
+    "pasuk": {
+     "text": "בית שמאי אומרים שלשה תלמים של פתיח",
+     "ref": "Mishnah Kilayim 2:6",
+     "label": "Mishnah Kilayim 2:6"
+    },
+    "question": "What is the measure of 'three furrows of petiach', and if Bet Hillel's measure is larger, why is it not taught among the stringencies of Bet Hillel?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:6:1",
+      "quote": "אך קשה דא\"כ ב\"ה דהכא לחומרא דבעינן שיעורא רבא לכלאים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says the Yerushalmi explains that they are two cubits wide by two cubits long.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 2:6:2",
+        "quote": "ובירושלמי מפרש שהם שתי אמות רחב על שתי אמות ארך"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam explains petiach as the cracks that open in the ground when it rains.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 2:6:1",
+        "quote": "יתבקעו בה בקיעים מתרחבים ונקרא כל בקיע מהם תלם של פתיח"
+       }
+      ]
+     },
+     {
+      "text": "The Tosafot Yom Tov himself says that perhaps this is a smaller measure than Bet Hillel's.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:6:1",
+        "quote": "י\"ל דשיעורא זוטא היא מדב\"ה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how large the gap between species is according to each house.",
+    "mishnah": 6,
+    "anchors": [
+     "בית שמאי אומרים שלשה תלמים של פתיח"
+    ]
+   },
+   {
+    "title": "'Like the end of his field'",
+    "pasuk": {
+     "text": "מפני שהוא נראה כסוף שדהו",
+     "ref": "Mishnah Kilayim 2:7",
+     "label": "Mishnah Kilayim 2:7"
+    },
+    "question": "The wheat tip entering the barley field looks like the end of 'his' field. What does 'like the end' mean, given that the tip lies inside the other field?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:7:3",
+      "quote": "וכ\"ף כסוף צריך ביאור",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Tosafot Yom Tov suggests that since the tip enters the other field, the entry counts as part of the field it came from.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:7:3",
+        "quote": "מדנכנס הראש תור בשדה השנייה נחשבת הכניסה בכלל אותה שדה"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura says it is recognizable that they were not sown mixed together.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 2:7:1",
+        "quote": "ונכר שלא נזרעו בערבוביא"
+       }
+      ]
+     },
+     {
+      "text": "The Rash says that row looks like the end of the wheat field.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Kilayim 2:7:1",
+        "quote": "מפני שאותה שורה נראה כסוף שדה חטין"
+       }
+      ]
+     }
+    ],
+    "why": "It settles which field the protruding row is seen as belonging to.",
+    "mishnah": 7,
+    "anchors": [
+     "מפני שהוא נראה כסוף שדהו"
+    ]
+   },
+   {
+    "title": "A rock: four wide, and worse than a wall?",
+    "pasuk": {
+     "text": "ולסלע גבוה עשרה ורחב ארבעה",
+     "ref": "Mishnah Kilayim 2:8",
+     "label": "Mishnah Kilayim 2:8"
+    },
+    "question": "The Tosafot Yom Tov says a rock needs more than a fence, namely thickness of four. Why would a rock be treated more strictly than a wall?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 2:8:1",
+      "quote": "ומעולם לא שמענו מי שיאמר דסלע גרע",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says the mishnah teaches that even a rock needs a width of four, since less is not called a divider.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 2:8:7",
+        "quote": "אלא לאשמועינן דאפלו סלע בעינן ארבעה רחב"
+       }
+      ]
+     },
+     {
+      "text": "The Ikar Tosafot Yom Tov says that since it was not made as a fence, a fence would suffice at ten high and any width.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 2:8:3",
+        "quote": "הואיל ולא נעשה לשם גדר, שאלו נעשה לשם גדר סגי בגבוה עשרה ורחב כל שהוא"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the minimum a natural barrier needs in order to divide species.",
+    "mishnah": 8,
+    "anchors": [
+     "ולסלע גבוה עשרה ורחב ארבעה"
+    ]
+   },
+   {
+    "title": "Why not thirteen kerachot",
+    "pasuk": {
+     "text": "וחכמים אומרים תשע קרחות מותרות עשר אסורות",
+     "ref": "Mishnah Kilayim 2:9",
+     "label": "Mishnah Kilayim 2:9"
+    },
+    "question": "The sages permit nine plots and forbid ten. Why could one not permit even thirteen, using the first, third and fifth of the first row, the second and fourth of the second, and so on?",
+    "asked_by": [
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 2:9:5",
+      "quote": "תימה אמאי לא יהיו אפלו שלש עשרה מתרות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Lechem Shamayim says that separation does not help unless it is open on one side.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 2:9:1-2",
+        "quote": "דלא מהניא הרחקה עד שיהא פתוח מרוח אחת"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura describes the arrangement: sow the first plot of the first row and leave the neighboring second fallow.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 2:9:7",
+        "quote": "וזורע קרחה ראשונה של שורה ראשונה ומניח שניה שאצלה בורה"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says the plots must be equally distant from each other, and with ten the distance is not equal.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 2:9:2",
+        "quote": "מפני שהמרחק ביניהם אינו שוה"
+       }
+      ]
+     }
+    ],
+    "why": "It explains why the sages' limit is nine and not more.",
+    "mishnah": 9,
+    "anchors": [
+     "וחכמים אומרים תשע קרחות מותרות עשר אסורות"
+    ]
+   },
+   {
+    "title": "Why 'eating' of the vine but not the vine",
+    "pasuk": {
+     "text": "אכילת הגפן והקבר והסלע עולין במדת בית רבע",
+     "ref": "Mishnah Kilayim 2:10",
+     "label": "Mishnah Kilayim 2:10"
+    },
+    "question": "Why does the area the vine 'eats' count toward the bet rova while the vine itself is not counted as a separation?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 2:10:1-4",
+      "quote": "ולא ידעתי פירושו דהיכי קאמר מפני שאסורה בהנאה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Yerushalmi, as the Tosafot Yom Tov brings it, says the vine itself is not counted because it is forbidden to benefit from.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:10:2",
+        "quote": "לא שנו אלא אכילת הגפן הא גפן עצמה לא למה מפני שהיא אסורה בהנייה"
+       }
+      ]
+     },
+     {
+      "text": "The Ikar Tosafot Yom Tov says it is called 'eating' because it looks as if it eats around it.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 2:10:2",
+        "quote": "והא דקרי ליה אכילה לפי שנראית נאכלת סביבותיו"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura says it is what the vine takes and eats around it, meaning its tending area.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 2:10:2",
+        "quote": "מה שהגפן תופסת ואוכלת סביבותיה"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies what in the vine's area counts toward the separation.",
+    "mishnah": 10,
+    "anchors": [
+     "אכילת הגפן והקבר והסלע עולין במדת בית רבע"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Rashash",
+   "Lechem Shamayim",
+   "Ikar Tosafot Yom Tov",
+   "Rambam",
+   "Bartenura",
+   "Tosafot Rabbi Akiva Eiger",
+   "Rash MiShantz"
+  ]
+ },
+ "hebrew": {
+  "summary": "משניות א-ב: סאה שיש בה רובע ממין אחר ימעט, ורבי יוסי, רבי שמעון וחכמים חלוקים בדרך החישוב, וזרעוני גנה קטנים מצטרפים באחד מעשרים וארבעה מן הנופל לבית סאה.\nמשניות ג-ה: מי שנמלך צריך להמתין עד שהזרע הראשון יירקב ולהפוך את הקרקע לפני הזריעה, וכן בגפנים. אין זורעים על קנבוס ולוף, ועשבים שצמחו מעצמם אין חובה לנכש, אך מי שניכש עוקר את הכל חוץ ממין אחד.\nמשנה ו: ערוגות של מינים שונים, ובית שמאי אומרים שלשה תלמים של פתיח ובית הלל מלוא העול השרוני.\nמשניות ז-ח: שורה הנכנסת לשדה חברו, תלם פשתן לבדיקה, חרדל וחריע ליד תבואה, ומה מפסיק בין מינים: בור, דרך, גדר, חריץ, אילן וסלע.\nמשנה ט: קרחות מרובעות, ורבי מאיר מתיר עשרים וארבע לבית סאה, חכמים תשע, ורבי אליעזר בן יעקב רק אחת.\nמשניות י-יא: שיעורי ההרחקה בין מינים, והיתר תבואה וירק הנוטים זה על זה, חוץ מדלעת יוונית ולרבי מאיר גם קישות ופול המצרי.",
+  "topics": [
+   {
+    "term": "רובע בסאה ו'ימעט'",
+    "explanation": "סאה היא ששה קבין, ולכן רובע, רביעית הקב, הוא אחד מעשרים וארבעה בסאה. כשיש בסאה של מין אחד רובע ממין אחר, המשנה אומרת שימעט. המפרשים מתארים את המיעוט כהסרת חלק מהמין האחר, או כהוספה על הסאה עד שהמין האחר יפחת מן הרובע.",
+    "mishnah": 1,
+    "anchors": [
+     "ימעט"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 2:1:1",
+     "quote": "אסור לו לזרוע אותו הזרע עד שימעט זה הזרע האחר"
+    }
+   },
+   {
+    "term": "בית סאה ו'אחד מעשרים וארבע בנופל לבית סאה'",
+    "explanation": "בית סאה הוא השטח שזורעים בו סאה של חיטים, חמשים אמה על חמשים אמה. בזרעוני גנה שאינם נאכלים, השיעור שאוסר את הסאה הוא אחד מעשרים וארבעה מן הכמות שזורעים באותו שטח. המפרשים מחשבים מה פירוש הדבר בקבים.",
+    "mishnah": 2,
+    "anchors": [
+     "אחד מעשרים וארבע בנופל לבית סאה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 2:2:2",
+     "quote": "ונופל לבית סאה הוא שיעור הזרע שיזרעו בזה המקום"
+    }
+   },
+   {
+    "term": "היפוך הקרקע לאחר שנמלך",
+    "explanation": "מי ששדהו זרועה חיטים ונמלך לזרעה שעורים צריך להמתין עד שהחיטים יירקבו, להפוך את הקרקע ורק אחר כך לזרוע. המפרשים מסבירים למה נועד ההיפוך וכמה זמן לוקח להירקבות.",
+    "mishnah": 3,
+    "anchors": [
+     "ימתין לה עד שתתליע"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 2:3:2",
+     "quote": "יהפך הקרקע במחרשה בשביל שלא יצמח הזרע"
+    }
+   },
+   {
+    "term": "נראה כמקיים כלאים",
+    "explanation": "כשצומחים מעצמם עשבים ממינים רבים, אין חובה על בעל השדה לנכש אותם. אם נכש או כסח חלק מהם, הדבר מראה שהוא רוצה בנשארים, ולכן אומרים לו לעקור את הכל חוץ ממין אחד. המפרשים מסבירים זאת מתוך מראית העין.",
+    "mishnah": 5,
+    "anchors": [
+     "עקר את הכל"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 2:5:6",
+     "quote": "מפני שהוא נראה כמקים כלאים"
+    }
+   },
+   {
+    "term": "משר ו'שלשה תלמים של פתיח'",
+    "explanation": "משר הוא ערוגה או שורה הזרועה מין אחד. בית שמאי דורשים שלשה תלמים של פתיח בין ערוגות של מינים שונים, ובית הלל דורשים מלוא העול השרוני. המפרשים נחלקים מהו פתיח וכמה גדול הרווח.",
+    "mishnah": 6,
+    "anchors": [
+     "שלשה תלמים של פתיח"
+    ],
+    "source": {
+     "name": "רש משנץ",
+     "ref": "Rash MiShantz on Mishnah Kilayim 2:6:2",
+     "quote": "עושה המשר רחב כשיעור ג' תלמים של פתיח"
+    }
+   },
+   {
+    "term": "קרחת",
+    "explanation": "קרחת היא חלקה מרובעת הזרועה מין אחד בתוך שדה גדולה יותר. רבי מאיר מתיר עשרים וארבע קרחות לבית סאה, אחת לכל בית רובע, וחכמים אומרים תשע מותרות ועשר אסורות.",
+    "mishnah": 9,
+    "anchors": [
+     "עשרים וארבע קרחות לבית סאה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 2:9:1",
+     "quote": "מקום פנוי שאינו זרוע כשהוא מרבע קרוי קרחת"
+    }
+   },
+   {
+    "term": "אכילת הגפן",
+    "explanation": "המשנה אומרת שהשטח של אכילת הגפן, הקבר והסלע עולים במדת בית רובע. המפרשים מסבירים שאכילה כאן היא השטח שענפי הגפן תופסים סביבה.",
+    "mishnah": 10,
+    "anchors": [
+     "אכילת הגפן"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 2:10:1",
+     "quote": "מה שיתפשטו ענפיו על הארץ"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "ביטול בדבר ניכר",
+    "pasuk": {
+     "text": "כל סאה שיש בו רבע ממין אחר ימעט",
+     "ref": "Mishnah Kilayim 2:1",
+     "label": "משנה כלאים ב, א"
+    },
+    "question": "איך אפשר לבטל מיעוט ממין אחר בסאה כשהמינים ניכרים, והאם בכלל שייך כאן ביטול ברוב?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:1:1",
+      "quote": "ותמיהא לי מילתא דלא שייך ביטול ברוב אלא כשאין ניכרין",
+      "era": "acharon"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Kilayim 2:1:2",
+      "quote": "וק\"ל דהא תרומה ג\"כ מה\"ת בטלה ברובה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב עצמו אומר שהתורה לא אסרה אלא כשרוצה לזרוע כלאים, וחכמים אסרו מפני מראית העין ונתנו שיעור, ולכן די בהמעטת חלק.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:1:1",
+        "quote": "שהתורה לא אסרה אלא כשרוצה לזרוע כלאים אבל כשאינו רוצה לא אסרתו התורה אלא שחכמים אסרו מפני מראית העין"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים אומר שזה לא ביטול איסור, כי מדובר בתערובת שנעשתה מעצמה בתלוש.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 2:1:1",
+        "quote": "לאו ביטול איסור הוא… בתלוש עסקינן"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב אומר שמן התורה אחד בשנים בטל, וחכמים אסרו מפני מראית העין.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 2:1:1",
+        "quote": "דדבר תורה חד בתרי בטל אלא דחכמים אסרו מפני מראית העין"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שדין הרובע הוא שיעור דרבנן מצד מראית העין ולא ביטול רגיל.",
+    "mishnah": 1,
+    "anchors": [
+     "כל סאה שיש בו רבע ממין אחר ימעט"
+    ]
+   },
+   {
+    "title": "קנבוס ולוף שאינן עושין אלא לשלשה שנים",
+    "pasuk": {
+     "text": "שאינן עושין אלא לשלשה שנים",
+     "ref": "Mishnah Kilayim 2:5",
+     "label": "משנה כלאים ב, ה"
+    },
+    "question": "מה כוונת המשנה שמינים אלה עושים רק לשלש שנים, ולמה אסור לזרוע על גביהם?",
+    "asked_by": [
+     {
+      "name": "רמב\"ם",
+      "ref": "Rambam on Mishnah Kilayim 2:5:2",
+      "quote": "ואיני יודע היאך אלו עושות לשלש שנים",
+      "era": "rishon"
+     },
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:5:1",
+      "quote": "קשה מאי קאמר בתחלה שאין התלעה מועלת",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא אומר שמינים אלה מתקיימים בארץ שלש שנים ואינם מתליעים, ולכן התלעה וחרישה אינן מועילות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 2:5:1",
+        "quote": "לפי שמתקימים בארץ שלש שנים ואינן מתליעין"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שאין חורשים עליהם עד שיעקרו שרשיהם.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 2:5:2",
+        "quote": "אין חורשין עליו עד שיעקרו שרשיו"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר מביא שהרמב\"ם כותב שאף שאין עושים עד אחר שלש שנים, אסור לזרוע מין אחר עד שיעקור את השרשים.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 2:5:1",
+        "quote": "אע\"פ שאין עושין עד אחר ג' שנים מ\"מ אסור לזרוע בתוך כך מין אחר"
+       }
+      ]
+     }
+    ],
+    "why": "קובע מה נדרש לפני שמותר לזרוע מין אחר על גבי צמח רב שנתי.",
+    "mishnah": 5,
+    "anchors": [
+     "שאינן עושין אלא לשלשה שנים"
+    ]
+   },
+   {
+    "title": "למה לעקור הכל לאחר ניכוש",
+    "pasuk": {
+     "text": "אם נכש או כסח אומרים לו עקר את הכל חוץ ממין אחד",
+     "ref": "Mishnah Kilayim 2:5",
+     "label": "משנה כלאים ב, ה"
+    },
+    "question": "ברישא, אחרי שמיעט מותר לשייר את המותר. למה כאן, אחרי שניכש או כסח, צריך לעקור הכל חוץ ממין אחד?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:5:4",
+      "quote": "וקשה דמ\"ש מריש פרקין דאחר שמיעט רשאי לשייר המותר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב משיב לפי פירוש התוספות: שם חייבוהו חכמים למעט, וכאן לא חייבוהו כלל.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:5:4",
+        "quote": "לפירוש התוספות שכתבתי לא קשיא דהתם חכמים חייבוהו למעט"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא אומר שעכשיו נתגלתה דעתו שהוא רוצה בנשארים, ולכן נראה כמקיים כלאים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 2:5:6",
+        "quote": "דהשתא גלי דעתיה דניחא ליה באותם הנשארים"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שכשכרת חלק והניח חלק הודיע שרצונו להשאיר את הנשאר.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 2:5:5",
+        "quote": "והניח קצת הודיע בזה שרצונו להשאיר הנשאר"
+       }
+      ]
+     }
+    ],
+    "why": "מבדיל בין שדה שאין חובה לנקותה לבין שדה שמעשהו מראה שהוא רוצה בה.",
+    "mishnah": 5,
+    "anchors": [
+     "אם נכש או כסח אומרים לו עקר את הכל חוץ ממין אחד"
+    ]
+   },
+   {
+    "title": "שיעור פתיח",
+    "pasuk": {
+     "text": "בית שמאי אומרים שלשה תלמים של פתיח",
+     "ref": "Mishnah Kilayim 2:6",
+     "label": "משנה כלאים ב, ו"
+    },
+    "question": "מהו שיעור שלשה תלמים של פתיח, ואם שיעור בית הלל גדול יותר, למה לא נשנה בין חומרות בית הלל?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:6:1",
+      "quote": "אך קשה דא\"כ ב\"ה דהכא לחומרא דבעינן שיעורא רבא לכלאים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא אומר שהירושלמי מפרש שהם שתי אמות רוחב על שתי אמות אורך.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 2:6:2",
+        "quote": "ובירושלמי מפרש שהם שתי אמות רחב על שתי אמות ארך"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם מסביר שפתיח הם הבקיעים שנפתחים בארץ כשיורד גשם.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 2:6:1",
+        "quote": "יתבקעו בה בקיעים מתרחבים ונקרא כל בקיע מהם תלם של פתיח"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב עצמו אומר שאולי זה שיעור קטן משל בית הלל.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:6:1",
+        "quote": "י\"ל דשיעורא זוטא היא מדב\"ה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כמה גדול הרווח בין המינים לפי כל בית.",
+    "mishnah": 6,
+    "anchors": [
+     "בית שמאי אומרים שלשה תלמים של פתיח"
+    ]
+   },
+   {
+    "title": "כסוף שדהו",
+    "pasuk": {
+     "text": "מפני שהוא נראה כסוף שדהו",
+     "ref": "Mishnah Kilayim 2:7",
+     "label": "משנה כלאים ב, ז"
+    },
+    "question": "ראש התור של החיטים נכנס לשדה השעורים ונראה 'כסוף שדהו'. מה פירוש 'כסוף', והרי הראש נמצא בתוך השדה השניה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:7:3",
+      "quote": "וכ\"ף כסוף צריך ביאור",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב מציע שמאחר שהראש נכנס בשדה השניה, נחשבת הכניסה בכלל השדה שיצאה ממנו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:7:3",
+        "quote": "מדנכנס הראש תור בשדה השנייה נחשבת הכניסה בכלל אותה שדה"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא אומר שניכר שלא נזרעו בערבוביא.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 2:7:1",
+        "quote": "ונכר שלא נזרעו בערבוביא"
+       }
+      ]
+     },
+     {
+      "text": "הרש אומר שאותה שורה נראית כסוף שדה החיטים.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Kilayim 2:7:1",
+        "quote": "מפני שאותה שורה נראה כסוף שדה חטין"
+       }
+      ]
+     }
+    ],
+    "why": "קובע לאיזו שדה נראית השורה היוצאת כשייכת.",
+    "mishnah": 7,
+    "anchors": [
+     "מפני שהוא נראה כסוף שדהו"
+    ]
+   },
+   {
+    "title": "סלע: רחב ארבעה, וגרוע מגדר?",
+    "pasuk": {
+     "text": "ולסלע גבוה עשרה ורחב ארבעה",
+     "ref": "Mishnah Kilayim 2:8",
+     "label": "משנה כלאים ב, ח"
+    },
+    "question": "התוספות יום טוב אומר שסלע דורש יותר מגדר, דהיינו עובי ארבעה. למה יחמירו בסלע יותר מבגדר?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 2:8:1",
+      "quote": "ומעולם לא שמענו מי שיאמר דסלע גרע",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא אומר שהמשנה משמיעה שאף בסלע צריך רוחב ארבעה, כי בפחות מכך אין שמו מחיצה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 2:8:7",
+        "quote": "אלא לאשמועינן דאפלו סלע בעינן ארבעה רחב"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב אומר שמאחר שלא נעשה לשם גדר, ואילו נעשה לשם גדר היה מספיק גבוה עשרה ורחב כל שהוא.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 2:8:3",
+        "quote": "הואיל ולא נעשה לשם גדר, שאלו נעשה לשם גדר סגי בגבוה עשרה ורחב כל שהוא"
+       }
+      ]
+     }
+    ],
+    "why": "קובע מה צריך במחיצה טבעית כדי שתפריד בין מינים.",
+    "mishnah": 8,
+    "anchors": [
+     "ולסלע גבוה עשרה ורחב ארבעה"
+    ]
+   },
+   {
+    "title": "למה לא שלוש עשרה קרחות",
+    "pasuk": {
+     "text": "וחכמים אומרים תשע קרחות מותרות עשר אסורות",
+     "ref": "Mishnah Kilayim 2:9",
+     "label": "משנה כלאים ב, ט"
+    },
+    "question": "חכמים מתירים תשע קרחות ואוסרים עשר. למה לא יהיו מותרות אפילו שלש עשרה, בשורה הראשונה הראשונה השלישית והחמישית, בשניה השניה והרביעית וכן הלאה?",
+    "asked_by": [
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 2:9:5",
+      "quote": "תימה אמאי לא יהיו אפלו שלש עשרה מתרות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לחם שמים אומר שהרחקה אינה מועילה עד שיהיה פתוח מרוח אחת.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 2:9:1-2",
+        "quote": "דלא מהניא הרחקה עד שיהא פתוח מרוח אחת"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא מתאר את הסידור: זורע את הקרחה הראשונה בשורה הראשונה ומניח בורה את השניה שאצלה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 2:9:7",
+        "quote": "וזורע קרחה ראשונה של שורה ראשונה ומניח שניה שאצלה בורה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שהקרחות צריכות להיות רחוקות זו מזו מרחק שוה, ובעשר המרחק אינו שוה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 2:9:2",
+        "quote": "מפני שהמרחק ביניהם אינו שוה"
+       }
+      ]
+     }
+    ],
+    "why": "מסביר למה גבול חכמים הוא תשע ולא יותר.",
+    "mishnah": 9,
+    "anchors": [
+     "וחכמים אומרים תשע קרחות מותרות עשר אסורות"
+    ]
+   },
+   {
+    "title": "למה אכילת הגפן ולא הגפן עצמה",
+    "pasuk": {
+     "text": "אכילת הגפן והקבר והסלע עולין במדת בית רבע",
+     "ref": "Mishnah Kilayim 2:10",
+     "label": "משנה כלאים ב, י"
+    },
+    "question": "למה השטח שהגפן 'אוכלת' עולה במדת בית רובע, ואילו הגפן עצמה אינה מפסיקה?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 2:10:1-4",
+      "quote": "ולא ידעתי פירושו דהיכי קאמר מפני שאסורה בהנאה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הירושלמי, כפי שמביא התוספות יום טוב, אומר שהגפן עצמה לא נחשבת כי היא אסורה בהנאה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 2:10:2",
+        "quote": "לא שנו אלא אכילת הגפן הא גפן עצמה לא למה מפני שהיא אסורה בהנייה"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב אומר שנקרא אכילה לפי שנראית כאוכלת סביבותיה.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 2:10:2",
+        "quote": "והא דקרי ליה אכילה לפי שנראית נאכלת סביבותיו"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא אומר שהוא מה שהגפן תופסת ואוכלת סביבותיה, כדי עבודתה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 2:10:2",
+        "quote": "מה שהגפן תופסת ואוכלת סביבותיה"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר מה משטח הגפן עולה במדת ההפרדה.",
+    "mishnah": 10,
+    "anchors": [
+     "אכילת הגפן והקבר והסלע עולין במדת בית רבע"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "רש\"ש",
+   "לחם שמים",
+   "עיקר תוספות יום טוב",
+   "רמב\"ם",
+   "ברטנורא",
+   "תוספות רבי עקיבא איגר",
+   "רש משנץ"
+  ]
+ }
+}
