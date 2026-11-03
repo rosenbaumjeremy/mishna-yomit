@@ -1,0 +1,924 @@
+{
+ "date": "2026-11-03",
+ "hebrew_date": {
+  "hebrew": "כ״ג בְּחֶשְׁוָן תשפ״ז",
+  "english": "23 Cheshvan 5787"
+ },
+ "masechet": "kilayim",
+ "perek": 3,
+ "ref": "Mishnah Kilayim 3",
+ "mishnayot": [
+  {
+   "he": "עֲרוּגָה שֶׁהִיא שִׁשָּׁה טְפָחִים עַל שִׁשָּׁה טְפָחִים, זוֹרְעִים בְּתוֹכָהּ חֲמִשָּׁה זֵרְעוֹנִים, אַרְבָּעָה בְּאַרְבַּע רוּחוֹת הָעֲרוּגָה, וְאֶחָד בָּאֶמְצַע. הָיָה לָהּ גְּבוּל גָּבוֹהַּ טֶפַח, זוֹרְעִין בְּתוֹכָהּ שְׁלֹשָׁה עָשָׂר, שְׁלֹשָׁה עַל כָּל גְּבוּל וּגְבוּל, וְאֶחָד בָּאֶמְצַע. לֹא יִטַּע רֹאשׁ הַלֶּפֶת בְּתוֹךְ הַגְּבוּל, מִפְּנֵי שֶׁהוּא מְמַלְאֵהוּ. רַבִּי יְהוּדָה אוֹמֵר, שִׁשָּׁה בָּאֶמְצַע: \n",
+   "en": "A furrow of vegetables measuring six handbreadths by six handbreadths: it is permitted to sow in it five [different] types of seeds--four [species], one on [each of] the four sides of the bed, and one in the middle. If it had a border one handbreadth high, one may sow in it thirteen [different species] three on every border, and one in the middle. It is prohibited to plant a turnip head in the border since that would fill it [completely]. Rabbi Judah said: [it is permitted to sow] six [species] in the middle."
+  },
+  {
+   "he": "כָּל מִין זְרָעִים אֵין זוֹרְעִים בַּעֲרוּגָה, וְכָל מִין יְרָקוֹת זוֹרְעִין בַּעֲרוּגָה. חַרְדָּל וַאֲפוּנִים הַשּׁוּפִין, מִין זְרָעִים. אֲפוּנִים הַגַּמְלָנִים, מִין יָרָק. גְּבוּל שֶׁהָיָה גָבוֹהַּ טֶפַח וְנִתְמַעֵט, כָּשֵׁר, שֶׁהָיָה כָשֵׁר מִתְּחִלָּתוֹ. הַתֶּלֶם וְאַמַּת הַמַּיִם שֶׁהֵם עֲמֻקִּים טֶפַח, זוֹרְעִים לְתוֹכָן שְׁלֹשָׁה זֵרְעוֹנִין, אֶחָד מִכָּאן, וְאֶחָד מִכָּאן, וְאֶחָד בָּאֶמְצַע: \n",
+   "en": "They may not sow different species of seeds in one bed, but they may sow different species of vegetables in one bed. Mustard and small polished peas are a species of seed; large peas are a species of vegetable. If a border was originally a handbreadth high and then it fell in height, it remains valid, since it was valid at the beginning. A furrow or water channel which are a handbreadth deep, it is permitted to sow three different species of vegetables, one on one side, one on the other side, and one in the middle."
+  },
+  {
+   "he": "הָיָה רֹאשׁ תּוֹר יָרָק נִכְנָס לְתוֹךְ שְׂדֵה יָרָק אַחֵר, מֻתָּר, מִפְּנֵי שֶׁהוּא נִרְאֶה כְּסוֹף שָׂדֵהוּ. הָיְתָה שָׂדֵהוּ זָרוּעַ יָרָק, וְהוּא מְבַקֵּשׁ לִטַּע בְּתוֹכוֹ שׁוּרָה שֶׁל יָרָק אַחֵר, רַבִּי יִשְׁמָעֵאל אוֹמֵר, עַד שֶׁיְּהֵא הַתֶּלֶם מְפֻלָּשׁ מֵרֹאשׁ הַשָּׂדֶה וְעַד רֹאשׁוֹ. רַבִּי עֲקִיבָא אוֹמֵר, אֹרֶךְ שִׁשָּׁה טְפָחִים וְרֹחַב מְלֹאוֹ. רַבִּי יְהוּדָה אוֹמֵר, רֹחַב כִּמְלֹא רֹחַב הַפַּרְסָה: \n",
+   "en": "If the point of an angle of a vegetable field overlaps into a field of another vegetable, it is permitted because it looks like the end of his field. His field was sown with a certain vegetable and he wants to plant in it a row of another vegetable: Rabbi Ishmael says: [he may do so] as long as a furrow runs through from one end of the field to the other. Rabbi Akiva says: [as long as] it is six handbreadths long and fully as wide. Rabbi Judah says: [as long as] the width is the full width of a footstep."
+  },
+  {
+   "he": "הַנּוֹטֵעַ שְׁתֵּי שׁוּרוֹת שֶׁל קִשּׁוּאִין, שְׁתֵּי שׁוּרוֹת שֶׁל דְּלוּעִים, שְׁתֵּי שׁוּרוֹת שֶׁל פּוֹל הַמִּצְרִי, מֻתָּר. שׁוּרָה שֶׁל קִשּׁוּאִים, שׁוּרָה שֶׁל דְּלוּעִים, שׁוּרָה שֶׁל פּוֹל הַמִּצְרִי, אָסוּר. שׁוּרָה שֶׁל קִשּׁוּאִים, שׁוּרָה שֶׁל דְּלוּעִים, שׁוּרָה שֶׁל פּוֹל הַמִּצְרִי, וְשׁוּרָה שֶׁל קִשּׁוּאִים, רַבִּי אֱלִיעֶזֶר מַתִּיר, וַחֲכָמִים אוֹסְרִין: \n",
+   "en": "Planting two rows of cucumbers, two rows of gourds, and two rows of Egyptian beans is permitted. [But planting] one row of cucumbers, one row of gourds and one row of egyptian beans is prohibited. [Planting] one row of cucumbers, one row of gourds, one row of Egyptian beans and [again] one row of cucumbers: Rabbi Eliezer permits, But the sages forbid."
+  },
+  {
+   "he": "נוֹטֵעַ אָדָם קִשּׁוּת וּדְלַעַת לְתוֹךְ גֻּמָּא אַחַת, וּבִלְבַד שֶׁתְּהֵא זוֹ נוֹטָה לְצַד זֶה, וְזוֹ נוֹטָה לְצַד זֶה, וְנוֹטֶה שֵׂעָר שֶׁל זוֹ לְכָאן, וְשֵׂעָר שֶׁל זוֹ לְכָאן. שֶׁכָּל מַה שֶּׁאָסְרוּ חֲכָמִים, לֹא גָזְרוּ אֶלָּא מִפְּנֵי מַרְאִית הָעָיִן: \n",
+   "en": "One may plant a cucumber and a gourd in one hole, as long as this [species] inclines in one direction, and the other [species] in the opposite direction. And he should tip the leaves of one [species] one way, and the other the opposite way, since all that the sages prohibited [in matters of kilayim] they only decreed because of appearance."
+  },
+  {
+   "he": "הָיְתָה שָׂדֵהוּ זָרוּעַ בְצָלִים, וּמְבַקֵּשׁ לִטַּע בְּתוֹכָהּ שׁוּרוֹת שֶׁל דְּלוּעִים, רַבִּי יִשְׁמָעֵאל אוֹמֵר, עוֹקֵר שְׁתֵּי שׁוּרוֹת וְנוֹטֵעַ שׁוּרָה אַחַת, וּמַנִּיחַ קָמַת בְּצָלִים בִּמְקוֹם שְׁתֵּי שׁוּרוֹת, וְעוֹקֵר שְׁתֵּי שׁוּרוֹת וְנוֹטֵעַ שׁוּרָה אֶחָת. רַבִּי עֲקִיבָא אוֹמֵר, עוֹקֵר שְׁתֵּי שׁוּרוֹת וְנוֹטֵעַ שְׁתֵּי שׁוּרוֹת, וּמַנִּיחַ קָמַת בְּצָלִים בִּמְקוֹם שְׁתֵּי שׁוּרוֹת, וְעוֹקֵר שְׁתֵּי שׁוּרוֹת וְנוֹטֵעַ שְׁתֵּי שׁוּרוֹת. וַחֲכָמִים אוֹמְרִים, אִם אֵין בֵּין שׁוּרָה לַחֲבֶרְתָּהּ שְׁתֵּים עֶשְׂרֵה אַמָּה, לֹא יְקַיֵּם אֶת הַזֶּרַע שֶׁל בֵּינְתָיִם: \n",
+   "en": "His field was sown with onions, and he wishes to plant in it rows of gourds:Rabbi Ishmael says: he pulls up two rows [of onions] and plants [in the cleared space] one row [of gourds], then he leaves onions over a space of two rows, pulls up two rows [of onions] and plants [in the cleared space] one row [of gourds, and so on]. Rabbi Akiva says: he pulls up two rows [of onions], plants [in the cleared space] two rows [of gourds], then he leaves onions over a space of two rows, pulls up two rows [of onions], and plants two rows [of gourds; and so on]. The sages say: if between one row [of gourds] and the next there are not twelve cubits, one may not allow that which is sown in the intervening space to remain."
+  },
+  {
+   "he": "דְּלַעַת בְּיָרָק, כְּיָרָק. וּבִתְבוּאָה, נוֹתְנִין לָהּ בֵּית רֹבַע. הָיְתָה שָׂדֵהוּ זְרוּעָה תְבוּאָה, וּבִקֵּשׁ לִטַּע לְתוֹכָהּ שׁוּרָה שֶׁל דְּלוּעִין, נוֹתְנִין לָהּ לַעֲבוֹדָתָהּ שִׁשָּׁה טְפָחִים. וְאִם הִגְדִּילָה, יַעֲקֹר מִלְּפָנֶיהָ. רַבִּי יוֹסֵי אוֹמֵר, נוֹתְנִין לָהּ עֲבוֹדָתָהּ אַרְבַּע אַמּוֹת. אָמְרוּ לוֹ, הֲתַחְמִיר זוֹ מִן הַגָּפֶן. אָמַר לָהֶן, מָצִינוּ שֶׁזּוֹ חֲמוּרָה מִן הַגֶּפֶן, שֶׁלְּגֶפֶן יְחִידִית נוֹתְנִין לָהּ עֲבוֹדָתָהּ שִׁשָּׁה טְפָחִים, וְלִדְלַעַת יְחִידִית נוֹתְנִין לָהּ בֵּית רֹבַע. רַבִּי מֵאִיר אוֹמֵר מִשּׁוּם רַבִּי יִשְׁמָעֵאל, כָּל שְׁלֹשָׁה דְלוּעִין לְבֵית סְאָה, לֹא יָבִיא זֶרַע לְתוֹךְ בֵּית סְאָה. רַבִּי יוֹסֵי בֶּן הַחוֹטֵף אֶפְרָתִי אָמַר מִשּׁוּם רַבִּי יִשְׁמָעֵאל, כָּל שְׁלֹשָׁה דְלוּעִין לְבֵית כּוֹר, לֹא יָבִיא זֶרַע לְתוֹךְ בֵּית כּוֹר: \n",
+   "en": "A gourd [sown] among a [different] vegetable [must be separated by as much] as any other vegetable. [A gourd sown] among grain he must give it [a separating space of] a bet rova. If his field was sown with grain, and he wishes to plant within it a row of gourds, he must give [the gourds] six handbreadths for them to be worked. And if [the row of gourds] overgrows [into the border] he must pull up that which is within it. Rabbi Yose says: he must give [the gourds] four cubits for them to be worked. They said to him: Do you rule more stringently with regard to this than with regard to a vine? He said to them: We find that [the gourd] is treated more stringently than a vine, since for a single vine he must give six handbreadths for it to be worked, but for a single gourd a bet rova. Rabbi Meir said in the name of Rabbi Ishmael: if there are as many as three gourds in a bet seah, he may not bring [another] seed into the bet seah. Rabbi Yose ben Hahotef Ephrati said in the name of Rabbi Ishmael: if there are as many as three gourds in a bet kor, one may not bring [another] seed into the bet kor."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1: In a vegetable bed six handbreadths by six one may sow five kinds, four at the sides and one in the middle, and with a border a handbreadth high thirteen kinds, but not a turnip head in the border; Rabbi Yehuda says six in the middle.\nMishnah 2: Different kinds of seed may not be sown in a bed, but different vegetables may; a border that sank in height stays valid, and a furrow or water channel a handbreadth deep takes three kinds.\nMishnah 3: The tip of a vegetable field entering another is permitted; to plant a row of another vegetable in a field, Rabbi Ishmael requires a furrow running through, Rabbi Akiva six handbreadths long and as wide, and Rabbi Yehuda the width of a footstep.\nMishnayot 4-5: Two rows each of cucumbers, gourds and Egyptian beans are permitted, one row each is forbidden, and Rabbi Eliezer permits a fourth row of cucumbers while the sages forbid; cucumber and gourd may share one hole if they lean in opposite directions, since the sages forbade only because of appearance.\nMishnah 6: In a field of onions, Rabbi Ishmael, Rabbi Akiva and the sages differ on how many rows are uprooted to plant rows of gourds, the sages requiring twelve cubits between rows.\nMishnah 7: A gourd among vegetables is like a vegetable, among grain it needs a bet rova, and a row of gourds in grain six handbreadths; Rabbi Yose says four cubits, and Rabbi Meir and Rabbi Yose ben Hahotef speak of three gourds in a bet seah or bet kor.",
+  "topics": [
+   {
+    "term": "Five seeds in a six-by-six bed",
+    "explanation": "The mishnah allows sowing five different kinds of seed in a vegetable bed six handbreadths by six: four on its four sides and one in the middle. Bartenura says the number five is derived from a verse in Isaiah, which he reads as giving five items in all.",
+    "mishnah": 1,
+    "anchors": [
+     "חמשה זרעונים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 3:1:1",
+     "quote": "דרש לה מקרא דכתיב כי כארץ תוציא צמחה וכגנה זרועיה תצמיח"
+    }
+   },
+   {
+    "term": "Spacing of a handbreadth and a half",
+    "explanation": "Between one kind and the next the mishnah's rule is understood as leaving room so that they do not draw from each other. Rambam gives the measure of a handbreadth and a half as the second way to keep two kinds of seed apart.",
+    "mishnah": 1,
+    "anchors": [
+     "חמשה זרעונים"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 3:1:1",
+     "quote": "הדרך הב' להרחיק ביניהם טפח ומחצה והוא שיעור שלא יינק זה מזה"
+    }
+   },
+   {
+    "term": "The border (gevul) of the bed",
+    "explanation": "A border one handbreadth high around the bed allows thirteen kinds to be sown, three on each border and one in the middle. Bartenura describes the border as a kind of bench of kneaded clay made around the bed, for people to step on.",
+    "mishnah": 1,
+    "anchors": [
+     "היה לה גבול גבוה טפח"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 3:2:3",
+     "quote": "כמין אצטבא של טיט מגובל שעושין סביב לערוגה לדריסת רגלי אדם"
+    }
+   },
+   {
+    "term": "Seed-crops versus vegetables",
+    "explanation": "The mishnah forbids mixing kinds of grain-seed in a bed but permits kinds of vegetables, and names mustard and the small polished peas as seed, large peas as vegetable. Bartenura explains that the allowance applies to vegetables, which are sown in beds, while seed-crops are sown as a large field, so mixing them looks like kilayim.",
+    "mishnah": 2,
+    "anchors": [
+     "כל מין זרעים אין זורעים בערוגה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 3:2:1",
+     "quote": "הני מילי במיני ירקות שדרך לזרעם ערוגות ערוגות אבל מיני זרעים שדרכן לזרוע מהן שדה גדולה לא משום דמחזו ככלאים"
+    }
+   },
+   {
+    "term": "A furrow that runs through (telem mefulash)",
+    "explanation": "To plant a row of another vegetable inside a vegetable field, Rabbi Ishmael requires a furrow running from one end of the field to the other. Bartenura explains mefulash as open on both sides, like an open alley.",
+    "mishnah": 3,
+    "anchors": [
+     "התלם"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 3:3:3",
+     "quote": "מפולש. פתוח משני צדדיו כמו מבוי מפולש שפתוח משתי רוחות"
+    }
+   },
+   {
+    "term": "The tip of a row (rosh tor)",
+    "explanation": "If the pointed end of one vegetable field enters another vegetable field it is permitted, because it looks like the end of his field. Bartenura describes it as a sharpened corner entering another field, like the golden rows of a woman's jewelry.",
+    "mishnah": 3,
+    "anchors": [
+     "היה ראש תור ירק"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 3:3:1",
+     "quote": "קרן זוית מחדדת נכנסת לתוך שדה אחר כתורי זהב של תכשיטי אשה"
+    }
+   },
+   {
+    "term": "Appearance (mar'it ha'ayin)",
+    "explanation": "The mishnah ends by saying that the sages prohibited only because of appearance. Rambam adds that when one kind leans to one side and the other to the opposite side they look separate, so a cucumber and a gourd may share one hole.",
+    "mishnah": 5,
+    "anchors": [
+     "מראית העין"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 3:5:1",
+     "quote": "כשיהיה זה נוטה לצד זה ואחר לצד אחר נראה מובדל"
+    }
+   },
+   {
+    "term": "The working space of a gourd (bet rova)",
+    "explanation": "A single gourd among grain is given a bet rova, while a row of gourds is given six handbreadths. Rambam explains the larger distance by the gourd spreading and taking up a wide place.",
+    "mishnah": 7,
+    "anchors": [
+     "בית רבע"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 3:7:4",
+     "quote": "ודלעת יחידית כשתהיה נטועה ירחיק ממנה בית רובע ואז יזרע התבואה מפני שמתפשטת ואוכלת מקום רחב"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why not nine kinds in the bed?",
+    "pasuk": {
+     "text": "זורעים בתוכה חמשה זרעונים",
+     "ref": "Mishnah Kilayim 3:1",
+     "label": "Mishnah Kilayim 3:1"
+    },
+    "question": "If four kinds can go in the corners, four in the middle of the sides and one in the center, each three handbreadths from the next, why does the mishnah permit only five?",
+    "asked_by": [
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 3:1:4",
+      "quote": "ואם תאמר יזרעו תשעה מינין בערוגה",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 3:1:1-4",
+      "quote": "ואמאי מצריך תנא ערוגה ו' על ו' דוקא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ikar Tosafot Yom Tov says that this much would be a mixture.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 3:1:4",
+        "quote": "ויש לומר דכולי האי הוי ערבוב"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov also brings Rabbenu Yitzchak's answer: the number is learned from the verse, and the verse should not be set to fit a measure of drawing nourishment or of anything else.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 3:1:4",
+        "quote": "אין להעמיד המקרא בענין זה שאינו שיעור לא ליניקה ולא לשום דבר"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov quotes Rambam's own ruling: no more than five kinds, since many kinds in such a bed look as if planted in a jumble.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 3:1:23",
+        "quote": "לפי שמינין הרבה בערוגה כזו הרי הן כנטועין בערבוביא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the limit of five is a matter of appearance and learning from the verse, not of spacing alone.",
+    "mishnah": 1,
+    "anchors": [
+     "זורעים בתוכה חמשה זרעונים"
+    ]
+   },
+   {
+    "title": "Thirteen kinds on a border of twenty-eight handbreadths",
+    "pasuk": {
+     "text": "זורעין בתוכה שלשה עשר",
+     "ref": "Mishnah Kilayim 3:1",
+     "label": "Mishnah Kilayim 3:1"
+    },
+    "question": "Twelve kinds on the border need twelve gaps of three handbreadths, thirty-six in all, yet the borders around the bed total only twenty-eight. How can thirteen kinds be sown?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 3:1:7",
+      "quote": "ותימה שלי\"ב זרעים צריך י\"ב מרחקים וכל מרחק שלשה טפחים הם ל\"ו טפחים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov answers that the three on each border are sown along it, leaving a handbreadth at the corner, so that between one kind and the next there are three handbreadths of spacing.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 3:1:7",
+        "quote": "ולכן נ\"ל שעל כל גבול הוא זורע ג' וכך יכול לעשות שמניח טפח הסמוכה לקרן וזורע מין אחד"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz counts differently, with a gap of a handbreadth and a half between each kind.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Kilayim 3:1:2",
+        "quote": "והזרעונים מרוחקין זה מזה טפח ומחצה בין כל מין ומין"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura brings the Rosh: four kinds in the four corners and two kinds between each pair of corners.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 3:1:3",
+        "quote": "על כל גובל וגובל זורע ארבעה בארבעת הקרנות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mishnah's numbers fit the measures of the bed.",
+    "mishnah": 1,
+    "anchors": [
+     "זורעין בתוכה שלשה עשר"
+    ]
+   },
+   {
+    "title": "Rabbi Yehuda's six in the middle",
+    "pasuk": {
+     "text": "רבי יהודה אומר ששה באמצע",
+     "ref": "Mishnah Kilayim 3:1",
+     "label": "Mishnah Kilayim 3:1"
+    },
+    "question": "Why does the first opinion say only one in the middle, when Rabbi Yehuda's six would have been the natural wording? And what is Rabbi Yehuda's dispute?",
+    "asked_by": [
+     {
+      "name": "Rambam",
+      "ref": "Rambam on Mishnah Kilayim 3:1:2",
+      "quote": "וכבר הקשה בגמרא על דברי ת\"ק אחד באמצע ואמרו וניתני ו' באמצע",
+      "era": "rishon"
+     },
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Kilayim 3:1",
+      "quote": "ונתקשו קמאי מה משני בזה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov says the question is answered by the first answer, that the borders reduce the space.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 3:1:11",
+        "quote": "ולעניות דעתי נראה שהקושיא מיתרצת בתירוצא קמא שהגובלין ממעטין"
+       }
+      ]
+     },
+     {
+      "text": "Boaz brings his father's answer: the height of the border adds to the distance of a handbreadth and a half, so the bed is reduced by half a handbreadth on each side.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Kilayim 3:1",
+        "quote": "מצטרף טפח גובה הגבול למרחק טפח ומחצה"
+       }
+      ]
+     },
+     {
+      "text": "Rambam says the attempts to resolve this did not succeed.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 3:1:2",
+        "quote": "והשתדלו לפרק זו הקושיא ולא עלתה בידם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows an open question that Rambam leaves standing while others resolve it.",
+    "mishnah": 1,
+    "anchors": [
+     "רבי יהודה אומר ששה באמצע"
+    ]
+   },
+   {
+    "title": "How are Rabbi Yehuda's six derived?",
+    "pasuk": {
+     "text": "רבי יהודה אומר ששה באמצע",
+     "ref": "Mishnah Kilayim 3:1",
+     "label": "Mishnah Kilayim 3:1"
+    },
+    "question": "Tosafot Yom Tov, following the Yerushalmi, derives six from the words of the verse in Isaiah. Why not count the second words of each pair as well?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Kilayim 3:1:1",
+      "quote": "וקשה דכמו דדריש זרע זרעה נדרוש נמי צמח צמחה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashash answers that according to the Yerushalmi the verse's words 'bring forth' and 'cause to sprout' are not expounded at all, only the words built on 'sprout'.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Kilayim 3:1:1",
+        "quote": "נראה דלהירושלמי לא דרשינן לא תוציא ולא תצמיח"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura reads the Yerushalmi as expounding 'zera zar'ah zeru'eha' as three, and 'totzi tzimcha tatzmiach' as three, six in all.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 3:1:5",
+        "quote": "בירושלמי דריש זרע זרעה זרועיה הרי תלתא"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 3:1:5",
+        "quote": "ותוציא צמחה תצמיח תלתא הרי ששה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows two readings of how the Yerushalmi gets six from the verse.",
+    "mishnah": 1,
+    "anchors": [
+     "רבי יהודה אומר ששה באמצע"
+    ]
+   },
+   {
+    "title": "What does Rabbi Akiva's six handbreadths measure?",
+    "pasuk": {
+     "text": "ארך ששה טפחים ורחב מלאו",
+     "ref": "Mishnah Kilayim 3:3",
+     "label": "Mishnah Kilayim 3:3"
+    },
+    "question": "Does Rabbi Akiva speak of the size of the row itself, or of the distance that must be kept? Tosafot Yom Tov says Bartenura mixed two explanations.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 3:3:4",
+      "quote": "עירוב פירושים כתב כאן ואינו נכון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says a through furrow is not needed, only that the planted furrow be six handbreadths long.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 3:3:4",
+        "quote": "לא בעינן מפלש אלא שיהא התלם הזרוע ארך ששה טפחים"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura adds that the mishnah speaks of planting one row in a field, so a wide furrow separates, each according to his view.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 3:3:6",
+        "quote": "הלכך מפסיק בתלם רחב למר כדאית ליה ולמר כדאית ליה"
+       }
+      ]
+     },
+     {
+      "text": "Rambam says the distance of six handbreadths in the previous chapter is between one vegetable field and another, while here it is a single row.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 3:3:3",
+        "quote": "הוא בין שדה ירק לשדה ירק אחר ובהלכה זו לא דבר אלא בשדה ירק"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the same mishnah can be read as a rule of spacing or a rule of the size of the strip.",
+    "mishnah": 3,
+    "anchors": [
+     "ארך ששה טפחים ורחב מלאו"
+    ]
+   },
+   {
+    "title": "Is a gourd stricter than a vine?",
+    "pasuk": {
+     "text": "התחמיר זו מן הגפן",
+     "ref": "Mishnah Kilayim 3:7",
+     "label": "Mishnah Kilayim 3:7"
+    },
+    "question": "Rabbi Yose gives a gourd row four cubits, and the sages object: a vine is given only six handbreadths. How can the law of mixed seeds be stricter than the law of the vineyard?",
+    "asked_by": [
+     {
+      "name": "Rambam",
+      "ref": "Rambam on Mishnah Kilayim 3:7:3",
+      "quote": "וזה יש לו לתמוה עליו היאך תשים כלאי זרעים יותר חמורים מכלאי הכרם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura answers that a single gourd among grain is given a bet rova because it spreads, while a single vine is given six handbreadths.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 3:7:6",
+        "quote": "מפני שהיא מתפשטת והולכת מרחוק"
+       }
+      ]
+     },
+     {
+      "text": "Rambam says that Rabbi Yose answered that it is true that the gourd is stricter, since for a single gourd a bet rova must be kept.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 3:7:4",
+        "quote": "ודלעת יחידית כשתהיה נטועה ירחיק ממנה בית רובע"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a mishnah's own answer rests on the spreading of the gourd.",
+    "mishnah": 7,
+    "anchors": [
+     "התחמיר זו מן הגפן"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Ikar Tosafot Yom Tov",
+   "Lechem Shamayim",
+   "Tosafot Yom Tov",
+   "Rash MiShantz",
+   "Bartenura",
+   "Rambam",
+   "Boaz",
+   "Rashash"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א: בערוגה של שישה טפחים על שישה זורעים חמשה זרעונים, ארבעה בארבע רוחות ואחד באמצע, ואם יש לה גבול גבוה טפח, שלושה עשר, אך לא ראש הלפת בגבול; רבי יהודה אומר ששה באמצע.\nמשנה ב: מיני זרעים אין זורעים בערוגה, ומיני ירקות זורעים; גבול שנתמעט כשר, ובתלם ואמת המים העמוקים טפח זורעים שלושה זרעונים.\nמשנה ג: ראש תור ירק הנכנס לשדה ירק אחר מותר; כדי לנטוע בתוך שדה ירק שורה של ירק אחר, רבי ישמעאל מצריך תלם מפולש, רבי עקיבא ארך ששה טפחים ורחב מלאו, ורבי יהודה רחב כמלא רחב הפרסה.\nמשניות ד-ה: שתי שורות מכל אחד מקשואים, דלועים ופול המצרי מותר, ושורה אחת מכל אחד אסור, ורבי אליעזר מתיר שורה רביעית של קשואים וחכמים אוסרים; קישות ודלעת בגומא אחת בתנאי שנוטים זה לצד זה, שלא אסרו חכמים אלא מפני מראית העין.\nמשנה ו: בשדה בצלים, רבי ישמעאל, רבי עקיבא וחכמים חלוקים בכמה שורות עוקרים כדי לנטוע שורות של דלועים, וחכמים דורשים שתים עשרה אמה בין השורות.\nמשנה ז: דלעת בירק כירק, ובתבואה נותנים לה בית רבע, ולשורה של דלועים בתבואה שישה טפחים; רבי יוסי אומר ארבע אמות, ורבי מאיר ורבי יוסי בן החוטף מדברים על שלושה דלועים בבית סאה או בבית כור.",
+  "topics": [
+   {
+    "term": "חמשה זרעונים בערוגה של שישה על שישה",
+    "explanation": "המשנה מתירה לזרוע בערוגה של שישה טפחים על שישה חמשה מיני זרעונים: ארבעה בארבע רוחות הערוגה ואחד באמצע. ברטנורא אומר שהמספר חמשה נלמד מפסוק בישעיהו, שלפי קריאתו יש בו חמישה פרטים.",
+    "mishnah": 1,
+    "anchors": [
+     "חמשה זרעונים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 3:1:1",
+     "quote": "דרש לה מקרא דכתיב כי כארץ תוציא צמחה וכגנה זרועיה תצמיח"
+    }
+   },
+   {
+    "term": "הרחקה של טפח ומחצה",
+    "explanation": "בין מין למין יש להשאיר מרחק כדי שלא ייראו מעורבים ולא יינקו זה מזה. הרמב\"ם מונה את ההרחקה של טפח ומחצה כדרך שנייה להפריד בין שני מיני זרעים.",
+    "mishnah": 1,
+    "anchors": [
+     "חמשה זרעונים"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 3:1:1",
+     "quote": "הדרך הב' להרחיק ביניהם טפח ומחצה והוא שיעור שלא יינק זה מזה"
+    }
+   },
+   {
+    "term": "גבול הערוגה",
+    "explanation": "גבול שגובהו טפח סביב הערוגה מתיר לזרוע בתוכה שלושה עשר מינים, שלושה על כל גבול ואחד באמצע. ברטנורא מתאר את הגבול כמין ספסל של טיט מגובל שעושים סביב הערוגה לדריסת רגלי אדם.",
+    "mishnah": 1,
+    "anchors": [
+     "היה לה גבול גבוה טפח"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 3:2:3",
+     "quote": "כמין אצטבא של טיט מגובל שעושין סביב לערוגה לדריסת רגלי אדם"
+    }
+   },
+   {
+    "term": "מיני זרעים מול מיני ירקות",
+    "explanation": "המשנה אוסרת לזרוע מיני זרעים בערוגה ומתירה מיני ירקות, וקובעת שחרדל ואפונים השופים הם מין זרעים ואפונים הגמלנים מין ירק. ברטנורא מסביר שההיתר נאמר במיני ירקות שדרכם להיזרע בערוגות, ואילו מיני זרעים נזרעים בשדה גדולה ולכן נראים ככלאים.",
+    "mishnah": 2,
+    "anchors": [
+     "כל מין זרעים אין זורעים בערוגה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 3:2:1",
+     "quote": "הני מילי במיני ירקות שדרך לזרעם ערוגות ערוגות אבל מיני זרעים שדרכן לזרוע מהן שדה גדולה לא משום דמחזו ככלאים"
+    }
+   },
+   {
+    "term": "תלם מפולש",
+    "explanation": "כדי לנטוע שורה של ירק אחר בתוך שדה ירק, רבי ישמעאל מצריך תלם העובר מראש השדה ועד ראשו. ברטנורא מסביר שמפולש פירושו פתוח משני צדדיו, כמו מבוי מפולש.",
+    "mishnah": 3,
+    "anchors": [
+     "התלם"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 3:3:3",
+     "quote": "מפולש. פתוח משני צדדיו כמו מבוי מפולש שפתוח משתי רוחות"
+    }
+   },
+   {
+    "term": "ראש תור",
+    "explanation": "אם ראש תור של ירק נכנס לתוך שדה ירק אחר מותר, מפני שהוא נראה כסוף שדהו. ברטנורא מתאר קרן זווית מחודדת הנכנסת לתוך שדה אחר, כתורי זהב של תכשיטי אשה.",
+    "mishnah": 3,
+    "anchors": [
+     "היה ראש תור ירק"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 3:3:1",
+     "quote": "קרן זוית מחדדת נכנסת לתוך שדה אחר כתורי זהב של תכשיטי אשה"
+    }
+   },
+   {
+    "term": "מראית העין",
+    "explanation": "המשנה מסיימת שכל מה שאסרו חכמים לא גזרו אלא מפני מראית העין. הרמב\"ם מוסיף שכשמין אחד נוטה לצד זה ומין אחר לצד אחר הם נראים מובדלים, ולכן מותר לנטוע קישות ודלעת בגומא אחת.",
+    "mishnah": 5,
+    "anchors": [
+     "מראית העין"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 3:5:1",
+     "quote": "כשיהיה זה נוטה לצד זה ואחר לצד אחר נראה מובדל"
+    }
+   },
+   {
+    "term": "מקום עבודת הדלעת, בית רבע",
+    "explanation": "לדלעת יחידית בתבואה נותנים בית רבע, ולשורה של דלועים נותנים שישה טפחים. הרמב\"ם מסביר שהמרחק הגדול נובע מכך שהדלעת מתפשטת ואוכלת מקום רחב.",
+    "mishnah": 7,
+    "anchors": [
+     "בית רבע"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 3:7:4",
+     "quote": "ודלעת יחידית כשתהיה נטועה ירחיק ממנה בית רובע ואז יזרע התבואה מפני שמתפשטת ואוכלת מקום רחב"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "למה לא תשעה מינים בערוגה?",
+    "pasuk": {
+     "text": "זורעים בתוכה חמשה זרעונים",
+     "ref": "Mishnah Kilayim 3:1",
+     "label": "משנה כלאים ג, 1"
+    },
+    "question": "אם אפשר לזרוע ארבעה בקרנות, ארבעה באמצע הרוחות ואחד באמצע, וכל אחד רחוק שלושה טפחים מחברו, מדוע המשנה מתירה רק חמשה?",
+    "asked_by": [
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 3:1:4",
+      "quote": "ואם תאמר יזרעו תשעה מינין בערוגה",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 3:1:1-4",
+      "quote": "ואמאי מצריך תנא ערוגה ו' על ו' דוקא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עיקר תוספות יום טוב אומר שכל כך הרבה זרעים יהיו ערבוב.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 3:1:4",
+        "quote": "ויש לומר דכולי האי הוי ערבוב"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב מביא גם את תירוץ רבנו יצחק: המספר נלמד מן הפסוק, ואין להעמיד את הפסוק על שיעור של יניקה או של דבר אחר.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 3:1:4",
+        "quote": "אין להעמיד המקרא בענין זה שאינו שיעור לא ליניקה ולא לשום דבר"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב מצטט את פסק הרמב\"ם: לא יותר מחמשה מינים, מפני שמינים הרבה בערוגה כזו נראים כנטועים בערבוביא.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 3:1:23",
+        "quote": "לפי שמינין הרבה בערוגה כזו הרי הן כנטועין בערבוביא"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהגבלה לחמשה קשורה למראה ולדרשת הפסוק ולא רק לשיעור ההרחקה.",
+    "mishnah": 1,
+    "anchors": [
+     "זורעים בתוכה חמשה זרעונים"
+    ]
+   },
+   {
+    "title": "שלושה עשר מינים על גבול של עשרים ושמונה טפחים",
+    "pasuk": {
+     "text": "זורעין בתוכה שלשה עשר",
+     "ref": "Mishnah Kilayim 3:1",
+     "label": "משנה כלאים ג, 1"
+    },
+    "question": "לשנים עשר מינים על הגבול צריך שנים עשר מרחקים של שלושה טפחים, שלושים ושישה, ואילו כל הגבולות סביב הם עשרים ושמונה טפחים בלבד. איך אפשר לזרוע שלושה עשר מינים?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 3:1:7",
+      "quote": "ותימה שלי\"ב זרעים צריך י\"ב מרחקים וכל מרחק שלשה טפחים הם ל\"ו טפחים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב משיב שהשלושה על כל גבול נזרעים לאורכו, ומניחים טפח בקרן, ובין מין למין יש שלושה טפחים של הרחקה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 3:1:7",
+        "quote": "ולכן נ\"ל שעל כל גבול הוא זורע ג' וכך יכול לעשות שמניח טפח הסמוכה לקרן וזורע מין אחד"
+       }
+      ]
+     },
+     {
+      "text": "רש משנץ סופר אחרת, עם הרחקה של טפח ומחצה בין כל מין.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Kilayim 3:1:2",
+        "quote": "והזרעונים מרוחקין זה מזה טפח ומחצה בין כל מין ומין"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא מביא את הראש: ארבעה מינים בארבע הקרנות ושני מינים בין כל קרן לקרן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 3:1:3",
+        "quote": "על כל גובל וגובל זורע ארבעה בארבעת הקרנות"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך מספרי המשנה מתיישבים עם מידות הערוגה.",
+    "mishnah": 1,
+    "anchors": [
+     "זורעין בתוכה שלשה עשר"
+    ]
+   },
+   {
+    "title": "שישה באמצע לרבי יהודה",
+    "pasuk": {
+     "text": "רבי יהודה אומר ששה באמצע",
+     "ref": "Mishnah Kilayim 3:1",
+     "label": "משנה כלאים ג, 1"
+    },
+    "question": "מדוע תנא קמא אומר רק אחד באמצע, והרי היה אפשר לומר שישה כדברי רבי יהודה? ובמה חולק רבי יהודה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ם",
+      "ref": "Rambam on Mishnah Kilayim 3:1:2",
+      "quote": "וכבר הקשה בגמרא על דברי ת\"ק אחד באמצע ואמרו וניתני ו' באמצע",
+      "era": "rishon"
+     },
+     {
+      "name": "בועז",
+      "ref": "Boaz on Mishnah Kilayim 3:1",
+      "quote": "ונתקשו קמאי מה משני בזה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב אומר שהקושיה מיתרצת בתירוץ הראשון, שהגבולים ממעטים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 3:1:11",
+        "quote": "ולעניות דעתי נראה שהקושיא מיתרצת בתירוצא קמא שהגובלין ממעטין"
+       }
+      ]
+     },
+     {
+      "text": "בועז מביא את תירוץ אביו: גובה הגבול מצטרף להרחקה של טפח ומחצה, ולכן הערוגה מתמעטת בחצי טפח מכל צד.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Kilayim 3:1",
+        "quote": "מצטרף טפח גובה הגבול למרחק טפח ומחצה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שהשתדלו לפרק את הקושיה ולא עלתה בידם.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 3:1:2",
+        "quote": "והשתדלו לפרק זו הקושיא ולא עלתה בידם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה קושיה שהרמב\"ם משאיר פתוחה ואחרים מיישבים.",
+    "mishnah": 1,
+    "anchors": [
+     "רבי יהודה אומר ששה באמצע"
+    ]
+   },
+   {
+    "title": "מנין שישה לרבי יהודה?",
+    "pasuk": {
+     "text": "רבי יהודה אומר ששה באמצע",
+     "ref": "Mishnah Kilayim 3:1",
+     "label": "משנה כלאים ג, 1"
+    },
+    "question": "התוספות יום טוב, בעקבות הירושלמי, דורש שישה מלשון הפסוק בישעיהו. מדוע לא נדרוש גם את המילה השנייה בכל זוג?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Kilayim 3:1:1",
+      "quote": "וקשה דכמו דדריש זרע זרעה נדרוש נמי צמח צמחה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרש\"ש משיב שלפי הירושלמי אין דורשים לא 'תוציא' ולא 'תצמיח', אלא הכל מן 'צמחה' ו'זרועיה'.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Kilayim 3:1:1",
+        "quote": "נראה דלהירושלמי לא דרשינן לא תוציא ולא תצמיח"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא מבין שהירושלמי דורש 'זרע זרעה זרועיה' כשלוש, ו'תוציא צמחה תצמיח' כשלוש, ביחד שש.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 3:1:5",
+        "quote": "בירושלמי דריש זרע זרעה זרועיה הרי תלתא"
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 3:1:5",
+        "quote": "ותוציא צמחה תצמיח תלתא הרי ששה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שתי קריאות של דרך הירושלמי להגיע לשישה מן הפסוק.",
+    "mishnah": 1,
+    "anchors": [
+     "רבי יהודה אומר ששה באמצע"
+    ]
+   },
+   {
+    "title": "מה מודד שיעור ששה טפחים של רבי עקיבא?",
+    "pasuk": {
+     "text": "ארך ששה טפחים ורחב מלאו",
+     "ref": "Mishnah Kilayim 3:3",
+     "label": "משנה כלאים ג, 3"
+    },
+    "question": "האם רבי עקיבא מדבר על גודל השורה עצמה או על ההרחקה שצריך לשמור? התוספות יום טוב אומר שברטנורא ערבב שני פירושים.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 3:3:4",
+      "quote": "עירוב פירושים כתב כאן ואינו נכון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא אומר שאין צריך תלם מפולש אלא שהתלם הזרוע יהיה ארוך שישה טפחים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 3:3:4",
+        "quote": "לא בעינן מפלש אלא שיהא התלם הזרוע ארך ששה טפחים"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא מוסיף שהמשנה עוסקת בנטיעת שורה אחת בתוך שדה, ולכן מפסיק תלם רחב, כל אחד לשיטתו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 3:3:6",
+        "quote": "הלכך מפסיק בתלם רחב למר כדאית ליה ולמר כדאית ליה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שהרחקה של שישה טפחים בפרק הקודם היא בין שדה ירק לשדה ירק אחר, וכאן מדובר בשורה אחת.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 3:3:3",
+        "quote": "הוא בין שדה ירק לשדה ירק אחר ובהלכה זו לא דבר אלא בשדה ירק"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שאותה משנה ניתנת לקריאה כדין הרחקה או כדין גודל הרצועה.",
+    "mishnah": 3,
+    "anchors": [
+     "ארך ששה טפחים ורחב מלאו"
+    ]
+   },
+   {
+    "title": "האם דלעת חמורה מגפן?",
+    "pasuk": {
+     "text": "התחמיר זו מן הגפן",
+     "ref": "Mishnah Kilayim 3:7",
+     "label": "משנה כלאים ג, 7"
+    },
+    "question": "רבי יוסי נותן לשורת דלועים ארבע אמות, וחכמים מקשים: לגפן נותנים רק שישה טפחים. איך כלאי זרעים חמורים מכלאי הכרם?",
+    "asked_by": [
+     {
+      "name": "רמב\"ם",
+      "ref": "Rambam on Mishnah Kilayim 3:7:3",
+      "quote": "וזה יש לו לתמוה עליו היאך תשים כלאי זרעים יותר חמורים מכלאי הכרם",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא משיב שלדלעת יחידית בתבואה נותנים בית רובע מפני שמתפשטת, ולגפן יחידית ששה טפחים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 3:7:6",
+        "quote": "מפני שהיא מתפשטת והולכת מרחוק"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם מסביר שרבי יוסי השיב שאכן הדלעת חמורה, שכן לדלעת יחידית מרחיקים בית רובע.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 3:7:4",
+        "quote": "ודלעת יחידית כשתהיה נטועה ירחיק ממנה בית רובע"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שתשובת המשנה נשענת על התפשטות הדלעת.",
+    "mishnah": 7,
+    "anchors": [
+     "התחמיר זו מן הגפן"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "עיקר תוספות יום טוב",
+   "לחם שמים",
+   "תוספות יום טוב",
+   "רש משנץ",
+   "ברטנורא",
+   "רמב\"ם",
+   "בועז",
+   "רש\"ש"
+  ]
+ }
+}
