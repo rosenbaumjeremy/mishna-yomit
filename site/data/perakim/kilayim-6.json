@@ -1,0 +1,838 @@
+{
+ "date": "2026-11-06",
+ "hebrew_date": {
+  "hebrew": "כ״ו בחשון תשפ״ז",
+  "english": "26 Cheshvan 5787"
+ },
+ "masechet": "kilayim",
+ "perek": 6,
+ "ref": "Mishnah Kilayim 6",
+ "mishnayot": [
+  {
+   "he": "אֵיזֶהוּ עָרִיס, הַנּוֹטֵע שׁוּרָה שֶׁל חָמֵשׁ גְּפָנִים בְּצַד הַגָּדֵר שֶׁהוּא גָבוֹהַּ עֲשָׂרָה טְפָחִים, אוֹ בְצַד חָרִיץ שֶׁהוּא עָמֹק עֲשָׂרָה טְפָחִים וְרָחָב אַרְבָּעָה, נוֹתְנִין לוֹ עֲבוֹדָתוֹ אַרְבַּע אַמּוֹת. בֵּית שַׁמַּאי אוֹמְרִים, מוֹדְדִין אַרְבַּע אַמּוֹת מֵעִקַּר הַגְּפָנִים לַשָּׂדֶה. וּבֵית הִלֵּל אוֹמְרִים, מִן הַגָּדֵר לַשָּׂדֶה. אָמַר רַבִּי יוֹחָנָן בֶּן נוּרִי, טוֹעִים כָּל הָאוֹמְרִים כֵּן, אֶלָּא אִם יֶשׁ שָׁם אַרְבַּע אַמּוֹת מֵעִקַּר גְּפָנִים וְלַגָּדֵר, נוֹתְנִין לוֹ אֶת עֲבוֹדָתוֹ, וְזוֹרֵעַ אֶת הַמּוֹתָר. וְכַמָּה הִיא עֲבוֹדַת הַגֶּפֶן. שִׁשָּׁה טְפָחִים לְכָל רוּחַ. רַבִּי עֲקִיבָא אוֹמֵר, שְׁלֹשָׁה: \n",
+   "en": "What is an aris (an espalier) [which is regarded as a vineyard]? One who has planted a [single] row consisting of five vines beside a fence ten handbreadths high, or beside a trench ten handbreadths deep and four wide, they leave a space of four cubits in which to work it. Bet Shammai says: they measure the four cubits from the body of the vine to the field; But Bet Hillel says: from the fence to the field. Rabbi Yohanan ben Nuri said: all who say so are mistaken! Rather, if there are four cubits from the body of the vines to the fence, they leave a space in which to work it and they may sow the rest. And how much is the space in which work to work a vine? Six handbreadths in every direction. Rabbi Akiva says: three."
+  },
+  {
+   "he": "עָרִיס שֶׁהוּא יוֹצֵא מִן הַמַּדְרֵגָה, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, אִם עוֹמֵד בָּאָרֶץ וּבוֹצֵר אֶת כֻּלּוֹ, הֲרֵי זֶה אוֹסֵר אַרְבַּע אַמּוֹת בַּשָּׂדֶה, וְאִם לָאו, אֵינוֹ אוֹסֵר אֶלָּא כְנֶגְדּוֹ. רַבִּי אֱלִיעֶזֶר אוֹמֵר, אַף הַנּוֹטֵעַ אַחַת בָּאָרֶץ וְאַחַת בַּמַּדְרֵגָה, אִם גָּבוֹהַּ מִן הָאָרֶץ עֲשָׂרָה טְפָחִים, אֵינָהּ מִצְטָרֶפֶת עִמָּהּ, וְאִם לָאו, הֲרֵי זוֹ מִצְטָרֶפֶת עִמָּהּ: \n",
+   "en": "An aris which projects from a terrace: Rabbi Eliezer ben Jacob says: if a person standing on [level] ground is able to harvest all of it, [such an aris] prohibits [sowing seed in] four cubits of the field, but if [he is] not [able to do so], it prohibits [sowing seed] only [in] the [soil] which is directly below it. Rabbi Eliezer says: even one who has planted one [row of vines] on the ground, and one on a terrace, then if it is ten handbreadths above the [level] ground, one does not combine with the other; if it is not [ten handbreadths high] then one does combine with the other."
+  },
+  {
+   "he": "הַמַּדְלֶה אֶת הַגֶּפֶן עַל מִקְצָת אַפִּיפְיָרוֹת, לֹא יָבִיא זֶרַע אֶל תַּחַת הַמּוֹתָר. אִם הֵבִיא, לֹא קִדֵּשׁ. וְאִם הִלֵּךְ הֶחָדָשׁ, אָסוּר. וְכֵן הַמַּדְלֶה עַל מִקְצָת אִילַן סְרָק: \n",
+   "en": "One who suspends vines over papyrus-ropes [of a trellis], he may not bring seed beneath the remainder [of the trellis]. However, if he did so, he has not caused them to be prohibited. If new [tendrils] spread [over the remainder], that [which was sown under the remainder] is forbidden. Similarly, when one hangs vines over some part of a non-fruit-bearing tree."
+  },
+  {
+   "he": "הַמַּדְלֶה אֶת הַגֶּפֶן עַל מִקְצָת אִילַן מַאֲכָל, מֻתָּר לְהָבִיא זֶרַע אֶל תַּחַת הַמּוֹתָר. וְאִם הִלֵּךְ הֶחָדָשׁ, יַחֲזִירֶנּוּ. מַעֲשֶׂה שֶׁהָלַךְ רַבִּי יְהוֹשֻׁעַ אֵצֶל רַבִּי יִשְׁמָעֵאל לִכְפַר עָזִיז, וְהֶרְאָהוּ גֶפֶן מֻדְלֶה עַל מִקְצָת תְּאֵנָה. אָמַר לוֹ, מָה אֲנִי לְהָבִיא זֶרַע אֶל תַּחַת הַמּוֹתָר. אָמַר לוֹ, מֻתָּר. וְהֶעֱלָהוּ מִשָּׁם לְבֵית הַמָּגְנִיָּה, וְהֶרְאָהוּ גֶפֶן שֶׁהִיא מֻדְּלֶה עַל מִקְצָת הַקּוֹרָה, וְסַדָּן שֶׁל שִׁקְמָה, וּבוֹ קוֹרוֹת הַרְבֵּה. אָמַר לוֹ, תַּחַת הַקּוֹרָה זוֹ אָסוּר, וְהַשְּׁאָר מֻתָּר: \n",
+   "en": "One who suspends [branches of] a vine on part of [the branches of] a fruit tree, it is permitted to bring seed beneath the remainder. If new [tendrils] spread [over the remainder], he must turn them back. It happened that Rabbi Joshua went to Rabbi Ishmael in Kefar Aziz, and the latter showed him a vine [with its branches] suspended on part of [the branches of] a fig tree. He [Rabbi Yishmael] asked him [Rabbi Joshua]: “May I bring seed beneath the remainder?” He answered him: “It is permitted.” He took him to Bet Hamaganyah and he showed him a vine [whose branches were] suspended on part of a beam belonging to the trunk of a sycamore, which had many beams. He [Rabbi Joshua] said to him [Rabbi Yishmael]: beneath this beam it is prohibited [to sow] but beneath the remainder it is permitted."
+  },
+  {
+   "he": "אֵיזֶהוּ אִילַן סְרָק. כָּל שֶׁאֵינוֹ עוֹשֶׂה פֵרוֹת. רַבִּי מֵאִיר אוֹמֵר, הַכֹּל אִילַן סְרָק, חוּץ מִן הַזַּיִת וְהַתְּאֵנָה. רַבִּי יוֹסֵי אוֹמֵר, כָּל שֶׁאֵין כָּמוֹהוּ נוֹטְעִין שָׂדוֹת שְׁלֵמוֹת, הֲרֵי זֶה אִילַן סְרָק: \n",
+   "en": "What is a serak (non-fruit bearing) tree?Any tree which does not yield fruit. Rabbi Meir says: all trees are serak, except the olive and the fig tree. Rabbi Yose says: all trees that are not planted in whole fields, are serak trees."
+  },
+  {
+   "he": "פִּסְקֵי עָרִיס, שְׁמֹנֶה אַמּוֹת וָעוֹד. וְכָל מִדּוֹת שֶׁאָמְרוּ חֲכָמִים בַּכֶּרֶם, אֵין בָּהֶם וָעוֹד, חוּץ מִפִּסְקֵי עָרִיס. אֵלוּ הֵן פִּסְקֵי עָרִיס, עָרִיס שֶׁחָרַב מֵאֶמְצָעוֹ וְנִשְׁתַּיְּרוּ בוֹ חָמֵשׁ גְּפָנִים מִכָּאן וְחָמֵשׁ גְּפָנִים מִכָּאן. אִם יֵשׁ שָׁם שְׁמֹנֶה אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם. שְׁמֹנֶה אַמּוֹת וָעוֹד, נוֹתְנִין לוֹ כְדֵי עֲבוֹדָתוֹ, וְזוֹרֵעַ אֶת הַמּוֹתָר: \n",
+   "en": "Gaps in an aris must be eight cubits and somewhat more [in order to be able to sow seeds in the gaps]. [In the case of] all measurements that the sages said in connection with a vineyard, there is no ‘and somewhat more’, except in the case of gaps in an aris. The following count as gaps in an aris: if an aris was razed in its middle and five vines remained on one side and five vines on the other side. Then if the gap is [only] eight cubits, one may not bring seed there. [But if the gap is] eight cubits and somewhat more, they give [the vines] space to work them, and he may sow the rest."
+  },
+  {
+   "he": "עָרִיס שֶׁהוּא יוֹצֵא מִן הַכֹּתֶל מִתּוֹךְ הַקֶּרֶן וְכָלֶה, נוֹתְנִין לוֹ עֲבוֹדָתוֹ, וְזוֹרֵעַ אֶת הַמּוֹתָר. רַבִּי יוֹסֵי אוֹמֵר, אִם אֵין שָׁם אַרְבַּע אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם: \n",
+   "en": "An aris which turns away from a wall where it forms an angle, and comes to an end, they give it space to work it and they may sow the rest. Rabbi Yose says: if there are not four cubits there, one may not bring seed there."
+  },
+  {
+   "he": "הַקָּנִים הַיּוֹצְאִים מִן הֶעָרִיס וְחָס עֲלֵיהֶן לְפָסְקָן, כְּנֶגְדָּן מֻתָּר. עֲשָׂאָן כְּדֵי שֶׁיְּהַלֵּךְ עֲלֵיהֶן הֶחָדָשׁ, אָסוּר: \n",
+   "en": "Canes which protrude from the aris and one is too concerned for them to cut them short, it is permitted to sow directly beneath them. If he made them [long] so that the new [growth] might spread along them, it is forbidden [two sow underneath]."
+  },
+  {
+   "he": "הַפֶּרַח הַיּוֹצֵא מִן הֶעָרִיס, רוֹאִין אוֹתוֹ כְּאִלּוּ מְטֻטֶּלֶת תְּלוּיָה בוֹ, כְּנֶגְדּוֹ אָסוּר. וְכֵן בְּדָלִית. הַמּוֹתֵחַ זְמוֹרָה מֵאִילָן לְאִילָן, תַּחְתֶּיהָ אָסוּר. סִפְּקָהּ בְּחֶבֶל אוֹ בְגֶמִי, תַּחַת הַסִּפּוּק מֻתָּר. עֲשָׂאָהּ כְּדֵי שֶׁיְּהַלֵּךְ עָלָיו הֶחָדָשׁ, אָסוּר: \n",
+   "en": "A blossom which protruded from the aris, it is regarded as if a plumb line were suspended from it, directly beneath it, it is prohibited [to sow]. Similarly, in the case of [a blossom protruding from] a hanging branch [of a single vine.] One who has stretched a vine-shoot from tree to tree, it is forbidden to sow beneath it. If he made an extension [to the vine] by means of rope or reed, it is permitted under the extension. If he made the extension so that the new [growth] might spread along it, it is forbidden."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1: An aris is five vines in a row beside a fence ten handbreadths high or a trench ten deep and four wide, and they leave four cubits of working space. Beit Shammai measure from the roots, Beit Hillel from the fence, Rabbi Yochanan ben Nuri says both are mistaken, and he gives six handbreadths per direction (Rabbi Akiva says three).\nMishnah 2: An aris that projects from a terrace: Rabbi Eliezer ben Jacob says it forbids four cubits if a person standing on the ground can harvest all of it, otherwise only what is directly under it. Rabbi Eliezer says rows ten handbreadths apart do not combine.\nMishnayot 3–4: A vine draped on part of an aris or a non-fruit tree: one may not sow beneath the rest, and if new growth spreads it is forbidden. On part of a fruit tree it is permitted, and Rabbi Yehoshua and Rabbi Yishmael decide a case of a fig and a sycamore beam.\nMishnah 5: A non-fruit tree is any that does not yield fruit; Rabbi Meir and Rabbi Yose disagree.\nMishnayot 6–9: The gaps in an aris are eight cubits and somewhat more, an aris from a wall's corner, canes that protrude, a blossom that protrudes (regarded as if a plumb line hung from it), and a vine-shoot stretched between trees.",
+  "topics": [
+   {
+    "term": "Aris (espalier)",
+    "explanation": "An aris is a trellis of woven canes on which the shoots of the vines are draped. The mishnah speaks of five vines planted in a single row beside a fence or trench, and Bartenura says that for Beit Hillel an aris of one row is already a vineyard in this respect.",
+    "mishnah": 1,
+    "anchors": [
+     "איזהו עריס"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 6:1:1",
+     "quote": "וְעָרִיס הוּא שֶׁמְּסָרְגִים קַנִּים כְּמוֹ עֶרֶס"
+    }
+   },
+   {
+    "term": "Avodat hagefen (working space of a vine)",
+    "explanation": "This is the space around a vine in which sowing is not allowed, so that the vine can be worked. The mishnah gives six handbreadths in every direction (Rabbi Akiva says three), and the Rambam writes that this is the working space of a single vine.",
+    "mishnah": 1,
+    "anchors": [
+     "עבודת הגפן"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 6:1:1",
+     "quote": "שעבודת הגפן האחת ששה טפחים"
+    }
+   },
+   {
+    "term": "Apifyorot (the woven frame)",
+    "explanation": "Apifyorot are the woven frames of wood or canes on which vine shoots are draped. According to Bartenura, if a vine is draped over part of such a frame, it is forbidden to sow under the rest of it.",
+    "mishnah": 3,
+    "anchors": [
+     "אפיפירות"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 6:3:1",
+     "quote": "עֵצִים אוֹ קָנִים אֲרוּגִים שְׁתִי וָעֵרֶב"
+    }
+   },
+   {
+    "term": "Ilan serak (a non-fruit tree)",
+    "explanation": "The mishnah defines it as any tree that does not make fruit. Bartenura explains that a person does not give up on a fruit tree for the sake of his vine, but he does give up on other trees, and he writes that the halakhah follows the first opinion.",
+    "mishnah": 5,
+    "anchors": [
+     "אילן סרק"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 6:5:1",
+     "quote": "וַהֲלָכָה כְּתַנָּא קַמָּא דְּאִילָן שֶׁאֵינוֹ עוֹשֶׂה פֵרוֹת הוּא דְּבָטֵיל לְגַבֵּי גֶפֶן"
+    }
+   },
+   {
+    "term": "Piskei aris (gaps in an aris)",
+    "explanation": "These are gaps in an aris, for example one razed in its middle so that five vines remain on each side. The mishnah says a gap must be eight cubits \"and somewhat more\", and Bartenura explains the \"somewhat more\" as a sixth of a cubit, which is one handbreadth.",
+    "mishnah": 6,
+    "anchors": [
+     "פסקי עריס"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 6:6:2",
+     "quote": "כְּלוֹמַר מוֹסִיף עוֹד עַל שְׁמֹנֶה אַמּוֹת דָּבָר מֻעָט"
+    }
+   },
+   {
+    "term": "Halakh hechadash (new growth spreading)",
+    "explanation": "This means the new growth of the vine. Bartenura explains that the vine grew, put out shoots, and filled the whole frame.",
+    "mishnah": 3,
+    "anchors": [
+     "הלך החדש"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 6:3:2",
+     "quote": "שֶׁגָּדַל הַגֶּפֶן וְהוֹצִיא שָׂרִיגִים וּמִלֵּא כָּל הָאַפִּיפְיָרוֹת"
+    }
+   },
+   {
+    "term": "Metutelet (the plumb line)",
+    "explanation": "The mishnah says a protruding blossom is regarded as if a plumb line hung from it. Bartenura explains that the metutelet is the iron that builders lower on a rope to check a wall, and here it is used to measure what is directly beneath the blossom.",
+    "mishnah": 9,
+    "anchors": [
+     "מטוטלת"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 6:9:2",
+     "quote": "הוּא הַבַּרְזֶל שֶׁהַבּוֹנִים מוֹרִידִים בַּחֶבֶל"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why measure from a fence with no vines behind it?",
+    "pasuk": {
+     "text": "מן הגדר לשדה",
+     "ref": "Mishnah Kilayim 6:1",
+     "label": "Mishnah Kilayim 6:1"
+    },
+    "question": "Beit Hillel say the four cubits are measured \"from the fence to the field\". The Tosafot Yom Tov brings the Ra'avad's question: why must one keep a distance behind the wall at all, when the wall stands between the vines and the seed?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 6:1:2",
+      "quote": "והקשה הראב\"ד דאמאי צריך הרחקה מאחורי הכותל שהרי הכותל בין הגפנים והזרע",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Kesef Mishneh, as brought by Ikar Tosafot Yom Tov, answers that here the vines are draped over the wall, so the fence becomes as if it were the root of the vines.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 6:1:1",
+        "quote": "שֶׁהַגְּפָנִים עֲרוּסִים עַל הַכֹּתֶל חָזַר הַגָּדֵר לִהְיוֹת כְּאִלּוּ הוּא עִקַּר הַגְּפָנִים"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim says the fence is measured from because the vines have the status of a vineyard only through the fence on which they are draped, not because of the roots.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 6:1:1",
+        "quote": "אלא משום הגדר שערס עליו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the same wording of Beit Hillel is read in different ways by the commentators.",
+    "mishnah": 1,
+    "anchors": [
+     "מן הגדר לשדה"
+    ]
+   },
+   {
+    "title": "Why is this dispute not recorded in Eduyot?",
+    "pasuk": {
+     "text": "בית שמאי אומרים מודדין ארבע אמות מעקר הגפנים לשדה",
+     "ref": "Mishnah Kilayim 6:1",
+     "label": "Mishnah Kilayim 6:1"
+    },
+    "question": "If one school here is lenient and the other strict, why was this not taught among the leniencies of Beit Shammai and the stringencies of Beit Hillel in Eduyot?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 6:1:2",
+      "quote": "וקשה דליתנייה בעדיות גבי קולי ב\"ש וחומרי ב\"ה",
+      "era": "acharon"
+     },
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Kilayim 6:1:2",
+      "quote": "וקשה דליתניי' בעדיות גבי קולי בית שמאי וחומרי ב\"ה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov, quoting the Kesef Mishneh, says this case is different because Rabban Yochanan ben Nuri disagrees and says that all who say so are mistaken.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 6:1:2",
+        "quote": "די\"ל דשאני הכא דפליג ריב\"ן ואמר טועים כל האומרים כן"
+       }
+      ]
+     },
+     {
+      "text": "Boaz says that Beit Hillel are in fact the lenient side here, as the Ra'avad holds.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Kilayim 6:1",
+        "quote": "והו\"ל בכה\"ג ב\"ה לקולא"
+       }
+      ]
+     }
+    ],
+    "why": "It affects whether Beit Hillel are lenient or strict here.",
+    "mishnah": 1,
+    "anchors": [
+     "בית שמאי אומרים מודדין ארבע אמות מעקר הגפנים לשדה"
+    ]
+   },
+   {
+    "title": "What is the mistake that Rabbi Yochanan ben Nuri sees?",
+    "pasuk": {
+     "text": "טועים כל האומרים כן",
+     "ref": "Mishnah Kilayim 6:1",
+     "label": "Mishnah Kilayim 6:1"
+    },
+    "question": "Rabbi Yochanan ben Nuri says that all who say so are mistaken. Melekhet Shelomoh brings a difficulty on Bartenura's way of explaining this: the space under the vine or the aris is forbidden for sowing even for a single vine.",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 6:1:4",
+      "quote": "פי' זה אין נראה דהא הוי תחת הגפן או תחת העריס ואסור לזרוע שם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam says the four cubits are mentioned for a different matter: that there be four cubits between the roots of these vines and the fences.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 6:1:3",
+        "quote": "נזכר ד' אמות בעריס של חמש גפנים לענין אחר"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura says the four cubits are mentioned in the aris only for this matter: if there are four cubits from the roots of the vines to the fence, they give the working space and he sows the rest.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 6:1:3",
+        "quote": "וְלֹא הֻזְכַּר דִּין אַרְבַּע אַמּוֹת בֶּעָרִיס אֶלָּא לְעִנְיַן זֶה"
+       }
+      ]
+     },
+     {
+      "text": "Boaz suggests that Rabbi Yochanan ben Nuri is describing someone who heard something and got it wrong.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Kilayim 6:2",
+        "quote": "וה\"ק דשמע השומע וטעה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides what the four cubits of an aris actually refer to.",
+    "mishnah": 1,
+    "anchors": [
+     "טועים כל האומרים כן"
+    ]
+   },
+   {
+    "title": "A fruit tree that is called like a non-fruit tree",
+    "pasuk": {
+     "text": "תחת הקורה זו אסור והשאר מתר",
+     "ref": "Mishnah Kilayim 6:4",
+     "label": "Mishnah Kilayim 6:4"
+    },
+    "question": "Rabbi Yishmael forbids sowing under the beam over which the vine is draped, while the rest is permitted. The Tosafot Yom Tov wonders: the sycamore is a fruit tree, so why is that reason (that each beam is its own tree) needed?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 6:4:3",
+      "quote": "ואני תמיהה שהרי אילן מאכל הוא ומאי צריך להאי טעמא",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 6:4:3",
+      "quote": "וְתֵימַהּ שֶׁהֲרֵי אִילַן מַאֲכָל הוּא וּמַאי צָרִיךְ לְהַאי טַעֲמָא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov suggests that since it is a wild fig, it is not counted as a fruit tree.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 6:4:3",
+        "quote": "שכיון שהוא מין תאנה מדברית"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura gives the reason: he sees each beam as a tree in its own right.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 6:4:6",
+        "quote": "שֶׁאֲנִי רוֹאֶה כָּל קוֹרָה וְקוֹרָה כְּאִילָן בִּפְנֵי עַצְמוֹ"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says that the beam is forbidden because it is like the apifyorot, and the other beams that come out of the trunk are permitted because it is a fruit tree.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 6:4:1",
+        "quote": "והתיר לו לזרוע תחת שאר הקורות היוצאות מגוף השקמה מפני שהוא אילן מאכל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the commentators fit the story of Rabbi Yehoshua and Rabbi Yishmael to the rule of a fruit tree.",
+    "mishnah": 4,
+    "anchors": [
+     "תחת הקורה זו אסור והשאר מתר"
+    ]
+   },
+   {
+    "title": "Does the mishnah allow keeping the vine if it has not yet spread?",
+    "pasuk": {
+     "text": "ואם הלך החדש אסור",
+     "ref": "Mishnah Kilayim 6:3",
+     "label": "Mishnah Kilayim 6:3"
+    },
+    "question": "The Rashash raises a doubt on Tosafot Yom Tov's citation of the Rambam: from the wording \"if new growth spread, it is forbidden to keep it\", it seems that if it did not spread, it is permitted to keep it. The mishnah of the fruit tree, by contrast, says \"he must turn it back\".",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Kilayim 6:3:1",
+      "quote": "משמע דלא הלך מותר לקיימו וצ\"ע",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov distinguishes: with a non-fruit tree, once the growth has spread even turning it back does not help, since the tree is already nullified.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 6:4:1",
+        "quote": "דלעיל אסור משהלך החדש ואפילו שיחזירנו אינו מועיל"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam writes, regarding a fruit tree, that if the branches spread over what he sowed, he lifts the spreading branches and turns them to another side.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 6:4:1",
+        "quote": "ירים מענפים המתפשטים ויחזירם לצד אחר"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies how the two mishnayot use \"halakh hechadash\" differently.",
+    "mishnah": 3,
+    "anchors": [
+     "ואם הלך החדש אסור"
+    ]
+   },
+   {
+    "title": "Why does the mishnah say \"in a vineyard\"?",
+    "pasuk": {
+     "text": "וכל מדות שאמרו חכמים בכרם אין בהם ועוד חוץ מפסקי עריס",
+     "ref": "Mishnah Kilayim 6:6",
+     "label": "Mishnah Kilayim 6:6"
+    },
+    "question": "Melekhet Shelomoh brings the question of the Yerushalmi: why does the mishnah say \"in a vineyard\" and not simply that all measures of the sages have no \"and somewhat more\"?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 6:6:2",
+      "quote": "ובירוש' פריך אמאי תנא בכרם ולא תנא כל מדות שנתנו חכמים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Melekhet Shelomoh brings the answer that the word \"vineyard\" was included to exclude the case in Eruvin of the garden and the karpef, where there is an \"and somewhat more\" in cubits.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 6:6:2",
+        "quote": "ומש\"ה תני במתני' בכרם למעוטי האי דעירובין"
+       }
+      ]
+     }
+    ],
+    "why": "It explains why the \"and somewhat more\" of an aris is the exception only in the vineyard measures.",
+    "mishnah": 6,
+    "anchors": [
+     "וכל מדות שאמרו חכמים בכרם אין בהם ועוד חוץ מפסקי עריס"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Ikar Tosafot Yom Tov",
+   "Lechem Shamayim",
+   "Melekhet Shelomoh",
+   "Rash MiShantz",
+   "Boaz",
+   "Rambam",
+   "Bartenura",
+   "Rashash"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א: עריס הוא חמש גפנים בשורה בצד גדר בגובה עשרה טפחים או חריץ עמוק עשרה ורחב ארבעה, ונותנים לו ארבע אמות לעבודתו. בית שמאי מודדים מעיקר הגפנים, בית הלל מן הגדר, ורבי יוחנן בן נורי אומר שטועים כולם ונותן ששה טפחים לכל רוח (ורבי עקיבא אומר שלושה).\nמשנה ב: עריס היוצא מן המדרגה: רבי אליעזר בן יעקב אומר שאוסר ארבע אמות אם העומד בארץ בוצר את כולו, ואם לאו אינו אוסר אלא כנגדו. רבי אליעזר אומר ששורות שיש ביניהן עשרה טפחים אינן מצטרפות.\nמשניות ג-ד: המדלה גפן על מקצת אפיפירות או אילן סרק לא יביא זרע תחת המותר, ואם הלך החדש אסור. על מקצת אילן מאכל מותר, ורבי יהושע ורבי ישמעאל פוסקים במעשה של תאנה וקורה של שקמה.\nמשנה ה: אילן סרק הוא כל שאינו עושה פירות; רבי מאיר ורבי יוסי חולקים.\nמשניות ו-ט: פסקי עריס הם שמונה אמות ועוד, עריס היוצא מן הכותל, קנים היוצאים מן העריס, פרח היוצא (רואים אותו כאילו מטוטלת תלויה בו), וזמורה המתוחה מאילן לאילן.",
+  "topics": [
+   {
+    "term": "עריס",
+    "explanation": "עריס הוא מסגרת של קנים שרגים שעליה מדלים את שריגי הגפנים. המשנה מדברת בחמש גפנים בשורה אחת ליד גדר או חריץ, וברטנורא כותב שלבית הלל עריס של שורה אחת כבר נחשב ככרם לעניין זה.",
+    "mishnah": 1,
+    "anchors": [
+     "איזהו עריס"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 6:1:1",
+     "quote": "וְעָרִיס הוּא שֶׁמְּסָרְגִים קַנִּים כְּמוֹ עֶרֶס"
+    }
+   },
+   {
+    "term": "עבודת הגפן",
+    "explanation": "זה השטח סביב הגפן שאסור לזרוע בו כדי שאפשר יהיה לעבוד את הגפן. המשנה קובעת שישה טפחים לכל רוח (ורבי עקיבא אומר שלושה), והרמב\"ם כותב שזו עבודתה של גפן אחת.",
+    "mishnah": 1,
+    "anchors": [
+     "עבודת הגפן"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 6:1:1",
+     "quote": "שעבודת הגפן האחת ששה טפחים"
+    }
+   },
+   {
+    "term": "אפיפירות",
+    "explanation": "אפיפירות הן מסגרות ארוגות של עצים או קנים שמדלים עליהן את שריגי הגפן. לפי ברטנורא, אם הדלה גפן על חלק מן המסגרת, אסור לזרוע גם תחת השאר.",
+    "mishnah": 3,
+    "anchors": [
+     "אפיפירות"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 6:3:1",
+     "quote": "עֵצִים אוֹ קָנִים אֲרוּגִים שְׁתִי וָעֵרֶב"
+    }
+   },
+   {
+    "term": "אילן סרק",
+    "explanation": "המשנה מגדירה אותו ככל אילן שאינו עושה פירות. ברטנורא מסביר שהאדם מבטל אילן אחר מפני גפנו, והוא כותב שההלכה כתנא קמא.",
+    "mishnah": 5,
+    "anchors": [
+     "אילן סרק"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 6:5:1",
+     "quote": "וַהֲלָכָה כְּתַנָּא קַמָּא דְּאִילָן שֶׁאֵינוֹ עוֹשֶׂה פֵרוֹת הוּא דְּבָטֵיל לְגַבֵּי גֶפֶן"
+    }
+   },
+   {
+    "term": "פסקי עריס",
+    "explanation": "אלה הם פסקים בעריס, למשל עריס שחרב באמצעו ונשארו בו חמש גפנים מכאן וחמש מכאן. המשנה אומרת שהפסק צריך להיות שמונה אמות ועוד, וברטנורא מסביר שה\"ועוד\" הוא שישית אמה, היינו טפח.",
+    "mishnah": 6,
+    "anchors": [
+     "פסקי עריס"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 6:6:2",
+     "quote": "כְּלוֹמַר מוֹסִיף עוֹד עַל שְׁמֹנֶה אַמּוֹת דָּבָר מֻעָט"
+    }
+   },
+   {
+    "term": "הלך החדש",
+    "explanation": "הכוונה לצמיחה החדשה של הגפן. ברטנורא מסביר שהגפן גדלה, הוציאה שריגים ומילאה את כל המסגרת.",
+    "mishnah": 3,
+    "anchors": [
+     "הלך החדש"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 6:3:2",
+     "quote": "שֶׁגָּדַל הַגֶּפֶן וְהוֹצִיא שָׂרִיגִים וּמִלֵּא כָּל הָאַפִּיפְיָרוֹת"
+    }
+   },
+   {
+    "term": "מטוטלת",
+    "explanation": "המשנה אומרת שפרח היוצא רואים אותו כאילו מטוטלת תלויה בו. ברטנורא מסביר שהמטוטלת היא הברזל שהבונים מורידים בחבל לבדוק את החומה, וכאן משערים בה מה שנמצא תחת הפרח.",
+    "mishnah": 9,
+    "anchors": [
+     "מטוטלת"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 6:9:2",
+     "quote": "הוּא הַבַּרְזֶל שֶׁהַבּוֹנִים מוֹרִידִים בַּחֶבֶל"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "למה למדוד מגדר שאין מאחוריו גפנים?",
+    "pasuk": {
+     "text": "מן הגדר לשדה",
+     "ref": "Mishnah Kilayim 6:1",
+     "label": "משנה כלאים ו, 1"
+    },
+    "question": "בית הלל אומרים שמודדים ארבע אמות \"מן הגדר לשדה\". התוספות יום טוב מביא את קושיית הראב\"ד: מדוע צריך להרחיק מאחורי הכותל, והרי הכותל בין הגפנים לזרע?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 6:1:2",
+      "quote": "והקשה הראב\"ד דאמאי צריך הרחקה מאחורי הכותל שהרי הכותל בין הגפנים והזרע",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הכסף משנה, כפי שמביא עיקר תוספות יום טוב, משיב שכאן הגפנים ערוסים על הכותל, ולכן הגדר חוזר להיות כאילו הוא עיקר הגפנים.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 6:1:1",
+        "quote": "שֶׁהַגְּפָנִים עֲרוּסִים עַל הַכֹּתֶל חָזַר הַגָּדֵר לִהְיוֹת כְּאִלּוּ הוּא עִקַּר הַגְּפָנִים"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים אומר שמודדים מן הגדר משום שהגדר שערס עליו הוא שעושה אותם כרם, ולא עיקרי הגפנים.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 6:1:1",
+        "quote": "אלא משום הגדר שערס עליו"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך מפרשים שונים קוראים באופן שונה את דברי בית הלל.",
+    "mishnah": 1,
+    "anchors": [
+     "מן הגדר לשדה"
+    ]
+   },
+   {
+    "title": "למה מחלוקת זו אינה נשנית בעדיות?",
+    "pasuk": {
+     "text": "בית שמאי אומרים מודדין ארבע אמות מעקר הגפנים לשדה",
+     "ref": "Mishnah Kilayim 6:1",
+     "label": "משנה כלאים ו, 1"
+    },
+    "question": "אם יש כאן קולא וחומרא בין בית שמאי לבית הלל, מדוע לא שנו זאת בעדיות בין קולי בית שמאי וחומרי בית הלל?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 6:1:2",
+      "quote": "וקשה דליתנייה בעדיות גבי קולי ב\"ש וחומרי ב\"ה",
+      "era": "acharon"
+     },
+     {
+      "name": "ר\"ש משנץ",
+      "ref": "Rash MiShantz on Mishnah Kilayim 6:1:2",
+      "quote": "וקשה דליתניי' בעדיות גבי קולי בית שמאי וחומרי ב\"ה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב, בשם הכסף משנה, אומר שכאן שונה כיוון שרבן יוחנן בן נורי חולק ואומר שטועים כל האומרים כן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 6:1:2",
+        "quote": "די\"ל דשאני הכא דפליג ריב\"ן ואמר טועים כל האומרים כן"
+       }
+      ]
+     },
+     {
+      "text": "בועז אומר שבית הלל הם באמת המקילים כאן, כדעת הראב\"ד.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Kilayim 6:1",
+        "quote": "והו\"ל בכה\"ג ב\"ה לקולא"
+       }
+      ]
+     }
+    ],
+    "why": "זה משפיע על השאלה אם בית הלל מקילים או מחמירים כאן.",
+    "mishnah": 1,
+    "anchors": [
+     "בית שמאי אומרים מודדין ארבע אמות מעקר הגפנים לשדה"
+    ]
+   },
+   {
+    "title": "מהי הטעות שרבי יוחנן בן נורי רואה?",
+    "pasuk": {
+     "text": "טועים כל האומרים כן",
+     "ref": "Mishnah Kilayim 6:1",
+     "label": "משנה כלאים ו, 1"
+    },
+    "question": "רבי יוחנן בן נורי אומר שטועים כל האומרים כן. מלאכת שלמה מביא קושי על דרך הפירוש של ברטנורא: המקום תחת הגפן או תחת העריס אסור לזריעה גם בגפן יחידית.",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 6:1:4",
+      "quote": "פי' זה אין נראה דהא הוי תחת הגפן או תחת העריס ואסור לזרוע שם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם אומר שארבע האמות נזכרו לעניין אחר: שיהיו ארבע אמות בין עקרי הגפנים לגדרות.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 6:1:3",
+        "quote": "נזכר ד' אמות בעריס של חמש גפנים לענין אחר"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא אומר שדין ארבע אמות נזכר בעריס רק לעניין זה, שאם יש ארבע אמות מעיקר הגפנים לגדר נותנים עבודתו וזורע את המותר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 6:1:3",
+        "quote": "וְלֹא הֻזְכַּר דִּין אַרְבַּע אַמּוֹת בֶּעָרִיס אֶלָּא לְעִנְיַן זֶה"
+       }
+      ]
+     },
+     {
+      "text": "בועז מציע שרבי יוחנן בן נורי מדבר על מי ששמע וטעה.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Kilayim 6:2",
+        "quote": "וה\"ק דשמע השומע וטעה"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע למה מתייחסות ארבע אמות של עריס.",
+    "mishnah": 1,
+    "anchors": [
+     "טועים כל האומרים כן"
+    ]
+   },
+   {
+    "title": "אילן מאכל שדינו כאילן סרק",
+    "pasuk": {
+     "text": "תחת הקורה זו אסור והשאר מתר",
+     "ref": "Mishnah Kilayim 6:4",
+     "label": "משנה כלאים ו, 4"
+    },
+    "question": "רבי ישמעאל אוסר לזרוע תחת הקורה שהגפן מדלה עליה, והשאר מותר. התוספות יום טוב תמה: השקמה היא אילן מאכל, ולמה צריך הטעם (שכל קורה היא אילן בפני עצמו)?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 6:4:3",
+      "quote": "ואני תמיהה שהרי אילן מאכל הוא ומאי צריך להאי טעמא",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 6:4:3",
+      "quote": "וְתֵימַהּ שֶׁהֲרֵי אִילַן מַאֲכָל הוּא וּמַאי צָרִיךְ לְהַאי טַעֲמָא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב מציע שכיוון שהוא מין תאנה מדברית אינו נחשב כאילן מאכל.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 6:4:3",
+        "quote": "שכיון שהוא מין תאנה מדברית"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא נותן את הטעם: הוא רואה כל קורה וקורה כאילן בפני עצמו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 6:4:6",
+        "quote": "שֶׁאֲנִי רוֹאֶה כָּל קוֹרָה וְקוֹרָה כְּאִילָן בִּפְנֵי עַצְמוֹ"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שהקורה אסורה כי היא כאפיפירות, ושאר הקורות היוצאות מגוף השקמה מותרות כי היא אילן מאכל.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 6:4:1",
+        "quote": "והתיר לו לזרוע תחת שאר הקורות היוצאות מגוף השקמה מפני שהוא אילן מאכל"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך המפרשים מתאימים את מעשה רבי יהושע ורבי ישמעאל לדין אילן מאכל.",
+    "mishnah": 4,
+    "anchors": [
+     "תחת הקורה זו אסור והשאר מתר"
+    ]
+   },
+   {
+    "title": "האם מותר לקיים את הגפן כל עוד לא הלך החדש?",
+    "pasuk": {
+     "text": "ואם הלך החדש אסור",
+     "ref": "Mishnah Kilayim 6:3",
+     "label": "משנה כלאים ו, 3"
+    },
+    "question": "הרש\"ש מעורר ספק על דברי התוספות יום טוב בשם הרמב\"ם: מלשון \"ואם הלך החדש אסור לקיימו\" משמע שאם לא הלך מותר לקיימו. ובמשנה של אילן מאכל נאמר \"יחזירנו\".",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Kilayim 6:3:1",
+      "quote": "משמע דלא הלך מותר לקיימו וצ\"ע",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב מחלק: באילן סרק, משהלך החדש אפילו אם יחזירנו אינו מועיל, כי האילן כבר נתבטל.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 6:4:1",
+        "quote": "דלעיל אסור משהלך החדש ואפילו שיחזירנו אינו מועיל"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם כותב באילן מאכל שאם האריכו הענפים וסיבכו על מה שזרע, מרים את הענפים המתפשטים ומחזירם לצד אחר.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 6:4:1",
+        "quote": "ירים מענפים המתפשטים ויחזירם לצד אחר"
+       }
+      ]
+     }
+    ],
+    "why": "זה מבהיר איך שתי המשניות משתמשות ב\"הלך החדש\" באופן שונה.",
+    "mishnah": 3,
+    "anchors": [
+     "ואם הלך החדש אסור"
+    ]
+   },
+   {
+    "title": "למה המשנה אומרת \"בכרם\"?",
+    "pasuk": {
+     "text": "וכל מדות שאמרו חכמים בכרם אין בהם ועוד חוץ מפסקי עריס",
+     "ref": "Mishnah Kilayim 6:6",
+     "label": "משנה כלאים ו, 6"
+    },
+    "question": "מלאכת שלמה מביא את קושיית הירושלמי: למה המשנה אומרת \"בכרם\" ולא סתם שכל מדות חכמים אין בהם ועוד?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 6:6:2",
+      "quote": "ובירוש' פריך אמאי תנא בכרם ולא תנא כל מדות שנתנו חכמים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מלאכת שלמה מביא את התשובה שנאמר \"בכרם\" כדי למעט את המקרה שבעירובין של הגנה והקרפף, שיש בו \"ועוד\" באמות.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 6:6:2",
+        "quote": "ומש\"ה תני במתני' בכרם למעוטי האי דעירובין"
+       }
+      ]
+     }
+    ],
+    "why": "זה מסביר למה ה\"ועוד\" של פסקי עריס הוא חריג רק במדות הכרם.",
+    "mishnah": 6,
+    "anchors": [
+     "וכל מדות שאמרו חכמים בכרם אין בהם ועוד חוץ מפסקי עריס"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "עיקר תוספות יום טוב",
+   "לחם שמים",
+   "מלאכת שלמה",
+   "ר\"ש משנץ",
+   "בועז",
+   "רמב\"ם",
+   "ברטנורא",
+   "רש\"ש"
+  ]
+ }
+}
