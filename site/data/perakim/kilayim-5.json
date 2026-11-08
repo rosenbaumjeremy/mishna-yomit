@@ -1,0 +1,1040 @@
+{
+ "date": "2026-11-05",
+ "hebrew_date": {
+  "hebrew": "כ״ה בְּחֶשְׁוָן תשפ״ז",
+  "english": "25 Cheshvan 5787"
+ },
+ "masechet": "kilayim",
+ "perek": 5,
+ "ref": "Mishnah Kilayim 5",
+ "mishnayot": [
+  {
+   "he": "כֶּרֶם שֶׁחָרַב, אִם יֶשׁ בּוֹ לְלַקֵּט עֶשֶׂר גְּפָנִים לְבֵית סְאָה, וּנְטוּעוֹת כְּהִלְכָתָן, הֲרֵי זֶה נִקְרָא כֶּרֶם דַּל. כֶּרֶם שֶׁהוּא נָטוּעַ עִרְבּוּבְיָא, אִם יֶשׁ בּוֹ לְכַוֵּן שְׁתַּיִם נֶגֶד שָׁלֹשׁ, הֲרֵי זֶה כֶרֶם. וְאִם לָאו, אֵינוֹ כֶרֶם. רַבִּי מֵאִיר אוֹמֵר, הוֹאִיל וְהוּא נִרְאֶה כְתַבְנִית הַכְּרָמִים, הֲרֵי זֶה כָרֶם: \n",
+   "en": "A vineyard that has been [partly] ruined: if it is still possible to harvest ten vines within a bet seah, and they are planted according to halakhah, behold this is called a “poor vineyard.” A vineyard planted in a mixed-up manner, if there remains an alignment of [one line of] two parallel [vines] opposite [a line of] three [vines], it constitutes a vineyard, but if not it is not a vineyard. Rabbi Meir says: since it is in appearance like a vineyard [in general], it is a vineyard."
+  },
+  {
+   "he": "כֶּרֶם שֶׁהוּא נָטוּעַ עַל פָּחוֹת פָּחוֹת מֵאַרְבַּע אַמּוֹת, רַבִּי שִׁמְעוֹן אוֹמֵר, אֵינוֹ כֶרֶם. וַחֲכָמִים אוֹמְרִים, כֶּרֶם, וְרוֹאִין אֶת הָאֶמְצָעִיּוֹת כְּאִלּוּ אֵינָן: \n",
+   "en": "A vineyard that has been planted with less than four cubits [in between rows of vines]: Rabbi Shimon says: this is not a vineyard. But the sages say: it is a vineyard, and we look at the middle [rows] as if they were \tnot there."
+  },
+  {
+   "he": "חָרִיץ שֶׁהוּא עוֹבֵר בַּכֶּרֶם, עָמֹק עֲשָׂרָה וְרָחָב אַרְבָּעָה, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, אִם הָיָה מְפֻלָּשׁ מֵרֹאשׁ הַכֶּרֶם וְעַד סוֹפוֹ, הֲרֵי זֶה נִרְאֶה כְּבֵין שְׁנֵי כְרָמִים, וְזוֹרְעִים בְּתוֹכוֹ. וְאִם לָאו, הֲרֵי הוּא כְגָת. וְהַגַּת שֶׁבְּכֶרֶם עֲמֻקָּה עֲשָׂרָה וּרְחָבָה אַרְבָּעָה, רַבִּי אֱלִיעֶזֶר אוֹמֵר, זוֹרְעִים בְּתוֹכָהּ, וַחֲכָמִים אוֹסְרִים. שׁוֹמֵרָה שֶׁבַּכֶּרֶם, גְּבוֹהָה עֲשָׂרָה וּרְחָבָה אַרְבָּעָה, זוֹרְעִין בְּתוֹכָהּ. וְאִם הָיָה שֵׂעָר כּוֹתֵשׁ, אָסוּר: \n",
+   "en": "A trench passing through a vineyard, ten [handbreadths] deep and four wide: Rabbi Eliezer ben Jacob says: if it runs right through from the beginning of the vineyard to the end, it looks like it is in between two [separately owned] vineyards, and it is permitted to sow in it. But if it is not, it is [regarded] as [if it were part of] a winepress. And as for a winepress in a vineyard, and [the winepress] is ten [handbreadths] deep and four wide: Rabbi Eliezer says: it is permitted to sow in it. But the sages prohibit. A watchman’s mound in a vineyard, ten handbreadths high and four wide: it is permitted to sow in it. But if the ends of the vine-branches become intertwined over it, it is forbidden. "
+  },
+  {
+   "he": "גֶּפֶן שֶׁהִיא נְטוּעָה בְגַת אוֹ בְנֶקַע, נוֹתְנִין לָהּ עֲבוֹדָתָהּ, וְזוֹרֵעַ אֶת הַמּוֹתָר. רַבִּי יוֹסֵי אוֹמֵר, אִם אֵין שָׁם אַרְבַּע אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם. וְהַבַּיִת שֶׁבַּכֶּרֶם, זוֹרְעִין בְּתוֹכוֹ: \n",
+   "en": "A vine planted in a winepress or in a depression [in the ground], they leave it room to work on it, and one may sow on the rest. Rabbi Yose says: if there are not four cubits there, one may not bring seed there. As for a house that is within a vineyard, it is permitted to sow there."
+  },
+  {
+   "he": "הַנּוֹטֵעַ יָרָק בַּכֶּרֶם אוֹ מְקַיֵּם, הֲרֵי זֶה מְקַדֵּשׁ אַרְבָּעִים וַחֲמִשָּׁה גְפָנִים. אֵימָתַי, בִּזְמַן שֶׁהָיוּ נְטוּעוֹת עַל אַרְבַּע אַרְבַּע, אוֹ עַל חָמֵשׁ חָמֵשׁ. הָיוּ נְטוּעוֹת עַל שֵׁשׁ שֵׁשׁ, אוֹ עַל שֶׁבַע שֶׁבַע, הֲרֵי זֶה מְקַדֵּשׁ שֵׁשׁ עֶשְׂרֵה אַמָּה לְכָל רוּחַ, עֲגֻלּוֹת וְלֹא מְרֻבָּעוֹת: \n",
+   "en": "One who plants a vegetable or leaves it to remain in a vineyard, he renders prohibited [as kilayim] forty-five vines. When is this so? When they were planted with either four or five [cubits between rows]. If they were planted with either six or seven [cubits between rows] he renders prohibited as kilayim [the vines within an area of] sixteen cubits in every direction, in the form of a circle, not of a square."
+  },
+  {
+   "he": "הָרוֹאֶה יָרָק בַּכֶּרֶם, וְאָמַר כְּשֶׁאַגִּיעַ לוֹ אֲלַקְּטֶנּוּ, מֻתָּר. כְּשֶׁאֶחֱזֹר אֲלַקְּטֶנּוּ, אִם הוֹסִיף בְּמָאתַיִם, אָסוּר: \n",
+   "en": "One who sees a vegetable in a vineyard, and said: “When I reach it I will pluck it,” it is permitted. [But if he says:] “When I come back I will pluck it,” if [the vegetable] has [in the meantime] increased by a two-hundredth, it is forbidden."
+  },
+  {
+   "he": "הָיָה עוֹבֵר בַּכֶּרֶם וְנָפְלוּ מִמֶּנּוּ זְרָעִים, אוֹ שֶׁיָּצְאוּ עִם הַזְּבָלִים אוֹ עִם הַמַּיִם, הַזּוֹרֵעַ וְסִעֲרַתּוּ הָרוּחַ לַאֲחוֹרָיו, מֻתָּר. סִעֲרַתּוּ הָרוּחַ לְפָנָיו, רַבִּי עֲקִיבָא אוֹמֵר, אִם עֲשָׂבִים, יוֹפַךְ. וְאִם אָבִיב, יְנַפֵּץ. וְאִם הֵבִיאָה דָגָן, תִּדָּלֵק: \n",
+   "en": "If he was passing through a vineyard, and seeds fell from him, or [seeds] went [into the field] with manure, or with [irrigation] water, or if he was [in a grain field] scattering seed and the wind blew some behind him [into a vineyard], everything is permitted. If the wind blew the seed in front of him [into a vineyard], Rabbi Akiba says: If it has produced small shoots, he must turn the soil. If it has reached the stage of green ears, he must beat them out. If it has grown into grain, it must be burnt."
+  },
+  {
+   "he": "הַמְקַיֵּם קוֹצִים בַּכֶּרֶם, רַבִּי אֱלִיעֶזֶר אוֹמֵר, קִדֵּשׁ. וַחֲכָמִים אוֹמְרִים, לֹא קִדֵּשׁ אֶלָּא דָבָר שֶׁכָּמוֹהוּ מְקַיְּמִין. הָאִירוּס וְהַקִּסּוֹם וְשׁוֹשַׁנַּת הַמֶּלֶךְ וְכָל מִינֵי זְרָעִים, אֵינָן כִּלְאַיִם בַּכָּרֶם. הַקַּנְבּוֹס, רַבִּי טַרְפוֹן אוֹמֵר, אֵינוֹ כִלְאָיִם, וַחֲכָמִים אוֹמְרִים, כִּלְאָיִם. וְהַקִּנְרָס, כִּלְאַיִם בַּכָּרֶם: \n",
+   "en": "One who allows thorns to remain growing in a vineyard: Rabbi Eliezer says: he [thereby] prohibits [the vineyard]. But the sages say: he does not prohibit except if it something that is generally allowed to grow. Iris, ivy, and the king’s lily, and all manner of seeds are not kilayim in a vineyard. [As for] hemp: Rabbi Tarfon said: it is not kilayim, But the sages say it is kilayim. Artichokes are kilayim in a vineyard."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 A vineyard that was partly ruined is still a \"poor vineyard\" if ten properly planted vines remain within a bet seah, a jumbled vineyard counts if two vines can be lined up against three, and Rabbi Meir calls it a vineyard by its appearance. Mishnah 2 A vineyard planted with less than four cubits between the rows is not a vineyard according to Rabbi Shimon, while the Sages say it is one and treat the middle rows as if they were not there. Mishnayot 3–4 A trench, a winepress and a watchman's mound inside a vineyard may be sown only if they are at least ten handbreadths deep or high and four wide (with Rabbi Eliezer ben Yaakov and Rabbi Eliezer on the details), a vine growing in a winepress or hollow is given its working space and the rest may be sown, and a house within a vineyard may be sown. Mishnah 5 One who plants or leaves a vegetable in a vineyard renders forbidden forty-five vines when the vines are four or five cubits apart, but when they are six or seven cubits apart he renders forbidden sixteen cubits in every direction, in a circle and not a square. Mishnayot 6–7 A vegetable seen in a vineyard may be plucked on reaching it but becomes forbidden if it grows a two-hundredth while one delays, and seed that fell, came with manure or water, or was blown behind a person is permitted, while seed blown in front of him must be turned over, beaten out or burnt according to Rabbi Akiva. Mishnah 8 Rabbi Eliezer says that letting thorns remain in a vineyard renders it forbidden but the Sages limit this to what is normally allowed to grow, and the mishnah rules on iris, ivy, the king's lily, hemp and artichokes.",
+  "topics": [
+   {
+    "term": "Kerem dal (a ruined vineyard)",
+    "explanation": "A vineyard that was partly destroyed and left with only a few vines. If ten vines properly planted still stand within a bet seah, it keeps the status of a vineyard and is called a \"poor\" one. This is why the prohibitions of kilayim of the vineyard still apply to it.",
+    "mishnah": 1,
+    "anchors": [
+     "כרם דל"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 5:1:3",
+     "quote": "שגפניו מועטין ואף על פי כן יקרא כרם"
+    }
+   },
+   {
+    "term": "Planted 'ervuvya (a jumbled vineyard)",
+    "explanation": "A vineyard whose vines are not set in straight rows. It still counts as a vineyard if a line can be drawn through the trunks so that two vines face three. The mishnah tests the alignment of the trunks, not of the branches.",
+    "mishnah": 1,
+    "anchors": [
+     "ערבוביא"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 5:1:5",
+     "quote": "שֶׁיָּבִיא חוּט וּמוֹתֵחַ וּמוֹצֵא הַגֶּזַע מְכֻוָּן שְׁתַּיִם כְּנֶגֶד שְׁתַּיִם וְאֶחָד יוֹצֵא זָנָב"
+    }
+   },
+   {
+    "term": "Charitz and gat (trench and winepress)",
+    "explanation": "A trench running through a vineyard that is ten handbreadths deep and four wide, and a winepress of the same size. Whether one may sow in it depends on whether it counts as a separation or as part of the vineyard. A trench that runs the whole length of the vineyard is treated as lying between two vineyards.",
+    "mishnah": 3,
+    "anchors": [
+     "חריץ שהוא עובר בכרם"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 5:3:1",
+     "quote": "דְּחָשֵׁיב הֶפְסֵק וּרְשׁוּת אַחֶרֶת כֵּיוָן דְּעָמֹק עֲשָׂרָה וְרָחָב אַרְבָּעָה וּמְפֻלָּש"
+    }
+   },
+   {
+    "term": "Shomerah and se'ar kotesh (the watchman's mound)",
+    "explanation": "A shomerah is a raised mound in a vineyard from which the watchman guards it. Because it is high and not surrounded by the air of the vineyard, one may sow on it. If the vine shoots become tangled over it, however, it is forbidden.",
+    "mishnah": 3,
+    "anchors": [
+     "שומרה שבכרם",
+     "שער כותש"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 5:3:2",
+     "quote": "שיהיו זמורות הכרם מגיעין לקרקע השומרה"
+    }
+   },
+   {
+    "term": "'Avodat hakerem (the working space of a vine)",
+    "explanation": "The space that must be left around a vine so that it can be worked. For a single vine this is six handbreadths, and the rest of the winepress or hollow may be sown. Rabbi Yose requires four cubits in the hollow before any seed may be brought there.",
+    "mishnah": 4,
+    "anchors": [
+     "נותנין לה עבודתה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 5:4:2",
+     "quote": "שִׁשָּׁה טְפָחִים שֶׁזּוֹ הִיא עֲבוֹדַת גֶּפֶן יְחִידִית"
+    }
+   },
+   {
+    "term": "Kiddush: the forty-five vines and the sixteen-cubit circle",
+    "explanation": "Kiddush here means that the vines become forbidden because of the vegetable planted among them. The mishnah gives two measures: forty-five vines when the vineyard is planted four or five cubits apart, and a circle of sixteen cubits in every direction when it is planted six or seven apart.",
+    "mishnah": 5,
+    "anchors": [
+     "מקדש ארבעים וחמשה גפנים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 5:5:2",
+     "quote": "כְּלַל מִשְׁנָתֵנוּ הוּא שֶׁלְּעוֹלָם מְקַדֵּשׁ שֵׁשׁ עֶשְׂרֵה אַמָּה לְכָל רוּחַ עֲגֻלּוֹת"
+    }
+   },
+   {
+    "term": "Hosafa be-matayim (growth of a two-hundredth)",
+    "explanation": "A vegetable growing in a vineyard becomes forbidden once it has grown by a two-hundredth of its size while one delayed in removing it. The amount is measured by how long it would take the plucked plant to dry out.",
+    "mishnah": 6,
+    "anchors": [
+     "אם הוסיף במאתים"
+    ],
+    "source": {
+     "name": "Yachin",
+     "ref": "Yachin on Mishnah Kilayim 5:31:1",
+     "quote": "ושיעור לידע אם הוסיף חלק ר'. משערין בכמה זמן יתיבש כל ליחות שבו משנקצר"
+    }
+   },
+   {
+    "term": "Yofach, yenapetz, tidalek (turning over, beating out, burning)",
+    "explanation": "Three ways of removing kilayim seed blown into a vineyard, according to how far it has grown. Shoots are plowed under, green ears are beaten out, and full grain is burnt.",
+    "mishnah": 7,
+    "anchors": [
+     "יופך",
+     "ואם אביב"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 5:7:5",
+     "quote": "יַחֲרוֹשׁ וִיהַפֵּךְ שָׁרְשֵׁי הָעֲשָׂבִים וְשׁוּב לֹא יִצְמְחו"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "A spacing the mishnah never mentions",
+    "pasuk": {
+     "text": "וּנְטוּעוֹת כְּהִלְכָתָן, הֲרֵי זֶה נִקְרָא כֶּרֶם דַּל",
+     "ref": "Mishnah Kilayim 5:1",
+     "label": "Mishnah Kilayim 5:1"
+    },
+    "question": "Bartenura explains \"planted according to halakhah\" as two vines opposite two with one trailing, no more than sixteen and no less than four cubits apart. Yet the mishnah says nothing of a four-cubit minimum, and the next mishnah has the Sages call a vineyard planted at less than four cubits a vineyard. Why does the commentary require it here?",
+    "asked_by": [
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Kilayim 5:2:1",
+      "quote": "ותמהני שלא הוזכר תנאי זה במשנה",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:1:1",
+      "quote": "ולכאורה הלכה כרבנן. ולא הוה ליה לפרושיה אליביה דר\"ש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov says the Bartenura and the Rash wrote this according to Rabbi Shimon in the next mishnah, who requires four cubits.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:1:1",
+        "quote": "ואליבא דר\"ש דמתניתין דלקמן"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash reads \"we see\" as the conclusion of the Sages' own reasoning, so even according to them the vines must be properly spaced at four cubits.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Kilayim 5:1:2",
+        "quote": "אף לדבריהם בעינן הכא ללקט ב' כנגד ב' וא' יוצא זנב בהרחקת ד\"א ביניהם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the commentators fit a measure that the mishnah leaves unstated into the machlokes of the next mishnah.",
+    "mishnah": 1,
+    "anchors": [
+     "וּנְטוּעוֹת כְּהִלְכָתָן, הֲרֵי זֶה נִקְרָא כֶּרֶם דַּל"
+    ]
+   },
+   {
+    "title": "\"We see the middle rows as if they were not there\"",
+    "pasuk": {
+     "text": "וְרוֹאִין אֶת הָאֶמְצָעִיּוֹת כְּאִלּוּ אֵינָן",
+     "ref": "Mishnah Kilayim 5:2",
+     "label": "Mishnah Kilayim 5:2"
+    },
+    "question": "What does it mean to see the middle rows as if they were not there? If the Sages mean one may bend them over the seeds, how can the same rows join the outer ones to make a vineyard at the required spacing?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Kilayim 5:2:1",
+      "quote": "ואנכי תמה כיון שאנו רואין אותן כאלו אינן עד שמותר להדלותן כו' איך מצטרפין לרבנן להיות כרם להרחקת ד\"א",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam explains that, as the Gemara states, it is permitted to bend them over seeds because they are like other trees.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 5:2:2",
+        "quote": "כבר פירשו בגמ' שהוא מותר להדלותן על גבי זרעים מפני שהן כשאר העצים"
+       }
+      ]
+     },
+     {
+      "text": "The Bartenura says the middle rows are treated as plain wood, and the outer rows join together to form the vineyard.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 5:2:3",
+        "quote": "דְּרוֹאִים אֶת הָאֶמְצָעִיִּים כְּאִלּוּ אֵינָם וּמִצְטָרְפִין הַחִיצוֹנִים"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash says \"we see\" is the closing of the Sages' reason, and the dispute with Rabbi Shimon is only from three rows upward.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Kilayim 5:2:1",
+        "quote": "אלא נראה דהאי ורואין לכ\"ע סיומא דחכמים לטעם דבריהם"
+       }
+      ]
+     }
+    ],
+    "why": "The same phrase is read either as a leniency or as the reason a vineyard exists at all.",
+    "mishnah": 2,
+    "anchors": [
+     "וְרוֹאִין אֶת הָאֶמְצָעִיּוֹת כְּאִלּוּ אֵינָן"
+    ]
+   },
+   {
+    "title": "What is a se'ar kotesh?",
+    "pasuk": {
+     "text": "וְאִם הָיָה שֵׂעָר כּוֹתֵש",
+     "ref": "Mishnah Kilayim 5:3",
+     "label": "Mishnah Kilayim 5:3"
+    },
+    "question": "The Rash equates \"se'ar kotesh\" with the case in the previous perek where the vine branches were trained over a fence (\"im arsan\"). Tosafot Yom Tov calls it a wonder that the mishnah changed its wording, so what exactly makes the mound forbidden?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:3:1",
+      "quote": "דהיינו דאמר ר\"י בפרק דלעיל משנה ז אם עירסן. ודבר תימה הוא ששינה לשונו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam says the branches are joined at the top of the mound and touch it.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 5:3:2",
+        "quote": "שיהיו ענפי גפנים מחוברים בראש המקום ההוא ונוגעין בו"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir says it is not like the trained branches of the earlier mishnah, where the branches only tangle with each other and shade the fence from a distance, and this settles the difficulty of Tosafot Yom Tov.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Kilayim 5:3:1",
+        "quote": "ולא דמי לערסן דר\"י דפרקין דלעי' (מ\"ז), דהתם אינ' נוגעים הענפים על ראש הגדר אלא מתערבים הענפים זה עם זה ומסככים על הגדר ברחוק ממנו"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin says a kotesh is where the vegetable is entangled with the vine branches.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Kilayim 5:17:1",
+        "quote": "אבל כותש היינו שמסובך הירק עם הענפי גפנים"
+       }
+      ]
+     }
+    ],
+    "why": "The word decides whether the prohibition depends on branches over the mound or on contact with the produce.",
+    "mishnah": 3,
+    "anchors": [
+     "וְאִם הָיָה שֵׂעָר כּוֹתֵש"
+    ]
+   },
+   {
+    "title": "Rabbi Yose's four cubits",
+    "pasuk": {
+     "text": "רַבִּי יוֹסֵי אוֹמֵר, אִם אֵין שָׁם אַרְבַּע אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם",
+     "ref": "Mishnah Kilayim 5:4",
+     "label": "Mishnah Kilayim 5:4"
+    },
+    "question": "The Bartenura likens Rabbi Yose's rule to the open space of the vineyard, where four cubits are given for the work. But if four cubits are already given to the vine, there must be more than four in the winepress for anything to be left to sow. How is the rule to be understood?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:4:1",
+      "quote": "ותימה דא\"כ צריך שיהיה יותר מארבע אמות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam says Rabbi Yose forbids sowing until the winepress has four cubits, and then one keeps six handbreadths from the vine and sows the rest.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 5:4:2",
+        "quote": "ורבי יוסי אוסר עד שיהיה בגת ד\"א ואז ירחיק מן הגפן ו' טפחים וזורע את המותר"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin writes that once there are four cubits it suffices to keep six handbreadths away.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Kilayim 5:22:1",
+        "quote": "לא יביא זרע לשם וביש ד\"א סגי במרחיק ששה טפחים"
+       }
+      ]
+     }
+    ],
+    "why": "It decides how much of a small winepress or hollow may actually be sown.",
+    "mishnah": 4,
+    "anchors": [
+     "רַבִּי יוֹסֵי אוֹמֵר, אִם אֵין שָׁם אַרְבַּע אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם"
+    ]
+   },
+   {
+    "title": "Forty-five vines when planted five cubits apart",
+    "pasuk": {
+     "text": "הֲרֵי זֶה מְקַדֵּשׁ אַרְבָּעִים וַחֲמִשָּׁה גְפָנִים. אֵימָתַי, בִּזְמַן שֶׁהָיוּ נְטוּעוֹת עַל אַרְבַּע אַרְבַּע, אוֹ עַל חָמֵשׁ חָמֵש",
+     "ref": "Mishnah Kilayim 5:5",
+     "label": "Mishnah Kilayim 5:5"
+    },
+    "question": "When the vines are four cubits apart, forty-five vines fall within a circle of sixteen cubits, but at five cubits apart only thirty-seven do. Why does the mishnah give forty-five for both?",
+    "asked_by": [
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Kilayim 5:27:1",
+      "quote": "לא יאסרו מן ז' שורות הפנימיות רק ל\"ז גפנים",
+      "era": "acharon"
+     },
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Kilayim 5:5:1",
+      "quote": "ואין בשום א' מהם דבר מספיק לישב לשון המשנה עם פירוש הירושלמי על בוריו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura says we see the circle as if it were extended by the four cubits of the vineyard's working space, so that the outer vines are included.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 5:5:4",
+        "quote": "רָאִינוּ כְּאִלּוּ הָעֲגֻלָּה נִמְשְׁכָה עַד שֶׁהִגִּיעָה לַשּׁוּרוֹת הַחִיצוֹנוֹת"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov explains that it is a rabbinic decree: since vineyards are generally planted at four cubits and people would not notice the difference, the Sages ruled forty-five for both.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:5:4",
+        "quote": "הלכך גזרו חכמים ואמרו שבין הנטוע על ד' ד' או על ה' ה' לעולם יקדשו מ\"ה גפנים"
+       }
+      ]
+     },
+     {
+      "text": "The Rash MiShantz, following the Yerushalmi, concludes that the sixteen cubits are measured from the place of the vines.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Kilayim 5:5:3",
+        "quote": "אלמא מקדש ט\"ז אמה הוא ממקום גפנים"
+       }
+      ]
+     }
+    ],
+    "why": "It is the hardest geometry in the perek, and every commentator has to choose which part of the mishnah to read non-literally.",
+    "mishnah": 5,
+    "anchors": [
+     "הֲרֵי זֶה מְקַדֵּשׁ אַרְבָּעִים וַחֲמִשָּׁה גְפָנִים. אֵימָתַי, בִּזְמַן שֶׁהָיוּ נְטוּעוֹת עַל אַרְבַּע אַרְבַּע, אוֹ עַל חָמֵשׁ חָמֵש"
+    ]
+   },
+   {
+    "title": "Are the straw stalks forbidden after beating out?",
+    "pasuk": {
+     "text": "אִם עֲשָׂבִים, יוֹפַךְ. וְאִם אָבִיב, יְנַפֵּץ",
+     "ref": "Mishnah Kilayim 5:7",
+     "label": "Mishnah Kilayim 5:7"
+    },
+    "question": "For seed that has reached the green-ear stage, Rabbi Akiva says it is beaten out rather than burnt. Is the straw therefore permitted, as the Rambam writes in his commentary, or forbidden as in his Mishneh Torah, and why is beating out enough?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:7:2",
+      "quote": "אבל בחיבורו פ\"ה פסק כר' יוחנן דהכל אסור בהנאה",
+      "era": "acharon"
+     },
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Kilayim 5:41:1",
+      "quote": "אבל בחיבורו [פ\"ה מכלאים] פסק דגם הכא הקשין אסורים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura says the grain is beaten out from the ear, the straw is permitted and the grain is forbidden.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 5:7:7",
+        "quote": "הַזֶּרַע מִן הַשִּׁבֹּלֶת, וְהַקַּשִּׁין מֻתָּרִין וְהַדָּגָן אָסוּר"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov cites the Yerushalmi that beating out is used because the green ear is more fit for burial while it is moist.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:7:2",
+        "quote": "תירץ בירוש' משום דיותר ראוי לקבורה בעודו אביב ולח"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin says that since the stalks are still soft and moist they are not easy to burn, and it is better to beat them out and bury them.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Kilayim 5:41:1",
+        "quote": "מדעדיין רכין ולחין. אין נוחין לשרפן רק נוח טפי לנפצן ולקברן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the Rambam's two rulings and the Yerushalmi's reason for the mishnah's choice of verb.",
+    "mishnah": 7,
+    "anchors": [
+     "אִם עֲשָׂבִים, יוֹפַךְ. וְאִם אָבִיב, יְנַפֵּץ"
+    ]
+   },
+   {
+    "title": "Why is hemp kilayim in a vineyard?",
+    "pasuk": {
+     "text": "הַקַּנְבּוֹס, רַבִּי טַרְפוֹן אוֹמֵר, אֵינוֹ כִלְאָיִם",
+     "ref": "Mishnah Kilayim 5:8",
+     "label": "Mishnah Kilayim 5:8"
+    },
+    "question": "The mishnah rules that hemp is kilayim in a vineyard. Rashi gives the reason that such seeds resemble a vineyard because they bear clusters like grapes, while the Rambam says they ripen together with the vineyard's produce. Which reason is right?",
+    "asked_by": [
+     {
+      "name": "Tosefot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:8:1",
+      "quote": "וזהו מן התימה על פרש\"י דהתם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov cites Rashi: hemp and lof carry clusters like grapes, which is why they are kilayim.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:8:1",
+        "quote": "בקנבוס ולוף תולין אשכולות כעין ענבים"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov also cites the Rambam, who gave the reason that they ripen together with the vineyard's grain.",
+      "sources": [
+       {
+        "name": "Tosefot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:8:1",
+        "quote": "והרמב\"ם בפ\"ה נתן טעם שנגמרים עם תבואת הכרם"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin explains that the Sages forbid it because it resembles grapes.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Kilayim 5:52:1",
+        "quote": "כלאים מדדומה לענבים"
+       }
+      ]
+     }
+    ],
+    "why": "It exposes the two rationales behind the rabbinic category of seeds that resemble the vine.",
+    "mishnah": 8,
+    "anchors": [
+     "הַקַּנְבּוֹס, רַבִּי טַרְפוֹן אוֹמֵר, אֵינוֹ כִלְאָיִם"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Yachin",
+   "Tosefot Yom Tov",
+   "Rashash",
+   "Rambam",
+   "Bartenura",
+   "Hon Ashir",
+   "Rash MiShantz"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א כרם שחרב נקרא כרם דל אם נשארו בו עשר גפנים נטועות כהלכתן בבית סאה, כרם נטוע ערבוביא הוא כרם אם אפשר לכוון בו שתים נגד שלש, ורבי מאיר אומר שהוא כרם מפני שנראה כתבנית הכרמים. משנה ב כרם הנטוע בפחות מארבע אמות בין שורה לשורה אינו כרם לדעת רבי שמעון, וחכמים אומרים שהוא כרם ורואים את האמצעיות כאילו אינן. משניות ג-ד חריץ, גת ושומרה שבכרם מותר לזרוע בתוכם כשיש בהם עשרה עומק או גובה וארבעה רוחב (ובפרטים חלוקים רבי אליעזר בן יעקב ורבי אליעזר), גפן הנטועה בגת או בנקע נותנים לה עבודתה וזורעים את המותר, והבית שבכרם זורעים בתוכו. משנה ה הנוטע ירק בכרם או מקיימו מקדש ארבעים וחמש גפנים כשהגפנים נטועות על ארבע ארבע או חמש חמש, ובנטועות על שש שש או שבע שבע הוא מקדש שש עשרה אמה לכל רוח, עגולות ולא מרובעות. משניות ו-ז הרואה ירק בכרם ואומר כשאגיע לו אלקטנו מותר, אך אם הוסיף במאתים בזמן שהוא מתעכב אסור, וזרעים שנפלו ממנו או שיצאו עם הזבלים או עם המים או שסערתם הרוח לאחריו מותרים, ובסערתם הרוח לפניו אומר רבי עקיבא שיופך, ינפץ או תדלק לפי מצב הצמח. משנה ח המקיים קוצים בכרם, רבי אליעזר אומר שקידש וחכמים אומרים שלא קידש אלא דבר שכמוהו מקיימים, והמשנה פוסקת באירוס, בקיסום, בשושנת המלך, בקנבוס ובקינרס.",
+  "topics": [
+   {
+    "term": "כרם דל",
+    "explanation": "כרם שחרב רובו ונשארו בו גפנים מעטות. אם נשארו בו עשר גפנים נטועות כהלכתן בבית סאה, הוא שומר על דין כרם ונקרא כרם דל, ולכן עדיין חלים עליו איסורי כלאי הכרם.",
+    "mishnah": 1,
+    "anchors": [
+     "כרם דל"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 5:1:3",
+     "quote": "שגפניו מועטין ואף על פי כן יקרא כרם"
+    }
+   },
+   {
+    "term": "נטוע ערבוביא",
+    "explanation": "כרם שהגפנים בו אינן נטועות בשורות ישרות. הוא נחשב כרם אם אפשר לכוון בו את הגזעים שתים נגד שלש, והבדיקה היא בגזעים ולא בענפים.",
+    "mishnah": 1,
+    "anchors": [
+     "ערבוביא"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 5:1:5",
+     "quote": "שֶׁיָּבִיא חוּט וּמוֹתֵחַ וּמוֹצֵא הַגֶּזַע מְכֻוָּן שְׁתַּיִם כְּנֶגֶד שְׁתַּיִם וְאֶחָד יוֹצֵא זָנָב"
+    }
+   },
+   {
+    "term": "חריץ וגת",
+    "explanation": "חריץ העובר בכרם בעומק עשרה וברוחב ארבעה, וגת באותם שיעורים. השאלה אם מותר לזרוע בהם תלויה בכך אם הם נחשבים הפסק או חלק מהכרם, וחריץ המפולש לכל אורך הכרם נחשב כמו בין שני כרמים.",
+    "mishnah": 3,
+    "anchors": [
+     "חריץ שהוא עובר בכרם"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 5:3:1",
+     "quote": "דְּחָשֵׁיב הֶפְסֵק וּרְשׁוּת אַחֶרֶת כֵּיוָן דְּעָמֹק עֲשָׂרָה וְרָחָב אַרְבָּעָה וּמְפֻלָּש"
+    }
+   },
+   {
+    "term": "שומרה ושער כותש",
+    "explanation": "שומרה היא תל גבוה בכרם שהשומר עומד עליו, ומפני שהיא גבוהה ואין אוויר הכרם מקיף אותה מותר לזרוע בה. אולם אם הענפים מסתבכים עליה אסור.",
+    "mishnah": 3,
+    "anchors": [
+     "שומרה שבכרם",
+     "שער כותש"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 5:3:2",
+     "quote": "שיהיו זמורות הכרם מגיעין לקרקע השומרה"
+    }
+   },
+   {
+    "term": "עבודת הכרם",
+    "explanation": "המקום שצריך להניח סביב לגפן כדי לעבוד אותה. לגפן יחידית זה ששה טפחים, ואת היתר בגת או בנקע מותר לזרוע. רבי יוסי דורש ארבע אמות בגת לפני שמביאים לשם זרע.",
+    "mishnah": 4,
+    "anchors": [
+     "נותנין לה עבודתה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 5:4:2",
+     "quote": "שִׁשָּׁה טְפָחִים שֶׁזּוֹ הִיא עֲבוֹדַת גֶּפֶן יְחִידִית"
+    }
+   },
+   {
+    "term": "קידוש ארבעים וחמש גפנים",
+    "explanation": "קידוש כאן פירושו שהגפנים נאסרות בגלל הירק שנטוע ביניהן. המשנה נותנת שני שיעורים: ארבעים וחמש גפנים כשהכרם נטוע על ארבע או חמש אמות, ועיגול של שש עשרה אמה לכל רוח כשהוא נטוע על שש או שבע.",
+    "mishnah": 5,
+    "anchors": [
+     "מקדש ארבעים וחמשה גפנים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 5:5:2",
+     "quote": "כְּלַל מִשְׁנָתֵנוּ הוּא שֶׁלְּעוֹלָם מְקַדֵּשׁ שֵׁשׁ עֶשְׂרֵה אַמָּה לְכָל רוּחַ עֲגֻלּוֹת"
+    }
+   },
+   {
+    "term": "הוספה במאתים",
+    "explanation": "ירק בכרם נאסר כשהוסיף חלק ממאתים בגידולו בזמן שהאדם התעכב מלעקרו, והשיעור נמדד לפי הזמן שבו היה הירק התלוש מתייבש.",
+    "mishnah": 6,
+    "anchors": [
+     "אם הוסיף במאתים"
+    ],
+    "source": {
+     "name": "תפארת ישראל (יכין)",
+     "ref": "Yachin on Mishnah Kilayim 5:31:1",
+     "quote": "ושיעור לידע אם הוסיף חלק ר'. משערין בכמה זמן יתיבש כל ליחות שבו משנקצר"
+    }
+   },
+   {
+    "term": "יופך, ינפץ, תדלק",
+    "explanation": "שלוש דרכים להסיר זרע כלאיים שנישא לכרם, לפי מידת צמיחתו: עשבים נהפכים בחרישה, אביב מנופץ, ודגן נשרף.",
+    "mishnah": 7,
+    "anchors": [
+     "יופך",
+     "ואם אביב"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 5:7:5",
+     "quote": "יַחֲרוֹשׁ וִיהַפֵּךְ שָׁרְשֵׁי הָעֲשָׂבִים וְשׁוּב לֹא יִצְמְחו"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "תנאי שהמשנה לא הזכירה",
+    "pasuk": {
+     "text": "וּנְטוּעוֹת כְּהִלְכָתָן, הֲרֵי זֶה נִקְרָא כֶּרֶם דַּל",
+     "ref": "Mishnah Kilayim 5:1",
+     "label": "משנה כלאים ה, א"
+    },
+    "question": "הברטנורא מפרש \"נטועות כהלכתן\" שתים כנגד שתים ואחת יוצאת זנב, ושלא יהיו רחוקות זו מזו יותר משש עשרה אמה ולא פחות מארבע אמות. אך המשנה אינה מזכירה מינימום של ארבע אמות, ובמשנה שאחריה חכמים אומרים שכרם הנטוע בפחות מארבע אמות הוא כרם. מדוע נדרש התנאי כאן?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Kilayim 5:2:1",
+      "quote": "ותמהני שלא הוזכר תנאי זה במשנה",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:1:1",
+      "quote": "ולכאורה הלכה כרבנן. ולא הוה ליה לפרושיה אליביה דר\"ש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב מסביר שהברטנורא והר\"ש כתבו זאת לפי רבי שמעון שבמשנה הבאה, שדורש ארבע אמות.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:1:1",
+        "quote": "ואליבא דר\"ש דמתניתין דלקמן"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש מבין שהמילים \"ורואין\" הן סיום דברי חכמים, ולכן גם לדבריהם צריך שהגפנים יהיו מרוחקות ארבע אמות.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Kilayim 5:1:2",
+        "quote": "אף לדבריהם בעינן הכא ללקט ב' כנגד ב' וא' יוצא זנב בהרחקת ד\"א ביניהם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד המפרשים משלבים שיעור שהמשנה לא כתבה במחלוקת שבמשנה הבאה.",
+    "mishnah": 1,
+    "anchors": [
+     "וּנְטוּעוֹת כְּהִלְכָתָן, הֲרֵי זֶה נִקְרָא כֶּרֶם דַּל"
+    ]
+   },
+   {
+    "title": "\"רואין את האמצעיות כאילו אינן\"",
+    "pasuk": {
+     "text": "וְרוֹאִין אֶת הָאֶמְצָעִיּוֹת כְּאִלּוּ אֵינָן",
+     "ref": "Mishnah Kilayim 5:2",
+     "label": "משנה כלאים ה, ב"
+    },
+    "question": "מה פירוש \"רואין את האמצעיות כאילו אינן\"? אם הכוונה שמותר להדלותן על גבי הזרעים, כיצד אותן שורות מצטרפות לחיצוניות להיות כרם בהרחקה הנדרשת?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Kilayim 5:2:1",
+      "quote": "ואנכי תמה כיון שאנו רואין אותן כאלו אינן עד שמותר להדלותן כו' איך מצטרפין לרבנן להיות כרם להרחקת ד\"א",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם מבאר שכפי שפירשו בגמרא מותר להדלותן על גבי זרעים מפני שהן כשאר עצים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 5:2:2",
+        "quote": "כבר פירשו בגמ' שהוא מותר להדלותן על גבי זרעים מפני שהן כשאר העצים"
+       }
+      ]
+     },
+     {
+      "text": "הברטנורא אומר שהשורות האמצעיות נחשבות עצים בעלמא, והחיצוניות מצטרפות להיות כרם.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 5:2:3",
+        "quote": "דְּרוֹאִים אֶת הָאֶמְצָעִיִּים כְּאִלּוּ אֵינָם וּמִצְטָרְפִין הַחִיצוֹנִים"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש אומר ש\"ורואין\" הוא סיום טעם דברי חכמים, והמחלוקת היא רק משלוש שורות ומעלה.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Kilayim 5:2:1",
+        "quote": "אלא נראה דהאי ורואין לכ\"ע סיומא דחכמים לטעם דבריהם"
+       }
+      ]
+     }
+    ],
+    "why": "אותו ביטוי נקרא פעם כהיתר ופעם כטעם לעצם היות הכרם כרם.",
+    "mishnah": 2,
+    "anchors": [
+     "וְרוֹאִין אֶת הָאֶמְצָעִיּוֹת כְּאִלּוּ אֵינָן"
+    ]
+   },
+   {
+    "title": "מהו שער כותש",
+    "pasuk": {
+     "text": "וְאִם הָיָה שֵׂעָר כּוֹתֵש",
+     "ref": "Mishnah Kilayim 5:3",
+     "label": "משנה כלאים ה, ג"
+    },
+    "question": "הר\"ש משווה \"שער כותש\" למקרה שבפרק הקודם שבו הענפים הורכבו על גדר (\"אם עירסן\"). התוספות יום טוב תמה מדוע שינתה המשנה את לשונה, ומה בדיוק אוסר את השומרה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:3:1",
+      "quote": "דהיינו דאמר ר\"י בפרק דלעיל משנה ז אם עירסן. ודבר תימה הוא ששינה לשונו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם אומר שענפי הגפנים מחוברים בראש המקום ונוגעים בו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 5:3:2",
+        "quote": "שיהיו ענפי גפנים מחוברים בראש המקום ההוא ונוגעין בו"
+       }
+      ]
+     },
+     {
+      "text": "חון עשיר אומר שאין זה כמו עירסן שבפרק הקודם, שם הענפים רק מתערבים זה בזה ומסככים על הגדר ברחוק ממנו, ובכך מתיישבת הקושיה של התוספות יום טוב.",
+      "sources": [
+       {
+        "name": "חון עשיר",
+        "ref": "Hon Ashir on Mishnah Kilayim 5:3:1",
+        "quote": "ולא דמי לערסן דר\"י דפרקין דלעי' (מ\"ז), דהתם אינ' נוגעים הענפים על ראש הגדר אלא מתערבים הענפים זה עם זה ומסככים על הגדר ברחוק ממנו"
+       }
+      ]
+     },
+     {
+      "text": "התפארת ישראל אומר שכותש הוא כשהירק מסובך עם ענפי הגפנים.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Kilayim 5:17:1",
+        "quote": "אבל כותש היינו שמסובך הירק עם הענפי גפנים"
+       }
+      ]
+     }
+    ],
+    "why": "המילה קובעת אם האיסור תלוי בענפים שמעל השומרה או במגע עם הצמח.",
+    "mishnah": 3,
+    "anchors": [
+     "וְאִם הָיָה שֵׂעָר כּוֹתֵש"
+    ]
+   },
+   {
+    "title": "ארבע האמות של רבי יוסי",
+    "pasuk": {
+     "text": "רַבִּי יוֹסֵי אוֹמֵר, אִם אֵין שָׁם אַרְבַּע אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם",
+     "ref": "Mishnah Kilayim 5:4",
+     "label": "משנה כלאים ה, ד"
+    },
+    "question": "הברטנורא משווה את דין רבי יוסי למחול הכרם שבו נותנים ארבע אמות לעבודה. אבל אם ארבע אמות כבר ניתנות לגפן, צריך שיהיו בגת יותר מארבע אמות כדי שיישאר מקום לזריעה. כיצד יש להבין את הדין?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:4:1",
+      "quote": "ותימה דא\"כ צריך שיהיה יותר מארבע אמות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם אומר שרבי יוסי אוסר עד שיהיו בגת ארבע אמות, ואז מרחיק מן הגפן ששה טפחים וזורע את המותר.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 5:4:2",
+        "quote": "ורבי יוסי אוסר עד שיהיה בגת ד\"א ואז ירחיק מן הגפן ו' טפחים וזורע את המותר"
+       }
+      ]
+     },
+     {
+      "text": "התפארת ישראל כותב שכשיש ארבע אמות די להרחיק ששה טפחים,.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Kilayim 5:22:1",
+        "quote": "לא יביא זרע לשם וביש ד\"א סגי במרחיק ששה טפחים"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע כמה מגת קטנה או מנקע מותר לזרוע בפועל.",
+    "mishnah": 4,
+    "anchors": [
+     "רַבִּי יוֹסֵי אוֹמֵר, אִם אֵין שָׁם אַרְבַּע אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם"
+    ]
+   },
+   {
+    "title": "ארבעים וחמש גפנים בנטועות על חמש חמש",
+    "pasuk": {
+     "text": "הֲרֵי זֶה מְקַדֵּשׁ אַרְבָּעִים וַחֲמִשָּׁה גְפָנִים. אֵימָתַי, בִּזְמַן שֶׁהָיוּ נְטוּעוֹת עַל אַרְבַּע אַרְבַּע, אוֹ עַל חָמֵשׁ חָמֵש",
+     "ref": "Mishnah Kilayim 5:5",
+     "label": "משנה כלאים ה, ה"
+    },
+    "question": "כשהגפנים נטועות על ארבע ארבע, ארבעים וחמש גפנים נופלות בעיגול של שש עשרה אמה, אך על חמש חמש נופלות רק שלושים ושבע. מדוע המשנה אומרת ארבעים וחמש בשני המקרים?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Kilayim 5:27:1",
+      "quote": "לא יאסרו מן ז' שורות הפנימיות רק ל\"ז גפנים",
+      "era": "acharon"
+     },
+     {
+      "name": "חון עשיר",
+      "ref": "Hon Ashir on Mishnah Kilayim 5:5:1",
+      "quote": "ואין בשום א' מהם דבר מספיק לישב לשון המשנה עם פירוש הירושלמי על בוריו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא אומר שרואים כאילו העגולה נמשכה עד השורות החיצוניות בארבע האמות של עבודת הכרם, ולכן הגפנים החיצוניות נכללות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 5:5:4",
+        "quote": "רָאִינוּ כְּאִלּוּ הָעֲגֻלָּה נִמְשְׁכָה עַד שֶׁהִגִּיעָה לַשּׁוּרוֹת הַחִיצוֹנוֹת"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב מסביר שזו גזרת חכמים: מפני שסתם כרם נטוע על ארבע ולא ניכר ההבדל, גזרו שיקדשו ארבעים וחמש בשני המקרים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:5:4",
+        "quote": "הלכך גזרו חכמים ואמרו שבין הנטוע על ד' ד' או על ה' ה' לעולם יקדשו מ\"ה גפנים"
+       }
+      ]
+     },
+     {
+      "text": "הרש משנץ, על פי הירושלמי, מסיק שמדידת שש עשרה האמות היא ממקום הגפנים.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Kilayim 5:5:3",
+        "quote": "אלמא מקדש ט\"ז אמה הוא ממקום גפנים"
+       }
+      ]
+     }
+    ],
+    "why": "זו הגיאומטריה הקשה ביותר בפרק, וכל מפרש צריך לבחור איזה חלק במשנה לקרוא שלא כפשוטו.",
+    "mishnah": 5,
+    "anchors": [
+     "הֲרֵי זֶה מְקַדֵּשׁ אַרְבָּעִים וַחֲמִשָּׁה גְפָנִים. אֵימָתַי, בִּזְמַן שֶׁהָיוּ נְטוּעוֹת עַל אַרְבַּע אַרְבַּע, אוֹ עַל חָמֵשׁ חָמֵש"
+    ]
+   },
+   {
+    "title": "האם הקשין אסורים אחרי הניפוץ",
+    "pasuk": {
+     "text": "אִם עֲשָׂבִים, יוֹפַךְ. וְאִם אָבִיב, יְנַפֵּץ",
+     "ref": "Mishnah Kilayim 5:7",
+     "label": "משנה כלאים ה, ז"
+    },
+    "question": "בזרע שהגיע לשלב אביב אומר רבי עקיבא שינפץ ולא ישרף. האם הקשין מותרים, כפי שכותב הרמב\"ם בפירושו, או אסורים כפי שפסק בחיבורו, ומדוע מספיק ניפוץ?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:7:2",
+      "quote": "אבל בחיבורו פ\"ה פסק כר' יוחנן דהכל אסור בהנאה",
+      "era": "acharon"
+     },
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Kilayim 5:41:1",
+      "quote": "אבל בחיבורו [פ\"ה מכלאים] פסק דגם הכא הקשין אסורים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא אומר שמנפצים את הזרע מן השיבולת, והקשין מותרים והדגן אסור.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 5:7:7",
+        "quote": "הַזֶּרַע מִן הַשִּׁבֹּלֶת, וְהַקַּשִּׁין מֻתָּרִין וְהַדָּגָן אָסוּר"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב מביא את הירושלמי שמנפצים מפני שהאביב ראוי יותר לקבורה בעודו לח.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:7:2",
+        "quote": "תירץ בירוש' משום דיותר ראוי לקבורה בעודו אביב ולח"
+       }
+      ]
+     },
+     {
+      "text": "התפארת ישראל אומר שמפני שהם עדיין רכים ולחים אין נוחים לשרפם, ונוח יותר לנפצם ולקברם.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Kilayim 5:41:1",
+        "quote": "מדעדיין רכין ולחין. אין נוחין לשרפן רק נוח טפי לנפצן ולקברן"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את שתי פסיקות הרמב\"ם ואת טעם הירושלמי לבחירת הלשון במשנה.",
+    "mishnah": 7,
+    "anchors": [
+     "אִם עֲשָׂבִים, יוֹפַךְ. וְאִם אָבִיב, יְנַפֵּץ"
+    ]
+   },
+   {
+    "title": "מדוע קנבוס כלאים בכרם",
+    "pasuk": {
+     "text": "הַקַּנְבּוֹס, רַבִּי טַרְפוֹן אוֹמֵר, אֵינוֹ כִלְאָיִם",
+     "ref": "Mishnah Kilayim 5:8",
+     "label": "משנה כלאים ה, ח"
+    },
+    "question": "המשנה פוסקת שקנבוס כלאים בכרם. רש\"י נותן טעם שזרעים אלו דומים לכרם כי יש להם אשכולות כענבים, והרמב\"ם אומר שהם נגמרים עם תבואת הכרם. איזה טעם נכון?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:8:1",
+      "quote": "וזהו מן התימה על פרש\"י דהתם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב מביא את רש\"י: בקנבוס ולוף תולין אשכולות כעין ענבים, ולכן הם כלאים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:8:1",
+        "quote": "בקנבוס ולוף תולין אשכולות כעין ענבים"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב מביא גם את הרמב\"ם שנתן טעם שהם נגמרים עם תבואת הכרם.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 5:8:1",
+        "quote": "והרמב\"ם בפ\"ה נתן טעם שנגמרים עם תבואת הכרם"
+       }
+      ]
+     },
+     {
+      "text": "התפארת ישראל מסביר שחכמים אוסרים משום שהוא דומה לענבים.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Kilayim 5:52:1",
+        "quote": "כלאים מדדומה לענבים"
+       }
+      ]
+     }
+    ],
+    "why": "חושף את שני הנימוקים לקטגוריה הרבנית של זרעים הדומים לגפן.",
+    "mishnah": 8,
+    "anchors": [
+     "הַקַּנְבּוֹס, רַבִּי טַרְפוֹן אוֹמֵר, אֵינוֹ כִלְאָיִם"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תפארת ישראל (יכין)",
+   "תוספות יום טוב",
+   "רש\"ש",
+   "רמב\"ם",
+   "ברטנורא",
+   "חון עשיר",
+   "רש משנץ"
+  ]
+ }
+}
