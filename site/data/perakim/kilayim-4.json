@@ -1,0 +1,1082 @@
+{
+ "date": "2026-11-04",
+ "hebrew_date": {
+  "hebrew": "כ״ד בְּחֶשְׁוָן תשפ״ז",
+  "english": "24 Cheshvan 5787"
+ },
+ "masechet": "kilayim",
+ "perek": 4,
+ "ref": "Mishnah Kilayim 4",
+ "mishnayot": [
+  {
+   "he": "קָרַחַת הַכֶּרֶם, בֵּית שַׁמַּאי אוֹמְרִים, עֶשְׂרִים וְאַרְבַּע אַמּוֹת. וּבֵית הִלֵּל אוֹמְרִים שֵׁשׁ עֶשְׂרֵה אַמָּה. מְחוֹל הַכֶּרֶם, בֵּית שַׁמַּאי אוֹמְרִים, שֵׁשׁ עֶשְׂרֵה אַמָּה. וּבֵית הִלֵּל אוֹמְרִים שְׁתֵּים עֶשְׂרֵה אַמָּה. וְאֵיזוֹ הִיא קָרַחַת הַכֶּרֶם. כֶּרֶם שֶׁחָרַב מֵאֶמְצָעוֹ. אִם אֵין שָׁם שֵׁשׁ עֶשְׂרֵה אַמָּה, לֹא יָבִיא זֶרַע לְשָׁם. הָיוּ שָׁם שֵׁשׁ עֶשְׂרֵה אַמָּה, נוֹתְנִין לָהּ עֲבוֹדָתָהּ, וְזוֹרֵעַ אֶת הַמּוֹתָר: \n",
+   "en": "A karahat [a bare patch] within a vineyard: Bet Shammai says: [it must measure] twenty-four cubits [by twenty-four cubits]. But Bet Hillel says: sixteen cubits. A mehol [an unsown belt of ground between a planted area and a fence] of a vineyard: Bet Shammai says: [it must measure] sixteen cubits. But Bet Hillel says: twelve cubits. What is a karahat of a vineyard? A vineyard which has been cleared [of vines] in its middle. If there are less than sixteen cubits, then one may not bring seed into it. If it is sixteen cubits, they leave a space in which to work [the vineyard] and they may sow the rest."
+  },
+  {
+   "he": "אֵיזֶה הוּא מְחוֹל הַכֶּרֶם. בֵּין כֶּרֶם לַגָּדֵר. אִם אֵין שָׁם שְׁתֵּים עֶשְׂרֵה אַמָּה, לֹא יָבִיא זֶרַע לְשָׁם. הָיוּ שָׁם שְׁתֵּים עֶשְׂרֵה אַמָּה, נוֹתְנִין לוֹ עֲבוֹדָתוֹ וְזוֹרֵעַ אֶת הַמּוֹתָר: \n",
+   "en": "What is a mehol in a vineyard? [The space] between the vineyard and a fence. If there are less than twelve cubits, then one may not bring seed into it. If there are twelve cubits, they leave a space in which to work [the vineyard] and they may sow the rest."
+  },
+  {
+   "he": "רַבִּי יְהוּדָה אוֹמֵר, אֵין זֶה אֶלָּא גֶדֶר הַכֶּרֶם. וְאֵיזֶה הוּא מְחוֹל הַכֶּרֶם. בֵּין שְׁנֵי הַכְּרָמִים. אֵיזֶה הוּא גָדֵר, שֶׁהוּא גָבוֹהַּ עֲשָׂרָה טְפָחִים. וְחָרִיץ, שֶׁהוּא עָמֹק עֲשָׂרָה וְרָחָב אַרְבָּעָה: \n",
+   "en": "Rabbi Judah says: this is nothing but the fence of the vineyard fence. What then is a mehol of a vineyard? [A space] between two vineyards. What is considered a fence? One that is ten handbreadths high. And what is considered a trench? One ten handbreadths deep and four wide."
+  },
+  {
+   "he": "מְחִצַּת הַקָּנִים, אִם אֵין בֵּין קָנֶה לַחֲבֵרוֹ שְׁלֹשָׁה טְפָחִים, כְּדֵי שֶׁיִּכָּנֵס הַגְּדִי, הֲרֵי זוֹ כִמְחִצָּה. וְגָדֵר שֶׁנִּפְרַץ, עַד עֶשֶׂר אַמּוֹת הֲרֵי הוּא כְפֶתַח, יָתֵר מִכֵּן, כְּנֶגֶד הַפִּרְצָה אָסוּר. נִפְרְצוּ בוֹ פְרָצוֹת הַרְבֵּה, אִם הָעוֹמֵד מְרֻבֶּה עַל הַפָּרוּץ, מֻתָּר, וְאִם הַפָּרוּץ מְרֻבֶּה עַל הָעוֹמֵד, כְּנֶגֶד הַפִּרְצָה אָסוּר: \n",
+   "en": "A partition of reeds: if between one reed and another there are less than three handbreadths, [the space] through which a kid (young goat) could enter, it counts as a [legally effective] partition. A [stone] fence which has been broken through up to [the length of] ten cubits, [the breach] is [regarded] as a doorway; more than that, opposite the breach it is prohibited [to sow seeds]. If there were many breaches in the fence, if that which remains standing exceeds that which is broken through, it is permitted [to sow there]. But if the breached sections exceed those which remain standing, it is forbidden [to sow opposite the breaches.]"
+  },
+  {
+   "he": "הַנּוֹטֵעַ שׁוּרָה שֶׁל חָמֵשׁ גְּפָנִים, בֵּית שַׁמַּאי אוֹמְרִים, כֶּרֶם. וּבֵית הִלֵּל אוֹמְרִים, אֵינוֹ כֶרֶם, עַד שֶׁיְּהוּ שָׁם שְׁתֵּי שׁוּרוֹת. לְפִיכָךְ, הַזּוֹרֵעַ אַרְבַּע אַמּוֹת שֶׁבַּכֶּרֶם, בֵּית שַׁמַּאי אוֹמְרִים, קִדֵּשׁ שׁוּרָה אַחַת. וּבֵית הִלֵּל אוֹמְרִים, קִדֵּשׁ שְׁתֵּי שׁוּרוֹת: \n",
+   "en": "One who has planted a row of [at least] five vines: Bet Shammai says: these constitute a vineyard. But Bet Hillel says: they do not constitute a vineyard unless there are two rows. Consequently, one who sows four cubits within the vineyard: Beth Shammai says: he has sanctified one row [of the vineyard, and created kilayim]. But Bet Hillel says: he has sanctified two rows."
+  },
+  {
+   "he": "הַנּוֹטֵעַ שְׁתַּיִם כְּנֶגֶד שְׁתַּיִם, וְאַחַת יוֹצְאָה זָנָב, הֲרֵי זֶה כֶרֶם. שְׁתַּיִם כְּנֶגֶד שְׁתַּיִם וְאַחַת בֵּינְתַיִם, אוֹ שְׁתַּיִם כְּנֶגֶד שְׁתַּיִם וְאַחַת בָּאֶמְצַע, אֵינוֹ כֶרֶם, עַד שֶׁיְּהוּ שְׁתַּיִם כְּנֶגֶד שְׁתַּיִם וְאַחַת יוֹצְאָה זָנָב: \n",
+   "en": "One who plants two [vines] opposite two [other vines], and one [other vine] forming a “tail” behold this is a vineyard. Two [vines] opposite two [other vines], and one [other vine] in between, or two opposite two, and one in the middle, these are not a vineyard until there are two opposite two with one [other] forming a tail."
+  },
+  {
+   "he": "הַנּוֹטֵעַ שׁוּרָה אַחַת בְּתוֹךְ שֶׁלּוֹ, וְשׁוּרָה אַחַת בְּתוֹךְ שֶׁל חֲבֵרוֹ, וְדֶרֶךְ הַיָּחִיד וְדֶרֶךְ הָרַבִּים בָּאֶמְצַע, וְגָדֵר שֶׁהוּא נָמוּךְ מֵעֲשָׂרָה טְפָחִים, הֲרֵי אֵלּוּ מִצְטָרְפוֹת. גָּבוֹהַּ מֵעֲשָׂרָה טְפָחִים, אֵינָן מִצְטָרְפוֹת. רַבִּי יְהוּדָה אוֹמֵר, אִם עֵרְסָן מִלְמַעְלָה, הֲרֵי אֵלּוּ מִצְטָרְפוֹת: \n",
+   "en": "One who has planted one row [of vines] on his own [land] and another row on his neighbor's [land], and there is a private road or a public road in the middle, or a fence lower than ten handbreadths, these [two rows] combine. If there is a fence higher than ten handbreadths they do not combine. Rabbi Judah says: If he intertwines them [the rows of vines] above [the fence] they do combine."
+  },
+  {
+   "he": "הַנּוֹטֵעַ שְׁתֵּי שׁוּרוֹת, אִם אֵין בֵּינֵיהֶן שְׁמֹנֶה אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם. הָיוּ שָׁלֹשׁ, אִם אֵין בֵּין שׁוּרָה לַחֲבֶרְתָּהּ שֵׁשׁ עֶשְׂרֵה אַמָּה, לֹא יָבִיא זֶרַע לְשָׁם. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר מִשּׁוּם חֲנִינָא בֶן חֲכִינַאי, אֲפִלּוּ חָרְבָה הָאֶמְצָעִית וְאֵין בֵּין שׁוּרָה לַחֲבֶרְתָּהּ שֵׁשׁ עֶשְׂרֵה אַמָּה, לֹא יָבִיא זֶרַע לְשָׁם, שֶׁאִלּוּ מִתְּחִלָּה נְטָעָן הֲרֵי זֶה מֻתָּר בִּשְׁמֹנֶה אַמּוֹת: \n",
+   "en": "One who has planted two rows [of vines] if there are not eight cubits between them, he may not bring seed there [in the space between the two rows]. If there are three [rows] if there are not between one row and its companion sixteen cubits he may not bring seed there. Rabbi Eliezer ben Jacob said in the name of Hananya ben Hakinai: even if the middle row was laid waste and there is not between one row and its companion row sixteen cubits, he may not bring seed there, but if he had planted them [two rows] at the outset, it is permitted [to sow between them] if they are eight cubits [apart]."
+  },
+  {
+   "he": "הַנּוֹטֵעַ אֶת כַּרְמוֹ עַל שֵׁשׁ עֶשְׂרֵה אַמָּה שֵׁשׁ עֶשְׂרֵה אַמָּה, מֻתָּר לְהָבִיא זֶרַע לְשָׁם. אָמַר רַבִּי יְהוּדָה, מַעֲשֶׂה בְצַלְמוֹן, בְּאֶחָד שֶׁנָּטַע אֶת כַּרְמוֹ עַל שֵׁשׁ עֶשְׂרֵה שֵׁשׁ עֶשְׂרֵה אַמָּה, וְהָיָה הוֹפֵךְ שְׂעַר שְׁתֵּי שׁוּרוֹת לְצַד אֶחָד וְזוֹרֵעַ אֶת הַנִּיר, וּבְשָׁנָה אַחֶרֶת הָיָה הוֹפֵךְ אֶת הַשֵּׂעָר לְמָקוֹם אַחֵר וְזוֹרֵעַ אֶת הַבּוּר, וּבָא מַעֲשֶׂה לִפְנֵי חֲכָמִים, וְהִתִּירוּ. רַבִּי מֵאִיר וְרַבִּי שִׁמְעוֹן אוֹמְרִים, אַף הַנּוֹטֵעַ אֶת כַּרְמוֹ עַל שְׁמֹנֶה שְׁמֹנֶה אַמּוֹת, מֻתָּר: \n",
+   "en": "One who plants his vineyard sixteen cubits, sixteen cubits [separating each row], he may bring seed there. Rabbi Judah said: It happened at Tsalmon that a man planted his vineyard on [a plan of] sixteen cubits, sixteen cubits [separating each row]. [One year] he would turn the tips of the vine branches of two [adjacent rows] towards one place, and sow the furrow [in between], and the following year he would turn the tips of the vine branches in the opposite direction, and sow the land which had been left untilled [the preceding year]. The matter came before the sages, and they declared it permitted. Rabbi Meir and Rabbi Shimon say: even one who has planted his vineyard with eight cubits [between every two rows], this is permitted."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1: Bet Shammai require twenty-four cubits for a bare patch within a vineyard and Bet Hillel sixteen, and for the open belt of a vineyard sixteen and twelve; if there is less, one may not bring seed there, and if there is enough, one leaves the working space and sows the rest.\nMishnah 2: The open belt is the space between the vineyard and a fence, and twelve cubits are needed before one may sow the rest.\nMishnah 3: Rabbi Judah says the space by a fence is only the vineyard's fence, and a mehol is between two vineyards; a fence is ten handbreadths high and a trench ten deep and four wide.\nMishnah 4: A partition of reeds with gaps under three handbreadths counts as a partition, a breach up to ten cubits is like a doorway, and with many breaches one may sow only if what stands exceeds what is broken through.\nMishnah 5: Bet Shammai say five vines in a row are a vineyard and Bet Hillel require two rows, so one who sows within four cubits sanctifies one row or two.\nMishnah 6: Two vines opposite two with one forming a tail are a vineyard, but one in between or in the middle is not.\nMishnah 7: Rows on one's own land and on a neighbor's combine across a road or a fence under ten handbreadths, and Rabbi Judah says they combine if he intertwined them above.\nMishnah 8: Two rows need eight cubits between them and three rows sixteen, and Rabbi Eliezer ben Jacob says in the name of Hananiah ben Hakinai that this holds even if the middle row was laid waste.\nMishnah 9: A vineyard planted sixteen cubits apart may be sown, Rabbi Judah tells of the man at Tsalmon who turned the vine tips aside and the sages permitted it, and Rabbi Meir and Rabbi Shimon permit even eight cubits.",
+  "topics": [
+   {
+    "term": "Karahat HaKerem (a bare patch in a vineyard)",
+    "explanation": "The mishnah defines it as a vineyard that was cleared in its middle. Rambam says karahat is a smooth place from which the trees were uprooted. Bet Shammai require twenty-four cubits and Bet Hillel sixteen before one may bring seed into it.",
+    "mishnah": 1,
+    "anchors": [
+     "קרחת הכרם"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 4:1:1",
+     "quote": "קרחת שם מקום חלק אשר נעקרו ממנו האילנות"
+    }
+   },
+   {
+    "term": "Mechol HaKerem (the open belt by the fence)",
+    "explanation": "The mishnah defines it as the space between the vineyard and a fence. Bartenura adds that it goes all around, like the circling dances of women. Bet Shammai require sixteen cubits and Bet Hillel twelve.",
+    "mishnah": 2,
+    "anchors": [
+     "מחול הכרם"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 4:2:1",
+     "quote": "מקום פנוי בין כרם לגדר סביב כמו מחולות הנשים"
+    }
+   },
+   {
+    "term": "Avodat HaKerem (the working space)",
+    "explanation": "When there are enough cubits the mishnah says one gives the vineyard its working space and sows the rest. Melekhet Shelomoh, citing Rabbi Akiva Eiger's commentary, gives the working space as four cubits, because they harvested with oxen and wagons.",
+    "mishnah": 1,
+    "anchors": [
+     "נותנין לה עבודתה"
+    ],
+    "source": {
+     "name": "Melekhet Shelomoh",
+     "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:1:2",
+     "quote": "דעבודת הכרם ד' אמות כדתנן לק' לפי שהיו בוצרין בשוורים ובעגלות"
+    }
+   },
+   {
+    "term": "Geder and charitz (fence and trench)",
+    "explanation": "The mishnah gives their measures: a fence ten handbreadths high, a trench ten deep and four wide. Bartenura says a geder is what separates the vineyard so that one can leave the vineyard on one side and sow on the other. A trench works the same way.",
+    "mishnah": 3,
+    "anchors": [
+     "גדר"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 4:3:3",
+     "quote": "המפריש בין הכרם שיכול להניח כרם מצד זה ולזרוע מצד אחר"
+    }
+   },
+   {
+    "term": "Lavud (a gap under three handbreadths)",
+    "explanation": "In a partition of reeds, a gap of less than three handbreadths, through which a kid could enter, still counts as a partition. Rambam says anything under three handbreadths is as if joined, and that the measure is what lets a kid enter at once.",
+    "mishnah": 4,
+    "anchors": [
+     "שלשה טפחים"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 4:4:1",
+     "quote": "שכל פחות מג' טפחים כלבוד דמי ר\"ל שהוא כמחובר"
+    }
+   },
+   {
+    "term": "Omed and parutz (what stands and what is breached)",
+    "explanation": "When a fence has many breaches, the mishnah permits sowing if what stands exceeds what is broken through, and forbids it opposite the breaches if the breaches exceed what stands. Ikar Tosafot Yom Tov, citing Rash, explains the many breaches as breaches under ten cubits and over three handbreadths.",
+    "mishnah": 4,
+    "anchors": [
+     "אם העומד מרבה על הפרוץ"
+    ],
+    "source": {
+     "name": "Ikar Tosafot Yom Tov",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 4:4:2",
+     "quote": "שנפרץ במקומות הרבה פרצות פחותות מעשר אמות ויתרות משלשה טפחים"
+    }
+   },
+   {
+    "term": "Yotzeh zanav (the 'tail' vine)",
+    "explanation": "The mishnah makes five vines a vineyard only when two are opposite two and one forms a tail. Bartenura pictures this as three vines in one row and two in a second row, opposite two of the three.",
+    "mishnah": 6,
+    "anchors": [
+     "ואחת יוצאה זנב"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 4:6:1",
+     "quote": "כגון שלשה גפנים נטועות בשורה אחת ושתים בשורה שניה כנגד שתים מן השלש"
+    }
+   },
+   {
+    "term": "Kidesh (sanctifying rows)",
+    "explanation": "One who sows within the four cubits of a vineyard 'sanctifies' what he sows with the vine produce, making it forbidden. Rambam explains that Bet Shammai count a single row as a vineyard, so one row is lost, and Bet Hillel need two rows, so two rows are lost.",
+    "mishnah": 5,
+    "anchors": [
+     "קדש שורה אחת"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 4:5:2",
+     "quote": "ובית הלל שאומרים שלא יקרא כרם אלא עד שיהו שתי שורות אומרים קידש שתי שורות"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Opposite the standing part of a mostly breached fence",
+    "pasuk": {
+     "text": "וְאִם הַפָּרוּץ מְרֻבֶּה עַל הָעוֹמֵד, כְּנֶגֶד הַפִּרְצָה אָסוּר",
+     "ref": "Mishnah Kilayim 4:4",
+     "label": "Mishnah Kilayim 4:4"
+    },
+    "question": "Bartenura says that when the breaches exceed what stands, sowing is permitted opposite the standing part if it is four wide. Tosafot Yom Tov adds that Rash proves this from the sugya of the three measures in Eruvin. Is that proof sound, or does that sugya show the opposite?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 4:4:1",
+      "quote": "ותמהני מאד הא אדרבא בסוגיא דעירובין שם מבואר ההיפוך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: opposite the standing part it is permitted if it is four wide, but under four, even opposite the standing part is forbidden.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 4:4:4",
+        "quote": "אבל כנגד העומד מותר אם הוא רחב ארבעה, אבל פחות מארבעה אף כנגד העומד אסור"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov repeats this: opposite the standing part it is permitted if it is four wide, meaning handbreadths, and he writes that Rash wrote the same.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:4:4",
+        "quote": "אם הוא רחב ארבעה. פירוש טפחים. וכ\"כ הר\"ש"
+       }
+      ]
+     },
+     {
+      "text": "Boaz ventures that Rash's view can be defended: since the beginning of that sugya is the sages' view, the end is also the sages' view, 'to distinguish by the measure of the place'.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Kilayim 4:2",
+        "quote": "ולולא מסתפינא היה נ\"ל דסברת הר\"ש"
+       },
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Kilayim 4:2",
+        "quote": "מדרישא רבנן סיפא נמי רבנן ולחלק בשיעור מקום"
+       }
+      ]
+     }
+    ],
+    "why": "Shows that the rule opposite the standing part, and the reading of Rash, were themselves questioned by the acharonim.",
+    "mishnah": 4,
+    "anchors": [
+     "וְאִם הַפָּרוּץ מְרֻבֶּה עַל הָעוֹמֵד, כְּנֶגֶד הַפִּרְצָה אָסוּר"
+    ]
+   },
+   {
+    "title": "What if the breaches equal what stands?",
+    "pasuk": {
+     "text": "אִם הָעוֹמֵד מְרֻבֶּה עַל הַפָּרוּץ, מֻתָּר",
+     "ref": "Mishnah Kilayim 4:4",
+     "label": "Mishnah Kilayim 4:4"
+    },
+    "question": "Where the breaches equal what stands, Rambam rules that it is permitted to sow opposite the breach. Boaz asks how this fits the mishnah, whose wording implies prohibition, and whether the implication of the first clause should be treated as stated in the last.",
+    "asked_by": [
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Kilayim 4:1",
+      "quote": "וקשה והרי דיוקא דמשנתינו הוא לאיסור. מדסתרי דיוקא דרישא וסיפא אהדדי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam rules that if the breached part equals the standing part, it is permitted to sow opposite the breach.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 4:4:2",
+        "quote": "ואם יהיה פרוץ כעומד יהיה מותר לזרוע כנגד הפרצה"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov says that on the text of our mishnah one must say the reverse, as the Gemara resolves according to Rav Huna son of Rav Yehoshua.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:4:4",
+        "quote": "ולפי גירסת משנתינו צריך לומר איפכא כדמשני התם אליבא דרב הונא בריה דרב יהושע"
+       }
+      ]
+     },
+     {
+      "text": "Boaz answers that we also find a case where the last clause is exact and the first is not exact, as here.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Kilayim 4:1",
+        "quote": "יש לומר דמצינו ג\"כ סיפא דוקא ורישא לאו דוקא"
+       }
+      ]
+     }
+    ],
+    "why": "Shows how the ruling for an equal case rests on how the first and last clauses of the mishnah are read.",
+    "mishnah": 4,
+    "anchors": [
+     "אִם הָעוֹמֵד מְרֻבֶּה עַל הַפָּרוּץ, מֻתָּר"
+    ]
+   },
+   {
+    "title": "Why must the vineyard be planted five by five?",
+    "pasuk": {
+     "text": "הַזּוֹרֵעַ אַרְבַּע אַמּוֹת שֶׁבַּכֶּרֶם, בֵּית שַׁמַּאי אוֹמְרִים, קִדֵּשׁ שׁוּרָה אַחַת",
+     "ref": "Mishnah Kilayim 4:5",
+     "label": "Mishnah Kilayim 4:5"
+    },
+    "question": "Tosafot Yom Tov explains the dispute about how many rows are sanctified by a vineyard planted five by five. Lechem Shamayim does not know why that case is needed for the dispute of Bet Shammai and Bet Hillel.",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 4:5:1",
+      "quote": "וכגון דזרע לכרם שהוא נטוע ה' על ה'. לא אדע מה הצריכו לכך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Lechem Shamayim answers that the Yerushalmi needed it only to teach the law of one who sows opposite the corner.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 4:5:1",
+        "quote": "הירו' הוצרך לו. כדי להודיע דין הזורע כנגד הזוית בלבד"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov, from the Yerushalmi: for Bet Shammai he sanctifies the outer row on the side of the sowing, and for Bet Hillel three vines in the outer row and the three opposite them in the second row.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:5:2",
+        "quote": "ולב\"ש מקדש אותה שורה חצונה של צד הזרע כשזרע בעבודת הכרם שהוא ארבע אמות. ולב\"ה קידש ג' בשורה חצונה ושלשה שכנגדן בשורה שניה"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing the Yerushalmi: he sows opposite the middle vine, and for Bet Shammai it forbids that whole row and no more.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:5:1",
+        "quote": "והוא זרע כנגד הגפן האמצעית לדעת ב\"ש אוסר כל אותה השורה ולא יותר"
+       }
+      ]
+     }
+    ],
+    "why": "Shows that the stated dispute about one row or two is worked out through a concrete layout of vines.",
+    "mishnah": 5,
+    "anchors": [
+     "הַזּוֹרֵעַ אַרְבַּע אַמּוֹת שֶׁבַּכֶּרֶם, בֵּית שַׁמַּאי אוֹמְרִים, קִדֵּשׁ שׁוּרָה אַחַת"
+    ]
+   },
+   {
+    "title": "Why repeat 'until two opposite two with a tail'?",
+    "pasuk": {
+     "text": "אֵינוֹ כֶרֶם, עַד שֶׁיְּהוּ שְׁתַּיִם כְּנֶגֶד שְׁתַּיִם וְאַחַת יוֹצְאָה זָנָב",
+     "ref": "Mishnah Kilayim 4:6",
+     "label": "Mishnah Kilayim 4:6"
+    },
+    "question": "The first clause of the mishnah already said that two opposite two with a tail is a vineyard. Why does the last clause repeat 'until there are two opposite two and one forming a tail'?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:6:2",
+      "quote": "הא תו למה לי. ואפשר לי לומר דשתי צורות",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 4:6:2-3",
+      "quote": "הא תו למה לי. ועמ\"ש בתי\"ט דוחק גדול",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: both forms (Rambam's and Bartenura's) can be called a tail, and the last clause teaches that only the more fitting one is a vineyard.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:6:2",
+        "quote": "ואתא תנא בסיפא לאשמעינן דדוקא אותה היותר ראויה היא בכלל כרם ולא האחרת"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: it seems to him the mishnah teaches something in passing, about a vineyard planted in a mixed way.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 4:6:2-3",
+        "quote": "ולי נראה דמילתא אגב אורחא קמ\"ל"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov cites the Tosafot Chadashim, who answer that the mishnah teaches that it is a vineyard even with one in between or in the middle, if there is also one forming a tail.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 4:6:4",
+        "quote": "והתוספות חדשים תרץ דאתי לאשמעינן אפילו יהיה אחד בינתים או באמצע וגם אחת יוצאה זנב דהוי כרם"
+       }
+      ]
+     }
+    ],
+    "why": "Shows that the exact shape of the five vines is read out of a repeated phrase in the mishnah.",
+    "mishnah": 6,
+    "anchors": [
+     "אֵינוֹ כֶרֶם, עַד שֶׁיְּהוּ שְׁתַּיִם כְּנֶגֶד שְׁתַּיִם וְאַחַת יוֹצְאָה זָנָב"
+    ]
+   },
+   {
+    "title": "How wide is 'the way of the many'?",
+    "pasuk": {
+     "text": "וְדֶרֶךְ הַיָּחִיד וְדֶרֶךְ הָרַבִּים בָּאֶמְצַע",
+     "ref": "Mishnah Kilayim 4:7",
+     "label": "Mishnah Kilayim 4:7"
+    },
+    "question": "Rambam in his commentary writes that the way of the many is sixteen cubits. Melekhet Shelomoh asks which opinion in the mishnah this would fit, since rows sixteen cubits apart do not combine.",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:7:1",
+      "quote": "וקשה לזה דא\"כ הך מתני' כמאן לא כראב\"י ולא כת\"ק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the way of the individual and the way of the many mean that neither of them is eight cubits wide.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 4:7:2",
+        "quote": "שאין אחד מהם רחב שמנה אמות"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov, citing the Ra'avad: not sixteen cubits like the way of the many in Peah, but a path of the roads for the public.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 4:7:2",
+        "quote": "לא שש עשרה אמות כדרך הרבים בפרק ב' דפאה, אלא שביל הדרכים לרבים"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov notes that Rambam in his Mishneh Torah wrote so, and not as in his commentary, sixteen cubits.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:7:1",
+        "quote": "וגם הרמב\"ם בחבורו פ\"ז כתב כן ולא כמ\"ש בפירושו ט\"ז אמה"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh concludes that the right way is like the Ra'avad and Rambam.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:7:1",
+        "quote": "לכך הנכון כדברי הראב\"ד ז\"ל והרמב\"ם ז\"ל"
+       }
+      ]
+     }
+    ],
+    "why": "Shows how one word in the mishnah changes which opinion its law can follow.",
+    "mishnah": 7,
+    "anchors": [
+     "וְדֶרֶךְ הַיָּחִיד וְדֶרֶךְ הָרַבִּים בָּאֶמְצַע"
+    ]
+   },
+   {
+    "title": "If sown by eight cubits, what of the working space?",
+    "pasuk": {
+     "text": "שֶׁאִלּוּ מִתְּחִלָּה נְטָעָן הֲרֵי זֶה מֻתָּר בִּשְׁמֹנֶה אַמּוֹת",
+     "ref": "Mishnah Kilayim 4:8",
+     "label": "Mishnah Kilayim 4:8"
+    },
+    "question": "Rabbi Eliezer ben Jacob says that had they been planted so at the outset, eight cubits would be permitted. If he holds like Bet Shammai that one row is a vineyard, each row needs four cubits of working space, so how can eight suffice?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:8:4",
+      "quote": "והשתא קשה היכי קתני שאלו מתחלה נטען היה מותר בשמנה אמות הא בעי ד\"א לכל שורה כיון דחשיב כרם",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 4:8:2",
+      "quote": "הא כיון דסבר כב\"ש צריך לכל שורה הרחקה ד' אמות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Rabbi Akiva Eiger: the Yerushalmi asks this and answers that 'eight cubits' means eight and a little more.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 4:8:2",
+        "quote": "בירושלמי פריך לה ומשני דמותר בח' אמות היינו בח' ומשהו"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, from the Yerushalmi: as Bet Shammai are stricter in destruction than in planting, Rabbi Eliezer ben Jacob is lenient in planting, permitting the remaining bit in eight cubits and a bit.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:8:4",
+        "quote": "כמה דב\"ש מחמרי בחרבנו יותר ממטעתו כן ראב\"י מקל במטעתו דשמנה ומשהו מותר לזרוע אותו משהו"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: had they never reached the status of a vineyard and been planted at the outset as only two rows, only eight cubits between them would be needed.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 4:8:5",
+        "quote": "שאם לא הגיעו לעולם לכלל כרם ולא היה נוטען מתחלה אלא שתי שורות לא היה צריך להיות ביניהן אלא שמנה אמות"
+       }
+      ]
+     }
+    ],
+    "why": "Shows how the Yerushalmi's tension between rows planted and rows ruined is carried into the mefarshim.",
+    "mishnah": 8,
+    "anchors": [
+     "שֶׁאִלּוּ מִתְּחִלָּה נְטָעָן הֲרֵי זֶה מֻתָּר בִּשְׁמֹנֶה אַמּוֹת"
+    ]
+   },
+   {
+    "title": "Stricter inside the rows than outside?",
+    "pasuk": {
+     "text": "אִם אֵין בֵּינֵיהֶן שְׁמֹנֶה אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם",
+     "ref": "Mishnah Kilayim 4:8",
+     "label": "Mishnah Kilayim 4:8"
+    },
+    "question": "Tosafot Yom Tov brings the Yerushalmi that the sages were stricter about the space inside the rows than outside. Hon Ashir does not understand what 'above' this refers to.",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Kilayim 4:8:1",
+      "quote": "ואנא לא ידענא מאי קאמר, ואהיכא קאי האי לעיל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: Bartenura wrote that the rows combine to be a vineyard; above it was regarding the outside, and here regarding the inside.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:8:1",
+        "quote": "כתב הר\"ב דמצטרפין להיות כרם. דלעיל לענין חוצה לה והכא לענין תוכה"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov repeats this, citing the Yerushalmi: Rabbi Eliezer said they were stricter inside than outside.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 4:8:1",
+        "quote": "וזה שאמר בירושלמי אמר רבי אליעזר החמירו תוכה יותר מחוצה לה"
+       }
+      ]
+     }
+    ],
+    "why": "Shows that even the standard explanation of the Yerushalmi's stringency is not clear to every acharon.",
+    "mishnah": 8,
+    "anchors": [
+     "אִם אֵין בֵּינֵיהֶן שְׁמֹנֶה אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Rabbi Akiva Eiger",
+   "Bartenura",
+   "Tosafot Yom Tov",
+   "Boaz",
+   "Rambam",
+   "Lechem Shamayim",
+   "Melekhet Shelomoh",
+   "Ikar Tosafot Yom Tov",
+   "Hon Ashir"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א: לבית שמאי קרחת הכרם עשרים וארבע אמות ולבית הלל שש עשרה, ומחול הכרם שש עשרה ושתים עשרה; אם אין שם כך לא יביא זרע, ואם יש נותנים עבודתה וזורע את המותר.\nמשנה ב: מחול הכרם הוא בין הכרם לגדר, וצריך שתים עשרה אמה כדי לזרוע את המותר.\nמשנה ג: רבי יהודה אומר שאין זה אלא גדר הכרם, ומחול הכרם הוא בין שני הכרמים; גדר גבוה עשרה טפחים וחריץ עמוק עשרה ורחב ארבעה.\nמשנה ד: מחיצת הקנים שבין קנה לחברו פחות משלשה טפחים היא מחיצה, גדר שנפרץ עד עשר אמות הוא כפתח, ובפרצות הרבה מותר רק אם העומד מרובה על הפרוץ.\nמשנה ה: לבית שמאי שורה של חמש גפנים היא כרם ולבית הלל צריך שתי שורות, ולכן הזורע ארבע אמות שבכרם מקדש שורה אחת או שתי שורות.\nמשנה ו: שתים כנגד שתים ואחת יוצאה זנב הוא כרם, אבל אחת בינתיים או באמצע אינו כרם.\nמשנה ז: שורה בתוך שלו ושורה בתוך של חברו מצטרפות כשביניהן דרך או גדר נמוך מעשרה טפחים, ורבי יהודה אומר שאם ערסן מלמעלה הן מצטרפות.\nמשנה ח: שתי שורות צריכות שמונה אמות ביניהן ושלוש שורות שש עשרה, ורבי אליעזר בן יעקב משום חנינא בן חכינאי אומר שכך גם אם חרבה האמצעית.\nמשנה ט: כרם הנטוע שש עשרה אמה מותר להביא זרע לשם, רבי יהודה מספר על המעשה בצלמון שהפך את שער הגפנים והחכמים התירו, ורבי מאיר ורבי שמעון מתירים אפילו בשמונה אמות.",
+  "topics": [
+   {
+    "term": "קרחת הכרם",
+    "explanation": "המשנה מגדירה אותה ככרם שחרב מאמצעו, והרמב\"ם אומר שקרחת היא מקום חלק שנעקרו ממנו האילנות. לבית שמאי צריך עשרים וארבע אמות ולבית הלל שש עשרה אמה כדי להביא זרע לשם.",
+    "mishnah": 1,
+    "anchors": [
+     "קרחת הכרם"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 4:1:1",
+     "quote": "קרחת שם מקום חלק אשר נעקרו ממנו האילנות"
+    }
+   },
+   {
+    "term": "מחול הכרם",
+    "explanation": "המשנה מגדירה אותו כמקום שבין הכרם לגדר, וברטנורא מוסיף שהוא סביב, כמו מחולות הנשים. לבית שמאי צריך שש עשרה אמה ולבית הלל שתים עשרה.",
+    "mishnah": 2,
+    "anchors": [
+     "מחול הכרם"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 4:2:1",
+     "quote": "מקום פנוי בין כרם לגדר סביב כמו מחולות הנשים"
+    }
+   },
+   {
+    "term": "עבודת הכרם",
+    "explanation": "כשיש די אמות המשנה אומרת שנותנים לכרם את עבודתו וזורעים את המותר. מלאכת שלמה, בהביאו את פירוש רבי עקיבא איגר, אומר שעבודת הכרם ארבע אמות, לפי שהיו בוצרים בשוורים ובעגלות.",
+    "mishnah": 1,
+    "anchors": [
+     "נותנין לה עבודתה"
+    ],
+    "source": {
+     "name": "מלאכת שלמה",
+     "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:1:2",
+     "quote": "דעבודת הכרם ד' אמות כדתנן לק' לפי שהיו בוצרין בשוורים ובעגלות"
+    }
+   },
+   {
+    "term": "גדר וחריץ",
+    "explanation": "המשנה נותנת את שיעוריהם: גדר גבוה עשרה טפחים, וחריץ עמוק עשרה ורחב ארבעה. ברטנורא אומר שגדר הוא המפריש בין הכרם, כדי שאפשר להניח כרם מצד אחד ולזרוע מצד אחר, וכן חריץ.",
+    "mishnah": 3,
+    "anchors": [
+     "גדר"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 4:3:3",
+     "quote": "המפריש בין הכרם שיכול להניח כרם מצד זה ולזרוע מצד אחר"
+    }
+   },
+   {
+    "term": "לבוד (פחות משלושה טפחים)",
+    "explanation": "במחיצת קנים, רווח של פחות משלושה טפחים, שדרכו יכול להיכנס גדי, עדיין נחשב מחיצה. הרמב\"ם אומר שכל פחות משלושה טפחים הוא כמחובר, ושהשיעור הוא כדי שיכנס הגדי בבת אחת.",
+    "mishnah": 4,
+    "anchors": [
+     "שלשה טפחים"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 4:4:1",
+     "quote": "שכל פחות מג' טפחים כלבוד דמי ר\"ל שהוא כמחובר"
+    }
+   },
+   {
+    "term": "עומד ופרוץ",
+    "explanation": "כשנפרצו בגדר פרצות הרבה, המשנה מתירה לזרוע אם העומד מרובה על הפרוץ, ואוסרת כנגד הפרצה אם הפרוץ מרובה. עיקר תוספות יום טוב, בשם הרש, מפרש שהפרצות הרבה הן פרצות פחות מעשר אמות ויותר משלושה טפחים.",
+    "mishnah": 4,
+    "anchors": [
+     "אם העומד מרבה על הפרוץ"
+    ],
+    "source": {
+     "name": "עיקר תוספות יום טוב",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 4:4:2",
+     "quote": "שנפרץ במקומות הרבה פרצות פחותות מעשר אמות ויתרות משלשה טפחים"
+    }
+   },
+   {
+    "term": "יוצאה זנב",
+    "explanation": "המשנה מחשיבה חמש גפנים ככרם רק כששתים כנגד שתים ואחת יוצאה זנב. ברטנורא מצייר זאת כשלוש גפנים נטועות בשורה אחת ושתים בשורה שנייה, כנגד שתים מן השלוש.",
+    "mishnah": 6,
+    "anchors": [
+     "ואחת יוצאה זנב"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 4:6:1",
+     "quote": "כגון שלשה גפנים נטועות בשורה אחת ושתים בשורה שניה כנגד שתים מן השלש"
+    }
+   },
+   {
+    "term": "קידש",
+    "explanation": "הזורע בתוך ארבע אמות של כרם מקדש, כלומר אוסר את הזרע עם תבואת הכרם. הרמב\"ם מסביר שלבית שמאי שורה אחת נקראת כרם ולכן הפסיד שורה אחת, ולבית הלל צריך שתי שורות ולכן קידש שתי שורות.",
+    "mishnah": 5,
+    "anchors": [
+     "קדש שורה אחת"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 4:5:2",
+     "quote": "ובית הלל שאומרים שלא יקרא כרם אלא עד שיהו שתי שורות אומרים קידש שתי שורות"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "לעומת העומד בגדר שרובה פרוץ",
+    "pasuk": {
+     "text": "וְאִם הַפָּרוּץ מְרֻבֶּה עַל הָעוֹמֵד, כְּנֶגֶד הַפִּרְצָה אָסוּר",
+     "ref": "Mishnah Kilayim 4:4",
+     "label": "משנה כלאים ד, ד"
+    },
+    "question": "ברטנורא אומר שכשהפרוץ מרובה על העומד מותר לזרוע כנגד העומד אם הוא רחב ארבעה. תוספות יום טוב מוסיף שהרש מוכיח זאת מסוגיית שלוש המדות בעירובין. האם ההוכחה נכונה, או שהסוגיה שם מראה את ההפך?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 4:4:1",
+      "quote": "ותמהני מאד הא אדרבא בסוגיא דעירובין שם מבואר ההיפוך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: כנגד העומד מותר אם הוא רחב ארבעה, אבל פחות מארבעה אף כנגד העומד אסור.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 4:4:4",
+        "quote": "אבל כנגד העומד מותר אם הוא רחב ארבעה, אבל פחות מארבעה אף כנגד העומד אסור"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב חוזר על כך: כנגד העומד מותר אם הוא רחב ארבעה, כלומר טפחים, וכותב שכך כתב גם הרש.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:4:4",
+        "quote": "אם הוא רחב ארבעה. פירוש טפחים. וכ\"כ הר\"ש"
+       }
+      ]
+     },
+     {
+      "text": "בועז מעלה שאפשר להגן על דעת הרש: מכיוון שבתחילת הסוגיה היא דעת רבנן, גם הסיום הוא דעת רבנן, 'ולחלק בשיעור מקום'.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Kilayim 4:2",
+        "quote": "ולולא מסתפינא היה נ\"ל דסברת הר\"ש"
+       },
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Kilayim 4:2",
+        "quote": "מדרישא רבנן סיפא נמי רבנן ולחלק בשיעור מקום"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שגם הדין כנגד העומד וגם הבנת הרש נשאלו על ידי האחרונים.",
+    "mishnah": 4,
+    "anchors": [
+     "וְאִם הַפָּרוּץ מְרֻבֶּה עַל הָעוֹמֵד, כְּנֶגֶד הַפִּרְצָה אָסוּר"
+    ]
+   },
+   {
+    "title": "ומה אם הפרוץ כעומד?",
+    "pasuk": {
+     "text": "אִם הָעוֹמֵד מְרֻבֶּה עַל הַפָּרוּץ, מֻתָּר",
+     "ref": "Mishnah Kilayim 4:4",
+     "label": "משנה כלאים ד, ד"
+    },
+    "question": "כשהפרוץ כעומד, הרמב\"ם פוסק שמותר לזרוע כנגד הפרצה. בועז שואל כיצד זה מתיישב עם לשון המשנה, שדיוקה לאיסור, והאם יש להתייחס לדיוק הרישא כמפורש בסיפא.",
+    "asked_by": [
+     {
+      "name": "בועז",
+      "ref": "Boaz on Mishnah Kilayim 4:1",
+      "quote": "וקשה והרי דיוקא דמשנתינו הוא לאיסור. מדסתרי דיוקא דרישא וסיפא אהדדי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם פוסק שאם הפרוץ כעומד מותר לזרוע כנגד הפרצה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 4:4:2",
+        "quote": "ואם יהיה פרוץ כעומד יהיה מותר לזרוע כנגד הפרצה"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב אומר שלפי גרסת משנתנו צריך לומר הפוך, כפי שמתרץ שם הגמרא לפי רב הונא בריה דרב יהושע.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:4:4",
+        "quote": "ולפי גירסת משנתינו צריך לומר איפכא כדמשני התם אליבא דרב הונא בריה דרב יהושע"
+       }
+      ]
+     },
+     {
+      "text": "בועז משיב שמצינו גם סיפא דוקא ורישא לאו דוקא, כמו כאן.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Kilayim 4:1",
+        "quote": "יש לומר דמצינו ג\"כ סיפא דוקא ורישא לאו דוקא"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהדין במקרה של שוויון תלוי באופן הקריאה של הרישא והסיפא של המשנה.",
+    "mishnah": 4,
+    "anchors": [
+     "אִם הָעוֹמֵד מְרֻבֶּה עַל הַפָּרוּץ, מֻתָּר"
+    ]
+   },
+   {
+    "title": "למה צריך כרם נטוע חמש על חמש?",
+    "pasuk": {
+     "text": "הַזּוֹרֵעַ אַרְבַּע אַמּוֹת שֶׁבַּכֶּרֶם, בֵּית שַׁמַּאי אוֹמְרִים, קִדֵּשׁ שׁוּרָה אַחַת",
+     "ref": "Mishnah Kilayim 4:5",
+     "label": "משנה כלאים ד, ה"
+    },
+    "question": "תוספות יום טוב מסביר את המחלוקת כמה שורות מתקדשות בכרם נטוע חמש על חמש. לחם שמים אינו יודע למה צריך מקרה זה למחלוקת בית שמאי ובית הלל.",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 4:5:1",
+      "quote": "וכגון דזרע לכרם שהוא נטוע ה' על ה'. לא אדע מה הצריכו לכך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לחם שמים משיב שהירושלמי הוצרך לכך רק כדי להודיע דין הזורע כנגד הזוית.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 4:5:1",
+        "quote": "הירו' הוצרך לו. כדי להודיע דין הזורע כנגד הזוית בלבד"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב, מן הירושלמי: לבית שמאי מקדש את השורה החיצונה שבצד הזרע, ולבית הלל שלוש גפנים בשורה החיצונה ושלוש שכנגדן בשורה השנייה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:5:2",
+        "quote": "ולב\"ש מקדש אותה שורה חצונה של צד הזרע כשזרע בעבודת הכרם שהוא ארבע אמות. ולב\"ה קידש ג' בשורה חצונה ושלשה שכנגדן בשורה שניה"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה, בשם הירושלמי: הוא זורע כנגד הגפן האמצעית, ולבית שמאי אוסר את כל אותה השורה ולא יותר.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:5:1",
+        "quote": "והוא זרע כנגד הגפן האמצעית לדעת ב\"ש אוסר כל אותה השורה ולא יותר"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהמחלוקת בין שורה אחת לשתי שורות מתבארת דרך סידור מעשי של הגפנים.",
+    "mishnah": 5,
+    "anchors": [
+     "הַזּוֹרֵעַ אַרְבַּע אַמּוֹת שֶׁבַּכֶּרֶם, בֵּית שַׁמַּאי אוֹמְרִים, קִדֵּשׁ שׁוּרָה אַחַת"
+    ]
+   },
+   {
+    "title": "למה חוזרת המשנה על 'שתים כנגד שתים ואחת יוצאה זנב'?",
+    "pasuk": {
+     "text": "אֵינוֹ כֶרֶם, עַד שֶׁיְּהוּ שְׁתַּיִם כְּנֶגֶד שְׁתַּיִם וְאַחַת יוֹצְאָה זָנָב",
+     "ref": "Mishnah Kilayim 4:6",
+     "label": "משנה כלאים ד, ו"
+    },
+    "question": "הרישא של המשנה כבר אמרה ששתים כנגד שתים ואחת יוצאה זנב הוא כרם. למה הסיפא חוזרת ושונה 'עד שיהיו שתים כנגד שתים ואחת יוצאה זנב'?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:6:2",
+      "quote": "הא תו למה לי. ואפשר לי לומר דשתי צורות",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 4:6:2-3",
+      "quote": "הא תו למה לי. ועמ\"ש בתי\"ט דוחק גדול",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: שתי הצורות, של הרמב\"ם ושל ברטנורא, יכולות להיקרא זנב, והסיפא מלמדת שרק הראויה יותר היא כרם.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:6:2",
+        "quote": "ואתא תנא בסיפא לאשמעינן דדוקא אותה היותר ראויה היא בכלל כרם ולא האחרת"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: נראה לו שהמשנה מלמדת דבר אגב אורחא, על כרם שנטוע בערבוביה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 4:6:2-3",
+        "quote": "ולי נראה דמילתא אגב אורחא קמ\"ל"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב מביא את התוספות חדשים, שמתרצים שהמשנה מלמדת שהוא כרם אפילו אם יהיה אחד בינתיים או באמצע וגם אחת יוצאה זנב.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 4:6:4",
+        "quote": "והתוספות חדשים תרץ דאתי לאשמעינן אפילו יהיה אחד בינתים או באמצע וגם אחת יוצאה זנב דהוי כרם"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שצורת חמש הגפנים נלמדת מלשון חוזרת במשנה.",
+    "mishnah": 6,
+    "anchors": [
+     "אֵינוֹ כֶרֶם, עַד שֶׁיְּהוּ שְׁתַּיִם כְּנֶגֶד שְׁתַּיִם וְאַחַת יוֹצְאָה זָנָב"
+    ]
+   },
+   {
+    "title": "כמה רחבה 'דרך הרבים'?",
+    "pasuk": {
+     "text": "וְדֶרֶךְ הַיָּחִיד וְדֶרֶךְ הָרַבִּים בָּאֶמְצַע",
+     "ref": "Mishnah Kilayim 4:7",
+     "label": "משנה כלאים ד, ז"
+    },
+    "question": "הרמב\"ם בפירושו כותב שדרך הרבים שש עשרה אמה. מלאכת שלמה שואל כמאן תהיה המשנה לפי זה, שהרי שורות המרוחקות שש עשרה אמה אינן מצטרפות.",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:7:1",
+      "quote": "וקשה לזה דא\"כ הך מתני' כמאן לא כראב\"י ולא כת\"ק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: דרך היחיד ודרך הרבים הם כשאין אחד מהם רחב שמונה אמות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 4:7:2",
+        "quote": "שאין אחד מהם רחב שמנה אמות"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב, בשם הראב\"ד: לא שש עשרה אמות כדרך הרבים בפאה, אלא שביל הדרכים לרבים.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 4:7:2",
+        "quote": "לא שש עשרה אמות כדרך הרבים בפרק ב' דפאה, אלא שביל הדרכים לרבים"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב מציין שגם הרמב\"ם בחיבורו כתב כן ולא כמו שכתב בפירושו, שש עשרה אמה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:7:1",
+        "quote": "וגם הרמב\"ם בחבורו פ\"ז כתב כן ולא כמ\"ש בפירושו ט\"ז אמה"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מסיק שהנכון כדברי הראב\"ד והרמב\"ם.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:7:1",
+        "quote": "לכך הנכון כדברי הראב\"ד ז\"ל והרמב\"ם ז\"ל"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד פירוש מילה אחת במשנה משנה כמאן אפשר לפרש את דינה.",
+    "mishnah": 7,
+    "anchors": [
+     "וְדֶרֶךְ הַיָּחִיד וְדֶרֶךְ הָרַבִּים בָּאֶמְצַע"
+    ]
+   },
+   {
+    "title": "אם מותר בשמונה אמות, מה עם עבודת הכרם?",
+    "pasuk": {
+     "text": "שֶׁאִלּוּ מִתְּחִלָּה נְטָעָן הֲרֵי זֶה מֻתָּר בִּשְׁמֹנֶה אַמּוֹת",
+     "ref": "Mishnah Kilayim 4:8",
+     "label": "משנה כלאים ד, ח"
+    },
+    "question": "רבי אליעזר בן יעקב אומר שאילו נטעם כך מתחילה היה מותר בשמונה אמות. אם הוא סובר כבית שמאי ששורה אחת היא כרם, כל שורה צריכה הרחקה של ארבע אמות, ואיך מספיקות שמונה?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:8:4",
+      "quote": "והשתא קשה היכי קתני שאלו מתחלה נטען היה מותר בשמנה אמות הא בעי ד\"א לכל שורה כיון דחשיב כרם",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 4:8:2",
+      "quote": "הא כיון דסבר כב\"ש צריך לכל שורה הרחקה ד' אמות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות רבי עקיבא איגר: הירושלמי מקשה זאת ומשיב שמותר בשמונה אמות היינו בשמונה ומשהו.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 4:8:2",
+        "quote": "בירושלמי פריך לה ומשני דמותר בח' אמות היינו בח' ומשהו"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה, מן הירושלמי: כשם שבית שמאי מחמירים בחרבנו יותר ממטעתו, כך רבי אליעזר בן יעקב מקל במטעתו, ומתיר לזרוע את המשהו שבשמונה ומשהו.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 4:8:4",
+        "quote": "כמה דב\"ש מחמרי בחרבנו יותר ממטעתו כן ראב\"י מקל במטעתו דשמנה ומשהו מותר לזרוע אותו משהו"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: אילו לא הגיעו לעולם לכלל כרם ולא נטע מתחילה אלא שתי שורות, לא היה צריך ביניהן אלא שמונה אמות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 4:8:5",
+        "quote": "שאם לא הגיעו לעולם לכלל כרם ולא היה נוטען מתחלה אלא שתי שורות לא היה צריך להיות ביניהן אלא שמנה אמות"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד הקושי בירושלמי בין נטיעה לחורבן עובר אל המפרשים.",
+    "mishnah": 8,
+    "anchors": [
+     "שֶׁאִלּוּ מִתְּחִלָּה נְטָעָן הֲרֵי זֶה מֻתָּר בִּשְׁמֹנֶה אַמּוֹת"
+    ]
+   },
+   {
+    "title": "החמירו בתוכה יותר מחוצה לה?",
+    "pasuk": {
+     "text": "אִם אֵין בֵּינֵיהֶן שְׁמֹנֶה אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם",
+     "ref": "Mishnah Kilayim 4:8",
+     "label": "משנה כלאים ד, ח"
+    },
+    "question": "תוספות יום טוב מביא את הירושלמי שהחמירו בתוכה יותר מחוצה לה. חון עשיר אינו מבין לאיזה 'לעיל' הדבר מתייחס.",
+    "asked_by": [
+     {
+      "name": "חון עשיר",
+      "ref": "Hon Ashir on Mishnah Kilayim 4:8:1",
+      "quote": "ואנא לא ידענא מאי קאמר, ואהיכא קאי האי לעיל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: ברטנורא כתב שהשורות מצטרפות להיות כרם; לעיל היה לענין חוצה לה, והכא לענין תוכה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 4:8:1",
+        "quote": "כתב הר\"ב דמצטרפין להיות כרם. דלעיל לענין חוצה לה והכא לענין תוכה"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב חוזר על כך בשם הירושלמי: אמר רבי אליעזר החמירו תוכה יותר מחוצה לה.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 4:8:1",
+        "quote": "וזה שאמר בירושלמי אמר רבי אליעזר החמירו תוכה יותר מחוצה לה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שגם ההסבר המקובל לחומרה בירושלמי אינו ברור לכל אחד מהאחרונים.",
+    "mishnah": 8,
+    "anchors": [
+     "אִם אֵין בֵּינֵיהֶן שְׁמֹנֶה אַמּוֹת, לֹא יָבִיא זֶרַע לְשָׁם"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות רבי עקיבא איגר",
+   "ברטנורא",
+   "תוספות יום טוב",
+   "בועז",
+   "רמב\"ם",
+   "לחם שמים",
+   "מלאכת שלמה",
+   "עיקר תוספות יום טוב",
+   "חון עשיר"
+  ]
+ }
+}
