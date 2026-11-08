@@ -1,0 +1,876 @@
+{
+ "date": "2026-11-07",
+ "hebrew_date": {
+  "hebrew": "כ״ז בְּחֶשְׁוָן תשפ״ז",
+  "english": "27 Cheshvan 5787"
+ },
+ "masechet": "kilayim",
+ "perek": 7,
+ "ref": "Mishnah Kilayim 7",
+ "mishnayot": [
+  {
+   "he": "הַמַּבְרִיךְ אֶת הַגֶּפֶן בָּאָרֶץ, אִם אֵין עָפָר עַל גַּבָּהּ שְׁלֹשָׁה טְפָחִים, לֹא יָבִיא זֶרַע עָלֶיהָ, אֲפִלּוּ הִבְרִיכָהּ בִּדְלַעַת אוֹ בְסִילוֹן. הִבְרִיכָהּ בְּסֶלַע, אַף עַל פִּי שֶׁאֵין עָפָר עַל גַּבָּהּ אֶלָּא שָׁלֹשׁ אֶצְבָּעוֹת, מֻתָּר לְהָבִיא זֶרַע עָלֶיהָ. הָאַרְכֻּבָּה שֶׁבַּגֶּפֶן, אֵין מוֹדְדִין לָהּ אֶלָּא מִן הָעִקָּר הַשֵּׁנִי: \n",
+   "en": "If one has bent a vine into the ground [and then brought it back up elsewhere], then if there is not soil over it to the height of three handbreadths, he may not sow seed above it, even if he bent [and conducted it underground] through a gourd or through a pipe. If he bent it [and conducted] it through rocky soil, then even if there is not soil over it only to the height of three fingerbreadths, it is permitted to sow seed above it. As for a knee-like vine [formed by burying and conducting it underground], they don’t measure [for how much space to work it] except from its second root."
+  },
+  {
+   "he": "הַמַּבְרִיךְ שָׁלֹשׁ גְּפָנִים וְעִקָּרֵיהֶם נִרְאִים, רַבִּי אֱלִיעֶזֶר בַּר צָדוֹק אוֹמֵר, אִם יֵשׁ בֵּינֵיהֶם מֵאַרְבַּע אַמּוֹת וְעַד שְׁמֹנֶה, הֲרֵי אֵלּוּ מִצְטָרְפוֹת. וְאִם לָאו, אֵינָן מִצְטָרְפוֹת. גֶּפֶן שֶׁיָּבְשָׁה, אֲסוּרָה וְאֵינָהּ מְקַדֶּשֶׁת. רַבִּי מֵאִיר אוֹמֵר, אַף צֶמֶר גֶּפֶן אָסוּר וְאֵינוֹ מְקַדֵּשׁ. רַבִּי אֶלְעָזָר בַּר צָדוֹק אוֹמֵר מִשְּׁמוֹ, אַף עַל גַּבֵּי הַגֶּפֶן אָסוּר וְאֵינוֹ מְקַדֵּשׁ: \n",
+   "en": "One who has bent [and conducted underground] three vines, and their [original] stems are visible, Rabbi Elazar bar Tzadok says: if there is between them from four to eight cubits, they combine, if not, they do not combine. A vine which has dried up, it is forbidden [to sow near it], but it does not prohibit [the seed as kilayim]. Rabbi Meir said: the same applies to a cotton plant, it is forbidden [to sow near it], but it does not prohibit [the seed as kilayim]. Rabbi Elazar bar Tzadok said in his name: above the vine too, it is forbidden [to sow near it], but it does not prohibit [the seed as kilayim]."
+  },
+  {
+   "he": "אֵלּוּ אוֹסְרִין וְלֹא מְקַדְּשִׁין. מוֹתַר חָרְבַּן הַכֶּרֶם, מוֹתַר מְחוֹל הַכֶּרֶם, מוֹתַר פִּסְקֵי עָרִיס, מוֹתַר אַפִּיפְיָרוֹת. אֲבָל תַּחַת הַגֶּפֶן, וַעֲבוֹדַת הַגֶּפֶן, וְאַרְבַּע אַמּוֹת שֶׁבַּכֶּרֶם, הֲרֵי אֵלּוּ מִתְקַדְּשׁוֹת: \n",
+   "en": "The following are forbidden, but they do not prohibit [the seed sown there]:The remainder of a [legally inadequate] empty patch (karahat) of a vineyard. The remainder of a [legally inadequate] mehol of a vineyard. The remainder of a [legally inadequate] aris-gap. The [ground under the] remainder of papyrus-ropes [of a trellis]. But [the ground] beneath a vine, and within the place left to work a vine, and the [ground within] four cubits of a vineyard, these do prohibit the [seed sown there]."
+  },
+  {
+   "he": "הַמְסַכֵּךְ אֶת גַּפְנוֹ עַל גַּבֵּי תְבוּאָתוֹ שֶׁל חֲבֵרוֹ, הֲרֵי זֶה קִדֵּשׁ, וְחַיָּב בְּאַחֲרָיוּתוֹ. רַבִּי יוֹסֵי וְרַבִּי שִׁמְעוֹן אוֹמְרִים, אֵין אָדָם מְקַדֵּשׁ דָּבָר שֶׁאֵינוֹ שֶׁלּוֹ: \n",
+   "en": "One who causes his vine to overhang his fellow’s grain, behold he has caused the grain to be prohibited and he is responsible for it. Rabbi Yose and Rabbi Shimon say: a person does not prohibit [as kilayim] that which is not his own."
+  },
+  {
+   "he": "אָמַר רַבִּי יוֹסֵי, מַעֲשֶׂה בְּאֶחָד שֶׁזָּרַע אֶת כַּרְמוֹ בַּשְּׁבִיעִית, וּבָא מַעֲשֶׂה לִפְנֵי רַבִּי עֲקִיבָא, וְאָמַר, אֵין אָדָם מְקַדֵּשׁ דָּבָר שֶׁאֵינוֹ שֶׁלּוֹ: \n",
+   "en": "Rabbi Yose said: It happened that a man sowed [seed in] his vineyard in the sabbatical year, and the matter came before Rabbi Akiva, who said: a person does not prohibit [as kilayim] that which is not his own."
+  },
+  {
+   "he": "הָאַנָּס שֶׁזָּרַע אֶת הַכֶּרֶם וְיָצָא מִלְּפָנָיו, קוֹצְרוֹ אֲפִלּוּ בַמּוֹעֵד. עַד כַּמָּה הוּא נוֹתֵן לַפּוֹעֲלִים, עַד שְׁלִישׁ. יָתֵר מִכָּאן, קוֹצֵר כְּדַרְכּוֹ וְהוֹלֵךְ אֲפִלּוּ לְאַחַר הַמּוֹעֵד. מֵאֵימָתַי הוּא נִקְרָא אַנָּס, מִשֶּׁיִּשְׁקָע: \n",
+   "en": "If a forceful occupier (anas) has sown seed in a vineyard, and it went out of his possession [and reverted to the rightful owner], he (the original owner) should cut it down, even during hol hamoed. Up to what amount should he pay the workers? Up to a third. If [they demand] more than this, he should cut it in his usual way even if he has to keep cutting after the festival. At what point is he considered a forceful occupier (anas)? From the [the name of the original owner] has sunk [into oblivion]."
+  },
+  {
+   "he": "הָרוּחַ שֶׁעִלְעֲלָה אֶת הַגְּפָנִים עַל גַּבֵּי תְבוּאָה, יִגְדֹּר מִיָּד. אִם אֵרְעוֹ אֹנֶס, מֻתָּר. תְּבוּאָתוֹ שֶׁהָיְתָה נוֹטָה תַּחַת הַגֶּפֶן, וְכֵן בְּיָרָק, מַחֲזִיר וְאֵינוֹ מְקַדֵּשׁ. מֵאֵימָתַי תְּבוּאָה מִתְקַדֶּשֶׁת, מִשֶּׁתַּשְׁרִישׁ. וַעֲנָבִים, מִשֶּׁיֵּעָשׂוּ כְּפוֹל הַלָּבָן. תְּבוּאָה שֶׁיָּבְשָׁה כָּל צָרְכָּהּ, וַעֲנָבִים שֶׁבָּשְׁלוּ כָּל צָרְכָּן, אֵין מִתְקַדְּשׁוֹת: \n",
+   "en": "If wind has blown vines [so that they hang over] grain, one should immediately fence them apart. If an unforeseeable event occurred to him, it [the grain] is permitted. If grain is bent [and the ears reach] beneath a vine, similarly in the case of vegetables, one should turn them back, and it does not prohibit [as kilayim]. From what stage does grain prohibit kilayim? From the time it has struck root. And grapes? From the time they become as large as white beans. Grain which has become completely dried out, and grapes which have fully ripened no longer prohibit as kilayim."
+  },
+  {
+   "he": "עָצִיץ נָקוּב מְקַדֵּשׁ בַּכֶּרֶם, וְשֶׁאֵינוֹ נָקוּב אֵינוֹ מְקַדֵּשׁ. וְרַבִּי שִׁמְעוֹן אוֹמֵר, זֶה וְזֶה אוֹסְרִין וְלֹא מְקַדְּשִׁין. הַמַּעֲבִיר עָצִיץ נָקוּב בַּכֶּרֶם, אִם הוֹסִיף בְּמָאתַיִם, אָסוּר: \n",
+   "en": "[Seed sown in a] perforated flowerpot, prohibits [as kilayim] in a vineyard. [In] one not perforated, does not prohibit [as kilayim]. Rabbi Shimon says: both are forbidden but neither prohibits. One who carries a perforated flowerpot through a vineyard, if [that which is sown in it] grows a two-hundredth part, it is forbidden."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 teaches that a vine bent into the ground may not have seed sown over it unless there are three handbreadths of soil on top, with a lesser amount allowed over rock, and that the second root is the starting point for measuring a knee-like vine. Mishnah 2 deals with three bent vines that combine into a vineyard if they are four to eight cubits apart, and with a dried vine and cotton, which are forbidden but do not sanctify. Mishnah 3 lists places that forbid but do not sanctify, against the ground under the vine, the working space and four cubits of the vineyard, which do sanctify. Mishnayot 4–5 discuss one who stretches his vine over his fellow's grain, where Rabbi Yose and Rabbi Shimon hold that a person does not sanctify what is not his, as in Rabbi Akiva's ruling on a vineyard sown in the sabbatical year. Mishnah 6 covers the forceful occupier and the cutting of the seed, even on hol hamoed, up to a third in workers' pay. Mishnah 7 covers wind that blows vines over grain, and when grain and grapes begin and stop to sanctify. Mishnah 8 covers a perforated flowerpot in a vineyard and Rabbi Shimon's dissent.",
+  "topics": [
+   {
+    "term": "Havraka (bending a vine underground)",
+    "explanation": "Havraka is bending a vine shoot into the ground and bringing its tip up elsewhere, so that one vine becomes two. The mishnah rules that seed may not be sown over the buried part unless there are three handbreadths of soil on top of it, because the roots of the seed could reach the vine.",
+    "mishnah": 1,
+    "anchors": [
+     "המבריך את הגפן"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 7:1:1",
+     "quote": "המבריך את הגפן. הוא שיטמיננה בארץ ואסור לו לזרוע עליה אלא אם כן יש"
+    }
+   },
+   {
+    "term": "Arkubah (the knee-like vine)",
+    "explanation": "The arkubah is a vine bent into the ground and then rising again, shaped like a bent knee. The question is where the six handbreadths of working space around a single vine are measured from: the first or the second root. The mishnah says from the second root.",
+    "mishnah": 1,
+    "anchors": [
+     "הָאַרְכֻּבָּה שֶׁבַּגֶּפֶן"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 7:1:3",
+     "quote": "והארכובה של גפן צורתה כך וימדוד עבודתה שהיא ששה טפחים מעיקר שני"
+    }
+   },
+   {
+    "term": "Mitztarfot (vines that combine into a vineyard)",
+    "explanation": "Three vines combine to count as a vineyard only if they stand between four and eight cubits from one another, according to Rabbi Elazar bar Tzadok. A vineyard has stricter rules than a single vine, so whether vines combine decides how much land around them is forbidden for sowing.",
+    "mishnah": 2,
+    "anchors": [
+     "הרי אלו מצטרפות"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 7:2:1",
+     "quote": "ענין מצטרפות שיתחברו זו עם זו ויהיה נחשב כרם:"
+    }
+   },
+   {
+    "term": "Osrin and not mekadshin",
+    "explanation": "'Forbidden but not sanctified' marks two levels of kilayim. Where the mishnah says a place forbids but does not sanctify, one may not sow there, but if someone did sow, the seed does not have to be burned.",
+    "mishnah": 3,
+    "anchors": [
+     "אוסרין ולא מקדשין"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 7:3:2",
+     "quote": "וְלֹא מְקַדְּשִׁים. שֶׁאִם זָרַע אֵין הַזֶּרַע טָעוּן שְׂרֵפָה:"
+    }
+   },
+   {
+    "term": "Anas (a forceful occupier)",
+    "explanation": "The anas is one who seizes a vineyard by force and sows it, and then it returns to its owner. The mishnah asks from when he counts as an anas, and answers: from when the owner's name has sunk, which is when the true owner is no longer seen as the owner. Until then the vineyard is not treated as the occupier's own.",
+    "mishnah": 6,
+    "anchors": [
+     "מֵאֵימָתַי הוּא נִקְרָא אַנָּס"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 7:6:3",
+     "quote": "ומה שאמר משישקע ר\"ל משיתחבא בעל הכרם מפחד האנס"
+    }
+   },
+   {
+    "term": "Hashrasha (taking root)",
+    "explanation": "Grain becomes subject to kilayim in a vineyard only once it has taken root; grapes only once they are the size of white beans. Before that point, and after the grain has dried out or the grapes have fully ripened, they are not 'a full seed' or 'the produce of the vineyard' and do not sanctify.",
+    "mishnah": 7,
+    "anchors": [
+     "מֵאֵימָתַי תְּבוּאָה מִתְקַדֶּשֶׁת, מִשֶּׁתַּשְׁרִישׁ"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 7:7:2",
+     "quote": "משתשריש. מעת שיתפשטו שרשיה בארץ: ופירוש בשלו ידוע:"
+    }
+   },
+   {
+    "term": "Atzitz nakuv (a perforated flowerpot)",
+    "explanation": "A pot with a hole in the bottom is treated as connected to the ground, so what grows in it counts as sown in the vineyard. A pot with no hole is cut off from the ground, so what grows in it does not sanctify. Rabbi Shimon holds that both are forbidden but neither sanctifies.",
+    "mishnah": 8,
+    "anchors": [
+     "עָצִיץ נָקוּב"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 7:8:4",
+     "quote": "עָצִיץ נָקוּב שֶׁיֵּשׁ בּוֹ תְּבוּאָה שֶׁהֵבִיאָה שְׁלִישׁ, וְהֶעֱבִירוֹ בְּכֶרֶם שֶׁיֵּשׁ"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why does bending the vine through rock need less soil?",
+    "pasuk": {
+     "text": "הִבְרִיכָהּ בְּסֶלַע, אַף עַל פִּי שֶׁאֵין עָפָר עַל גַּבָּהּ אֶלָּא שָׁלֹשׁ אֶצְבָּעוֹת",
+     "ref": "Mishnah Kilayim 7:1",
+     "label": "Mishnah Kilayim 7:1"
+    },
+    "question": "The mishnah allows sowing over a vine bent through rock even with only three fingerbreadths of soil above it. Bartenura asks how that can be, since rock seems soft enough to be split by roots.",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Kilayim 7:1:5",
+      "quote": "הִבְרִיכָהּ בְּסֶלַע. קָשֶׁה. דְּסֶלַע רַךְ [מִתְפַּלֵּשׁ] וְנִפְתָּח",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam explains that 'sela' here means hard ground, not soft earth.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 7:1:2",
+        "quote": "וסלע. היא הקרקע הקשה:"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how Bartenura and the Rambam read the same word differently.",
+    "mishnah": 1,
+    "anchors": [
+     "הִבְרִיכָהּ בְּסֶלַע, אַף עַל פִּי שֶׁאֵין עָפָר עַל גַּבָּהּ אֶלָּא שָׁלֹשׁ אֶצְבָּעוֹת"
+    ]
+   },
+   {
+    "title": "Why does Bartenura give the dried gourd as the reason for the seed rather than the vine?",
+    "pasuk": {
+     "text": "אֲפִלּוּ הִבְרִיכָהּ בִּדְלַעַת אוֹ בְסִילוֹן",
+     "ref": "Mishnah Kilayim 7:1",
+     "label": "Mishnah Kilayim 7:1"
+    },
+    "question": "Bartenura says the gourd is not forbidden because of seeds sown in it, since the gourd is dry. Ikar Tosafot Yom Tov objects that he should have explained the case through the bending of the vine itself.",
+    "asked_by": [
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 7:2:1",
+      "quote": "וְהָרַ\"ב שֶׁכָּתַב מִשּׁוּם זְרָעִים בַּדְּלַעַת כוּ'‏ שֶׁהַדְּלַעַת יְבֵשָׁה, וַהֲוֵי לֵיהּ לְפָרֵשׁ כֵּן מִשּׁוּם הַבְרָכַת הַגֶּפֶן עַצְמוֹ.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says the vine is forbidden because the roots of the seed pierce through to the vine when there are not three handbreadths of soil above it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 7:1:3",
+        "quote": "מִשּׁוּם דְּשָׁרְשֵׁי הַזְּרָעִים נוֹקְבִים וּמְפַלְּשִׁין עַד הַגֶּפֶן כְּשֶׁאֵין עַל גַּבָּהּ"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says the gourd empties of its seeds and looks like a pipe, so one may not sow near the vine until it is buried three handbreadths in the ground.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 7:1:1",
+        "quote": "שהדלעת כשתוציא ממנה הזרע תשאר ריקה ותדמה כמו צנור אסור לו"
+       }
+      ]
+     }
+    ],
+    "why": "It separates the gourd case from the pipe case.",
+    "mishnah": 1,
+    "anchors": [
+     "אֲפִלּוּ הִבְרִיכָהּ בִּדְלַעַת אוֹ בְסִילוֹן"
+    ]
+   },
+   {
+    "title": "Why is a dried-up vine still forbidden, even in summer?",
+    "pasuk": {
+     "text": "גֶּפֶן שֶׁיָּבְשָׁה, אֲסוּרָה וְאֵינָהּ מְקַדֶּשֶׁת",
+     "ref": "Mishnah Kilayim 7:2",
+     "label": "Mishnah Kilayim 7:2"
+    },
+    "question": "A dried vine is still forbidden for sowing. Tosafot Yom Tov reports the Ra'avad's challenge from the Yerushalmi: in summer a dry vine is clearly dry, so why forbid it?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 7:2:2",
+      "quote": "והשיג עליו מן הירושלמי דקאמר בסתוא ניחא כלומר ושמא עדיין נשאר בו ליחה אע\"פ",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says it is forbidden because of how it looks: even in summer some vines have shed their leaves and look dry while they are not.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 7:2:4",
+        "quote": "אֲפִלּוּ בַּקַּיִץ דְּנִכָּר שֶׁהִיא יְבֵשָׁה אָסוּר, מִשּׁוּם דְּגַם בַּקַּיִץ אִיכָּא גְּפָנִים שֶׁנּוֹשְׁרִין עֲלֵיהֶן וְנִרְאִין כִּיבֵשִׁים וְהֵן"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says 'dried' does not mean entirely dry: it means that the leaves fell at the start of winter, as happens to vines.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 7:2:2",
+        "quote": "שיבשה שנפלו העלים שלה בתחלת החורף כאשר יקרה לגפנים ולא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the two ways to read 'dried up': by appearance or by the state of the vine.",
+    "mishnah": 2,
+    "anchors": [
+     "גֶּפֶן שֶׁיָּבְשָׁה, אֲסוּרָה וְאֵינָהּ מְקַדֶּשֶׁת"
+    ]
+   },
+   {
+    "title": "Why does cotton not sanctify in a vineyard?",
+    "pasuk": {
+     "text": "אַף צֶמֶר גֶּפֶן אָסוּר וְאֵינוֹ מְקַדֵּשׁ",
+     "ref": "Mishnah Kilayim 7:2",
+     "label": "Mishnah Kilayim 7:2"
+    },
+    "question": "Bartenura and the Rambam say cotton does not sanctify because it is not a kind of seed. Tosafot Yom Tov finds this hard to square with the end of chapter 5, which says that all kinds of seeds are not kilayim in a vineyard.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 7:2:3",
+      "quote": "וצ\"ע דבסוף פרק ה שנינו דכל מיני זרעים אינן כלאים בכרם. וכן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura gives the reason that cotton is not a kind of seed.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 7:2:5",
+        "quote": "אָסוּר וְאֵינוֹ מְקַדֵּשׁ לְפִי שֶׁאֵינוֹ מִין זְרָעִים:"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam, in his commentary, says the same: cotton sown in a vineyard does not sanctify the vineyard, as it is not among the kinds of seeds.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 7:2:3",
+        "quote": "כשיזרע צמר גפן בכרם אינו מקדש את הכרם"
+       }
+      ]
+     }
+    ],
+    "why": "Tosafot Yom Tov even suggests a different wording.",
+    "mishnah": 2,
+    "anchors": [
+     "אַף צֶמֶר גֶּפֶן אָסוּר וְאֵינוֹ מְקַדֵּשׁ"
+    ]
+   },
+   {
+    "title": "Why does kilayim differ from other prohibitions that a person can cause on another's property?",
+    "pasuk": {
+     "text": "אֵין אָדָם מְקַדֵּשׁ דָּבָר שֶׁאֵינוֹ שֶׁלּוֹ",
+     "ref": "Mishnah Kilayim 7:4",
+     "label": "Mishnah Kilayim 7:4"
+    },
+    "question": "Rabbi Yose and Rabbi Shimon say a person does not sanctify what is not his. The Rash asks: other prohibitions, such as kilayim of garments, do apply to what belongs to others.",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Kilayim 7:4:2",
+      "quote": "קשה מכלאי בגדים ורובע ונרבע דלגבוה ויש מחלקין בין איסור",
+      "era": "rishon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 7:5:1",
+      "quote": "ולא דמי לשאר איסורים שבתורה כגון הנותן חלב ודם. ובתוס'",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says kilayim is different because the verse says 'your vineyard' and not another's vineyard, while the Sages derive from the word 'kilayim' that another's vineyard is included.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 7:4:2",
+        "quote": "דְּשָׁאנֵי כִּלְאַיִם דִּכְתִיב בְּהוּ (דברים כב) לֹא תִזְרַע כַּרְמְךָ כִּלְאָיִם"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger brings the Tosafot in Yevamot, who distinguish an issue that depends on thought; kilayim too depends on the owner's intention.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 7:5:1",
+        "quote": "דבדבר התלוי במחשבה כגון משתחוה לבהמת חבירו בזה"
+       }
+      ]
+     }
+    ],
+    "why": "It is the root of the machlokes between Rabbi Yose, Rabbi Shimon and the first Tanna.",
+    "mishnah": 4,
+    "anchors": [
+     "אֵין אָדָם מְקַדֵּשׁ דָּבָר שֶׁאֵינוֹ שֶׁלּוֹ"
+    ]
+   },
+   {
+    "title": "If the occupier cannot make the owner's vineyard forbidden, why may the owner cut it during hol hamoed?",
+    "pasuk": {
+     "text": "הָאַנָּס שֶׁזָּרַע אֶת הַכֶּרֶם וְיָצָא מִלְּפָנָיו, קוֹצְרוֹ אֲפִלּוּ בַמּוֹעֵד",
+     "ref": "Mishnah Kilayim 7:6",
+     "label": "Mishnah Kilayim 7:6"
+    },
+    "question": "Reaping on the festival is allowed only for something that would be lost. Rabbi Akiva Eiger asks: if the owner would otherwise be forced to leave it, it is not considered his wish, so how is it a loss?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 7:6:1",
+      "quote": "ויש לעיין הא אם לא נתיר לו לקצור הוי אנוס ולא מקרי ניחא ליה ולא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura gives two answers: because of how it looks, so that he not seem to keep kilayim in the vineyard; or because he fears he will add a two-hundredth during the festival, and then it would be a loss.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 7:6:3",
+        "quote": "מִפְּנֵי מַרְאִית הָעַיִן הִתִּירוּ לִקְצֹר בַּמּוֹעֵד שֶׁלֹּא יְהֵא נִרְאֶה כִּמְקַיֵּם כִּלְאַיִם בַּכֶּרֶם."
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 7:6:3",
+        "quote": "אִם הוּא יָרֵא שֶׁמָּא יוֹסִיף מָאתַיִם בַּמּוֹעֵד אָז"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim says the reaping was required because it looks like keeping kilayim, not because of loss.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 7:6:1-5",
+        "quote": "לאו משום פסידא אלא משום איסורא דמחזי כמקיים כלאים"
+       }
+      ]
+     }
+    ],
+    "why": "It affects whether this mishnah follows Rabbi Yose and Rabbi Shimon.",
+    "mishnah": 6,
+    "anchors": [
+     "הָאַנָּס שֶׁזָּרַע אֶת הַכֶּרֶם וְיָצָא מִלְּפָנָיו, קוֹצְרוֹ אֲפִלּוּ בַמּוֹעֵד"
+    ]
+   },
+   {
+    "title": "Why does the mishnah say 'forbidden' and not 'sanctified' for a pot carried through a vineyard?",
+    "pasuk": {
+     "text": "הַמַּעֲבִיר עָצִיץ נָקוּב בַּכֶּרֶם, אִם הוֹסִיף בְּמָאתַיִם, אָסוּר",
+     "ref": "Mishnah Kilayim 7:8",
+     "label": "Mishnah Kilayim 7:8"
+    },
+    "question": "Tosafot Yom Tov notes that according to the Rambam the vines also become sanctified, and then the mishnah should have said 'sanctified'. He sets this against Bartenura's reading.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 7:8:4",
+      "quote": "וקשיא דלתני קידש.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says the seed in the pot is forbidden, but the vines are not sanctified, since the pot was not set down in the ground.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 7:8:4",
+        "quote": "אָסוּר הַזֶּרַע שֶׁבֶּעָצִיץ, אֲבָל הַגְּפָנִים לֹא קָדְשׁוּ כֵּיוָן שֶׁלֹּא הִנִּיחוֹ בַּקַּרְקַע."
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says the Gemara made it conditional on setting the pot under the vine.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 7:8:1",
+        "quote": "ובלבד שיניחהו תחת הגפן"
+       }
+      ]
+     }
+    ],
+    "why": "It sets Bartenura and the Rambam side by side on a single word.",
+    "mishnah": 8,
+    "anchors": [
+     "הַמַּעֲבִיר עָצִיץ נָקוּב בַּכֶּרֶם, אִם הוֹסִיף בְּמָאתַיִם, אָסוּר"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Bartenura",
+   "Rambam",
+   "Ikar Tosafot Yom Tov",
+   "Tosafot Yom Tov",
+   "Rash MiShantz",
+   "Tosafot Rabbi Akiva Eiger",
+   "Lechem Shamayim"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מלמדת שהמבריך גפן בארץ אינו רשאי לזרוע עליה אלא אם כן יש עליה שלושה טפחים עפר, ובסלע די בשלוש אצבעות, ושארכובה של גפן נמדדת מן העיקר השני. משנה ב עוסקת בשלוש גפנים מוברכות שמצטרפות לכרם אם יש ביניהן ארבע עד שמונה אמות, ובגפן שיבשה ובצמר גפן שאסורים ואינם מקדשים. משנה ג מונה מקומות שאוסרים ואינם מקדשים, לעומת תחת הגפן, עבודת הגפן וארבע אמות שבכרם שמקדשים. משניות ד-ה עוסקות במסכך גפנו על תבואת חברו, שרבי יוסי ורבי שמעון אומרים בה שאין אדם מקדש דבר שאינו שלו, וכמעשה רבי עקיבא בכרם שנזרע בשביעית. משנה ו עוסקת באנס שזרע את הכרם ובקצירתו אפילו במועד, עד שליש בשכר הפועלים. משנה ז עוסקת ברוח שעלעלה את הגפנים על התבואה ובשעה שבה תבואה וענבים מתקדשים ופוסקים מלהתקדש. משנה ח עוסקת בעציץ נקוב בכרם ובדעת רבי שמעון החולק.",
+  "topics": [
+   {
+    "term": "הברכה",
+    "explanation": "הברכה היא כפיפת זמורה של גפן אל תוך הקרקע והוצאת ראשה במקום אחר, כך שגפן אחת נעשית שתיים. המשנה אוסרת לזרוע על החלק הקבור אלא אם כן יש עליו עפר גבוה שלושה טפחים, מפני ששורשי הזרע עלולים להגיע אל הגפן.",
+    "mishnah": 1,
+    "anchors": [
+     "המבריך את הגפן"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 7:1:1",
+     "quote": "המבריך את הגפן. הוא שיטמיננה בארץ ואסור לו לזרוע עליה אלא אם כן יש"
+    }
+   },
+   {
+    "term": "ארכבה",
+    "explanation": "הארכבה היא גפן שנכפפה אל הקרקע ושבה ועלתה, בצורת ברך כפופה. השאלה היא מאיזה מקום מודדים את ששת הטפחים של עבודת גפן יחידית: מן העיקר הראשון או מן השני. המשנה קובעת שמודדים מן העיקר השני.",
+    "mishnah": 1,
+    "anchors": [
+     "הָאַרְכֻּבָּה שֶׁבַּגֶּפֶן"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 7:1:3",
+     "quote": "והארכובה של גפן צורתה כך וימדוד עבודתה שהיא ששה טפחים מעיקר שני"
+    }
+   },
+   {
+    "term": "מצטרפות",
+    "explanation": "שלוש גפנים מצטרפות להיחשב כרם רק אם יש ביניהן ארבע עד שמונה אמות, לדברי רבי אליעזר בר צדוק. לכרם דינים חמורים מלגפן יחידית, ולכן הצירוף קובע כמה מן הקרקע שסביבן אסור לזריעה.",
+    "mishnah": 2,
+    "anchors": [
+     "הרי אלו מצטרפות"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 7:2:1",
+     "quote": "ענין מצטרפות שיתחברו זו עם זו ויהיה נחשב כרם:"
+    }
+   },
+   {
+    "term": "אוסרין ולא מקדשין",
+    "explanation": "'אוסרין ולא מקדשין' מציין שתי דרגות באיסור כלאים. מקום שהמשנה אומרת עליו שהוא אוסר ואינו מקדש אסור לזרוע בו, אך אם זרע, אין הזרע טעון שריפה.",
+    "mishnah": 3,
+    "anchors": [
+     "אוסרין ולא מקדשין"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 7:3:2",
+     "quote": "וְלֹא מְקַדְּשִׁים. שֶׁאִם זָרַע אֵין הַזֶּרַע טָעוּן שְׂרֵפָה:"
+    }
+   },
+   {
+    "term": "אנס",
+    "explanation": "האנס הוא מי שתפס כרם בכוח וזרע בו, ואחר כך חזר הכרם לבעליו. המשנה שואלת מאימתי נקרא אנס ועונה: משישקע, כלומר משנשכח שמו של הבעלים. עד אז אין הכרם נחשב כשלו.",
+    "mishnah": 6,
+    "anchors": [
+     "מֵאֵימָתַי הוּא נִקְרָא אַנָּס"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 7:6:3",
+     "quote": "ומה שאמר משישקע ר\"ל משיתחבא בעל הכרם מפחד האנס"
+    }
+   },
+   {
+    "term": "השרשה",
+    "explanation": "תבואה נאסרת בכרם רק משתשריש, וענבים רק משיעשו כפול הלבן. לפני כן, ואחרי שהתבואה יבשה או שהענבים בשלו, אין הם 'מלאה זרע' או 'תבואת כרם' ואינם מקדשים.",
+    "mishnah": 7,
+    "anchors": [
+     "מֵאֵימָתַי תְּבוּאָה מִתְקַדֶּשֶׁת, מִשֶּׁתַּשְׁרִישׁ"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 7:7:2",
+     "quote": "משתשריש. מעת שיתפשטו שרשיה בארץ: ופירוש בשלו ידוע:"
+    }
+   },
+   {
+    "term": "עציץ נקוב",
+    "explanation": "עציץ שיש בו נקב נחשב מחובר לקרקע, ולכן מה שגדל בו נחשב כזרוע בכרם. עציץ שאינו נקוב מנותק מן הקרקע, ולכן מה שגדל בו אינו מקדש. רבי שמעון סובר ששניהם אוסרים ולא מקדשים.",
+    "mishnah": 8,
+    "anchors": [
+     "עָצִיץ נָקוּב"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 7:8:4",
+     "quote": "עָצִיץ נָקוּב שֶׁיֵּשׁ בּוֹ תְּבוּאָה שֶׁהֵבִיאָה שְׁלִישׁ, וְהֶעֱבִירוֹ בְּכֶרֶם שֶׁיֵּשׁ"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע בהברכה בסלע מספיק עפר מועט?",
+    "pasuk": {
+     "text": "הִבְרִיכָהּ בְּסֶלַע, אַף עַל פִּי שֶׁאֵין עָפָר עַל גַּבָּהּ אֶלָּא שָׁלֹשׁ אֶצְבָּעוֹת",
+     "ref": "Mishnah Kilayim 7:1",
+     "label": "משנה כלאים ז, א"
+    },
+    "question": "המשנה מתירה לזרוע על גפן שהוברכה בסלע גם כשיש עליה רק שלוש אצבעות עפר. הברטנורא שואל כיצד זה ייתכן, שהרי נראה שהסלע נפתח מן השורשים.",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Kilayim 7:1:5",
+      "quote": "הִבְרִיכָהּ בְּסֶלַע. קָשֶׁה. דְּסֶלַע רַךְ [מִתְפַּלֵּשׁ] וְנִפְתָּח",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם מבאר ש'סלע' כאן היא קרקע קשה, ולא עפר רך.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 7:1:2",
+        "quote": "וסלע. היא הקרקע הקשה:"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד הברטנורא והרמב\"ם מבינים את אותה מילה באופן שונה.",
+    "mishnah": 1,
+    "anchors": [
+     "הִבְרִיכָהּ בְּסֶלַע, אַף עַל פִּי שֶׁאֵין עָפָר עַל גַּבָּהּ אֶלָּא שָׁלֹשׁ אֶצְבָּעוֹת"
+    ]
+   },
+   {
+    "title": "מדוע מפרש הברטנורא את הדלעת מצד הזרעים ולא מצד הגפן?",
+    "pasuk": {
+     "text": "אֲפִלּוּ הִבְרִיכָהּ בִּדְלַעַת אוֹ בְסִילוֹן",
+     "ref": "Mishnah Kilayim 7:1",
+     "label": "משנה כלאים ז, א"
+    },
+    "question": "הברטנורא כותב שאין איסור משום זרעים בדלעת כי הדלעת יבשה. עיקר תוספות יום טוב מקשה שהיה לו לפרש זאת משום הברכת הגפן עצמה.",
+    "asked_by": [
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 7:2:1",
+      "quote": "וְהָרַ\"ב שֶׁכָּתַב מִשּׁוּם זְרָעִים בַּדְּלַעַת כוּ'‏ שֶׁהַדְּלַעַת יְבֵשָׁה, וַהֲוֵי לֵיהּ לְפָרֵשׁ כֵּן מִשּׁוּם הַבְרָכַת הַגֶּפֶן עַצְמוֹ.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא כותב שהאיסור הוא משום ששורשי הזרעים נוקבים ומפלשים עד הגפן כשאין עליה שלושה טפחים עפר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 7:1:3",
+        "quote": "מִשּׁוּם דְּשָׁרְשֵׁי הַזְּרָעִים נוֹקְבִים וּמְפַלְּשִׁין עַד הַגֶּפֶן כְּשֶׁאֵין עַל גַּבָּהּ"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם כותב שהדלעת נשארת ריקה ודומה לצינור, ואסור לזרוע קרוב לגפן עד שתוטמן בארץ שלושה טפחים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 7:1:1",
+        "quote": "שהדלעת כשתוציא ממנה הזרע תשאר ריקה ותדמה כמו צנור אסור לו"
+       }
+      ]
+     }
+    ],
+    "why": "מבחין בין דין הדלעת לדין הצינור.",
+    "mishnah": 1,
+    "anchors": [
+     "אֲפִלּוּ הִבְרִיכָהּ בִּדְלַעַת אוֹ בְסִילוֹן"
+    ]
+   },
+   {
+    "title": "מדוע גפן יבשה אסורה גם בקיץ?",
+    "pasuk": {
+     "text": "גֶּפֶן שֶׁיָּבְשָׁה, אֲסוּרָה וְאֵינָהּ מְקַדֶּשֶׁת",
+     "ref": "Mishnah Kilayim 7:2",
+     "label": "משנה כלאים ז, ב"
+    },
+    "question": "גפן שיבשה עדיין אסורה לזריעה. התוספות יום טוב מביא את השגת הראב\"ד מן הירושלמי: בקיץ ברור שהגפן יבשה, ומדוע לאסור?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 7:2:2",
+      "quote": "והשיג עליו מן הירושלמי דקאמר בסתוא ניחא כלומר ושמא עדיין נשאר בו ליחה אע\"פ",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא אומר שהאיסור משום מראית העין: גם בקיץ יש גפנים שנושרים עליהן העלים ונראות כיבשות ואינן יבשות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 7:2:4",
+        "quote": "אֲפִלּוּ בַּקַּיִץ דְּנִכָּר שֶׁהִיא יְבֵשָׁה אָסוּר, מִשּׁוּם דְּגַם בַּקַּיִץ אִיכָּא גְּפָנִים שֶׁנּוֹשְׁרִין עֲלֵיהֶן וְנִרְאִין כִּיבֵשִׁים וְהֵן"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר ש'יבשה' אינו מתכוון ליבשה לגמרי, אלא לכך שהעלים נפלו בתחילת החורף כפי שקורה לגפנים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 7:2:2",
+        "quote": "שיבשה שנפלו העלים שלה בתחלת החורף כאשר יקרה לגפנים ולא"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שתי דרכים להבין 'שיבשה': לפי המראה או לפי מצב הגפן.",
+    "mishnah": 2,
+    "anchors": [
+     "גֶּפֶן שֶׁיָּבְשָׁה, אֲסוּרָה וְאֵינָהּ מְקַדֶּשֶׁת"
+    ]
+   },
+   {
+    "title": "מדוע צמר גפן אינו מקדש בכרם?",
+    "pasuk": {
+     "text": "אַף צֶמֶר גֶּפֶן אָסוּר וְאֵינוֹ מְקַדֵּשׁ",
+     "ref": "Mishnah Kilayim 7:2",
+     "label": "משנה כלאים ז, ב"
+    },
+    "question": "הברטנורא והרמב\"ם אומרים שצמר גפן אינו מקדש מפני שאינו מין זרעים. התוספות יום טוב מתקשה בכך מסוף פרק ה, ששם נאמר שכל מיני זרעים אינם כלאים בכרם.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 7:2:3",
+      "quote": "וצ\"ע דבסוף פרק ה שנינו דכל מיני זרעים אינן כלאים בכרם. וכן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא נותן טעם שצמר גפן אינו מין זרעים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 7:2:5",
+        "quote": "אָסוּר וְאֵינוֹ מְקַדֵּשׁ לְפִי שֶׁאֵינוֹ מִין זְרָעִים:"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם בפירושו אומר כך: צמר גפן שנזרע בכרם אינו מקדש את הכרם, כי אינו ממיני זרעים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 7:2:3",
+        "quote": "כשיזרע צמר גפן בכרם אינו מקדש את הכרם"
+       }
+      ]
+     }
+    ],
+    "why": "התוספות יום טוב אף מציע נוסח אחר.",
+    "mishnah": 2,
+    "anchors": [
+     "אַף צֶמֶר גֶּפֶן אָסוּר וְאֵינוֹ מְקַדֵּשׁ"
+    ]
+   },
+   {
+    "title": "במה כלאים שונה מאיסורים אחרים שאפשר לאסור בהם דבר של אחר?",
+    "pasuk": {
+     "text": "אֵין אָדָם מְקַדֵּשׁ דָּבָר שֶׁאֵינוֹ שֶׁלּוֹ",
+     "ref": "Mishnah Kilayim 7:4",
+     "label": "משנה כלאים ז, ד"
+    },
+    "question": "רבי יוסי ורבי שמעון אומרים שאין אדם מקדש דבר שאינו שלו. הר\"ש מקשה: איסורים אחרים, כגון כלאי בגדים, חלים גם על דבר של אחר.",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Kilayim 7:4:2",
+      "quote": "קשה מכלאי בגדים ורובע ונרבע דלגבוה ויש מחלקין בין איסור",
+      "era": "rishon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 7:5:1",
+      "quote": "ולא דמי לשאר איסורים שבתורה כגון הנותן חלב ודם. ובתוס'",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא אומר שכלאים שונה מפני שנאמר 'כרמך' ולא כרם אחר, ואילו חכמים דורשים מ'כלאים' שגם כרם אחר בכלל.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 7:4:2",
+        "quote": "דְּשָׁאנֵי כִּלְאַיִם דִּכְתִיב בְּהוּ (דברים כב) לֹא תִזְרַע כַּרְמְךָ כִּלְאָיִם"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר מביא את התוספות ביבמות שמחלקים בדבר התלוי במחשבה, וגם איסור כלאים תלוי במחשבה.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 7:5:1",
+        "quote": "דבדבר התלוי במחשבה כגון משתחוה לבהמת חבירו בזה"
+       }
+      ]
+     }
+    ],
+    "why": "זהו שורש המחלוקת בין רבי יוסי ורבי שמעון לבין התנא הראשון.",
+    "mishnah": 4,
+    "anchors": [
+     "אֵין אָדָם מְקַדֵּשׁ דָּבָר שֶׁאֵינוֹ שֶׁלּוֹ"
+    ]
+   },
+   {
+    "title": "אם האנס אינו אוסר, מדוע מותר לקצור בחול המועד?",
+    "pasuk": {
+     "text": "הָאַנָּס שֶׁזָּרַע אֶת הַכֶּרֶם וְיָצָא מִלְּפָנָיו, קוֹצְרוֹ אֲפִלּוּ בַמּוֹעֵד",
+     "ref": "Mishnah Kilayim 7:6",
+     "label": "משנה כלאים ז, ו"
+    },
+    "question": "קצירה במועד מותרת רק בדבר האבד. רבי עקיבא איגר שואל: אם לא יתירו לו לקצור הוא אנוס ואין זה ניחא ליה, ואם כן אין זה דבר האבד.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 7:6:1",
+      "quote": "ויש לעיין הא אם לא נתיר לו לקצור הוי אנוס ולא מקרי ניחא ליה ולא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא נותן שתי תשובות: מפני מראית העין, שלא יראה כמקיים כלאים בכרם; או שמא יוסיף מאתיים במועד, ואז הוא דבר האבד.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 7:6:3",
+        "quote": "מִפְּנֵי מַרְאִית הָעַיִן הִתִּירוּ לִקְצֹר בַּמּוֹעֵד שֶׁלֹּא יְהֵא נִרְאֶה כִּמְקַיֵּם כִּלְאַיִם בַּכֶּרֶם."
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 7:6:3",
+        "quote": "אִם הוּא יָרֵא שֶׁמָּא יוֹסִיף מָאתַיִם בַּמּוֹעֵד אָז"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים אומר שחייבוהו לקצור משום שנראה כמקיים כלאים ולא משום הפסד.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 7:6:1-5",
+        "quote": "לאו משום פסידא אלא משום איסורא דמחזי כמקיים כלאים"
+       }
+      ]
+     }
+    ],
+    "why": "משפיע על השאלה אם המשנה הזו כרבי יוסי ורבי שמעון.",
+    "mishnah": 6,
+    "anchors": [
+     "הָאַנָּס שֶׁזָּרַע אֶת הַכֶּרֶם וְיָצָא מִלְּפָנָיו, קוֹצְרוֹ אֲפִלּוּ בַמּוֹעֵד"
+    ]
+   },
+   {
+    "title": "מדוע המשנה אומרת 'אסור' ולא 'קידש' בהעברת עציץ נקוב בכרם?",
+    "pasuk": {
+     "text": "הַמַּעֲבִיר עָצִיץ נָקוּב בַּכֶּרֶם, אִם הוֹסִיף בְּמָאתַיִם, אָסוּר",
+     "ref": "Mishnah Kilayim 7:8",
+     "label": "משנה כלאים ז, ח"
+    },
+    "question": "התוספות יום טוב מעיר שלפי הרמב\"ם גם הגפנים מתקדשות, ואז היה על המשנה לומר 'קידש'. הוא מעמיד זאת מול פירוש הברטנורא.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 7:8:4",
+      "quote": "וקשיא דלתני קידש.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא אומר שהזרע שבעציץ אסור, אך הגפנים לא קדשו כיוון שלא הניחו בקרקע.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 7:8:4",
+        "quote": "אָסוּר הַזֶּרַע שֶׁבֶּעָצִיץ, אֲבָל הַגְּפָנִים לֹא קָדְשׁוּ כֵּיוָן שֶׁלֹּא הִנִּיחוֹ בַּקַּרְקַע."
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שהגמרא התנתה זאת בכך שיניח את העציץ תחת הגפן.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 7:8:1",
+        "quote": "ובלבד שיניחהו תחת הגפן"
+       }
+      ]
+     }
+    ],
+    "why": "מעמיד זה לצד זה את הברטנורא והרמב\"ם סביב מילה אחת.",
+    "mishnah": 8,
+    "anchors": [
+     "הַמַּעֲבִיר עָצִיץ נָקוּב בַּכֶּרֶם, אִם הוֹסִיף בְּמָאתַיִם, אָסוּר"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "ברטנורא",
+   "רמב\"ם",
+   "עיקר תוספות יום טוב",
+   "תוספות יום טוב",
+   "רש משנץ",
+   "תוספות רבי עקיבא איגר",
+   "לחם שמים"
+  ]
+ }
+}
