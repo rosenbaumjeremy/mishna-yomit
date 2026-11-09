@@ -1,0 +1,1012 @@
+{
+ "date": "2026-11-09",
+ "hebrew_date": {
+  "hebrew": "כ״ט בְּחֶשְׁוָן תשפ״ז",
+  "english": "29 Cheshvan 5787"
+ },
+ "masechet": "kilayim",
+ "perek": 9,
+ "ref": "Mishnah Kilayim 9",
+ "mishnayot": [
+  {
+   "he": "אֵין אָסוּר מִשּׁוּם כִּלְאַיִם אֶלָּא צֶמֶר וּפִשְׁתִּים. וְאֵינוֹ מִטַּמֵּא בִנְגָעִים אֶלָּא צֶמֶר וּפִשְׁתִּים. אֵין הַכֹּהֲנִים לוֹבְשִׁין לְשַׁמֵּשׁ בְּבֵית הַמִּקְדָּשׁ אֶלָּא צֶמֶר וּפִשְׁתִּים. צֶמֶר גְּמַלִּים וְצֶמֶר רְחֵלִים שֶׁטְּרָפָן זֶה בָזֶה, אִם רֹב מִן הַגְּמַלִּים, מֻתָּר, וְאִם רֹב מִן הָרְחֵלִים, אָסוּר. מֶחֱצָה לְמֶחֱצָה, אָסוּר. וְכֵן הַפִּשְׁתָּן וְהַקַּנְבּוֹס שֶׁטְּרָפָן זֶה בָזֶה: \n",
+   "en": "Nothing is forbidden on account of kilayim except [a mixture of] wool and linen. No [clothing material] is subject to uncleanness by scale disease except wool or linen. Priests do not wear any materials to serve in the Temple except for wool and linen. Camel’s wool with sheep’s wool, that have been mixed together: if the greater part is camel’s wool, it is permitted [to mix it with linen], but if the greater part is sheep’s wool, it is forbidden; if it is half and half, it is forbidden. The same applies to hemp and linen mixed together."
+  },
+  {
+   "he": "הַשִּׁירָיִים וְהַכָּלָךְ אֵין בָּהֶם מִשּׁוּם כִּלְאַיִם, אֲבָל אֲסוּרִים מִפְּנֵי מַרְאִית הָעָיִן. הַכָּרִים וְהַכְּסָתוֹת אֵין בָּהֶם מִשּׁוּם כִּלְאַיִם, וּבִלְבַד שֶׁלֹּא יִהְיֶה בְשָׂרוֹ נוֹגֵעַ בָּהֶן. אֵין עֲרַאי לְכִלְאָיִם. וְלֹא יִלְבַּשׁ כִּלְאַיִם אֲפִלּוּ עַל גַּבֵּי עֲשָׂרָה, אֲפִלּוּ לִגְנֹב אֶת הַמֶּכֶס: \n",
+   "en": "Silk and floss-silk do not come under the prohibition of kilayim, but are prohibited on account of appearance. Mattresses and pillows do not come under the prohibition of kilayim, as long as his flesh does not come into [immediate] contact with them. There is no [permissibility for the] temporary [wearing] of kilayim. Neither may one wear kilayim even on top of ten [garments], even for the purpose of evading taxes."
+  },
+  {
+   "he": "מִטְפְּחוֹת הַיָּדַיִם, מִטְפְּחוֹת הַסְּפָרִים, מִטְפְּחוֹת הַסַּפָּג, אֵין בָּהֶם מִשּׁוּם כִּלְאָיִם. רַבִּי אֶלְעָזָר אוֹסֵר. וּמִטְפְּחוֹת הַסַּפָּרִים, אֲסוּרוֹת מִשּׁוּם כִּלְאָיִם: \n",
+   "en": "Hand towels, scroll covers, and bath towels do not come under the prohibition of kilayim. Rabbi Elazar prohibits. Barbers’ covers are subject to the prohibition of kilayim."
+  },
+  {
+   "he": "תַּכְרִיכֵי הַמֵּת וּמַרְדַּעַת שֶׁל חֲמוֹר, אֵין בָּהֶם מִשּׁוּם כִּלְאָיִם. לֹא יִתֵּן הַמַּרְדַּעַת עַל כְּתֵפוֹ, אֲפִלּוּ לְהוֹצִיא עָלֶיהָ זֶבֶל: \n",
+   "en": "Shrouds for the dead, and the packsaddle of a donkey are not subject to the law of kilayim. One may not [however] place a packsaddle [made of kilayim] on one’s shoulder even for the purpose of carrying dung out on it."
+  },
+  {
+   "he": "מוֹכְרֵי כְסוּת מוֹכְרִין כְּדַרְכָּן, וּבִלְבַד שֶׁלֹּא יִתְכַּוְּנוּ בַּחַמָּה מִפְּנֵי הַחַמָּה, וּבַגְּשָׁמִים מִפְּנֵי הַגְּשָׁמִים. וְהַצְּנוּעִים מַפְשִׁילִין בְּמַקֵּל לַאֲחוֹרֵיהֶם: \n",
+   "en": "Sellers of clothes may sell [clothes made of kilayim] in accordance with their custom, as long as they do have not the intention in the sun, [to protect themselves] from the sun, or in the rain [to protect themselves] from the rain. The scrupulous hang [such materials or garments] on a stick over their backs."
+  },
+  {
+   "he": "תּוֹפְרֵי כְסוּת תּוֹפְרִין כְּדַרְכָּן, וּבִלְבַד שֶׁלֹּא יִתְכַּוְּנוּ בַּחַמָּה מִפְּנֵי הַחַמָּה, וּבַגְּשָׁמִים מִפְּנֵי הַגְּשָׁמִים. וְהַצְּנוּעִים תּוֹפְרִים בָּאָרֶץ: \n",
+   "en": "Tailors may sew [materials which are kilayim] in their usual way, as long as they do have not the intention in the sun, [to protect themselves] from the sun, or in the rain [to protect themselves] from the rain. The scrupulous sew [such materials as they are laid] on the ground."
+  },
+  {
+   "he": "הַבַּרְסִין וְהַבַּרְדְּסִין וְהַדַּלְמְטִקְיוֹן וּמִנְעֲלוֹת הַפִּנּוֹן, לֹא יִלְבַּשׁ בָּהֶן עַד שֶׁיִּבְדֹּק. רַבִּי יוֹסֵי אוֹמֵר, הַבָּאִים מֵחוֹף הַיָּם וּמִמְּדִינַת הַיָּם אֵינָן צְרִיכִין בְּדִיקָה, מִפְּנֵי שֶׁחֶזְקָתָן בַּקַּנְבּוֹס. וּמִנְעָל שֶׁל זֶרֶד אֵין בּוֹ מִשּׁוּם כִּלְאָיִם: \n",
+   "en": "The Birrus blanket or Brindisian blanket, or Dalmatian cloth, or felt shoes, may not be worn until one has examined them. Rabbi Yose says: ones that come from the coast or from lands beyond the sea, do not require examination, since the presumption with regard to them is [that they are sewn] with hemp. Felt-lined shoes are not subject to the laws of kilayim."
+  },
+  {
+   "he": "אֵין אָסוּר מִשּׁוּם כִּלְאַיִם אֶלָּא טָווּי וְאָרוּג, שֶׁנֶּאֱמַר (דברים כב) לֹא תִלְבַּשׁ שַׁעַטְנֵז, דָּבָר שֶׁהוּא שׁוּעַ טָווּי וָנוּז. רַבִּי שִׁמְעוֹן בֶּן אֶלְעָזָר אוֹמֵר, נָלוֹז וּמֵלִּיז הוּא אֶת אָבִיו שֶׁבַּשָּׁמַיִם עָלָיו: \n",
+   "en": "Only that which is spun or woven is forbidden under the law of kilayim, as it says, “You shall not wear shatnez” (Deuteronomy 22:11), that which is shua (combed) tavui (spun) and nuz (woven). Rabbi Shimon ben Elazar says: [the word shaatnez means that] he [the transgressor] is perverted (naloz) and causes his father in heaven to avert himself [from him]."
+  },
+  {
+   "he": "הַלְּבָדִים אֲסוּרִים, מִפְּנֵי שֶׁהֵם שׁוּעִים. פִּיו שֶׁל צֶמֶר בְּשֶׁל פִּשְׁתָּן אָסוּר, מִפְּנֵי שֶׁהֵם חוֹזְרִין כָּאָרִיג. רַבִּי יוֹסֵי אוֹמֵר, מְשִׁיחוֹת שֶׁל אַרְגָּמָן אֲסוּרוֹת, מִפְּנֵי שֶׁהוּא מוֹלֵל עַד שֶׁלֹּא קוֹשֵׁר. לֹא יִקְשֹׁר סֶרֶט שֶׁל צֶמֶר בְּשֶׁל פִּשְׁתָּן לַחְגֹּר בּוֹ אֶת מָתְנָיו, אַף עַל פִּי שֶׁהָרְצוּעָה בָאֶמְצַע: \n",
+   "en": "Felted materials [can be] prohibited because of kilayim, since they are combed. It is prohibited to attach a string of wool to linen material, since this resembles weaving. Rabbi Yose says: it is forbidden to use cords of purple [wool to tie round a loose linen garment], since before he ties it, he stitches it on. One may not tie a strip of woolen material with one of linen material for the purpose of girdling one’s loins, even if there is a leather strap between the two."
+  },
+  {
+   "he": "אוֹתוֹת הַגַּרְדִּין וְאוֹתוֹת הַכּוֹבְסִים, אֲסוּרוֹת מִשּׁוּם כִּלְאָיִם. הַתּוֹכֵף תְּכִיפָה אַחַת, אֵינָהּ חִבּוּר, וְאֵין בָּהּ מִשּׁוּם כִּלְאַיִם, וְהַשּׁוֹמְטָהּ בְּשַׁבָּת, פָּטוּר. עָשָׂה שְׁנֵי רָאשֶׁיהָ לְצַד אֶחָד, חִבּוּר, וְיֶשׁ בָּהּ מִשּׁוּם כִּלְאַיִם, וְהַשּׁוֹמְטָהּ בְּשַׁבָּת, חַיָּב. רַבִּי יְהוּדָה אוֹמֵר, עַד שֶׁיְּשַׁלֵּשׁ. הַשַּׂק וְהַקֻּפָּה מִצְטָרְפִין לְכִלְאָיִם: \n",
+   "en": "Weaver’s mark’s or launderer’s marks [can be] prohibited because of kilayim. One who sticks one thread [through material], this does not constitute a connection, nor does [the prohibition of] kilayim apply and one who unties [such a connection] on Shabbat is exempt. If one made its two ends come out on the same side [of the material], this constitutes a connection, and it comes under the prohibition of kilayim, and one who unties such a connection on Shabbat is liable. Rabbi Judah said: [the prohibition does not apply] until one has made three stitches. A sack and a basket [one having a strip of woolen material attached to it, and the other a strip of linen] combine to form kilayim."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 Only a mixture of wool and linen is kilayim, the same two materials as for scale disease and for the priests' garments; camel and sheep wool follow the majority. Mishnah 2 Silk is forbidden only for appearance, mattresses and pillows are allowed if the flesh does not touch them, and there is no temporary wearing, even to avoid customs. Mishnayot 3–4 Hand towels, scroll covers and bath towels are allowed according to the first tanna, but Rabbi Elazar forbids them, and barbers' covers are forbidden; shrouds and the packsaddle are not kilayim, though one may not put the packsaddle on one's shoulder. Mishnayot 5–7 Sellers and tailors work as usual if they do not intend a benefit, and the scrupulous take extra care; certain cloaks and shoes must be examined before wearing, but Rabbi Yose says imports need no examination. Mishnayot 8–9 Only what is spun and woven is forbidden, and the mishnah lists items such as felts, a wool thread on linen, and a belt, with Rabbi Yose and Rabbi Shimon ben Elazar adding their views. Mishnah 10 Weavers' and launderers' marks are forbidden, one stitch is not a connection, two ends on one side are, Rabbi Judah requires three stitches, and a sack and a basket combine.",
+  "topics": [
+   {
+    "term": "Shatnez: wool and linen only",
+    "explanation": "The Torah forbids wearing shatnez, and the mishnah opens by limiting it to a mixture of wool and linen alone. The Bartenura reads the verse as a general term (shatnez) followed by a specific one (wool and linen), so only the specific is included. The same two materials define what can become impure with a scale disease and what the priests wear in the Temple.",
+    "mishnah": 1,
+    "anchors": [
+     "אֵין אָסוּר מִשּׁוּם כִּלְאַיִם אֶלָּא צֶמֶר וּפִשְׁתִּים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 9:1:1",
+     "quote": "שַׁעַטְנֵז כְּלָל, צֶמֶר וּפִשְׁתִּים פְּרָט, כְּלָל וּפְרָט אֵין בַּכְּלָל אֶלָּא מַה שֶּׁבַּפְּרָט"
+    }
+   },
+   {
+    "term": "Silk and the prohibition of appearance (mar'it ha'ayin)",
+    "explanation": "Shirayim and chalach are kinds of silk. They are not wool or linen, so they are not kilayim, but one of them is smooth like linen and the other shaggy like wool, so a garment made of both looks like kilayim. The mishnah therefore forbids them only because of how they appear to an onlooker.",
+    "mishnah": 2,
+    "anchors": [
+     "הַשִּׁירָיִים וְהַכָּלָךְ"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 9:2:1",
+     "quote": "שיריים וכלך מיני משי הם וידמו כאילו הם צמר ופשתים"
+    }
+   },
+   {
+    "term": "Lying on kilayim versus wearing it",
+    "explanation": "The Torah forbids kilayim that goes up on a person, so spreading kilayim under oneself is allowed. That is why mattresses and pillows are permitted, but only if they are hard and his flesh does not touch them, lest a thread wind around his body. The Bartenura adds that soft ones, or ones lying on a bed, are forbidden.",
+    "mishnah": 2,
+    "anchors": [
+     "הַכָּרִים וְהַכְּסָתוֹת"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 9:2:3",
+     "quote": "אֲבָל אַתָּה מֻתָּר לְהַצִּיעוֹ תַּחְתֶּיךָ"
+    }
+   },
+   {
+    "term": "Wearing kilayim temporarily (arai)",
+    "explanation": "Arai means a passing, temporary wearing. The mishnah says there is no such leniency for kilayim: even a short wearing counts as wearing, and the prohibition applies even over ten other garments or in order to avoid customs duty.",
+    "mishnah": 2,
+    "anchors": [
+     "אֵין עֲרַאי לְכִלְאָיִם"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 9:2:4",
+     "quote": "דִּלְבִישַׁת עֲרַאי לְבִישָׁה הִיא"
+    }
+   },
+   {
+    "term": "An unintended benefit (the clothes sellers)",
+    "explanation": "Sellers of clothes may handle and carry kilayim garments in their usual way as long as they do not intend to warm themselves from the sun or the rain. The Bartenura explains that although intending the benefit would be a Torah prohibition, when one does not intend it, it is permitted even from the start.",
+    "mishnah": 5,
+    "anchors": [
+     "שֶׁלֹּא יִתְכַּוְּנוּ"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 9:5:1",
+     "quote": "כִּי לֹא מִתְכַּוֵּן שָׁרֵי לְכַתְּחִלָּה"
+    }
+   },
+   {
+    "term": "The scrupulous (tzenu'im)",
+    "explanation": "The mishnah says that the tzenu'im, the scrupulous, do more than the law requires. They hang the kilayim garments on a stick over their backs. The Rambam defines tzenu'im simply as those who are careful about the commandments, and the stick keeps the garment off their bodies.",
+    "mishnah": 5,
+    "anchors": [
+     "וְהַצְּנוּעִים מַפְשִׁילִין בְּמַקֵּל"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 9:5:2",
+     "quote": "וצנועים. הם המדקדקים במצות"
+    }
+   },
+   {
+    "term": "Shua, tavui and nuz: when it is kilayim",
+    "explanation": "The mishnah reads shatnez as an acronym of shua (combed), tavui (spun) and nuz (woven): only what is spun or woven is forbidden. The Rambam explains tavui as mixing wool and linen together and spinning threads from them, and the Torah-level prohibition requires all three steps.",
+    "mishnah": 8,
+    "anchors": [
+     "דָּבָר שֶׁהוּא שׁוּעַ טָווּי וָנוּז"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 9:8:2",
+     "quote": "הוא לערב צמר ופשתים יחדו ויטוה מהם חוטים"
+    }
+   },
+   {
+    "term": "A single stitch (tekifa) and what counts as a connection",
+    "explanation": "A tekifa is one pass of the needle through the cloth. The mishnah says one such stitch is not a connection, so wool and linen joined this way are not kilayim, and one who removes it on Shabbat is exempt. When both ends of the thread come out on the same side, it does count as a connection.",
+    "mishnah": 10,
+    "anchors": [
+     "הַתּוֹכֵף תְּכִיפָה אַחַת"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 9:10:2",
+     "quote": "תְּחִיבָה אַחַת שֶׁתָּחַב הַמַּחַט בַּבֶּגֶד פַּעַם אַחַת בִּלְבָד"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Camel wool and sheep's wool: how is it nullified by a majority?",
+    "pasuk": {
+     "text": "אִם רֹב מִן הַגְּמַלִּים, מֻתָּר",
+     "ref": "Mishnah Kilayim 9:1",
+     "label": "Mishnah Kilayim 9:1"
+    },
+    "question": "If camel's wool is the majority, the mixture may be used with linen, because the sheep's wool is nullified. But sheep's wool is a different kind from camel's wool, and a forbidden substance of a different kind is normally nullified only with a much larger proportion. How can a simple majority nullify it here?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 9:1:1-4",
+      "quote": "ולא ידעתי מה יאמר הרב ז\"ל בפשתן וקנבוס שטרפן דבטילי ברובא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov takes the nullification of one kind in another to follow the name: the sheep's wool is called simply wool, so it counts as the same kind and a majority suffices.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 9:1:4",
+        "quote": "ובתר שמא אזלינן במין במינו"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger says it does not depend on that: even a different kind is nullified by a majority by Torah law, and the extra proportion is only a rabbinic concern that a taste would be given in cooking, which does not apply here.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 9:1:3",
+        "quote": "דאף אם הוי אינו מינו הא גם במין בשא\"מ מדאורייתא בטל ברוב"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim also argues it is not needed: the strict proportion exists only for things that give taste in a pot, and wool in a garment has no such transfer of taste.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 9:1:1-4",
+        "quote": "מה שאין כן במידי דלאו בר קדירה הוא דליתא לנתינת טעם"
+       }
+      ]
+     }
+    ],
+    "why": "It decides how far a mixture of wool and linen is judged by its proportions.",
+    "mishnah": 1,
+    "anchors": [
+     "אִם רֹב מִן הַגְּמַלִּים, מֻתָּר"
+    ]
+   },
+   {
+    "title": "Why does the mishnah forbid it even to evade customs?",
+    "pasuk": {
+     "text": "אֲפִלּוּ לִגְנֹב אֶת הַמֶּכֶס",
+     "ref": "Mishnah Kilayim 9:2",
+     "label": "Mishnah Kilayim 9:2"
+    },
+    "question": "The mishnah forbids wearing kilayim even over ten garments and even in order to avoid customs. What kind of case is this, and why is it forbidden if the person gains nothing from the kilayim itself?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 9:2:1-2",
+      "quote": "פשיטא דאסור ולא צריך כלל לאשמועינן דלגנוב המכס אסור",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura heard some of his teachers explain it as a place where Jews pay customs to a toll collector, and the person wears kilayim so as not to be recognized as a Jew. His own view is that it means stealing the customs, since customs are not taken on clothes a person is wearing.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 9:2:6",
+        "quote": "ולי נראה לגנוב את המכס לפי שאין אדם נותן מכס מבגדים שהוא לובש"
+       }
+      ]
+     },
+     {
+      "text": "The Tosafot Yom Tov quotes the Rash that the mishnah speaks of a toll collector who stands by himself, without a government license.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 9:2:5",
+        "quote": "ובמוכס העומד מאליו מיירי"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that wearing kilayim is forbidden even when the wearer gains no benefit from it.",
+    "mishnah": 2,
+    "anchors": [
+     "אֲפִלּוּ לִגְנֹב אֶת הַמֶּכֶס"
+    ]
+   },
+   {
+    "title": "Barbers' covers are forbidden, yet is the garment not just protection?",
+    "pasuk": {
+     "text": "וּמִטְפְּחוֹת הַסַּפָּרִים, אֲסוּרוֹת מִשּׁוּם כִּלְאָיִם",
+     "ref": "Mishnah Kilayim 9:3",
+     "label": "Mishnah Kilayim 9:3"
+    },
+    "question": "The Bartenura says barbers' covers are forbidden because they have a hole for the head and are worn as a garment. Rabbi Akiva Eiger objects: even without that, they are placed on the body and used only to keep clothes from getting dirty. And the packsaddle in mishnah 4 is forbidden on the shoulder even though it is not worn as a garment. Is protection from dirt a forbidden benefit?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 9:3:1",
+      "quote": "ותמיה לי דאף באין לו בית ראש ואינו דרך מלבוש מ\"מ כיון דהוא על גופו והוי העלאה",
+      "era": "acharon"
+     },
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 9:3:2",
+      "quote": "פי' זה אינו נראה דהא אפי' במרדעת אסרו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura gives his reason: they have a hole for the head and are worn as a garment, and he says this is proved in the Yerushalmi.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 9:3:6",
+        "quote": "לְפִי שֶׁיֵּשׁ לָהֶן בֵּית רֹאשׁ וְלוֹבְשִׁים אוֹתָן דֶּרֶךְ מַלְבּוּשׁ"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash answers that saving one's clothes from dirt is not a benefit of kilayim, but a packsaddle is forbidden because it protects the shoulder itself from the weight and the filth.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Kilayim 9:3:2",
+        "quote": "לאצולי בגדיו מטינוף לא חשיבא הנאת כלאים"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim disagrees: even saving oneself from dirt counts, like the sellers who warm themselves from the sun, and so the packsaddle is forbidden.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 9:4:8",
+        "quote": "אפ\"ה לא שרי דומיא דמוכרי כסות"
+       }
+      ]
+     }
+    ],
+    "why": "It defines what counts as the benefit of kilayim, not just whether the item is a garment.",
+    "mishnah": 3,
+    "anchors": [
+     "וּמִטְפְּחוֹת הַסַּפָּרִים, אֲסוּרוֹת מִשּׁוּם כִּלְאָיִם"
+    ]
+   },
+   {
+    "title": "Shrouds: is it not mocking the poor?",
+    "pasuk": {
+     "text": "תַּכְרִיכֵי הַמֵּת וּמַרְדַּעַת שֶׁל חֲמוֹר",
+     "ref": "Mishnah Kilayim 9:4",
+     "label": "Mishnah Kilayim 9:4"
+    },
+    "question": "The Bartenura says the dead are free of the commandments, so a shroud of kilayim is permitted. But even a tallit without tzitzit is said to be forbidden because it mocks the poor. Why is the same not true of a shroud of kilayim?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 9:4:1",
+      "quote": "ותימה דליתסר משום לועג לרש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura gives the basic reason: once a person dies he becomes free of the commandments.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 9:4:1",
+        "quote": "כֵּיוָן שֶׁמֵּת אָדָם נַעֲשֶׂה חָפְשִׁי מִן הַמִּצְוֹת"
+       }
+      ]
+     },
+     {
+      "text": "The Melekhet Shelomoh brings the Rosh: mocking the poor applies much more to tzitzit, which is equal to all the commandments.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 9:4:1",
+        "quote": "בציצית איכא לועג לרש טפי ששקולה כנגד כל המצות"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger gives the same answer: it applies only to tzitzit, which is equal to the whole Torah.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 9:4:2",
+        "quote": "דזהו רק בציצית ששקול כנגד כל התורה"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim brings the Rash: kilayim is different, because where there is no benefit, even a living person is not forbidden.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 9:4:1-2",
+        "quote": "דלא מתהני כלל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the dead are exempt from commandments for the sake of the living.",
+    "mishnah": 4,
+    "anchors": [
+     "תַּכְרִיכֵי הַמֵּת וּמַרְדַּעַת שֶׁל חֲמוֹר"
+    ]
+   },
+   {
+    "title": "The Yerushalmi on shrouds: Torah matters or impurity?",
+    "pasuk": {
+     "text": "תַּכְרִיכֵי הַמֵּת וּמַרְדַּעַת שֶׁל חֲמוֹר",
+     "ref": "Mishnah Kilayim 9:4",
+     "label": "Mishnah Kilayim 9:4"
+    },
+    "question": "The Rash brings a Yerushalmi that says one is not exacting with the dead, and explains it as about matters of Torah law. Yet the Yerushalmi elsewhere explicitly speaks of impurity. What then is the meaning of that Yerushalmi?",
+    "asked_by": [
+     {
+      "name": "Petach Einayim",
+      "ref": "Petach Einayim on Mishnah Kilayim 9:4:1",
+      "quote": "ותימה דבירושלמי גופיה פרק מי שמתו ופרק כ\"ג ונזיר מפורש דהוא משום טומאה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Sha'arei Torat Bavel says that Rabbi Elijah Pinto's commentary on the Yerushalmi explains it as about the impurity of priests, and that this is the main view.",
+      "sources": [
+       {
+        "name": "Sha'arei Torat Bavel",
+        "ref": "Sha'arei Torat Bavel on Mishnah Kilayim 9:4:1",
+        "quote": "פירש לענין טומאת כהנים, וכן עיקר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what the Yerushalmi's rule on the dead covers.",
+    "mishnah": 4,
+    "anchors": [
+     "תַּכְרִיכֵי הַמֵּת וּמַרְדַּעַת שֶׁל חֲמוֹר"
+    ]
+   },
+   {
+    "title": "The clothes sellers against 'even to evade customs'",
+    "pasuk": {
+     "text": "מוֹכְרֵי כְסוּת מוֹכְרִין כְּדַרְכָּן",
+     "ref": "Mishnah Kilayim 9:5",
+     "label": "Mishnah Kilayim 9:5"
+    },
+    "question": "Mishnah 2 forbids wearing kilayim even to evade customs, even though the wearer has no wish to benefit. Yet here the clothes sellers may carry kilayim as long as they do not intend the benefit. Do the two mishnayot disagree?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Kilayim 9:2:6",
+      "quote": "וּפְלִיגָא אַאִידָךְ סְתָמָא דִתְנַן",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 9:5:1",
+      "quote": "מְסַיֵּם הָרַ\"שׁ וּפְלִיגֵי אַסְּתָמָא דִלְעֵיל מִשְׁנָה ב'",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Tosafot Yom Tov quotes the Kesef Mishneh on the Rambam, who ruled both: the case of the customs is a real wearing, so it is forbidden, while sellers only carry the garments.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 9:2:5",
+        "quote": "הרי עבר על לא תלבש שעטנז"
+       }
+      ]
+     },
+     {
+      "text": "The Hon Ashir follows the Rambam: the two are not a dispute, since the permission here is a way that is not a wearing, while the prohibition in mishnah 2 is a way of wearing.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Kilayim 9:5:1",
+        "quote": "דלא פליג האי סתמא אסתמא דלעיל"
+       }
+      ]
+     }
+    ],
+    "why": "It asks whether an unintended benefit is allowed at all.",
+    "mishnah": 5,
+    "anchors": [
+     "מוֹכְרֵי כְסוּת מוֹכְרִין כְּדַרְכָּן"
+    ]
+   },
+   {
+    "title": "Felt-lined shoes: why is no check needed?",
+    "pasuk": {
+     "text": "וּמִנְעָל שֶׁל זֶרֶד אֵין בּוֹ מִשּׁוּם כִּלְאָיִם",
+     "ref": "Mishnah Kilayim 9:7",
+     "label": "Mishnah Kilayim 9:7"
+    },
+    "question": "The mishnah says a zered shoe is not subject to kilayim, though felt may contain linen. Why do we not suspect that there is linen mixed in?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 9:7:1",
+      "quote": "ולא ידענו טעמא מאי דאין חוששין",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 9:7:1",
+      "quote": "וְלֹא יָדַעְנוּ טַעֲמָא מַאי דְאֵין חוֹשְׁשִׁין",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rashash answers that felts are forbidden only by rabbinic law, so we do not worry about a doubt.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Kilayim 9:7:1",
+        "quote": "לבדין אינן אסורים משום כלאים אלא מדרבנן"
+       }
+      ]
+     },
+     {
+      "text": "The Tosafot Yom Tov also brings the Rambam's ruling that a shoe of kilayim is permitted because the skin of the foot is hard and does not benefit the way other skin does.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 9:7:1",
+        "quote": "מותר לפי שעור הרגל קשה הוא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mishnah treats a doubt in a worn item.",
+    "mishnah": 7,
+    "anchors": [
+     "וּמִנְעָל שֶׁל זֶרֶד אֵין בּוֹ מִשּׁוּם כִּלְאָיִם"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Lechem Shamayim",
+   "Tosafot Yom Tov",
+   "Tosafot Rabbi Akiva Eiger",
+   "Bartenura",
+   "Melekhet Shelomoh",
+   "Rashash",
+   "Petach Einayim",
+   "Sha'arei Torat Bavel",
+   "Ikar Tosafot Yom Tov",
+   "Hon Ashir",
+   "Rambam"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א: אין איסור כלאים אלא בצמר ופשתים, אותם חומרים של נגעים ובגדי כהנים; צמר גמלים ורחלים הולכים אחר הרוב. משנה ב: משי אסור רק משום מראית העין, כרים וכסתות מותרים אם אין בשרו נוגע בהם, ואין עראי לכלאים אפילו לגנוב את המכס. משניות ג-ד: מטפחות הידים, הספרים והספג מותרות לתנא קמא ורבי אלעזר אוסר, ומטפחות הספרים אסורות; תכריכי המת ומרדעת מותרים, אך לא יתן המרדעת על כתפו. משניות ה-ז: מוכרי כסות ותופרי כסות עושים כדרכם אם אינם מתכוונים להנאה והצנועים מחמירים; ברסין ודלמטיקון ומנעלות הפינון צריכים בדיקה, ורבי יוסי פוטר את הבאים מחוף הים. משניות ח-ט: אסור רק טווי וארוג, והמשנה מונה לבדים, פיף של צמר בפשתן, משיחות וסרט, ובהם דעות רבי יוסי ורבי שמעון בן אלעזר. משנה י: אותות הגרדים והכובסים אסורות, תכיפה אחת אינה חיבור, שני ראשים לצד אחד חיבור, רבי יהודה אומר עד שישלש, והשק והקופה מצטרפין.",
+  "topics": [
+   {
+    "term": "שעטנז: צמר ופשתים בלבד",
+    "explanation": "התורה אסרה ללבוש שעטנז, והמשנה פותחת ומגבילה את האיסור לתערובת של צמר ופשתים בלבד. ברטנורא קורא את הפסוק כלל (שעטנז) ופרט (צמר ופשתים), ולכן נכלל רק הפרט. אותם שני חומרים קובעים גם מה מטמא בנגעים ומה לובשים הכהנים במקדש.",
+    "mishnah": 1,
+    "anchors": [
+     "אֵין אָסוּר מִשּׁוּם כִּלְאַיִם אֶלָּא צֶמֶר וּפִשְׁתִּים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 9:1:1",
+     "quote": "שַׁעַטְנֵז כְּלָל, צֶמֶר וּפִשְׁתִּים פְּרָט, כְּלָל וּפְרָט אֵין בַּכְּלָל אֶלָּא מַה שֶּׁבַּפְּרָט"
+    }
+   },
+   {
+    "term": "משי ואיסור מראית העין",
+    "explanation": "שיריים וכלך הם מיני משי. אין הם צמר ופשתן ולכן אינם כלאים, אבל האחד חלק כפשתן והשני שעיר כצמר, ולכן בגד העשוי משניהם נראה ככלאים. המשנה אוסרת אותם רק משום מראית העין.",
+    "mishnah": 2,
+    "anchors": [
+     "הַשִּׁירָיִים וְהַכָּלָךְ"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 9:2:1",
+     "quote": "שיריים וכלך מיני משי הם וידמו כאילו הם צמר ופשתים"
+    }
+   },
+   {
+    "term": "שכיבה על כלאים לעומת לבישה",
+    "explanation": "התורה אסרה כלאים שעולה על האדם, ולכן מותר להציע כלאים תחתיו. משום כך מותרים כרים וכסתות, אך רק כשהם קשים ואין בשרו נוגע בהם, שמא ייכרך חוט על גופו. ברטנורא מוסיף שהרכים או המונחים על מיטה אסורים.",
+    "mishnah": 2,
+    "anchors": [
+     "הַכָּרִים וְהַכְּסָתוֹת"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 9:2:3",
+     "quote": "אֲבָל אַתָּה מֻתָּר לְהַצִּיעוֹ תַּחְתֶּיךָ"
+    }
+   },
+   {
+    "term": "לבישת עראי",
+    "explanation": "עראי הוא לבישה זמנית וחולפת. המשנה אומרת שאין היתר כזה בכלאים: גם לבישה קצרה היא לבישה, והאיסור קיים אפילו על גבי עשרה בגדים ואפילו כדי לגנוב את המכס.",
+    "mishnah": 2,
+    "anchors": [
+     "אֵין עֲרַאי לְכִלְאָיִם"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 9:2:4",
+     "quote": "דִּלְבִישַׁת עֲרַאי לְבִישָׁה הִיא"
+    }
+   },
+   {
+    "term": "הנאה שאינה מכוונת (מוכרי כסות)",
+    "explanation": "מוכרי כסות רשאים לשאת בגדי כלאים כדרכם כל עוד אינם מתכוונים להתחמם בהם מן החמה או מן הגשמים. ברטנורא מסביר שאף שבהתכוונות יש איסור תורה, כשאינו מתכוון מותר לכתחילה.",
+    "mishnah": 5,
+    "anchors": [
+     "שֶׁלֹּא יִתְכַּוְּנוּ"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 9:5:1",
+     "quote": "כִּי לֹא מִתְכַּוֵּן שָׁרֵי לְכַתְּחִלָּה"
+    }
+   },
+   {
+    "term": "הצנועים",
+    "explanation": "המשנה אומרת שהצנועים נוהגים יותר מן הדין ותולים את בגדי הכלאים על מקל לאחוריהם. הרמב\"ם מגדיר צנועים כמדקדקים במצוות, והמקל מרחיק את הבגד מגופם.",
+    "mishnah": 5,
+    "anchors": [
+     "וְהַצְּנוּעִים מַפְשִׁילִין בְּמַקֵּל"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 9:5:2",
+     "quote": "וצנועים. הם המדקדקים במצות"
+    }
+   },
+   {
+    "term": "שוע טווי ונוז",
+    "explanation": "המשנה דורשת את המילה שעטנז כראשי תיבות: שוע (סרוק), טווי ונוז (ארוג), ורק מה שטווי או ארוג אסור. הרמב\"ם מסביר טווי כערבוב צמר ופשתים יחד וטוויית חוטים מהם, ואיסור התורה דורש את שלושת השלבים.",
+    "mishnah": 8,
+    "anchors": [
+     "דָּבָר שֶׁהוּא שׁוּעַ טָווּי וָנוּז"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 9:8:2",
+     "quote": "הוא לערב צמר ופשתים יחדו ויטוה מהם חוטים"
+    }
+   },
+   {
+    "term": "תכיפה אחת וחיבור",
+    "explanation": "תכיפה היא תחיבה אחת של המחט בבגד. המשנה אומרת שתכיפה אחת אינה חיבור, ולכן צמר ופשתים המחוברים כך אינם כלאים, והשומטה בשבת פטור. כששני ראשי החוט יוצאים מצד אחד, זהו חיבור.",
+    "mishnah": 10,
+    "anchors": [
+     "הַתּוֹכֵף תְּכִיפָה אַחַת"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 9:10:2",
+     "quote": "תְּחִיבָה אַחַת שֶׁתָּחַב הַמַּחַט בַּבֶּגֶד פַּעַם אַחַת בִּלְבָד"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "צמר גמלים וצמר רחלים: איך בטל ברוב?",
+    "pasuk": {
+     "text": "אִם רֹב מִן הַגְּמַלִּים, מֻתָּר",
+     "ref": "Mishnah Kilayim 9:1",
+     "label": "משנה כלאים ט, 1"
+    },
+    "question": "אם רוב הצמר הוא צמר גמלים, מותר לערבו בפשתן, כי צמר הרחלים בטל. אבל צמר רחלים הוא מין אחר מצמר גמלים, ודבר אסור ממין אחר בטל בדרך כלל רק ביחס גדול בהרבה. איך רוב פשוט מבטל כאן?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 9:1:1-4",
+      "quote": "ולא ידעתי מה יאמר הרב ז\"ל בפשתן וקנבוס שטרפן דבטילי ברובא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: הולכים אחר השם, וצמר רחלים נקרא סתם צמר, ולכן הוא נחשב מין במינו ורוב מספיק.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 9:1:4",
+        "quote": "ובתר שמא אזלינן במין במינו"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר: אין זה תלוי בכך, כי אף מין בשאינו מינו בטל ברוב מדאורייתא, והצורך בשישים הוא רק חשש דרבנן שמא יבשלם ויתן טעם, וזה לא שייך כאן.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 9:1:3",
+        "quote": "דאף אם הוי אינו מינו הא גם במין בשא\"מ מדאורייתא בטל ברוב"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: גם הוא סובר שאין צורך בכך, כי הצורך ביחס גדול הוא רק בדבר שנותן טעם בקדירה, וצמר בבגד אין בו נתינת טעם.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 9:1:1-4",
+        "quote": "מה שאין כן במידי דלאו בר קדירה הוא דליתא לנתינת טעם"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר קובע עד כמה נדון תערובת של צמר ופשתן לפי הרוב.",
+    "mishnah": 1,
+    "anchors": [
+     "אִם רֹב מִן הַגְּמַלִּים, מֻתָּר"
+    ]
+   },
+   {
+    "title": "מדוע אסור אפילו לגנוב את המכס?",
+    "pasuk": {
+     "text": "אֲפִלּוּ לִגְנֹב אֶת הַמֶּכֶס",
+     "ref": "Mishnah Kilayim 9:2",
+     "label": "משנה כלאים ט, 2"
+    },
+    "question": "המשנה אוסרת ללבוש כלאים אפילו על גבי עשרה בגדים ואפילו כדי לגנוב את המכס. באיזה מקרה מדובר, ומדוע זה אסור אם אין לו הנאה מן הכלאים עצמם?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 9:2:1-2",
+      "quote": "פשיטא דאסור ולא צריך כלל לאשמועינן דלגנוב המכס אסור",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: ראה מקצת מרבותיו שפירשו במקום שהיהודים פורעים מכס, והוא לובש כלאים כדי שלא יכירו שהוא יהודי. לדעתו הוא עצמו הכוונה לגנוב את המכס, כי אין נותנים מכס מבגדים שלובשים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 9:2:6",
+        "quote": "ולי נראה לגנוב את המכס לפי שאין אדם נותן מכס מבגדים שהוא לובש"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב מביא מהר\"ש שמדובר במוכס העומד מאליו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 9:2:5",
+        "quote": "ובמוכס העומד מאליו מיירי"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה שלבישת כלאים אסורה גם כשאין למלביש הנאה ממנה.",
+    "mishnah": 2,
+    "anchors": [
+     "אֲפִלּוּ לִגְנֹב אֶת הַמֶּכֶס"
+    ]
+   },
+   {
+    "title": "מטפחות הספרים אסורות, והרי אינן אלא הגנה?",
+    "pasuk": {
+     "text": "וּמִטְפְּחוֹת הַסַּפָּרִים, אֲסוּרוֹת מִשּׁוּם כִּלְאָיִם",
+     "ref": "Mishnah Kilayim 9:3",
+     "label": "משנה כלאים ט, 3"
+    },
+    "question": "ברטנורא אומר שמטפחות הספרים אסורות כי יש להן בית ראש ולובשים אותן דרך מלבוש. רבי עקיבא איגר מקשה: גם בלי זה הן על גופו ומשמשות רק להציל מטינוף, והמרדעת במשנה ד אסורה על כתפו אף שאינה דרך מלבוש. האם הצלה מטינוף היא הנאה אסורה?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 9:3:1",
+      "quote": "ותמיה לי דאף באין לו בית ראש ואינו דרך מלבוש מ\"מ כיון דהוא על גופו והוי העלאה",
+      "era": "acharon"
+     },
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 9:3:2",
+      "quote": "פי' זה אינו נראה דהא אפי' במרדעת אסרו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: יש להן בית ראש ולובשים אותן דרך מלבוש, וכך מוכח בירושלמי.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 9:3:6",
+        "quote": "לְפִי שֶׁיֵּשׁ לָהֶן בֵּית רֹאשׁ וְלוֹבְשִׁים אוֹתָן דֶּרֶךְ מַלְבּוּשׁ"
+       }
+      ]
+     },
+     {
+      "text": "רש\"ש: להציל בגדיו מטינוף אינה הנאת כלאים, והמרדעת אסורה כי היא מגנה על הכתף עצמה.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Kilayim 9:3:2",
+        "quote": "לאצולי בגדיו מטינוף לא חשיבא הנאת כלאים"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים חולק: גם הצלה מטינוף נחשבת הנאה, כמו מפני החמה, ולכן המרדעת אסורה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 9:4:8",
+        "quote": "אפ\"ה לא שרי דומיא דמוכרי כסות"
+       }
+      ]
+     }
+    ],
+    "why": "זה מגדיר מהי הנאת כלאים, ולא רק אם החפץ הוא בגד.",
+    "mishnah": 3,
+    "anchors": [
+     "וּמִטְפְּחוֹת הַסַּפָּרִים, אֲסוּרוֹת מִשּׁוּם כִּלְאָיִם"
+    ]
+   },
+   {
+    "title": "תכריכים: האם אין בכך לועג לרש?",
+    "pasuk": {
+     "text": "תַּכְרִיכֵי הַמֵּת וּמַרְדַּעַת שֶׁל חֲמוֹר",
+     "ref": "Mishnah Kilayim 9:4",
+     "label": "משנה כלאים ט, 4"
+    },
+    "question": "ברטנורא אומר שהמת חפשי מן המצוות ולכן מותר תכריך כלאים. אבל גם מי שמלביש מת בלי ציצית נחשב ללועג לרש. מדוע אין כך בתכריך כלאים?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Kilayim 9:4:1",
+      "quote": "ותימה דליתסר משום לועג לרש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: משמת האדם נעשה חפשי מן המצוות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 9:4:1",
+        "quote": "כֵּיוָן שֶׁמֵּת אָדָם נַעֲשֶׂה חָפְשִׁי מִן הַמִּצְוֹת"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את הרא\"ש: לועג לרש שייך יותר בציצית ששקולה כנגד כל המצוות.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 9:4:1",
+        "quote": "בציצית איכא לועג לרש טפי ששקולה כנגד כל המצות"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר: גם הוא מתרץ שזה רק בציצית ששקולה כנגד כל התורה.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 9:4:2",
+        "quote": "דזהו רק בציצית ששקול כנגד כל התורה"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים מביא את הר\"ש: כלאים שונה, כי אין בו איסור היכן שאין הנאה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 9:4:1-2",
+        "quote": "דלא מתהני כלל"
+       }
+      ]
+     }
+    ],
+    "why": "זה בוחן אם המתים פטורים מן המצוות.",
+    "mishnah": 4,
+    "anchors": [
+     "תַּכְרִיכֵי הַמֵּת וּמַרְדַּעַת שֶׁל חֲמוֹר"
+    ]
+   },
+   {
+    "title": "הירושלמי על תכריכים: דברי תורה או טומאה?",
+    "pasuk": {
+     "text": "תַּכְרִיכֵי הַמֵּת וּמַרְדַּעַת שֶׁל חֲמוֹר",
+     "ref": "Mishnah Kilayim 9:4",
+     "label": "משנה כלאים ט, 4"
+    },
+    "question": "הר\"ש מביא ירושלמי שאין מדקדקין במת ומפרשו על דברי תורה. אולם הירושלמי עצמו במקומות אחרים מפרש שהכוונה לטומאה. מהו אפוא פירוש הירושלמי?",
+    "asked_by": [
+     {
+      "name": "פתח עינים",
+      "ref": "Petach Einayim on Mishnah Kilayim 9:4:1",
+      "quote": "ותימה דבירושלמי גופיה פרק מי שמתו ופרק כ\"ג ונזיר מפורש דהוא משום טומאה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "שערי תורת בבל: בפירוש רא\"פ על הירושלמי פירש לענין טומאת כהנים, וכן עיקר.",
+      "sources": [
+       {
+        "name": "שערי תורת בבל",
+        "ref": "Sha'arei Torat Bavel on Mishnah Kilayim 9:4:1",
+        "quote": "פירש לענין טומאת כהנים, וכן עיקר"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע על מה חל הכלל בירושלמי.",
+    "mishnah": 4,
+    "anchors": [
+     "תַּכְרִיכֵי הַמֵּת וּמַרְדַּעַת שֶׁל חֲמוֹר"
+    ]
+   },
+   {
+    "title": "מוכרי כסות מול 'אפילו לגנוב את המכס'",
+    "pasuk": {
+     "text": "מוֹכְרֵי כְסוּת מוֹכְרִין כְּדַרְכָּן",
+     "ref": "Mishnah Kilayim 9:5",
+     "label": "משנה כלאים ט, 5"
+    },
+    "question": "משנה ב אוסרת ללבוש כלאים אפילו לגנוב את המכס אף שאין כוונתו ליהנות. ואילו כאן מוכרי כסות רשאים כל עוד אינם מתכוונים להנאה. האם שתי המשניות חלוקות?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Kilayim 9:2:6",
+      "quote": "וּפְלִיגָא אַאִידָךְ סְתָמָא דִתְנַן",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 9:5:1",
+      "quote": "מְסַיֵּם הָרַ\"שׁ וּפְלִיגֵי אַסְּתָמָא דִלְעֵיל מִשְׁנָה ב'",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב מביא כסף משנה על הרמב\"ם שפסק את שתיהן: בגניבת המכס זו לבישה ממש, ואילו מוכרים רק נושאים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 9:2:5",
+        "quote": "הרי עבר על לא תלבש שעטנז"
+       }
+      ]
+     },
+     {
+      "text": "חון עשיר הולך בשיטת הרמב\"ם: אין מחלוקת, כי ההיתר כאן הוא שלא כדרך לבישה, והאיסור במשנה ב הוא כדרך לבישה.",
+      "sources": [
+       {
+        "name": "חון עשיר",
+        "ref": "Hon Ashir on Mishnah Kilayim 9:5:1",
+        "quote": "דלא פליג האי סתמא אסתמא דלעיל"
+       }
+      ]
+     }
+    ],
+    "why": "זה שואל אם הנאה שאינה מכוונת מותרת בכלל.",
+    "mishnah": 5,
+    "anchors": [
+     "מוֹכְרֵי כְסוּת מוֹכְרִין כְּדַרְכָּן"
+    ]
+   },
+   {
+    "title": "מנעל של זרד: למה אין חוששים?",
+    "pasuk": {
+     "text": "וּמִנְעָל שֶׁל זֶרֶד אֵין בּוֹ מִשּׁוּם כִּלְאָיִם",
+     "ref": "Mishnah Kilayim 9:7",
+     "label": "משנה כלאים ט, 7"
+    },
+    "question": "המשנה אומרת שמנעל של זרד אין בו משום כלאים, אף שהלבד עשוי להכיל פשתן. מדוע אין חוששים שמא יש בו פשתן?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 9:7:1",
+      "quote": "ולא ידענו טעמא מאי דאין חוששין",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 9:7:1",
+      "quote": "וְלֹא יָדַעְנוּ טַעֲמָא מַאי דְאֵין חוֹשְׁשִׁין",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"ש: לבדים אסורים רק מדרבנן, ולכן אין חוששים לספק.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Kilayim 9:7:1",
+        "quote": "לבדין אינן אסורים משום כלאים אלא מדרבנן"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב מביא גם את פסק הרמב\"ם שמנעל כלאים מותר כי עור הרגל קשה ואינו נהנה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 9:7:1",
+        "quote": "מותר לפי שעור הרגל קשה הוא"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך המשנה דנה בספק בבגד.",
+    "mishnah": 7,
+    "anchors": [
+     "וּמִנְעָל שֶׁל זֶרֶד אֵין בּוֹ מִשּׁוּם כִּלְאָיִם"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "לחם שמים",
+   "תוספות יום טוב",
+   "תוספות רבי עקיבא איגר",
+   "ברטנורא",
+   "מלאכת שלמה",
+   "רש\"ש",
+   "פתח עינים",
+   "שערי תורת בבל",
+   "עיקר תוספות יום טוב",
+   "חון עשיר",
+   "רמב\"ם"
+  ]
+ }
+}
