@@ -1,0 +1,1116 @@
+{
+ "date": "2026-11-08",
+ "hebrew_date": {
+  "hebrew": "כ״ח בְּחֶשְׁוָן תשפ״ז",
+  "english": "28 Cheshvan 5787"
+ },
+ "masechet": "kilayim",
+ "perek": 8,
+ "ref": "Mishnah Kilayim 8",
+ "mishnayot": [
+  {
+   "he": "כִּלְאֵי הַכֶּרֶם אֲסוּרִין מִלִּזְרֹעַ, וּמִלְּקַיֵּם, וַאֲסוּרִין בַּהֲנָאָה. כִּלְאֵי זְרָעִים, אֲסוּרִים מִלִּזְרֹעַ וּמִלְּקַיֵּם, וּמֻתָּרִין בַּאֲכִילָה, וְכָל שֶׁכֵּן בַּהֲנָאָה. כִּלְאֵי בְגָדִים מֻתָּרִין בְּכָל דָּבָר, וְאֵינָן אֲסוּרִין אֶלָּא מִלִּלְבֹּשׁ. כִּלְאֵי בְהֵמָה מֻתָּרִים לְגַדֵּל וּלְקַיֵּם, וְאֵינָן אֲסוּרִים אֶלָּא מִלְּהַרְבִּיעַ. כִּלְאֵי בְהֵמָה אֲסוּרִים זֶה בָזֶה: \n",
+   "en": "Kilayim of the vineyard: it is forbidden both to sow and to allow to grow, and it is forbidden to derive benefit from them. Kilayim of seeds: it is forbidden both to sow and to allow to grow, but it is permitted to eat them, and all the more so to derive benefit from them. Kilayim of clothing: is permitted in all respects, except that it is forbidden to wear them. Kilayim of beasts: it is permitted to raise and to keep, and it is only prohibited to cross-breed them. Kilayim of beasts: these one are prohibited with these."
+  },
+  {
+   "he": "בְּהֵמָה עִם בְּהֵמָה וְחַיָּה עִם חַיָּה, בְּהֵמָה עִם חַיָּה וְחַיָּה עִם בְּהֵמָה, טְמֵאָה עִם טְמֵאָה וּטְהוֹרָה עִם טְהוֹרָה, טְמֵאָה עִם טְהוֹרָה וּטְהוֹרָה עִם טְמֵאָה, אֲסוּרִין לַחֲרֹשׁ וְלִמְשֹׁךְ וּלְהַנְהִיג: \n",
+   "en": "A beast (behemah) with a beast [of another species]; a wild animal (hayyah) with a wild animal [of another species]; a behemah with a hayyah; a hayyah with a behemah; an unclean beast with an unclean beast [of another species]; a clean beast with a clean beast [of another species]; or an unclean beast with a clean beast; or a clean beast with an unclean beast; they are forbidden for plowing, and [it is forbidden] to pull them or lead them [tied together]."
+  },
+  {
+   "he": "הַמַּנְהִיג סוֹפֵג אֶת הָאַרְבָּעִים, וְהַיּוֹשֵׁב בַּקָּרוֹן סוֹפֵג אֶת הָאַרְבָּעִים. רַבִּי מֵאִיר פּוֹטֵר. וְהַשְּׁלִישִׁית שֶׁהִיא קְשׁוּרָה לָרְצוּעוֹת, אֲסוּרָה: \n",
+   "en": "The person driving [the two different animals yoked together] receives the forty [lashes]. And the person sitting in the wagon receives the forty [lashes]. But Rabbi Meir exempts [the latter]. [The tying of] a third [animal different from the two already harnessed to a wagon] to the straps [of those animals] is prohibited."
+  },
+  {
+   "he": "אֵין קוֹשְׁרִין אֶת הַסּוּס לֹא לְצִדְדֵי הַקָּרוֹן וְלֹא לְאַחַר הַקָּרוֹן, וְלֹא אֶת הַלֻּבְדְּקִים לִגְמַלִּים. רַבִּי יְהוּדָה אוֹמֵר, כָּל הַנּוֹלָדִים מִן הַסּוּס, אַף עַל פִּי שֶׁאֲבִיהֶן חֲמוֹר, מֻתָּרִין זֶה עִם זֶה. וְכֵן הַנּוֹלָדִים מִן הַחֲמוֹר, אַף עַל פִּי שֶׁאֲבִיהֶם סוּס, מֻתָּרִין זֶה עִם זֶה. אֲבָל הַנּוֹלָדִים מִן הַסּוּס עִם הַנּוֹלָדִים מֵחֲמוֹר, אֲסוּרִים זֶה עִם זֶה: \n",
+   "en": "They may not tie a horse neither to the sides of a wagon [drawn by oxen] nor behind the wagon, nor [may they tie] a Libyan donkey to [a wagon drawn by] camels. Rabbi Judah says: all [mules] born from horses, even though their father is a donkey, are permitted one with another. Likewise [mules] born from donkey, even though their father is a horse, are permitted one with another. But [mules] born from a horse with [mules] born from donkeys are prohibited one with another."
+  },
+  {
+   "he": "הַפְּרוּטִיּוֹת אֲסוּרוֹת, וְהָרַמָּךְ מֻתָּר. וְאַדְנֵי הַשָּׂדֶה, חַיָּה. רַבִּי יוֹסֵי אוֹמֵר, מְטַמְּאוֹת בָּאֹהֶל כָּאָדָם. הַקֻּפָּד וְחֻלְדַּת הַסְּנָיִים, חַיָּה. חֻלְדַּת הַסְּנָיִים, רַבִּי יוֹסֵי אוֹמֵר, בֵּית שַׁמַּאי אוֹמְרִים, מְטַמֵּא כַזַּיִת בְּמַשָּׂא, וְכָעֲדָשָׁה בְּמַגָּע: \n",
+   "en": "Mules of uncertain parentage are forbidden [one with another,] And a ramakh is permitted. Wild man-like creatures are [in the category of] hayyah. Rabbi Yose says: they cause impurity in a tent like a human being. The hedgehog and the bush-mole are [in the category of] hayyah. The bush-mole: Rabbi Yose says in the name of Bet Shammai: an olive's size [of its carcass] renders a person carrying it unclean, and a lentil’s size [of its carcass] renders a person touching it unclean."
+  },
+  {
+   "he": "שׁוֹר בָּר, מִין בְּהֵמָה. וְרַבִּי יוֹסֵי אוֹמֵר, מִין חַיָּה. כֶּלֶב, מִין חַיָּה. רַבִּי מֵאִיר אוֹמֵר, מִין בְּהֵמָה. חֲזִיר, מִין בְּהֵמָה. עָרוֹד, מִין חַיָּה. הַפִּיל וְהַקּוֹף, מִין חַיָּה. וְאָדָם מֻתָּר עִם כֻּלָּם לִמְשֹׁךְ וְלַחֲרֹשׁ וּלְהַנְהִיג: \n",
+   "en": "The wild ox [it is in the category of] behemah. But Rabbi Yose says: [it is in the category] of hayyah. The dog [it is in the category of] hayyah. But Rabbi Yose says: [it is in the category] of behemah. The pig [it is in the category of] behemah. The wild donkey [it is in the category of] hayyah. The elephant and the monkey [they are in the category of] hayyah. A human being is permitted to draw, plow, or lead with any of them."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 ranks the four kinds of kilayim by strictness, from the vineyard, where even deriving benefit is forbidden, to animals, where only breeding is forbidden. Mishnah 2 forbids plowing, pulling or leading any two different kinds of animals together, clean or unclean, domestic or wild. Mishnah 3 gives forty lashes to the driver and to the one sitting in the wagon, though Rabbi Meir exempts the latter, and forbids a third animal tied to the straps. Mishnah 4 forbids tying a horse beside or behind a wagon drawn by oxen, and records Rabbi Judah's view that mules follow their mothers. Mishnah 5 treats the parutiyot, the ramakh, adnei hasadeh, the kupad and the chuldat hasneyim, with Rabbi Yose's disputes. Mishnah 6 classes the wild ox, dog, pig, wild donkey, elephant and monkey as behemah or chayah, and permits a human to plow, pull or lead with any of them.",
+  "topics": [
+   {
+    "term": "The four kinds of kilayim",
+    "explanation": "The mishnah lists four prohibitions in descending order of strictness: kilayim of the vineyard (forbidden to sow, to keep and to benefit from), kilayim of seeds (forbidden to sow and keep but permitted to eat), kilayim of clothing (forbidden only to wear) and kilayim of animals (forbidden only to breed together).",
+    "mishnah": 1,
+    "anchors": [
+     "כִּלְאֵי הַכֶּרֶם אֲסוּרִין"
+    ],
+    "source": {
+     "name": "Hon Ashir",
+     "ref": "Hon Ashir on Mishnah Kilayim 8:1:1",
+     "quote": "דכלאי הכרם אסור בהנאה, וכלאי זרעים מותר אפילו באכילה"
+    }
+   },
+   {
+    "term": "Lehargia – breeding animals",
+    "explanation": "The only act forbidden with kilayim of animals is breeding them together. The mefarshim define it as the physical act of mating, and rule that merely placing a male of one species beside a female of another is permitted.",
+    "mishnah": 1,
+    "anchors": [
+     "מִלְּהַרְבִּיע"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 8:1:5",
+     "quote": "לְהַכְנִיס כְּמִכְחוֹל בִּשְׁפוֹפֶרֶת, אֲבָל מֻתָּר לְהַכְנִיס לַדִּיר"
+    }
+   },
+   {
+    "term": "Behemah and chayah",
+    "explanation": "The Torah divides land animals into domesticated animals (behemah) and wild animals (chayah). The mishnah treats a pairing of the two as kilayim, and its last perek lists species whose category is disputed, such as the wild ox.",
+    "mishnah": 6,
+    "anchors": [
+     "שׁוֹר בָּר"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 8:6:3",
+     "quote": "וְטָעוּן כִּסּוּי, וְחֶלְבּוֹ מֻתָּר"
+    }
+   },
+   {
+    "term": "Lehanhig – driving two kinds together",
+    "explanation": "Besides plowing, it is forbidden to pull a load with two different species or to lead them tied together. The Rambam explains that the Torah's word 'yachdav' (together) means joining them in any way.",
+    "mishnah": 2,
+    "anchors": [
+     "אֲסוּרִין לַחֲרֹשׁ וְלִמְשֹׁךְ וּלְהַנְהִיג"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Kilayim 8:2:1",
+     "quote": "ולהנהיג שיקשרם ביחד ויוליכם"
+    }
+   },
+   {
+    "term": "Following the mother: 'zera ha'av'",
+    "explanation": "A mule has a horse parent and a donkey parent. Rabbi Judah rules that only the mother's species counts, so mules of horse mothers are one kind and mules of donkey mothers another, and the two kinds may not be joined.",
+    "mishnah": 4,
+    "anchors": [
+     "אֲבָל הַנּוֹלָדִים מִן הַסּוּס עִם הַנּוֹלָדִים מֵחֲמוֹר"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 8:4:4",
+     "quote": "דְּבָתַר זֶרַע הָאֵם אָזְלִינַן"
+    }
+   },
+   {
+    "term": "Adnei hasadeh",
+    "explanation": "A man-shaped creature that, according to the tradition the mefarshim record, is tied to the ground by a cord from its navel. The mishnah classes it as a chayah, and Rabbi Yose says it conveys impurity in a tent like a human being.",
+    "mishnah": 5,
+    "anchors": [
+     "וְאַדְנֵי הַשָּׂדֶה, חַיָּה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Kilayim 8:5:3",
+     "quote": "וְצוּרָתוֹ צוּרַת אָדָם בְּפַרְצוּף וְיָדַיִם וְרַגְלַיִם"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Is riding a mule forbidden by a kal vachomer?",
+    "pasuk": {
+     "text": "כִּלְאֵי בְהֵמָה אֲסוּרִים זֶה בָזֶה",
+     "ref": "Mishnah Kilayim 8:1",
+     "label": "Mishnah Kilayim 8:1"
+    },
+    "question": "The Yerushalmi tried to prove from a kal vachomer from kilayim of clothing that riding a mule is forbidden. Why, then, is a mule not forbidden for riding, and on what grounds do the mefarshim rule against the Yerushalmi?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Kilayim 8:1:6",
+      "quote": "וּבַיְרוּשַׁלְמִי רָצוּ לְהוֹכִיחַ שֶׁאָסוּר לִרְכֹּב עַל פִּרְדָה מִקַּל וָחֹמֶר",
+      "era": "rishon"
+     },
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Kilayim 8:1:2",
+      "quote": "לא נהירא, דאין אלו טעמים מספיקים לחלוק על הירושלמי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rash (cited by Tosafot Yom Tov) answers that the kal vachomer is refutable, since the verse says 'yachdav' (together), so a board placed over two kinds of animals may be sat upon.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 8:1:4",
+        "quote": "וטעמא כתב הרא\"ש בסוף מס' נדה משום דקל וחומר מעיקרא פריכא דאף בכלאי בהמה דוקא יחדו כתיב"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir rejects that answer and rules against the Yerushalmi only because the Bavli (Chullin) discusses leading two mules together, which implies that a single mule is permitted.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Kilayim 8:1:2",
+        "quote": "ואי איכא למפסק דלא כירושלמי הוא משום דהבבלי חולק עליו בפירוש"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura adds the practice of the elders: they ride mules without protest, but warn not to lead two mules together, in case one has a horse father and the other a donkey father.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 8:1:6",
+        "quote": "וּמִיהוּ חָזֵינָא לְהוּ לְרַבָּנָן קְשִׁישֵׁי קַמָּאֵי דְקַמָּן שֶׁרוֹכְבִין לִפְנֵיהֶם עַל פְּרָדוֹת וְאֵין מוֹחֶה בַּדָּבָר"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether a mule may be ridden at all, a question that rests on a clash between Yerushalmi and Bavli.",
+    "mishnah": 1,
+    "anchors": [
+     "כִּלְאֵי בְהֵמָה אֲסוּרִים זֶה בָזֶה"
+    ]
+   },
+   {
+    "title": "Why does the mishnah say both 'to raise' and 'to keep'?",
+    "pasuk": {
+     "text": "כִּלְאֵי בְהֵמָה מֻתָּרִים לְגַדֵּל וּלְקַיֵּם",
+     "ref": "Mishnah Kilayim 8:1",
+     "label": "Mishnah Kilayim 8:1"
+    },
+    "question": "Kilayim of animals are permitted 'to raise and to keep'. Why does the mishnah need both words, and what does each add?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 8:1:1-5",
+      "quote": "ואיזה חילוק יש בין גידול לקיום",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: 'to raise' alone might mean only that the effort of raising is permitted, not enjoying the animal, and 'to keep' alone might mean only after a non-Jew raised it. So both are needed.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 8:1:3",
+        "quote": "אבל בלגדל לחוד הוה משמע דטורח הגידול הותר לו ולא שיהנה בהם"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim finds that very difficult and says: 'to raise' teaches that one may raise them for one's own use, and 'to keep' teaches that one may keep many together without fear of breeding.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 8:1:1-5",
+        "quote": "הוה אמינא לגדל לצרכו ולהשתמש בו קמ\"ל דשרי"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael (Yachin) reads each word as a practical case: 'to raise' means raising them at home.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Kilayim 8:10:1",
+        "quote": "מותרים לגדל לגדלם בביתו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how closely the mefarshim read each word of the mishnah.",
+    "mishnah": 1,
+    "anchors": [
+     "כִּלְאֵי בְהֵמָה מֻתָּרִים לְגַדֵּל וּלְקַיֵּם"
+    ]
+   },
+   {
+    "title": "The verse says only ox and donkey",
+    "pasuk": {
+     "text": "בְּהֵמָה עִם בְּהֵמָה וְחַיָּה עִם חַיָּה",
+     "ref": "Mishnah Kilayim 8:2",
+     "label": "Mishnah Kilayim 8:2"
+    },
+    "question": "The Torah forbids plowing only with an ox and a donkey. How does the mishnah forbid every combination, even a clean animal with a clean animal, and is that prohibition from the Torah or from the rabbis?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Kilayim 8:2:1",
+      "quote": "אַף עַל גַּב דְּלֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר (דברים כב) אָמַר רַחֲמָנָא",
+      "era": "rishon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 8:2:1",
+      "quote": "לענ\"ד אינו מספיק דאף שאפשר שגזרו ע\"ז מ\"מ מהיכא פסיקא להירושלמי להקשות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: we derive 'ox' from 'ox' (the Shabbat verse), which teaches that the law applies to every animal, wild animal and bird.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 8:2:1",
+        "quote": "יָלְפִינַן שׁוֹר שׁוֹר מִשַּׁבָּת דְּהוּא הַדִּין לְכָל בְּהֵמָה חַיָּה וָעוֹף"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: only a clean with an unclean animal is forbidden by the Torah, and the other pairings are forbidden by the rabbis.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 8:2:1",
+        "quote": "ואיסור זה מן התורה אבל מדרבנן אסור כמו כן החרישה"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: the Rosh disagrees, and he finds proof from the Yerushalmi's challenge from David's sons riding mules, which shows that it is forbidden by the Torah.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 8:2:1",
+        "quote": "שמע מינה דמדאורייתא אסורין"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the whole range of combinations is biblical or rabbinic.",
+    "mishnah": 2,
+    "anchors": [
+     "בְּהֵמָה עִם בְּהֵמָה וְחַיָּה עִם חַיָּה"
+    ]
+   },
+   {
+    "title": "Why is the one who merely sits in the wagon liable?",
+    "pasuk": {
+     "text": "הַמַּנְהִיג סוֹפֵג אֶת הָאַרְבָּעִים, וְהַיּוֹשֵׁב בַּקָּרוֹן סוֹפֵג אֶת הָאַרְבָּעִים",
+     "ref": "Mishnah Kilayim 8:3",
+     "label": "Mishnah Kilayim 8:3"
+    },
+    "question": "The driver does the forbidden act, but the person sitting in the wagon does nothing. Why is he given lashes, and why does Rabbi Meir exempt him?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Kilayim 8:3:2",
+      "quote": "הַיּוֹשֵׁב בַּקָּרוֹן דְּלָאו מִידֵי קָעֲבִיד",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: because the animals move because of him, he is considered as if he drove them.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 8:3:1",
+        "quote": "חַיָּב הוֹאִיל וְאָזְלֵי מֵחֲמָתֵיהּ חָשֵׁיב כְּאִלּוּ מַנְהִיגָן"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: his sitting there helps the work and its upkeep, even if he does nothing; Rabbi Meir exempts him because he moves nothing.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 8:3:1",
+        "quote": "שישיבתו שם עוזר למלאכה ותיקון"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael (Yachin): his sitting causes the wagon to go.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Kilayim 8:22:1",
+        "quote": "דישיבתו גורמת שתלך"
+       }
+      ]
+     }
+    ],
+    "why": "It sets how far liability extends beyond the one who actually leads the animals.",
+    "mishnah": 3,
+    "anchors": [
+     "הַמַּנְהִיג סוֹפֵג אֶת הָאַרְבָּעִים, וְהַיּוֹשֵׁב בַּקָּרוֹן סוֹפֵג אֶת הָאַרְבָּעִים"
+    ]
+   },
+   {
+    "title": "Why does the mishnah add a third animal?",
+    "pasuk": {
+     "text": "וְהַשְּׁלִישִׁית שֶׁהִיא קְשׁוּרָה לָרְצוּעוֹת, אֲסוּרָה",
+     "ref": "Mishnah Kilayim 8:3",
+     "label": "Mishnah Kilayim 8:3"
+    },
+    "question": "The first clause already forbids two different animals together. What does the case of a third animal tied to the straps add?",
+    "asked_by": [
+     {
+      "name": "Tiferet Yisrael (Yachin)",
+      "ref": "Yachin on Mishnah Kilayim 8:25:1",
+      "quote": "אסורה אילה\"ק דכבר תנא לה רישא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tiferet Yisrael (Yachin): it teaches that one animal that pulls and one that is led combine for lashes, even though the third one is tied to the straps and not to the wagon.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Kilayim 8:25:1",
+        "quote": "דקמשמע לן דאחת מושכת ואחת מונהגה מצטרף למלקות"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: with two horses tied to a wagon, a donkey tied to them is forbidden even though they would go without it, and the donkey is not treated as if absent.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 8:3:3",
+        "quote": "וְלֹא חָזִינַן לַחֲמוֹר כְּמַאן דְּלֵיתֵיה"
+       }
+      ]
+     },
+     {
+      "text": "Rambam reads 'the third' as a third wagon tied to the wagon, in which it is forbidden to sit.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 8:3:3",
+        "quote": "העגלה השלישית הקשורה עם הקרון אסור לשבת בה"
+       }
+      ]
+     }
+    ],
+    "why": "The answers differ on whether the mishnah speaks of a third animal or a third wagon.",
+    "mishnah": 3,
+    "anchors": [
+     "וְהַשְּׁלִישִׁית שֶׁהִיא קְשׁוּרָה לָרְצוּעוֹת, אֲסוּרָה"
+    ]
+   },
+   {
+    "title": "What does 'even though their father is a donkey' add?",
+    "pasuk": {
+     "text": "כָּל הַנּוֹלָדִים מִן הַסּוּס, אַף עַל פִּי שֶׁאֲבִיהֶן חֲמוֹר, מֻתָּרִין זֶה עִם זֶה",
+     "ref": "Mishnah Kilayim 8:4",
+     "label": "Mishnah Kilayim 8:4"
+    },
+    "question": "If Rabbi Judah holds that the father's species does not count, what is new in saying that mules whose mothers are horses are permitted with each other 'even though their father is a donkey'?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 8:4:1",
+      "quote": "אבל קשה דאי סבירא ליה לר' יהודה דאין חוששין לזרע האב",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: it teaches that we do not say that the horse side comes and uses the donkey side, because with equal mothers we do not worry about the father.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 8:4:3",
+        "quote": "דְּכֵיוָן דְּאִמּוֹתֵיהֶן שָׁווֹת אֵין חוֹשְׁשִׁין לְזֶרַע הָאָב"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael (Yachin): the horse side is not said to join the donkey side, and the halakhah follows Rabbi Judah.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Kilayim 8:28:1",
+        "quote": "ולא אמרי' דאתי צד סוס ומשתמש בצד חמור"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: in Chullin, Chananya disagrees and holds that all mules are one kind because each has two sides.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 8:4:3",
+        "quote": "דחנניא פליג עליה דאפי' הכא בסיפא כולן מותרים שבשניהם יש שני צדדים"
+       }
+      ]
+     }
+    ],
+    "why": "It decides how the mishnah is read and which mules may be joined.",
+    "mishnah": 4,
+    "anchors": [
+     "כָּל הַנּוֹלָדִים מִן הַסּוּס, אַף עַל פִּי שֶׁאֲבִיהֶן חֲמוֹר, מֻתָּרִין זֶה עִם זֶה"
+    ]
+   },
+   {
+    "title": "Why does the mishnah mention adnei hasadeh in this chapter?",
+    "pasuk": {
+     "text": "וְאַדְנֵי הַשָּׂדֶה, חַיָּה",
+     "ref": "Mishnah Kilayim 8:5",
+     "label": "Mishnah Kilayim 8:5"
+    },
+    "question": "Adnei hasadeh cannot be bred or yoked with anything, since no creature may come near it. Why is it listed in a chapter on kilayim?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 8:5:1-2",
+      "quote": "ודאי דלא איצטריך ליה משום איסור הרבעה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir: since the mishnah mentioned behemah and chayah, it taught everything doubtful as to whether it is a chayah, and the difference is in buying and selling.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Kilayim 8:5:1",
+        "quote": "שנה כל מה שיש להסתפק בו אם הוא חיה או לא"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the point is for someone who sells or gives 'every wild animal' he owns, and others say these are behemah for that purpose.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Kilayim 8:6:4",
+        "quote": "ותועלתנו במה שנאמר שהכלב ואדני השדה חיה ואחרים אומרים שהם בהמה לענין מקח וממכר ומתנה"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: the mishnah needed to say 'chayah' to exclude Rabbi Yose's view that it conveys impurity in a tent like a human.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 8:5:1-2",
+        "quote": "שהוצרך לומר ברישא חיה. לאפוקי מדר\"י דפליג"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why a mishnah of kilayim records a creature that cannot be crossbred.",
+    "mishnah": 5,
+    "anchors": [
+     "וְאַדְנֵי הַשָּׂדֶה, חַיָּה"
+    ]
+   },
+   {
+    "title": "What practical difference does the category make?",
+    "pasuk": {
+     "text": "שׁוֹר בָּר, מִין בְּהֵמָה. וְרַבִּי יוֹסֵי אוֹמֵר, מִין חַיָּה",
+     "ref": "Mishnah Kilayim 8:6",
+     "label": "Mishnah Kilayim 8:6"
+    },
+    "question": "For kilayim, every pairing of different kinds is forbidden anyway, whether behemah or chayah. What then is the practical difference of calling the wild ox a behemah or a chayah?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 8:6:1",
+      "quote": "וטעמם דאילו לענין כלאים לא נפקא מינה דכל שני מינים אפילו שניהם מין בהמה או מין חיה אסורים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: if behemah, its fat is forbidden and it needs no covering of blood; if chayah, the blood is covered and the fat is permitted.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Kilayim 8:6:2",
+        "quote": "וְחֶלְבּוֹ אָסוּר, וְאֵינוֹ טָעוּן כִּסּוּי"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov, citing the Shakh: if behemah, the wild ox is permitted with an ordinary ox according to the sages, and forbidden according to Rabbi Yose.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 8:6:1",
+        "quote": "דְּנַפְקָא מִנַּהּ דִּלְרַבָּנָן מֻתָּר שׁוֹר הַבָּר עִם הַשּׁוֹר"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael (Yachin): on Rabbi Yose's view, the wild ox is kilayim with a domestic ox.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Kilayim 8:38:1",
+        "quote": "והו\"ל כלאים עם שור בייתי"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a dispute over category reaches several areas of halakhah.",
+    "mishnah": 6,
+    "anchors": [
+     "שׁוֹר בָּר, מִין בְּהֵמָה. וְרַבִּי יוֹסֵי אוֹמֵר, מִין חַיָּה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Bartenura",
+   "Hon Ashir",
+   "Tosafot Yom Tov",
+   "Lechem Shamayim",
+   "Tiferet Yisrael (Yachin)",
+   "Tosafot Rabbi Akiva Eiger",
+   "Rambam",
+   "Melekhet Shelomoh",
+   "Ikar Tosafot Yom Tov"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מדרגת את ארבעת סוגי הכלאים לפי חומרתם, מכלאי הכרם שאף ההנאה מהם אסורה ועד כלאי בהמה שרק הרבעתם אסורה. משנה ב אוסרת לחרוש, למשוך או להנהיג יחד שני מינים שונים של בהמות, טהורות או טמאות, בית או חיה. משנה ג מחייבת מלקות את המנהיג ואת היושב בקרון, ורבי מאיר פוטר את האחרון, ואוסרת בהמה שלישית הקשורה לרצועות. משנה ד אוסרת לקשור סוס לצדי הקרון או אחריו כשבקר מושכים אותו, ומביאה את דעת רבי יהודה שהפרדות הולכות אחר אמותיהן. משנה ה עוסקת בפרוטיות, ברמך, באדני השדה, בקופד ובחולדת הסנאים, עם מחלוקות רבי יוסי. משנה ו מסווגת את שור הבר, הכלב, החזיר, הערוד, הפיל והקוף כבהמה או כחיה, ומתירה לאדם לחרוש, למשוך ולהנהיג עם כולם.",
+  "topics": [
+   {
+    "term": "ארבעת סוגי הכלאים",
+    "explanation": "המשנה מונה ארבעה איסורים בסדר יורד של חומרה: כלאי הכרם (אסורים בזריעה, בקיום ובהנאה), כלאי זרעים (אסורים בזריעה ובקיום אך מותרים באכילה), כלאי בגדים (אסורים רק בלבישה) וכלאי בהמה (אסורים רק בהרבעה).",
+    "mishnah": 1,
+    "anchors": [
+     "כִּלְאֵי הַכֶּרֶם אֲסוּרִין"
+    ],
+    "source": {
+     "name": "הון עשיר",
+     "ref": "Hon Ashir on Mishnah Kilayim 8:1:1",
+     "quote": "דכלאי הכרם אסור בהנאה, וכלאי זרעים מותר אפילו באכילה"
+    }
+   },
+   {
+    "term": "הרבעה",
+    "explanation": "האיסור היחיד בכלאי בהמה הוא הרבעתן זו עם זו. המפרשים מגדירים זאת כמעשה ההזדווגות עצמו, ומתירים להעמיד זכר ממין אחד ליד נקבה ממין אחר.",
+    "mishnah": 1,
+    "anchors": [
+     "מִלְּהַרְבִּיע"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 8:1:5",
+     "quote": "לְהַכְנִיס כְּמִכְחוֹל בִּשְׁפוֹפֶרֶת, אֲבָל מֻתָּר לְהַכְנִיס לַדִּיר"
+    }
+   },
+   {
+    "term": "בהמה וחיה",
+    "explanation": "התורה מחלקת את בעלי החיים ליבשה לבהמה ולחיה. המשנה רואה בצירוף ביניהם כלאים, ובסוף הפרק היא מונה מינים שסיווגם שנוי במחלוקת, כגון שור הבר.",
+    "mishnah": 6,
+    "anchors": [
+     "שׁוֹר בָּר"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 8:6:3",
+     "quote": "וְטָעוּן כִּסּוּי, וְחֶלְבּוֹ מֻתָּר"
+    }
+   },
+   {
+    "term": "הנהגה",
+    "explanation": "מלבד חריש, אסור למשוך עם שני מינים שונים או להנהיגם כשהם קשורים יחד. הרמב\"ם מבאר שהמילה 'יחדיו' בתורה פירושה לחבר ביניהם בכל דרך.",
+    "mishnah": 2,
+    "anchors": [
+     "אֲסוּרִין לַחֲרֹשׁ וְלִמְשֹׁךְ וּלְהַנְהִיג"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Kilayim 8:2:1",
+     "quote": "ולהנהיג שיקשרם ביחד ויוליכם"
+    }
+   },
+   {
+    "term": "חשש לזרע האב",
+    "explanation": "לפרד יש הורה סוס והורה חמור. לדעת רבי יהודה רק מין האם קובע, ולכן פרדות שאמן סוסה הן מין אחד, ופרדות שאמן חמור הן מין אחר, ואסור לחברן זו עם זו.",
+    "mishnah": 4,
+    "anchors": [
+     "אֲבָל הַנּוֹלָדִים מִן הַסּוּס עִם הַנּוֹלָדִים מֵחֲמוֹר"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 8:4:4",
+     "quote": "דְּבָתַר זֶרַע הָאֵם אָזְלִינַן"
+    }
+   },
+   {
+    "term": "אדני השדה",
+    "explanation": "בריה בצורת אדם הקשורה, לפי המסורת שהמפרשים מביאים, לקרקע בחבל היוצא מטבורה. המשנה מסווגת אותה כחיה, ורבי יוסי אומר שהיא מטמאה באהל כאדם.",
+    "mishnah": 5,
+    "anchors": [
+     "וְאַדְנֵי הַשָּׂדֶה, חַיָּה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Kilayim 8:5:3",
+     "quote": "וְצוּרָתוֹ צוּרַת אָדָם בְּפַרְצוּף וְיָדַיִם וְרַגְלַיִם"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "האם אסור לרכוב על פרדה מקל וחומר?",
+    "pasuk": {
+     "text": "כִּלְאֵי בְהֵמָה אֲסוּרִים זֶה בָזֶה",
+     "ref": "Mishnah Kilayim 8:1",
+     "label": "משנה כלאים ח, א"
+    },
+    "question": "הירושלמי ביקש להוכיח מקל וחומר מכלאי בגדים שאסור לרכוב על פרדה. מדוע אפוא מותר, ועל סמך מה פוסקים המפרשים שלא כירושלמי?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Kilayim 8:1:6",
+      "quote": "וּבַיְרוּשַׁלְמִי רָצוּ לְהוֹכִיחַ שֶׁאָסוּר לִרְכֹּב עַל פִּרְדָה מִקַּל וָחֹמֶר",
+      "era": "rishon"
+     },
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Kilayim 8:1:2",
+      "quote": "לא נהירא, דאין אלו טעמים מספיקים לחלוק על הירושלמי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב, בשם הר\"ש והרא\"ש, משיב שהקל וחומר פריך, שכן נאמר 'יחדיו', ולכן מותר לשבת על קרש המונח על שני מינים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 8:1:4",
+        "quote": "וטעמא כתב הרא\"ש בסוף מס' נדה משום דקל וחומר מעיקרא פריכא דאף בכלאי בהמה דוקא יחדו כתיב"
+       }
+      ]
+     },
+     {
+      "text": "הון עשיר דוחה תשובה זו, ופוסק שלא כירושלמי רק משום שהבבלי (חולין) דן בהנהגת שני פרדות יחד, ומכלל זה שפרדה אחת מותרת.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Kilayim 8:1:2",
+        "quote": "ואי איכא למפסק דלא כירושלמי הוא משום דהבבלי חולק עליו בפירוש"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא מוסיף את מנהג הזקנים: הם רוכבים על פרדות ואין מוחה, אך מזהירים שלא להנהיג שתי פרדות יחד, שמא אחת אביה סוס והשנייה אביה חמור.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 8:1:6",
+        "quote": "וּמִיהוּ חָזֵינָא לְהוּ לְרַבָּנָן קְשִׁישֵׁי קַמָּאֵי דְקַמָּן שֶׁרוֹכְבִין לִפְנֵיהֶם עַל פְּרָדוֹת וְאֵין מוֹחֶה בַּדָּבָר"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת אם מותר לרכוב על פרדה בכלל, שאלה התלויה בחילוק בין הירושלמי לבבלי.",
+    "mishnah": 1,
+    "anchors": [
+     "כִּלְאֵי בְהֵמָה אֲסוּרִים זֶה בָזֶה"
+    ]
+   },
+   {
+    "title": "מדוע המשנה אומרת גם 'לגדל' וגם 'לקיים'?",
+    "pasuk": {
+     "text": "כִּלְאֵי בְהֵמָה מֻתָּרִים לְגַדֵּל וּלְקַיֵּם",
+     "ref": "Mishnah Kilayim 8:1",
+     "label": "משנה כלאים ח, א"
+    },
+    "question": "כלאי בהמה מותרים 'לגדל ולקיים'. מדוע המשנה צריכה את שתי המילים, ומה כל אחת מוסיפה?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 8:1:1-5",
+      "quote": "ואיזה חילוק יש בין גידול לקיום",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: 'לגדל' לבד היה משמע שרק טרחת הגידול מותרת ולא ההנאה, ו'לקיים' לבד היה משמע רק אחרי שגידלו נכרי. לפיכך צריך את שתיהן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 8:1:3",
+        "quote": "אבל בלגדל לחוד הוה משמע דטורח הגידול הותר לו ולא שיהנה בהם"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים מתקשה בכך מאוד וממשיך: 'לגדל' בא ללמד שמותר לגדל לצורכו, ו'לקיים' בא ללמד שמותר לקיים הרבה יחד.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 8:1:1-5",
+        "quote": "הוה אמינא לגדל לצרכו ולהשתמש בו קמ\"ל דשרי"
+       }
+      ]
+     },
+     {
+      "text": "תפארת ישראל (יכין) מפרש כל מילה כמקרה מעשי: 'לגדל' פירושו לגדלם בביתו.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Kilayim 8:10:1",
+        "quote": "מותרים לגדל לגדלם בביתו"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה כיצד המפרשים מדייקים בכל מילה במשנה.",
+    "mishnah": 1,
+    "anchors": [
+     "כִּלְאֵי בְהֵמָה מֻתָּרִים לְגַדֵּל וּלְקַיֵּם"
+    ]
+   },
+   {
+    "title": "הפסוק אומר רק שור וחמור",
+    "pasuk": {
+     "text": "בְּהֵמָה עִם בְּהֵמָה וְחַיָּה עִם חַיָּה",
+     "ref": "Mishnah Kilayim 8:2",
+     "label": "משנה כלאים ח, ב"
+    },
+    "question": "התורה אסרה לחרוש רק בשור ובחמור. כיצד אוסרת המשנה כל צירוף, אפילו טהורה עם טהורה, והאם האיסור מן התורה או מדרבנן?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Kilayim 8:2:1",
+      "quote": "אַף עַל גַּב דְּלֹא תַחֲרֹשׁ בְּשׁוֹר וּבַחֲמֹר (דברים כב) אָמַר רַחֲמָנָא",
+      "era": "rishon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Kilayim 8:2:1",
+      "quote": "לענ\"ד אינו מספיק דאף שאפשר שגזרו ע\"ז מ\"מ מהיכא פסיקא להירושלמי להקשות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: למדים 'שור' 'שור' משבת, ולכן הדין כן בכל בהמה, חיה ועוף.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 8:2:1",
+        "quote": "יָלְפִינַן שׁוֹר שׁוֹר מִשַּׁבָּת דְּהוּא הַדִּין לְכָל בְּהֵמָה חַיָּה וָעוֹף"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: רק טהורה עם טמאה אסורה מן התורה, ושאר הצירופים אסורים מדרבנן.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 8:2:1",
+        "quote": "ואיסור זה מן התורה אבל מדרבנן אסור כמו כן החרישה"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: הרא\"ש חולק, והוא מוצא ראיה מקושיית הירושלמי מדוד ובניו הרוכבים על פרדות, שמע מינה שאסור מדאורייתא.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Kilayim 8:2:1",
+        "quote": "שמע מינה דמדאורייתא אסורין"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת אם כל טווח הצירופים הוא מן התורה או מדרבנן.",
+    "mishnah": 2,
+    "anchors": [
+     "בְּהֵמָה עִם בְּהֵמָה וְחַיָּה עִם חַיָּה"
+    ]
+   },
+   {
+    "title": "מדוע חייב מי שרק יושב בקרון?",
+    "pasuk": {
+     "text": "הַמַּנְהִיג סוֹפֵג אֶת הָאַרְבָּעִים, וְהַיּוֹשֵׁב בַּקָּרוֹן סוֹפֵג אֶת הָאַרְבָּעִים",
+     "ref": "Mishnah Kilayim 8:3",
+     "label": "משנה כלאים ח, ג"
+    },
+    "question": "המנהיג עושה את המעשה האסור, אך היושב בקרון אינו עושה דבר. מדוע הוא לוקה, ומדוע רבי מאיר פוטר אותו?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Kilayim 8:3:2",
+      "quote": "הַיּוֹשֵׁב בַּקָּרוֹן דְּלָאו מִידֵי קָעֲבִיד",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: מאחר שהבהמות הולכות בגללו, נחשב כאילו הוא מנהיגן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 8:3:1",
+        "quote": "חַיָּב הוֹאִיל וְאָזְלֵי מֵחֲמָתֵיהּ חָשֵׁיב כְּאִלּוּ מַנְהִיגָן"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: ישיבתו שם עוזרת למלאכה ולתיקון, אפילו אינו עושה דבר; ורבי מאיר פוטר כי אינו עוזר בשום תנועה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 8:3:1",
+        "quote": "שישיבתו שם עוזר למלאכה ותיקון"
+       }
+      ]
+     },
+     {
+      "text": "תפארת ישראל (יכין): ישיבתו גורמת שהקרון ילך.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Kilayim 8:22:1",
+        "quote": "דישיבתו גורמת שתלך"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת עד היכן מגיעה האחריות מעבר למי שמנהיג בפועל.",
+    "mishnah": 3,
+    "anchors": [
+     "הַמַּנְהִיג סוֹפֵג אֶת הָאַרְבָּעִים, וְהַיּוֹשֵׁב בַּקָּרוֹן סוֹפֵג אֶת הָאַרְבָּעִים"
+    ]
+   },
+   {
+    "title": "מדוע המשנה מוסיפה בהמה שלישית?",
+    "pasuk": {
+     "text": "וְהַשְּׁלִישִׁית שֶׁהִיא קְשׁוּרָה לָרְצוּעוֹת, אֲסוּרָה",
+     "ref": "Mishnah Kilayim 8:3",
+     "label": "משנה כלאים ח, ג"
+    },
+    "question": "הרישא כבר אסרה שתי בהמות שונות יחד. מה מוסיף הדין של בהמה שלישית הקשורה לרצועות?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Kilayim 8:25:1",
+      "quote": "אסורה אילה\"ק דכבר תנא לה רישא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תפארת ישראל (יכין): היא מלמדת שאחת מושכת ואחת מונהגת מצטרפות למלקות, אף שהשלישית קשורה לרצועות ולא לקרון.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Kilayim 8:25:1",
+        "quote": "דקמשמע לן דאחת מושכת ואחת מונהגה מצטרף למלקות"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: בשני סוסים קשורים לקרון שקשר אליהם חמור אסור, אף שהם הולכים בלעדיו, ואין רואים את החמור כאילו אינו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 8:3:3",
+        "quote": "וְלֹא חָזִינַן לַחֲמוֹר כְּמַאן דְּלֵיתֵיה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם מפרש 'שלישית' כעגלה שלישית הקשורה לקרון, שאסור לשבת בה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 8:3:3",
+        "quote": "העגלה השלישית הקשורה עם הקרון אסור לשבת בה"
+       }
+      ]
+     }
+    ],
+    "why": "התשובות חלוקות אם המשנה מדברת בבהמה שלישית או בעגלה שלישית.",
+    "mishnah": 3,
+    "anchors": [
+     "וְהַשְּׁלִישִׁית שֶׁהִיא קְשׁוּרָה לָרְצוּעוֹת, אֲסוּרָה"
+    ]
+   },
+   {
+    "title": "מה מוסיף 'אף על פי שאביהן חמור'?",
+    "pasuk": {
+     "text": "כָּל הַנּוֹלָדִים מִן הַסּוּס, אַף עַל פִּי שֶׁאֲבִיהֶן חֲמוֹר, מֻתָּרִין זֶה עִם זֶה",
+     "ref": "Mishnah Kilayim 8:4",
+     "label": "משנה כלאים ח, ד"
+    },
+    "question": "אם רבי יהודה סובר שאין חוששים לזרע האב, מה חידוש בכך שהנולדים מן הסוס מותרים זה עם זה 'אף על פי שאביהן חמור'?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 8:4:1",
+      "quote": "אבל קשה דאי סבירא ליה לר' יהודה דאין חוששין לזרע האב",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: בא להשמיענו שלא אומרים שצד סוס בא ומשתמש בצד חמור, כי כשהאמהות שוות אין חוששים לזרע האב.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 8:4:3",
+        "quote": "דְּכֵיוָן דְּאִמּוֹתֵיהֶן שָׁווֹת אֵין חוֹשְׁשִׁין לְזֶרַע הָאָב"
+       }
+      ]
+     },
+     {
+      "text": "תפארת ישראל (יכין): לא אומרים שצד סוס בא ומשתמש בצד חמור, וההלכה כרבי יהודה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Kilayim 8:28:1",
+        "quote": "ולא אמרי' דאתי צד סוס ומשתמש בצד חמור"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: בחולין חנניא חולק, וסובר שכל הפרדות מין אחד כי בכולן יש שני צדדים.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Kilayim 8:4:3",
+        "quote": "דחנניא פליג עליה דאפי' הכא בסיפא כולן מותרים שבשניהם יש שני צדדים"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת כיצד לפרש את המשנה ואילו פרדות מותר לחבר.",
+    "mishnah": 4,
+    "anchors": [
+     "כָּל הַנּוֹלָדִים מִן הַסּוּס, אַף עַל פִּי שֶׁאֲבִיהֶן חֲמוֹר, מֻתָּרִין זֶה עִם זֶה"
+    ]
+   },
+   {
+    "title": "מדוע המשנה מזכירה אדני השדה בפרק זה?",
+    "pasuk": {
+     "text": "וְאַדְנֵי הַשָּׂדֶה, חַיָּה",
+     "ref": "Mishnah Kilayim 8:5",
+     "label": "משנה כלאים ח, ה"
+    },
+    "question": "אדני השדה אי אפשר להרביעו או לחבר אליו דבר, שכן אין בריה רשאית לקרב אליו. מדוע הוא נזכר בפרק על כלאים?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Kilayim 8:5:1-2",
+      "quote": "ודאי דלא איצטריך ליה משום איסור הרבעה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הון עשיר: מאחר שהמשנה הזכירה בהמה וחיה, שנתה כל מה שיש להסתפק בו אם הוא חיה, והנפקא מינה היא במקח וממכר.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Kilayim 8:5:1",
+        "quote": "שנה כל מה שיש להסתפק בו אם הוא חיה או לא"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: התועלת היא במי שימכור או יתן 'כל חיה' שברשותו, ואחרים אומרים שהם בהמה לענין זה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Kilayim 8:6:4",
+        "quote": "ותועלתנו במה שנאמר שהכלב ואדני השדה חיה ואחרים אומרים שהם בהמה לענין מקח וממכר ומתנה"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: המשנה הוצרכה לומר 'חיה' כדי לשלול את דעת רבי יוסי שהוא מטמא באהל כאדם.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Kilayim 8:5:1-2",
+        "quote": "שהוצרך לומר ברישא חיה. לאפוקי מדר\"י דפליג"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה מדוע משנה בכלאים מזכירה בריה שאי אפשר להרביעה.",
+    "mishnah": 5,
+    "anchors": [
+     "וְאַדְנֵי הַשָּׂדֶה, חַיָּה"
+    ]
+   },
+   {
+    "title": "מה נפקא מינה בסיווג?",
+    "pasuk": {
+     "text": "שׁוֹר בָּר, מִין בְּהֵמָה. וְרַבִּי יוֹסֵי אוֹמֵר, מִין חַיָּה",
+     "ref": "Mishnah Kilayim 8:6",
+     "label": "משנה כלאים ח, ו"
+    },
+    "question": "לענין כלאים כל צירוף של מינים שונים אסור בין כך ובין כך, בהמה או חיה. מה אפוא הנפקא מינה בקביעה אם שור הבר בהמה או חיה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Kilayim 8:6:1",
+      "quote": "וטעמם דאילו לענין כלאים לא נפקא מינה דכל שני מינים אפילו שניהם מין בהמה או מין חיה אסורים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: אם בהמה, חלבו אסור ואינו טעון כיסוי; ואם חיה, טעון כיסוי וחלבו מותר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Kilayim 8:6:2",
+        "quote": "וְחֶלְבּוֹ אָסוּר, וְאֵינוֹ טָעוּן כִּסּוּי"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב, בשם הש\"ך: נפקא מינה שלדעת חכמים מותר שור הבר עם השור, ולדעת רבי יוסי אסור.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Kilayim 8:6:1",
+        "quote": "דְּנַפְקָא מִנַּהּ דִּלְרַבָּנָן מֻתָּר שׁוֹר הַבָּר עִם הַשּׁוֹר"
+       }
+      ]
+     },
+     {
+      "text": "תפארת ישראל (יכין): לדעת רבי יוסי הוא כלאים עם שור בייתי.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Kilayim 8:38:1",
+        "quote": "והו\"ל כלאים עם שור בייתי"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה כיצד מחלוקת על סיווג משפיעה על כמה תחומי הלכה.",
+    "mishnah": 6,
+    "anchors": [
+     "שׁוֹר בָּר, מִין בְּהֵמָה. וְרַבִּי יוֹסֵי אוֹמֵר, מִין חַיָּה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "ברטנורא",
+   "הון עשיר",
+   "תוספות יום טוב",
+   "לחם שמים",
+   "תפארת ישראל (יכין)",
+   "תוספות רבי עקיבא איגר",
+   "רמב\"ם",
+   "מלאכת שלמה",
+   "עיקר תוספות יום טוב"
+  ]
+ }
+}
