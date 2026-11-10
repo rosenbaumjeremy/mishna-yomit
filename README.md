@@ -39,7 +39,7 @@ Each perek can have a multiple-choice quiz (חידון) on the words of the Mish
 masechet a quiz drawn from all its perakim' questions — the same game as the parasha
 quizzes on aliyah-yomit. `scripts/quiz.py` checks every quote against the text and
 publishes to `site/data/quiz/`; [ROUTINE-QUIZ.md](ROUTINE-QUIZ.md) says how to write them.
-Masechet Shabbat has its quizzes.
+Masechtot Shabbat and Sukkah have their quizzes.
 
 ## Grounding
 

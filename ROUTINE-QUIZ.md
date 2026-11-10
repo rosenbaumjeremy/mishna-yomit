@@ -5,7 +5,7 @@ parasha quizzes on aliyah-yomit. Each perek gets its own quiz (the חידון bu
 perek page), and the masechet's חידון chip on the home page draws a quiz of any size from
 all of its perakim.
 
-Masechet Shabbat was the first (2026-11-10). Do one masechet at a time.
+Done so far: Shabbat, Sukkah (2026-11-10). Do one masechet at a time.
 
 ## Steps
 
