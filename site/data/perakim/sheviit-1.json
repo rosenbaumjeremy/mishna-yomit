@@ -1,0 +1,1150 @@
+{
+ "date": "2026-11-10",
+ "hebrew_date": {
+  "hebrew": "ל׳ בְּחֶשְׁוָן תשפ״ז",
+  "english": "30 Cheshvan 5787"
+ },
+ "masechet": "sheviit",
+ "perek": 1,
+ "ref": "Mishnah Sheviit 1",
+ "mishnayot": [
+  {
+   "he": "עַד אֵימָתַי חוֹרְשִׁין בִּשְׂדֵה הָאִילָן עֶרֶב שְׁבִיעִית. בֵּית שַׁמַּאי אוֹמְרִים, כָּל זְמַן שֶׁהוּא יָפֶה לַפֶּרִי. וּבֵית הִלֵּל אוֹמְרִים, עַד הָעֲצֶרֶת. וּקְרוֹבִין דִּבְרֵי אֵלּוּ לִהְיוֹת כְּדִבְרֵי אֵלּוּ: \n",
+   "en": "Until when may they plow an orchard in the sixth year? Bet Shammai say: as long as such work will benefit the fruit. And Bet Hillel says: till Atzeret (Shavuot). The views of this [school] are close to those of the other."
+  },
+  {
+   "he": "אֵיזֶהוּ שְׂדֵה הָאִילָן, כָּל שְׁלֹשָׁה אִילָנוֹת לְבֵית סְאָה, אִם רְאוּיִין לַעֲשׂוֹת כִּכַּר דְּבֵלָה שֶׁל שִׁשִּׁים מָנֶה בָּאִיטַלְקִי, חוֹרְשִׁים כָּל בֵּית סְאָה בִּשְׁבִילָן. פָּחוֹת מִכָּאן, אֵין חוֹרְשִׁין לָהֶן אֶלָּא מְלֹא הָאוֹרֶה וְסַלּוֹ חוּצָה לוֹ: \n",
+   "en": "What constitutes an orchard? Any field in which there are at least three trees for every bet seah. If each tree is capable of yielding a cake of pressed figs, the size of sixty in the Italian maneh, then the entire bet seah may be plowed for their sake. If less than this amount, they may only plow the area that is occupied by the gatherer when his basket is placed behind him."
+  },
+  {
+   "he": "אֶחָד אִילַן סְרָק וְאֶחָד אִילַן מַאֲכָל, רוֹאִין אוֹתָן כְּאִלּוּ הֵם תְּאֵנִים. אִם רְאוּיִם לַעֲשׂוֹת כִּכַּר דְּבֵלָה שֶׁל שִׁשִּׁים מָנֶה בָּאִיטַלְקִי, חוֹרְשִׁים כָּל בֵּית סְאָה בִּשְׁבִילָן. פָּחוֹת מִכָּאן, אֵין חוֹרְשִׁים לָהֶם אֶלָּא לְצָרְכָּן: \n",
+   "en": "Whether they are fruit-bearing trees or non-fruit-bearing trees, we treat them as if they were fig-trees. If they are capable of yielding a cake of pressed figs, the size of sixty in the Italian maneh, then the entire bet seah may be plowed for their sake. If less than this amount, they may plow them only for their own needs."
+  },
+  {
+   "he": "הָיָה אֶחָד עוֹשֶׂה כִּכַּר דְּבֵלָה וּשְׁנַיִם אֵין עוֹשִׂין, אוֹ שְׁנַיִם עוֹשִׂין וְאֶחָד אֵינוֹ עוֹשֶׂה, אֵין חוֹרְשִׁין לָהֶם אֶלָּא לְצָרְכָּן, עַד שֶׁיִּהְיוּ מִשְּׁלֹשָׁה וְעַד תִּשְׁעָה. הָיוּ עֲשָׂרָה, מֵעֲשָׂרָה וּלְמַעְלָה, בֵּין עוֹשִׂין בֵּין שֶׁאֵינָן עוֹשִׂין, חוֹרְשִׁין כָּל בֵּית סְאָה בִּשְׁבִילָן. שֶׁנֶּאֱמַר (שמות לד) בֶּחָרִישׁ וּבַקָּצִיר תִּשְׁבֹּת, אֵין צָרִיךְ לוֹמַר חָרִישׁ וְקָצִיר שֶׁל שְׁבִיעִית, אֶלָּא חָרִישׁ שֶׁל עֶרֶב שְׁבִיעִית שֶׁהוּא נִכְנָס בַּשְּׁבִיעִית, וְקָצִיר שֶׁל שְׁבִיעִית שֶׁהוּא יוֹצֵא לְמוֹצָאֵי שְׁבִיעִית. רַבִּי יִשְׁמָעֵאל אוֹמֵר, מָה חָרִישׁ רְשׁוּת, אַף קָצִיר רְשׁוּת, יָצָא קְצִיר הָעֹמֶר: \n",
+   "en": "If one of the trees was capable of bearing a cake of dried figs [weighing sixty manehs], and the other two unable; or, if two could do so, but one cannot, then they may plow them only for their own needs. [This is the rule if the number of trees is] from three to nine, but if there were ten trees or more, whether they produce [the requisite amount of fruit or not] the whole bet seah may be plowed on their account. As it says: “In plowing and in harvesting, you shall rest” (Ex 34:21). It was unnecessary to state plowing and harvesting in the seventh year, rather [what it means is] the plowing of the year preceding which encroaches on the sabbatical year, and the harvest of the seventh year which extends into the year after. Rabbi Ishmael says: just as plowing is an optional act, so harvesting [referred to in the verse] is optional, thus excluding the harvesting of the omer [which is obligatory]."
+  },
+  {
+   "he": "שְׁלֹשָׁה אִילָנוֹת שֶׁל שְׁלֹשָׁה אֲנָשִׁים, הֲרֵי אֵלּוּ מִצְטָרְפִין, וְחוֹרְשִׁין כָּל בֵּית סְאָה בִּשְׁבִילָן. וְכַמָּה יְהֵא בֵינֵיהֶם, רַבָּן גַּמְלִיאֵל אוֹמֵר, כְּדֵי שֶׁיְּהֵא הַבָּקָר עוֹבֵר בְּכֵלָיו: \n",
+   "en": "Three trees belonging to three persons, they join together and they may plow the entire bet seah on their account. What space should there be between them? Rabban Gamaliel says: sufficient for the driver of the herd to pass through with his implements."
+  },
+  {
+   "he": "עֶשֶׂר נְטִיעוֹת מְפֻזָּרוֹת בְּתוֹךְ בֵּית סְאָה, חוֹרְשִׁין כָּל בֵּית סְאָה בִּשְׁבִילָן, עַד רֹאשׁ הַשָּׁנָה. הָיוּ עֲשׂוּיוֹת שׁוּרָה וּמֻקָּפוֹת עֲטָרָה, אֵין חוֹרְשִׁין לָהֶם אֶלָּא לְצָרְכָּן: \n",
+   "en": "If ten saplings are scattered over the entire area of a bet seah, they may plow the whole bet seah, even until Rosh Hashanah. But if they were arranged in a row or they were surrounded by a fence, they may plow them only for their own needs."
+  },
+  {
+   "he": "הַנְּטִיעוֹת וְהַדְּלוּעִים, מִצְטָרְפִין לְתוֹךְ בֵּית סְאָה. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, כָּל עֲשָׂרָה דְלוּעִים לְבֵית סְאָה, חוֹרְשִׁין כָּל בֵּית סְאָה עַד רֹאשׁ הַשָּׁנָה: \n",
+   "en": "Saplings and gourds are counted together within space of a bet seah. Rabban Shimon ben Gamaliel says: if there are ten gourds in the bet seah they may plow the whole bet seah until Rosh Hashanah."
+  },
+  {
+   "he": "עַד אֵימָתַי נִקְרְאוּ נְטִיעוֹת. רַבִּי אֶלְעָזָר בֶּן עֲזַרְיָה אוֹמֵר, עַד שֶׁיָּחֹלּוּ. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, בַּת שֶׁבַע שָׁנִים. רַבִּי עֲקִיבָא אוֹמֵר, נְטִיעָה כִשְׁמָהּ. אִילָן שֶׁנִּגְמַם וְהוֹצִיא חֲלִיפִין, מִטֶּפַח וּלְמַטָּה כִּנְטִיעָה, מִטֶּפַח וּלְמַעְלָה, כְּאִילָן, דִּבְרֵי רַבִּי שִׁמְעוֹן: \n",
+   "en": "Up until when are they called saplings? Rabbi Elazar ben Azariah says: until they are permitted for common use. But Rabbi Joshua says: until they are seven years old. Rabbi Akiba says: [the word] sapling, [it goes] according to its name. A tree which had been cut down and then produced fresh shoots: if one handbreadth or less, they are regarded as saplings, if more than a handbreadth they are regarded as trees, the words of Rabbi Shimon."
+  }
+ ],
+ "english": {
+  "summary": "Mishnah 1 asks until when one may plow an orchard in the sixth year: Beit Shammai say as long as it benefits the fruit, Beit Hillel say until Atzeret, and their words are close. Mishnah 2 defines an orchard as three trees per bet seah, each capable of yielding a sixty-maneh cake of figs; less than this allows plowing only the area needed by the gatherer. Mishnah 3 applies the same measure to fruit and non-fruit trees alike, as if they were fig trees. Mishnah 4 handles groups from three to nine trees, where a deficient tree limits plowing, and ten or more trees allow plowing regardless; it also brings the verse “in plowing and in harvesting you shall rest” and Rabbi Yishmael's dissent. Mishnah 5 allows three trees of three owners to combine, with spacing as for a herd with its tools. Mishnayot 6–7 treat saplings (ten scattered per bet seah, saplings and gourds combined), and Mishnah 8 asks how long a plant is called a sapling.",
+  "topics": [
+   {
+    "term": "Bet seah",
+    "explanation": "A bet seah is a plot of land fifty cubits by fifty cubits, the unit in which an orchard is measured: three trees in a bet seah make it an orchard.",
+    "mishnah": 2,
+    "anchors": [
+     "לבית סאה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 1:2:1",
+     "quote": "קַרְקַע שֶׁהִיא חֲמִשִּׁים אַמָּה עַל חֲמִשִּׁים אַמָּה"
+    }
+   },
+   {
+    "term": "Erev shevi'it (the sixth year)",
+    "explanation": "The year before shemitah. The mishnah asks until when one may still plow in it, because plowing that benefits the next year looks as if the land is being prepared for the shemitah year.",
+    "mishnah": 1,
+    "anchors": [
+     "ערב שביעית"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 1:1:1",
+     "quote": "שאסור לחרוש בשנה ששית מה שאי אפשר לקצרו אלא בשביעית"
+    }
+   },
+   {
+    "term": "Kikar develah",
+    "explanation": "A cake of pressed dried figs, sixty maneh in weight, used here as the measure of how much fruit a tree must be capable of yielding.",
+    "mishnah": 2,
+    "anchors": [
+     "ככר דבלה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 1:2:1",
+     "quote": "ומה שאמר ככר ר\"ל הגוף המחובר מן התאנים"
+    }
+   },
+   {
+    "term": "Orah and her basket",
+    "explanation": "When a tree does not reach the measure, one may plow only the strip the gatherer needs: the space of the picker and his basket placed behind him.",
+    "mishnah": 2,
+    "anchors": [
+     "מְלֹא הָאוֹרֶה וְסַלּוֹ"
+    ],
+    "source": {
+     "name": "Melekhet Shelomoh",
+     "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:2:3",
+     "quote": "אורה. ברוב הוא מלקט התאנים"
+    }
+   },
+   {
+    "term": "Ilan sarak (non-fruit tree)",
+    "explanation": "A tree that does not bear fruit. The mishnah says it counts like a fig tree for the orchard measure.",
+    "mishnah": 3,
+    "anchors": [
+     "אִילַן סְרָק"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 1:3:1",
+     "quote": "שאילן סרק הוא שאינו עושה פרי כגון הארז"
+    }
+   },
+   {
+    "term": "Netiot (saplings) and old trees",
+    "explanation": "A young tree is called a sapling, an old one a tree; the mishnah gives different measures for each.",
+    "mishnah": 6,
+    "anchors": [
+     "נְטִיעוֹת"
+    ],
+    "source": {
+     "name": "Rash MiShantz",
+     "ref": "Rash MiShantz on Mishnah Sheviit 1:1:1",
+     "quote": "לזקנה קרי אילן ולילדה קרי נטיעה"
+    }
+   },
+   {
+    "term": "Shurah and muqafot atarah",
+    "explanation": "Saplings planted in a line or in a ring do not count as scattered; one may plow only what they need.",
+    "mishnah": 6,
+    "anchors": [
+     "שׁוּרָה וּמֻקָּפוֹת עֲטָרָה"
+    ],
+    "source": {
+     "name": "Melekhet Shelomoh",
+     "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:6:2",
+     "quote": "ומוקפות עטרה שהוא דומה לקשת"
+    }
+   },
+   {
+    "term": "Gourds (delu'im)",
+    "explanation": "Gourds can combine with saplings to make up the ten per bet seah; Rabban Shimon ben Gamliel says ten gourds alone suffice.",
+    "mishnah": 7,
+    "anchors": [
+     "הַנְּטִיעוֹת וְהַדְּלוּעִים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 1:7:1",
+     "quote": "בִּדְלַעַת יְוָנִית דַּוְקָא אַיְרֵי בְּמַתְנִיתִין"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "What is the difference between Beit Hillel's “until Atzeret” and Beit Shammai's “as long as it benefits the fruit”?",
+    "pasuk": {
+     "text": "בית הלל אומרים עד העצרת",
+     "ref": "Mishnah Sheviit 1:1",
+     "label": "Mishnah Sheviit 1:1"
+    },
+    "question": "Bartenura explains that until Atzeret plowing benefits the fruit “and no more.” But that is exactly Beit Shammai's rule (“as long as it benefits the fruit”), so what do the two schools actually argue about, and why does the mishnah add that their words are “close”?",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Sheviit 1:1:2",
+      "era": "acharon",
+      "quote": "וקשה דהיינו כל זמן שהוא יפה לפרי דב\"ש, ובמאי קמפלגי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov, citing Tosafot, takes the opposite direction from the Yerushalmi: Atzeret is more lenient than Beit Shammai, because Beit Shammai is always the stringent school.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:1:2",
+        "quote": "דעצרת יותר מדברי בית שמאי דלעולם בית שמאי לחומרא"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh brings the Yerushalmi's view that in dry years a farmer would plow before Atzeret and Beit Shammai is the lenient one, while Beit Hillel permit only up to Atzeret, so the mishnah's words are “close.”",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:1:2",
+        "quote": "פעמים שאין גשמים מצויין ואין הליחה מצויה והוא עתיד לחרוש קודם עצרת"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir himself answers that in rainy years, when people plow after Atzeret, Beit Shammai permit plowing then too.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 1:1:3",
+        "quote": "דב\"ש ס\"ל דבאותם השנים שרי לחרוש אף אחר העצרת"
+       }
+      ]
+     }
+    ],
+    "why": "The opening mishnah of the masechet: it shows that the two schools' dispute is about the timing of the permit, not about the principle behind it.",
+    "mishnah": 1,
+    "anchors": [
+     "בית הלל אומרים עד העצרת"
+    ]
+   },
+   {
+    "title": "How could Rabban Gamliel's court cancel the prohibition of the two periods?",
+    "pasuk": {
+     "text": "בית הלל אומרים עד העצרת",
+     "ref": "Mishnah Sheviit 1:1",
+     "label": "Mishnah Sheviit 1:1"
+    },
+    "question": "The mishnah is called “the first mishnah” and is not the halakhah, because Rabban Gamliel's court permitted plowing until Rosh Hashanah. But we learned that one court cannot cancel the words of another court unless it is greater in wisdom and number. On what basis did they cancel it?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:1:2",
+      "era": "acharon",
+      "quote": "ר' יוחנן בעי לא כן תנינן אין ב\"ד יכול לבטל דברי ב\"ד חבירו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: their view is like Rabbi Yishmael, who holds the prohibition is a halakhah that applied only while the Temple stood, so after its destruction Rabban Gamliel permitted plowing until Rosh Hashanah.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 1:1:1",
+        "quote": "הלכה בזמן שבית המקדש קיים וכשבטל ביהמ\"ק בזמן ר\"ג התיר עבודת הארץ עד ר\"ה"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing the Yerushalmi: when they prohibited they relied on a verse, and when they permitted they also relied on a verse, “six days you shall work,” as on Erev Shabbat one may work until sunset.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:1:2",
+        "quote": "בשעה שהתירו למקרא סמכו ששת ימים תעבוד"
+       }
+      ]
+     },
+     {
+      "text": "Sha'arei Torat Bavel: from the outset the halakhah was given so that if a court wished to cancel it, it could.",
+      "sources": [
+       {
+        "name": "Sha'arei Torat Bavel",
+        "ref": "Sha'arei Torat Bavel on Mishnah Sheviit 1:6:1",
+        "quote": "כך היתה הלכה בידם שאם בקשו לבטל יבטלו"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the prohibition on plowing in the sixth year applies today.",
+    "mishnah": 1,
+    "anchors": [
+     "בית הלל אומרים עד העצרת"
+    ]
+   },
+   {
+    "title": "Must each tree produce a cake of figs, or all three together?",
+    "pasuk": {
+     "text": "אִם רְאוּיִם לַעֲשׂוֹת כִּכַּר דְּבֵלָה",
+     "ref": "Mishnah Sheviit 1:3",
+     "label": "Mishnah Sheviit 1:3"
+    },
+    "question": "The mishnah says the trees must be “capable of yielding a cake of figs.” Does each tree have to be capable of this alone, or is it enough that all of them together yield one cake, and how is a tree that bears no fruit measured?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 1:2:1",
+      "era": "acharon",
+      "quote": "ומזה תמוהין לי דברי הר\"ש במתני' ג' רואים אותם כאילו הם תאנים"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 1:2:1",
+      "era": "acharon",
+      "quote": "וצ\"ע איך משערין זה אם ראוין"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: one looks at each tree by itself, whether a fig tree of its size would yield a cake of figs.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 1:3:2",
+        "quote": "רואין כל אילן ואילן בפני עצמו"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: it all goes by the size of the tree: if it is large enough that a fig tree of that size would be capable.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 1:2:1",
+        "quote": "ונראה שהכל לפי גודל האילן בו משערין"
+       }
+      ]
+     },
+     {
+      "text": "Rambam on mishnah 4: the trees are combined, and it is enough that the cake is gathered from all their fruit together.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 1:4:1",
+        "quote": "אלא אם כן כולן עושות פרי ויתקבץ מפירותיהן ככר"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes the measure of an “orchard,” which decides how much land may be plowed in the sixth year.",
+    "mishnah": 3,
+    "anchors": [
+     "אִם רְאוּיִם לַעֲשׂוֹת כִּכַּר דְּבֵלָה"
+    ]
+   },
+   {
+    "title": "Why not plow the whole bet seah when there are eight trees, or three that each yield a cake?",
+    "pasuk": {
+     "text": "עַד שֶׁיִּהְיוּ מִשְּׁלֹשָׁה וְעַד תִּשְׁעָה",
+     "ref": "Mishnah Sheviit 1:4",
+     "label": "Mishnah Sheviit 1:4"
+    },
+    "question": "If there are nine trees and one does not yield a cake, plowing is limited to what each tree needs. But if the remaining eight, or even three, each yield a cake, why can't one plow the whole bet seah for them, just as when the bet seah contains only those three trees?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:4:1",
+      "era": "acharon",
+      "quote": "ותימה אם נשארו שמנה ואי נמי שלשה שכל אחד עושה ככר למה לא יחרוש"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 1:4:2",
+      "era": "acharon",
+      "quote": "לא ידעתי למה נקט שכל אחד עושה ככר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov, quoting the Rambam: the trees are measured together; if the fruit of all of them gathers into a cake of sixty maneh, the whole bet seah may be plowed even though some do not yield.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:4:1",
+        "quote": "אע\"פ שיש בהם מי שאינו ראוי לעשות"
+       }
+      ]
+     },
+     {
+      "text": "Ra'avad, as quoted by Tosafot Yom Tov, objects from the Yerushalmi: each tree must yield its proportionate share.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:4:1",
+        "quote": "שמוכח דכל אחד צריך שיעשה פרי לפי חשבון"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz brings the Yerushalmi's two views on the minimum proportion: that every three yield a cake (a third each), or every nine (a ninth each).",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Sheviit 1:4:1",
+        "quote": "ובלבד שלא יפחות מחשבון משולשים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the Rishonim disagreeing about whether the cake is measured per tree or per group, which governs the number of trees needed.",
+    "mishnah": 4,
+    "anchors": [
+     "עַד שֶׁיִּהְיוּ מִשְּׁלֹשָׁה וְעַד תִּשְׁעָה"
+    ]
+   },
+   {
+    "title": "Does the verse speak of the sixth year at all?",
+    "pasuk": {
+     "text": "בֶּחָרִישׁ וּבַקָּצִיר תִּשְׁבֹּת",
+     "ref": "Mishnah Sheviit 1:4",
+     "label": "Mishnah Sheviit 1:4"
+    },
+    "question": "The mishnah teaches that “in plowing and in harvesting you shall rest” refers to the plowing before the seventh year and the harvest after it. How do we know the verse is not about Shabbat, which is also referred to as an extension, or even that it concerns shemitah at all?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 1:4:1",
+      "era": "acharon",
+      "quote": "דמנ\"ל למדרש דקאי על תוספת שביעית"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: it cannot be about Shabbat, which was already stated (“six days you shall work”), nor about the shemitah year (“six years you shall sow”), so the verse is extra and teaches the two periods before.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 1:4:2",
+        "quote": "תְּנֵהוּ עִנְיָן לֶאֱסֹר שְׁנֵי פְרָקִים"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz: the verse speaks of shemitah, since if it were about Shabbat, why mention only plowing and harvesting when every labor is forbidden?",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Sheviit 1:4:3",
+        "quote": "ובשביעית משתעי קרא דאי בשבת מאי איריא חריש וקציר"
+       }
+      ]
+     }
+    ],
+    "why": "It is the source for the prohibition in the sixth year, and Rabbi Yishmael's dissent shows the source was not agreed.",
+    "mishnah": 4,
+    "anchors": [
+     "בֶּחָרִישׁ וּבַקָּצִיר תִּשְׁבֹּת"
+    ]
+   },
+   {
+    "title": "Is the permit “until Atzeret” or “until Rosh Hashanah” in mishnah 5?",
+    "pasuk": {
+     "text": "וְחוֹרְשִׁין כָּל בֵּית סְאָה בִּשְׁבִילָן",
+     "ref": "Mishnah Sheviit 1:5",
+     "label": "Mishnah Sheviit 1:5"
+    },
+    "question": "Three trees of three owners join together and the whole bet seah may be plowed for them. Until when? Some explain the mishnah as until Atzeret, but the Yerushalmi says explicitly until Rosh Hashanah. Which is the mishnah's meaning?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:5:1",
+      "era": "acharon",
+      "quote": "לשון הר\"ש י\"מ עד העצרת אבל בירושלמי קאמר בהדיא עד ר\"ה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: the mishnah is the early mishnah (until Atzeret), and the Yerushalmi's “until Rosh Hashanah” reflects the later enactment of Rabban Gamliel's court.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:5:1",
+        "quote": "היינו לאחר תקנת ר\"ג וב\"ד"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: according to Rash Shirilio the mishnah follows Rabbi Akiva and permits only until Atzeret; the baraita of the Yerushalmi follows Rabban Gamliel's court.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:5:1",
+        "quote": "לתנא דמתני' דסבר כר' עקיבא לא שרי אלא עד עצרת"
+       }
+      ]
+     },
+     {
+      "text": "Sha'arei Torat Bavel: there is no doubt that “until Rosh Hashanah” in the Yerushalmi is a scribal error.",
+      "sources": [
+       {
+        "name": "Sha'arei Torat Bavel",
+        "ref": "Sha'arei Torat Bavel on Mishnah Sheviit 1:5:1",
+        "quote": "בלי ספק שט\"ס בירושלמי"
+       }
+      ]
+     }
+    ],
+    "why": "It determines which of the two time limits the mishnah itself intends.",
+    "mishnah": 5,
+    "anchors": [
+     "וְחוֹרְשִׁין כָּל בֵּית סְאָה בִּשְׁבִילָן"
+    ]
+   },
+   {
+    "title": "Why do saplings need ten if the leniency is Rabbi Yishmael's halakhah?",
+    "pasuk": {
+     "text": "עֶשֶׂר נְטִיעוֹת מְפֻזָּרוֹת",
+     "ref": "Mishnah Sheviit 1:6",
+     "label": "Mishnah Sheviit 1:6"
+    },
+    "question": "For old trees, three per bet seah suffice, but for young saplings ten are needed, and then plowing is allowed until Rosh Hashanah. Is requiring ten a stringency compared with trees, and where does that come from?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 1:6:1",
+      "era": "acharon",
+      "quote": "קשה לי דמנ\"ל דדין נטיעות הוא לחומרא"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 1:6:1",
+      "era": "acharon",
+      "quote": "ד\"ה נטיעות אין חורשין. קשה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: even though three old trees make an orchard, with young saplings one may not plow until there are ten.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 1:6:1",
+        "quote": "בִּנְטִיעוֹת יְלָדוֹת אֵין חוֹרְשִׁין עַד שֶׁיִּהְיוּ עֲשָׂרָה"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the difference between a sapling and a tree is that trees are three to a bet seah and saplings are ten to a bet seah.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 1:8:3",
+        "quote": "ההפרש בין הנטיעה והאילן שהאילנות ג' לבית סאה והנטיעות עשר לבית סאה"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov, citing the Yerushalmi: the ten saplings are a halakhah le-Moshe mi-Sinai, since the Torah took pity on their owners' money, because saplings dry up if not plowed.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:6:2",
+        "quote": "הלכה למשה מסיני דחסה התורה על ממונן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the same Torah concern for the farmer produces different counts for old trees and young ones.",
+    "mishnah": 6,
+    "anchors": [
+     "עֶשֶׂר נְטִיעוֹת מְפֻזָּרוֹת"
+    ]
+   },
+   {
+    "title": "Why does the mishnah need three trees at all after Rabban Gamliel's enactment?",
+    "pasuk": {
+     "text": "שְׁלֹשָׁה אִילָנוֹת שֶׁל שְׁלֹשָׁה אֲנָשִׁים",
+     "ref": "Mishnah Sheviit 1:5",
+     "label": "Mishnah Sheviit 1:5"
+    },
+    "question": "If after Rabban Gamliel's court plowing is permitted everywhere until Rosh Hashanah, why does the mishnah's leniency need three trees that yield a cake? Even fewer should be permitted.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 1:5:2",
+      "era": "acharon",
+      "quote": "קשה לי דלמה לי ג' אילנות עושים ככר הא אף בפחות לשתרי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Sha'arei Torat Bavel: the Yerushalmi says explicitly that they decided on the two periods and permitted them; the “halakhah” was given such that if they wanted to cancel it, they could.",
+      "sources": [
+       {
+        "name": "Sha'arei Torat Bavel",
+        "ref": "Sha'arei Torat Bavel on Mishnah Sheviit 1:6:1",
+        "quote": "בירושלמי בראש פרק זה מפורש דנמנו על ב' פרקים הללו והתירום"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: since they cancelled the prohibition, even old trees may be plowed until Rosh Hashanah.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:5:1",
+        "quote": "ומכי בטילו אפי' בזקנים חורשים עד ר\"ה"
+       }
+      ]
+     }
+    ],
+    "why": "It tests whether the mishnah's measures still matter after the prohibition was lifted.",
+    "mishnah": 5,
+    "anchors": [
+     "שְׁלֹשָׁה אִילָנוֹת שֶׁל שְׁלֹשָׁה אֲנָשִׁים"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Hon Ashir",
+   "Tosafot Yom Tov",
+   "Melekhet Shelomoh",
+   "Rambam",
+   "Sha'arei Torat Bavel",
+   "Tosafot Rabbi Akiva Eiger",
+   "Lechem Shamayim",
+   "Bartenura",
+   "Rash MiShantz",
+   "Rashash"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א שואלת עד מתי חורשים שדה אילן בערב שביעית: בית שמאי אומרים כל זמן שהוא יפה לפרי, בית הלל עד העצרת, ודבריהם קרובים. משנה ב מגדירה שדה אילן כשלשה אילנות לבית סאה, כשכל אחד ראוי לעשות ככר דבלה של ששים מנה; בפחות מכן חורשים רק את המקום הנחוץ ללוקט. משנה ג מחילה את אותו שיעור על אילן סרק ואילן מאכל, כאילו היו תאנים. משנה ד דנה בשלשה עד תשעה אילנות, שבהם אילן חסר מגביל את החרישה, ובעשרה ומעלה חורשים בכל אופן; ומביאה את הפסוק «בחריש ובקציר תשבות» ואת דעת רבי ישמעאל. משנה ה מתירה לשלשה אילנות של שלשה בעלים להצטרף, במרחק של בקר וכליו. משניות ו-ז עוסקות בנטיעות (עשר מפוזרות בבית סאה, ונטיעות ודלועים מצטרפים), ומשנה ח שואלת עד מתי נקרא צמח נטיעה.",
+  "topics": [
+   {
+    "term": "בית סאה",
+    "explanation": "בית סאה הוא קרקע של חמישים אמה על חמישים אמה, והוא היחידה שבה נמדד שדה אילן: שלשה אילנות בבית סאה הופכים אותו לשדה אילן.",
+    "mishnah": 2,
+    "anchors": [
+     "לבית סאה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 1:2:1",
+     "quote": "קַרְקַע שֶׁהִיא חֲמִשִּׁים אַמָּה עַל חֲמִשִּׁים אַמָּה"
+    }
+   },
+   {
+    "term": "ערב שביעית",
+    "explanation": "השנה שלפני השמיטה. המשנה שואלת עד מתי עדיין מותר לחרוש בה, כי חרישה שמועילה לשנה הבאה נראית כהכנת הקרקע לשנת השמיטה.",
+    "mishnah": 1,
+    "anchors": [
+     "ערב שביעית"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 1:1:1",
+     "quote": "שאסור לחרוש בשנה ששית מה שאי אפשר לקצרו אלא בשביעית"
+    }
+   },
+   {
+    "term": "ככר דבלה",
+    "explanation": "ככר של תאנים יבשות כבושות במשקל ששים מנה, ששימש כאן מידה לכמה פרי צריך אילן להיות מסוגל לעשות.",
+    "mishnah": 2,
+    "anchors": [
+     "ככר דבלה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 1:2:1",
+     "quote": "ומה שאמר ככר ר\"ל הגוף המחובר מן התאנים"
+    }
+   },
+   {
+    "term": "מלוא האורה וסלו",
+    "explanation": "כשאין באילן השיעור, מותר לחרוש רק את הרצועה שהלוקט צריך: מקום הלוקט וסלו המונח מאחוריו.",
+    "mishnah": 2,
+    "anchors": [
+     "מְלֹא הָאוֹרֶה וְסַלּוֹ"
+    ],
+    "source": {
+     "name": "מלאכת שלמה",
+     "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:2:3",
+     "quote": "אורה. ברוב הוא מלקט התאנים"
+    }
+   },
+   {
+    "term": "אילן סרק",
+    "explanation": "אילן שאינו עושה פרי. המשנה אומרת שמחשיבים אותו כתאנה לענין שיעור שדה אילן.",
+    "mishnah": 3,
+    "anchors": [
+     "אִילַן סְרָק"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 1:3:1",
+     "quote": "שאילן סרק הוא שאינו עושה פרי כגון הארז"
+    }
+   },
+   {
+    "term": "נטיעות ואילנות",
+    "explanation": "אילן צעיר נקרא נטיעה, וזקן נקרא אילן, והמשנה נותנת לכל אחד שיעור אחר.",
+    "mishnah": 6,
+    "anchors": [
+     "נְטִיעוֹת"
+    ],
+    "source": {
+     "name": "רש מִשַּׁנְץ",
+     "ref": "Rash MiShantz on Mishnah Sheviit 1:1:1",
+     "quote": "לזקנה קרי אילן ולילדה קרי נטיעה"
+    }
+   },
+   {
+    "term": "שורה ומוקפות עטרה",
+    "explanation": "נטיעות הנטועות בשורה או בעיגול אינן נחשבות מפוזרות, ואין חורשין אלא לצרכן.",
+    "mishnah": 6,
+    "anchors": [
+     "שׁוּרָה וּמֻקָּפוֹת עֲטָרָה"
+    ],
+    "source": {
+     "name": "מלאכת שלמה",
+     "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:6:2",
+     "quote": "ומוקפות עטרה שהוא דומה לקשת"
+    }
+   },
+   {
+    "term": "דלועים",
+    "explanation": "דלועים מצטרפים לנטיעות להשלים עשרה לבית סאה; ורשב\"ג אומר שעשרה דלועים לבדם מספיקים.",
+    "mishnah": 7,
+    "anchors": [
+     "הַנְּטִיעוֹת וְהַדְּלוּעִים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 1:7:1",
+     "quote": "בִּדְלַעַת יְוָנִית דַּוְקָא אַיְרֵי בְּמַתְנִיתִין"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "במה נחלקו בית שמאי ובית הלל: «כל זמן שהוא יפה לפרי» או «עד העצרת»?",
+    "pasuk": {
+     "text": "בית הלל אומרים עד העצרת",
+     "ref": "Mishnah Sheviit 1:1",
+     "label": "משנה שביעית א, א"
+    },
+    "question": "הברטנורא מסביר שעד העצרת החרישה יפה לפרי «ותו לא», אך זו בדיוק שיטת בית שמאי («כל זמן שהוא יפה לפרי»). במה אפוא נחלקו, ולמה מוסיפה המשנה שדבריהם «קרובין»?",
+    "asked_by": [
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Sheviit 1:1:2",
+      "era": "acharon",
+      "quote": "וקשה דהיינו כל זמן שהוא יפה לפרי דב\"ש, ובמאי קמפלגי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב, בשם התוספות, מפרש שהעצרת מקל יותר מדברי בית שמאי, כי בית שמאי הם תמיד לחומרא.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:1:2",
+        "quote": "דעצרת יותר מדברי בית שמאי דלעולם בית שמאי לחומרא"
+       }
+      ]
+     },
+     {
+      "text": "המלאכת שלמה מביא את הירושלמי: בשנים שאין גשמים הוא עתיד לחרוש קודם עצרת, ובית שמאי מקילים, ובית הלל מתירים עד העצרת בלבד, ולכן דבריהם קרובים.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:1:2",
+        "quote": "פעמים שאין גשמים מצויין ואין הליחה מצויה והוא עתיד לחרוש קודם עצרת"
+       }
+      ]
+     },
+     {
+      "text": "ההון עשיר עצמו מתרץ: בשנים שגשמיהן מרובים, שדרכם לחרוש אחר העצרת, בית שמאי מתירים גם אז.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 1:1:3",
+        "quote": "דב\"ש ס\"ל דבאותם השנים שרי לחרוש אף אחר העצרת"
+       }
+      ]
+     }
+    ],
+    "why": "המשנה הראשונה במסכת: ממנה רואים שמחלוקת בית שמאי ובית הלל היא על זמן ההיתר ולא על הטעם.",
+    "mishnah": 1,
+    "anchors": [
+     "בית הלל אומרים עד העצרת"
+    ]
+   },
+   {
+    "title": "איך יכול היה בית דינו של רבן גמליאל לבטל את איסור שני הפרקים?",
+    "pasuk": {
+     "text": "בית הלל אומרים עד העצרת",
+     "ref": "Mishnah Sheviit 1:1",
+     "label": "משנה שביעית א, א"
+    },
+    "question": "המשנה נקראת «משנה ראשונה» ואינה הלכה, כי רבן גמליאל ובית דינו התירו לחרוש עד ראש השנה. אך שנינו שאין בית דין יכול לבטל דברי בית דין חברו עד שיהיה גדול ממנו בחכמה ובמניין. על מה סמכו?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:1:2",
+      "era": "acharon",
+      "quote": "ר' יוחנן בעי לא כן תנינן אין ב\"ד יכול לבטל דברי ב\"ד חבירו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: דעתם כדעת רבי ישמעאל שהאיסור הלכה בזמן שבית המקדש קיים, וכשבטל בית המקדש התיר רבן גמליאל את עבודת הארץ עד ראש השנה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 1:1:1",
+        "quote": "הלכה בזמן שבית המקדש קיים וכשבטל ביהמ\"ק בזמן ר\"ג התיר עבודת הארץ עד ר\"ה"
+       }
+      ]
+     },
+     {
+      "text": "המלאכת שלמה, בשם הירושלמי: בשעה שהתירו למקרא סמכו, ששת ימים תעבוד, כמו בערב שבת שמותר לעשות מלאכה עד שתשקע החמה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:1:2",
+        "quote": "בשעה שהתירו למקרא סמכו ששת ימים תעבוד"
+       }
+      ]
+     },
+     {
+      "text": "שערי תורת בבל: מלכתחילה כך היתה ההלכה בידם, שאם בקשו לבטל יבטלו.",
+      "sources": [
+       {
+        "name": "שערי תורת בבל",
+        "ref": "Sha'arei Torat Bavel on Mishnah Sheviit 1:6:1",
+        "quote": "כך היתה הלכה בידם שאם בקשו לבטל יבטלו"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן תלוי אם האיסור לחרוש בשנה הששית נוהג בימינו.",
+    "mishnah": 1,
+    "anchors": [
+     "בית הלל אומרים עד העצרת"
+    ]
+   },
+   {
+    "title": "האם כל אילן צריך לעשות ככר, או שלשתם יחד?",
+    "pasuk": {
+     "text": "אִם רְאוּיִם לַעֲשׂוֹת כִּכַּר דְּבֵלָה",
+     "ref": "Mishnah Sheviit 1:3",
+     "label": "משנה שביעית א, ג"
+    },
+    "question": "המשנה אומרת שהאילנות צריכים להיות «ראויים לעשות ככר דבלה». האם כל אילן צריך להיות ראוי לכך לבדו, או שדי בכך שכולם יחד עושים ככר, ואיך משערים אילן שאינו עושה פרי?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 1:2:1",
+      "era": "acharon",
+      "quote": "ומזה תמוהין לי דברי הר\"ש במתני' ג' רואים אותם כאילו הם תאנים"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 1:2:1",
+      "era": "acharon",
+      "quote": "וצ\"ע איך משערין זה אם ראוין"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: רואים כל אילן ואילן בפני עצמו, אם אילן של תאנה כמותו היה עושה ככר דבלה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 1:3:2",
+        "quote": "רואין כל אילן ואילן בפני עצמו"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: הכל לפי גודל האילן שבו משערין, אם גדול כל כך שאם היה של תאנה היה ראוי לעשות ככר דבילה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 1:2:1",
+        "quote": "ונראה שהכל לפי גודל האילן בו משערין"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם במשנה ד: מצטרפים, ודי בכך שיתקבץ מפירותיהן ככר.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 1:4:1",
+        "quote": "אלא אם כן כולן עושות פרי ויתקבץ מפירותיהן ככר"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע את שיעור «שדה אילן», ובו תלוי כמה אדמה מותר לחרוש בשנה הששית.",
+    "mishnah": 3,
+    "anchors": [
+     "אִם רְאוּיִם לַעֲשׂוֹת כִּכַּר דְּבֵלָה"
+    ]
+   },
+   {
+    "title": "למה לא יחרוש את כל בית סאה כשיש שמונה אילנות, או שלשה שכל אחד עושה ככר?",
+    "pasuk": {
+     "text": "עַד שֶׁיִּהְיוּ מִשְּׁלֹשָׁה וְעַד תִּשְׁעָה",
+     "ref": "Mishnah Sheviit 1:4",
+     "label": "משנה שביעית א, ד"
+    },
+    "question": "אם יש תשעה אילנות ואחד אינו עושה ככר, אין חורשים אלא לצרכן. אך אם נשארו שמונה, או אפילו שלשה שכל אחד עושה ככר, למה לא יחרוש את כל בית הסאה בשבילם, כמו שיש בבית סאה שלשה בלבד?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:4:1",
+      "era": "acharon",
+      "quote": "ותימה אם נשארו שמנה ואי נמי שלשה שכל אחד עושה ככר למה לא יחרוש"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 1:4:2",
+      "era": "acharon",
+      "quote": "לא ידעתי למה נקט שכל אחד עושה ככר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב, בשם הרמב\"ם: מודדים את כולם יחד, ואם מפירותיהן יתקבץ ככר של ששים מנה חורשים את כל בית סאה, אף שיש בהם שאינו עושה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:4:1",
+        "quote": "אע\"פ שיש בהם מי שאינו ראוי לעשות"
+       }
+      ]
+     },
+     {
+      "text": "הראב\"ד, כפי שמובא בתוספות יום טוב, משיג מן הירושלמי שכל אחד צריך שיעשה פרי לפי חשבון.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:4:1",
+        "quote": "שמוכח דכל אחד צריך שיעשה פרי לפי חשבון"
+       }
+      ]
+     },
+     {
+      "text": "רש משנץ מביא מן הירושלמי שני שיעורים: שכל שלשה יעשו ככר (שליש לכל אחד) או שכל תשעה (תשיעית לכל אחד).",
+      "sources": [
+       {
+        "name": "רש מִשַּׁנְץ",
+        "ref": "Rash MiShantz on Mishnah Sheviit 1:4:1",
+        "quote": "ובלבד שלא יפחות מחשבון משולשים"
+       }
+      ]
+     }
+    ],
+    "why": "רואים כאן מחלוקת ראשונים אם שיעור הככר לכל אילן או לקבוצה, וממנה נגזר מספר האילנות הנדרש.",
+    "mishnah": 4,
+    "anchors": [
+     "עַד שֶׁיִּהְיוּ מִשְּׁלֹשָׁה וְעַד תִּשְׁעָה"
+    ]
+   },
+   {
+    "title": "האם הפסוק «בחריש ובקציר תשבות» עוסק בשנה הששית?",
+    "pasuk": {
+     "text": "בֶּחָרִישׁ וּבַקָּצִיר תִּשְׁבֹּת",
+     "ref": "Mishnah Sheviit 1:4",
+     "label": "משנה שביעית א, ד"
+    },
+    "question": "המשנה מלמדת שהפסוק «בחריש ובקציר תשבות» מדבר בחריש של ערב שביעית ובקציר של מוצאי שביעית. מנין שאין הפסוק מדבר על תוספת שבת, ומנין שהוא עוסק בשביעית?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 1:4:1",
+      "era": "acharon",
+      "quote": "דמנ\"ל למדרש דקאי על תוספת שביעית"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: אינו על שבת בראשית שכבר נאמר ששת ימים תעבוד, ולא על שמיטה שכבר נאמר שש שנים תזרע שדך, ולכן תנהו ענין לאסור שני פרקים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 1:4:2",
+        "quote": "תְּנֵהוּ עִנְיָן לֶאֱסֹר שְׁנֵי פְרָקִים"
+       }
+      ]
+     },
+     {
+      "text": "רש משנץ: הפסוק עוסק בשביעית, שאם היה בשבת מה ראה לפרט חריש וקציר, והרי כל מלאכה אסורה.",
+      "sources": [
+       {
+        "name": "רש מִשַּׁנְץ",
+        "ref": "Rash MiShantz on Mishnah Sheviit 1:4:3",
+        "quote": "ובשביעית משתעי קרא דאי בשבת מאי איריא חריש וקציר"
+       }
+      ]
+     }
+    ],
+    "why": "זה מקור האיסור בשנה הששית, ודעת רבי ישמעאל מראה שהמקור לא היה מוסכם.",
+    "mishnah": 4,
+    "anchors": [
+     "בֶּחָרִישׁ וּבַקָּצִיר תִּשְׁבֹּת"
+    ]
+   },
+   {
+    "title": "האם במשנה ה ההיתר «עד העצרת» או «עד ראש השנה»?",
+    "pasuk": {
+     "text": "וְחוֹרְשִׁין כָּל בֵּית סְאָה בִּשְׁבִילָן",
+     "ref": "Mishnah Sheviit 1:5",
+     "label": "משנה שביעית א, ה"
+    },
+    "question": "שלשה אילנות של שלשה אנשים מצטרפים וחורשים את כל בית הסאה. עד מתי? יש מפרשים עד העצרת, אך הירושלמי אומר במפורש עד ראש השנה. מה כוונת המשנה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:5:1",
+      "era": "acharon",
+      "quote": "לשון הר\"ש י\"מ עד העצרת אבל בירושלמי קאמר בהדיא עד ר\"ה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב: המשנה היא משנה ראשונה, ומה שנאמר בירושלמי עד ראש השנה הוא לאחר תקנת רבן גמליאל ובית דינו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:5:1",
+        "quote": "היינו לאחר תקנת ר\"ג וב\"ד"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: לדעת הר\"ש שירילי\"ו, המשנה סוברת כרבי עקיבא ומתירה עד העצרת בלבד; והברייתא בירושלמי כרבן גמליאל ובית דינו.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:5:1",
+        "quote": "לתנא דמתני' דסבר כר' עקיבא לא שרי אלא עד עצרת"
+       }
+      ]
+     },
+     {
+      "text": "שערי תורת בבל: בלי ספק שטעות סופר הוא בירושלמי «עד ראש השנה».",
+      "sources": [
+       {
+        "name": "שערי תורת בבל",
+        "ref": "Sha'arei Torat Bavel on Mishnah Sheviit 1:5:1",
+        "quote": "בלי ספק שט\"ס בירושלמי"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע איזה מן הגבולות בזמן המשנה עצמה מתכוונת.",
+    "mishnah": 5,
+    "anchors": [
+     "וְחוֹרְשִׁין כָּל בֵּית סְאָה בִּשְׁבִילָן"
+    ]
+   },
+   {
+    "title": "למה נטיעות צריכות עשר, והרי ההלכה להקל?",
+    "pasuk": {
+     "text": "עֶשֶׂר נְטִיעוֹת מְפֻזָּרוֹת",
+     "ref": "Mishnah Sheviit 1:6",
+     "label": "משנה שביעית א, ו"
+    },
+    "question": "באילנות זקנים די בשלשה לבית סאה, ובנטיעות צריך עשר ואז חורשים עד ראש השנה. האם הדרישה לעשר היא חומרה ביחס לאילנות, ומנין?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 1:6:1",
+      "era": "acharon",
+      "quote": "קשה לי דמנ\"ל דדין נטיעות הוא לחומרא"
+     },
+     {
+      "name": "רשש",
+      "ref": "Rashash on Mishnah Sheviit 1:6:1",
+      "era": "acharon",
+      "quote": "ד\"ה נטיעות אין חורשין. קשה לי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: אף על גב ששלשה אילנות לבית סאה קרוי שדה אילן, בנטיעות ילדות אין חורשים עד שיהיו עשרה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 1:6:1",
+        "quote": "בִּנְטִיעוֹת יְלָדוֹת אֵין חוֹרְשִׁין עַד שֶׁיִּהְיוּ עֲשָׂרָה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: ההפרש בין הנטיעה והאילן שהאילנות שלשה לבית סאה והנטיעות עשר לבית סאה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 1:8:3",
+        "quote": "ההפרש בין הנטיעה והאילן שהאילנות ג' לבית סאה והנטיעות עשר לבית סאה"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב, בשם הירושלמי: עשר נטיעות הלכה למשה מסיני, שחסה התורה על ממונם, שאם לא יחרוש להן מתייבשות.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 1:6:2",
+        "quote": "הלכה למשה מסיני דחסה התורה על ממונן"
+       }
+      ]
+     }
+    ],
+    "why": "רואים כאן איך אותו חסד של התורה על האיכר יוצר שיעורים שונים לאילנות זקנים ולנטיעות.",
+    "mishnah": 6,
+    "anchors": [
+     "עֶשֶׂר נְטִיעוֹת מְפֻזָּרוֹת"
+    ]
+   },
+   {
+    "title": "למה צריכה המשנה שלשה אילנות לאחר תקנת רבן גמליאל?",
+    "pasuk": {
+     "text": "שְׁלֹשָׁה אִילָנוֹת שֶׁל שְׁלֹשָׁה אֲנָשִׁים",
+     "ref": "Mishnah Sheviit 1:5",
+     "label": "משנה שביעית א, ה"
+    },
+    "question": "אם לאחר תקנת רבן גמליאל ובית דינו מותר לחרוש בכל מקום עד ראש השנה, למה צריכה המשנה שלשה אילנות שעושים ככר? גם בפחות מכן ראוי להתיר.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 1:5:2",
+      "era": "acharon",
+      "quote": "קשה לי דלמה לי ג' אילנות עושים ככר הא אף בפחות לשתרי"
+     }
+    ],
+    "answers": [
+     {
+      "text": "שערי תורת בבל: בירושלמי מפורש שנמנו על שני הפרקים והתירום, וההלכה ניתנה שאם בקשו לבטל יבטלו.",
+      "sources": [
+       {
+        "name": "שערי תורת בבל",
+        "ref": "Sha'arei Torat Bavel on Mishnah Sheviit 1:6:1",
+        "quote": "בירושלמי בראש פרק זה מפורש דנמנו על ב' פרקים הללו והתירום"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: מכיון שבטלו את האיסור אפילו בזקנות חורשים עד ראש השנה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 1:5:1",
+        "quote": "ומכי בטילו אפי' בזקנים חורשים עד ר\"ה"
+       }
+      ]
+     }
+    ],
+    "why": "זה בוחן אם שיעורי המשנה עדיין חשובים לאחר שהאיסור הותר.",
+    "mishnah": 5,
+    "anchors": [
+     "שְׁלֹשָׁה אִילָנוֹת שֶׁל שְׁלֹשָׁה אֲנָשִׁים"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "הון עשיר",
+   "תוספות יום טוב",
+   "מלאכת שלמה",
+   "רמב\"ם",
+   "שערי תורת בבל",
+   "תוספות רבי עקיבא איגר",
+   "לחם שמים",
+   "ברטנורא",
+   "רש מִשַּׁנְץ",
+   "רשש"
+  ]
+ }
+}
