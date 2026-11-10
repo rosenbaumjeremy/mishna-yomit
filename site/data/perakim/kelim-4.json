@@ -1,0 +1,23 @@
+{
+ "masechet": "kelim",
+ "perek": 4,
+ "ref": "Mishnah Kelim 4",
+ "mishnayot": [
+  {
+   "he": "הַחֶרֶס שֶׁאֵינוֹ יָכוֹל לַעֲמֹד מִפְּנֵי אָזְנוֹ, אוֹ שֶׁהָיָה בוֹ חִדּוּד וְהַחִדּוּד מַכְרִיעוֹ, טָהוֹר. נִטְּלָה הָאֹזֶן, נִשְׁבַּר הַחִדּוּד, טָהוֹר. רַבִּי יְהוּדָה מְטַמֵּא. חָבִית שֶׁנִּפְחֲתָה, וְהִיא מְקַבֶּלֶת עַל דָּפְנוֹתֶיהָ, אוֹ שֶׁנֶּחְלְקָה כְמִין שְׁתֵּי עֲרֵבוֹת, רַבִּי יְהוּדָה מְטַהֵר, וַחֲכָמִים מְטַמְּאִין: \n",
+   "en": "A potsherd that cannot stand unsupported on account of its handle, or a potsherd whose bottom is pointed and that point causes it to overbalance, is clean. If the handle was removed or the point was broken off it is still clean. Rabbi Judah says that it is unclean. If a jar was broken but is still capable of holding something in its sides, or if it was split into a kind of two troughs: Rabbi Judah says it is clean But the sages say it is unclean."
+  },
+  {
+   "he": "חָבִית שֶׁנִּתְרוֹעֲעָה וְאֵינָהּ יְכוֹלָה לְהִטַּלְטֵל בַּחֲצִי קַב גְּרוֹגָרוֹת, טְהוֹרָה. גִּסְטְרָא שֶׁנִּתְרוֹעֲעָה וְאֵינָהּ מְקַבֶּלֶת מַשְׁקִין, אַף עַל פִּי שֶׁהִיא מְקַבֶּלֶת אֳכָלִין, טְהוֹרָה שֶׁאֵין שְׁיָרִין לִשְׁיָרִין: \n",
+   "en": "If a jar was cracked and cannot be moved with half a kav of dried figs in it, it is clean. If a damaged vessel (gistera) was cracked and it cannot hold any liquid, even though it can hold foodstuffs, it is clean, since remnants do not have remnants."
+  },
+  {
+   "he": "אֵיזוֹ הִיא גִסְטְרָא, כֹּל שֶׁנִּטְּלוּ אָזְנֶיהָ. הָיוּ בָהּ חִדּוּדִין יוֹצְאִין, כֹּל הַמְקַבֵּל עִמָּהּ בְּזֵיתִים, מִטַּמֵּא בְמַגָּע וּכְנֶגְדּוֹ מִטַּמֵּא בַאֲוִיר. וְכֹל שֶׁאֵינוֹ מְקַבֵּל עִמָּהּ בְּזֵיתִים, מִטַּמֵּא בְמַגָּע וְאֵין כְּנֶגְדּוֹ מִטַּמֵּא בַאֲוִיר. הָיְתָה מֻטָּה עַל צִדָּהּ כְּמִין קַתֶּדְרָה, כֹּל הַמְקַבֵּל עִמָּהּ בְּזֵיתִים, מִטַּמֵּא בְמַגָּע וּכְנֶגְדּוֹ מִטַּמֵּא בַאֲוִיר. וְכֹל שֶׁאֵינוֹ מְקַבֵּל עִמָּהּ בְּזֵיתִים, מִטַּמֵּא בְמַגָּע וְאֵין כְּנֶגְדּוֹ מִטַּמֵּא בַאֲוִיר. שׁוּלֵי קוֹרְפִיּוֹת וְשׁוּלֵי קוֹסִים הַצִּידוֹנִיִּים, אַף עַל פִּי שֶׁאֵינָם יְכוֹלִים לֵישֵׁב שֶׁלֹּא מְסֻמָּכִין, טְמֵאִין, שֶׁלְּכָךְ נַעֲשׂוּ מִתְּחִלָּתָן: \n",
+   "en": "What is meant by a \"damaged vessel\" (gistera)? One whose handles were removed. If sharp ends projected from it: Any part of it which can contain olives contracts impurity by contact, while any impurity opposite an end conveys impurity to the vessel through its air-space, But any part of it which cannot contain olives contracts impurity by contact, while an impurity opposite an end does not convey impurity through its air-space. If it was leaning on its side like a kind of cathedra, Any part of it which can contain olives contracts impurity by contact, while any impurity opposite an end conveys impurity to the vessel through its air-space, But any part of it which cannot contain olives contracts impurity by contact, while an impurity opposite an end does not convey impurity to the vessel through its air-space. Bowls with Korfian [bottoms], and cups with Zidonian bottoms, although they cannot stand unsupported, are susceptible to impurity, because they were originally fashioned in this manner."
+  },
+  {
+   "he": "כְּלִי חֶרֶשׂ שֶׁיֶּשׁ לוֹ שָׁלֹשׁ שְׂפָיוֹת, הַפְּנִימִית עוֹדֶפֶת, הַכֹּל טָהוֹר. הַחִיצוֹנָה עוֹדֶפֶת, הַכֹּל טָמֵא. הָאֶמְצָעִית עוֹדֶפֶת, מִמֶּנָּה וְלִפְנִים, טָמֵא. מִמֶּנָּה וְלַחוּץ, טָהוֹר. הָיוּ שָׁווֹת, רַבִּי יְהוּדָה אוֹמֵר, חוֹלְקִין הָאֶמְצָעִית. וַחֲכָמִים אוֹמְרִים, הַכֹּל טָהוֹר. כְּלֵי חֶרֶס, מֵאֵימָתַי מְקַבְּלִין טֻמְאָה, מִשֶּׁיִּצָּרְפוּ בַכִּבְשָׁן, וְהִיא גְמַר מְלַאכְתָּן: \n",
+   "en": "An earthenware vessel that has three rims: If the innermost one projects above the others, all outside it is not susceptible to impurity. If the outermost one projects above the others all within it is susceptible to impurity; And if the middle one projects above the others, that which is within it is susceptible to impurity, while that which is without it is not susceptible to impurity. If they were equal in height: Rabbi Judah says: the middle one is deemed to be divided. But the sages ruled: all are not susceptible to impurity. When do earthenware vessels become susceptible to impurity? As soon as they are baked in the furnace, that being the completion of their manufacture."
+  }
+ ]
+}

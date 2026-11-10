@@ -1,0 +1,35 @@
+{
+ "masechet": "tevul-yom",
+ "perek": 4,
+ "ref": "Mishnah Tevul Yom 4",
+ "mishnayot": [
+  {
+   "he": "אֹכֶל מַעֲשֵׂר שֶׁהֻכְשַׁר בְּמַשְׁקֶה, וְנָגַע בּוֹ טְבוּל יוֹם אוֹ יָדַיִם מְסֹאָבוֹת, מַפְרִישִׁין מִמֶּנּוּ תְרוּמַת מַעֲשֵׂר בְּטָהֳרָה, מִפְּנֵי שֶׁהוּא שְׁלִישִׁי, וְהַשְּׁלִישִׁי טָהוֹר לְחֻלִּין: \n",
+   "en": "If food that was tithe had been rendered susceptible to impurity by a liquid, and a tevul yom or one with unwashed hands touched it, terumah of tithe may still be removed from it in purity, since it only has third degree uncleanness, and third degree uncleanness counts as clean in hullin."
+  },
+  {
+   "he": "הָאִשָּׁה שֶׁהִיא טְבוּלַת יוֹם, לָשָׁה אֶת הָעִסָּה, וְקוֹצָה לָהּ חַלָּה וּמַפְרַשְׁתָּהּ, וּמַנַּחְתָּהּ בִּכְפִישָׁה מִצְרִית אוֹ בִנְחוּתָא, וּמַקֶּפֶת וְקוֹרָא לָהּ שֵׁם, מִפְּנֵי שֶׁהִיא שְׁלִישִׁי, וְהַשְּׁלִישִׁי טָהוֹר לְחֻלִּין: \n",
+   "en": "A woman who is a tevulat yom may knead dough, cut off the hallah, and set it apart, and she should arrange it on an Egyptian basket, or on a tray, and then bring it near and call it by its name. For it [the dough] has third degree uncleanness and third degree uncleanness is clean in hullin."
+  },
+  {
+   "he": "עֲרֵבָה שֶׁהִיא טְבוּלַת יוֹם, לָשִׁין בָּהּ אֶת הָעִסָּה וְקוֹצִין מִמֶּנָּה חַלָּה, וּמַקֶּפֶת וְקוֹרִין לָהּ שֵׁם, מִפְּנֵי שֶׁהִיא שְׁלִישִׁי, וְהַשְּׁלִישִׁי טָהוֹר לְחֻלִּין: \n",
+   "en": "A trough which is a tevulat yom, one may knead dough in it and cut off the portion for hallah and bring it near and call it by name [as hallah]; for it [the trough] has third degree uncleanness and third degree uncleanness is clean in hullin."
+  },
+  {
+   "he": "לָגִין שֶׁהוּא טְבוּל יוֹם, וּמִלְאָהוּ מִן הֶחָבִית מַעֲשֵׂר טֶבֶל, אִם אָמַר, הֲרֵי זוֹ תְרוּמַת מַעֲשֵׂר מִשֶּׁתֶּחְשָׁךְ, הֲרֵי זוֹ תְּרוּמַת מַעֲשֵׂר. אִם אָמַר, הֲרֵי זֶה עֵרוּב, לֹא אָמַר כְּלוּם. נִשְׁבְּרָה הֶחָבִית, הַלָּגִין בְּטִבְלוֹ. נִשְׁבַּר הַלָּגִין, הֶחָבִית בְּטִבְלָהּ: \n",
+   "en": "A flagon was a tevul yom and they filled it from a cask containing tithes from which terumah had not yet been taken: If one said, let this be terumah of tithe after nightfall, it becomes terumah of tithe. But if he said: let this be the food for the eruv, he has said nothing. If the cask was broken, the contents of the flagon still remain tithe from which terumah had not yet been taken. If the flagon was broken, then what is in the cask still remains tithe from which terumah had not yet been taken."
+  },
+  {
+   "he": "בָּרִאשׁוֹנָה הָיוּ אוֹמְרִים, מְחַלְּלִין עַל פֵּרוֹת עַם הָאָרֶץ. חָזְרוּ לוֹמַר, אַף עַל מְעוֹתָיו. בָּרִאשׁוֹנָה הָיוּ אוֹמְרִים, הַיּוֹצֵא בַקּוֹלָר וְאָמַר, כִּתְבוּ גֵט לְאִשְׁתִּי, הֲרֵי אֵלּוּ יִכְתְּבוּ וְיִתְּנוּ. חָזְרוּ לוֹמַר, אַף הַמְפָרֵשׁ וְהַיּוֹצֵא בִשְׁיָרָא. רַבִּי שִׁמְעוֹן שְׁזוּרִי אוֹמֵר, אַף הַמְסֻכָּן: \n",
+   "en": "Originally they said: one may redeem [second tithe] for the produce of an am ha-arez. Later they reconsidered and said: also for money of his.Originally they said that if a man was being led out to execution and said, “Write a get for my wife”, they may write a get and give [it to her]. Later they reconsidered and said, even if he were leaving on a sea voyage or on a caravan journey. Rabbi Shimon Shezuri says: even if he were dangerously ill."
+  },
+  {
+   "he": "הַכַּדּוּמִין הָאַשְׁקְלוֹנִים שֶׁנִּשְׁבְּרוּ וְאֻנְקְלִי שֶׁלָּהֶם קַיֶּמֶת, הֲרֵי אֵלּוּ טְמֵאִין. הַמַּעְבֵּר וְהַמַּזְרֶה וְהַמַּגּוֹב וְכֵן מַסְרֵק שֶׁל רֹאשׁ שֶׁנִּטְּלָה אַחַת מִשִּׁנֵּיהֶן וַעֲשָׂאָן שֶׁל מַתָּכוֹת, הֲרֵי אֵלּוּ טְמֵאִין. וְעַל כֻּלָּן אָמַר רַבִּי יְהוֹשֻׁעַ, דָּבָר חָדָשׁ חִדְּשׁוּ הַסּוֹפְרִים וְאֵין לִי מַה לְּהָשִׁיב: \n",
+   "en": "If Ashkelon grappling-irons were broken but their hooks remained, they remain susceptible to impurity. If a pitch-fork, winnowing-fan, or rake, and the same applies to a hair-comb, lost one of its teeth and it was replaced by one of metal, it is susceptible to impurity. And concerning all these Rabbi Joshua said: the scribes have here introduced a new principle of law, and I have no explanation to offer."
+  },
+  {
+   "he": "הַתּוֹרֵם אֶת הַבּוֹר וְאָמַר, הֲרֵי זוֹ תְרוּמָה עַל מְנָת שֶׁתַּעֲלֶה שָׁלוֹם, שָׁלוֹם מִן הַשֶּׁבֶר וּמִן הַשְּׁפִיכָה, אֲבָל לֹא מִן הַטֻּמְאָה. רַבִּי שִׁמְעוֹן אוֹמֵר, אַף מִן הַטֻּמְאָה. נִשְׁבְּרָה, אֵינָהּ מְדַמַּעַת. עַד הֵיכָן תִּשָּׁבֵר וְלֹא תְדַמֵּעַ. כְּדֵי שֶׁתִּתְגַּלְגֵּל וְתַגִּיעַ לַבּוֹר. רַבִּי יוֹסֵי אוֹמֵר, אַף מִי שֶׁהָיָה בוֹ דַעַת לְהַתְנוֹת וְלֹא הִתְנָה, נִשְׁבְּרָה, אֵינָהּ מְדַמַּעַת, מִפְּנֵי שֶׁהוּא תְנַאי בֵּית דִּין: \n",
+   "en": "If one was taking terumah from a cistern and said: \"Let this be terumah provided it comes up safely,\" [it is implied that he meant] safely from being broken or spilled, but not from becoming impure; But Rabbi Shimon says: also from impurity. If it were broken, it does not render [the contents of the cistern] subject to the restrictions of terumah. How far away can it be broken and still not make [the contents of the cistern] subject to terumah restrictions? Only so far that if it rolls back, it can reach the cistern. Rabbi Yose says: even if one had the intention of making such a stipulation, but did not do so, and it broke, it does not make the [contents of the cistern] subject to terumah restrictions, for this is a stipulation laid down by the court."
+  }
+ ]
+}

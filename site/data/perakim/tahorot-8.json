@@ -1,0 +1,43 @@
+{
+ "masechet": "tahorot",
+ "perek": 8,
+ "ref": "Mishnah Tahorot 8",
+ "mishnayot": [
+  {
+   "he": "הַדָּר עִם עַם הָאָרֶץ בְּחָצֵר, וְשָׁכַח כֵּלִים בֶּחָצֵר, אֲפִלּוּ חָבִיּוֹת מֻקָּפוֹת צָמִיד פָּתִיל, אוֹ תַנּוּר מֻקָּף צָמִיד פָּתִיל, הֲרֵי אֵלּוּ טְמֵאִין. רַבִּי יְהוּדָה מְטַהֵר בְּתַנּוּר בִּזְמַן שֶׁהוּא מֻקָּף צָמִיד פָּתִיל. רַבִּי יוֹסֵי אוֹמֵר, אַף הַתַּנּוּר טָמֵא, עַד שֶׁיַּעֲשֶׂה לוֹ מְחִצָּה גָבוֹהַּ עֲשָׂרָה טְפָחִים: \n",
+   "en": "One who dwells in a courtyard with an am haaretz and forgot some vessels in the courtyard, even though they were jars with tightly fitting lids, or an oven with a tightly fitting cover, they are unclean. Rabbi Judah says that an oven is clean if it has a tightly fitting lid. Rabbi Yose says: even an oven is unclean unless he made for it a partition ten handbreadths high."
+  },
+  {
+   "he": "הַמַּפְקִיד כֵּלִים אֵצֶל עַם הָאָרֶץ, טְמֵאִים טְמֵא מֵת וּטְמֵאִין מִדְרָס. אִם מַכִּירוֹ שֶׁהוּא אוֹכֵל בַּתְּרוּמָה, טְהוֹרִין מִטְּמֵא מֵת, אֲבָל טְמֵאִין מִדְרָס. רַבִּי יוֹסֵי אוֹמֵר, אִם מָסַר לוֹ תֵבָה מְלֵאָה בְגָדִים, בִּזְמַן שֶׁהִיא רוֹצֶצֶת, טְמֵאִין מִדְרָס. אִם אֵינָהּ רוֹצֶצֶת, טְמֵאִין מַדָּף, אַף עַל פִּי שֶׁהַמַּפְתֵּחַ בְּיַד הַבְּעָלִים: \n",
+   "en": "One who deposited vessels with an am haaretz they are unclean with corpse uncleanness and with midras uncleanness. If he knew that he eats terumah, they are free from corpse uncleanness but are unclean with midras uncleanness. Rabbi Yose says: if he deposited with him a chest full of clothes, they are deemed to be unclean with midras when they are tightly packed, but if they are not tightly packed they are only unclean with madaf uncleanness, even though the key is in the possession of the owner."
+  },
+  {
+   "he": "הַמְאַבֵּד בַּיּוֹם וּמָצָא בַיּוֹם, טָהוֹר. בַּיּוֹם וּמָצָא בַלַּיְלָה, בַּלַּיְלָה וּמָצָא בַיּוֹם, בַּיּוֹם וּמָצָא בַיּוֹם שֶׁלְּאַחֲרָיו, טָמֵא. זֶה הַכְּלָל, כֹּל שֶׁיַּעֲבֹר עָלָיו הַלַּיְלָה אוֹ מִקְצָתוֹ, טָמֵא. הַשּׁוֹטֵחַ כֵּלִים, בִּרְשׁוּת הָרַבִּים, טְהוֹרִין. וּבִרְשׁוּת הַיָּחִיד, טְמֵאִין. וְאִם הָיָה מְשַׁמְּרָן, טְהוֹרִים. נָפְלוּ וְהָלַךְ לַהֲבִיאָן, טְמֵאִים. נָפַל דָּלְיוֹ לְתוֹךְ בּוֹרוֹ שֶׁל עַם הָאָרֶץ וְהָלַךְ לְהָבִיא בְמַה יַּעֲלֶנּוּ, טָמֵא, מִפְּנֵי שֶׁהֻנַּח בִּרְשׁוּת עַם הָאָרֶץ שָׁעָה אֶחָת: \n",
+   "en": "One who loses something during the day and finds it on the same day it remains clean. If it was lost during the daytime and found in the night, or if it was lost in the night and found during the day or if it was lost on one day and found on the next day, it is unclean. This is the general rule: if the night or part of the night has passed over it, it is unclean. One who spreads out his clothes: If in a public domain, they remain clean; But if in a private domain they are unclean. If he kept watch over them, they remain clean. If they fell down and he went to bring them, they are unclean. If one's bucket fell into the cistern of an ‘am ha-arez and he went to bring something to draw it up with, it is unclean, since it was left for a time in the domain of an am haaretz."
+  },
+  {
+   "he": "הַמַּנִּיחַ אֶת בֵּיתוֹ פָתוּחַ וּמְצָאוֹ פָתוּחַ, נָעוּל וּמְצָאוֹ נָעוּל, פָּתוּחַ וּמְצָאוֹ נָעוּל, טָהוֹר. נָעוּל וּמְצָאוֹ פָתוּחַ, רַבִּי מֵאִיר מְטַמֵּא, וַחֲכָמִים מְטַהֲרִין, שֶׁהָיוּ גַנָּבִים וְנִמְלְכוּ וְהָלְכוּ לָהֶן: \n",
+   "en": "One who left his house open and found it open, or locked and found it locked, or open and found it locked, it remains clean. But if he left it closed and found it open: Rabbi Meir says that it is unclean; But the sages say that it remains clean, since, though thieves had been there, they may have changed their mind and gone away."
+  },
+  {
+   "he": "אֵשֶׁת עַם הָאָרֶץ שֶׁנִּכְנְסָה לְתוֹךְ בֵּיתוֹ שֶׁל חָבֵר לְהוֹצִיא בְנוֹ אוֹ בִתּוֹ אוֹ בְהֶמְתּוֹ, הַבַּיִת טָהוֹר, מִפְּנֵי שֶׁנִּכְנְסָה שֶׁלֹּא בִרְשׁוּת: \n",
+   "en": "If the wife of an am haaretz entered a haver's house to take out his son or his daughter or his cattle, the house remains clean, since she had entered it without permission."
+  },
+  {
+   "he": "כְּלָל אָמְרוּ בַטָּהֳרוֹת, כֹּל הַמְיֻחָד לְאֹכֶל אָדָם, טָמֵא, עַד שֶׁיִּפָּסֵל מֵאֹכֶל הַכֶּלֶב. וְכֹל שֶׁאֵינוֹ מְיֻחָד לְאֹכֶל אָדָם, טָהוֹר, עַד שֶׁיְּיַחֲדֶנּוּ לְאָדָם. כֵּיצַד. גּוֹזָל שֶׁנָּפַל לְגַת וְחִשַּׁב עָלָיו לְהַעֲלוֹתוֹ לְנָכְרִי, טָמֵא. לְכֶלֶב, טָהוֹר. רַבִּי יוֹחָנָן בֶּן נוּרִי מְטַמֵּא. חִשַּׁב עָלָיו חֵרֵשׁ, שׁוֹטֶה וְקָטָן, טָהוֹר. אִם הֶעֱלָהוּ, טָמֵא, שֶׁיֵּשׁ לָהֶן מַעֲשֶׂה וְאֵין לָהֶן מַחֲשָׁבָה: \n",
+   "en": "They said a general rule with regard to clean food: whatever is designated as food for human consumption is susceptible to uncleanness unless it is rendered unfit to be food for a dog; And whatever is not designated as food for human consumption is not susceptible to uncleanness unless it is designated for human consumption. How so? If a pigeon fell into a wine-press and one intended to pick it out for an idolater, it becomes susceptible to uncleanness; but if he intended it for a dog it is not susceptible to uncleanness. Rabbi Yohanan ben Nuri rules that it is susceptible to uncleanness. If a deaf mute, one not of sound senses or a minor intended it as food, it remains insusceptible. But if they picked it up it becomes susceptible; since only an act of theirs is effective while their intention is of no consequence."
+  },
+  {
+   "he": "אֲחוֹרֵי כֵלִים שֶׁנִּטְמְאוּ בְמַשְׁקִים, רַבִּי אֱלִיעֶזֶר אוֹמֵר, מְטַמְּאִין אֶת הַמַּשְׁקִין וְאֵין פּוֹסְלִין אֶת הָאֳכָלִין. רַבִּי יְהוֹשֻׁעַ אוֹמֵר, מְטַמְּאִין אֶת הַמַּשְׁקִין וּפוֹסְלִין אֶת הָאֳכָלִין. שִׁמְעוֹן אֲחִי עֲזַרְיָה אוֹמֵר, לֹא כָךְ וְלֹא כָךְ, אֶלָּא מַשְׁקִין שֶׁנִּטְמְאוּ בַאֲחוֹרֵי הַכֵּלִים, מְטַמְּאִין אֶחָד וּפוֹסְלִין אֶחָד. הֲרֵי זֶה אוֹמֵר, מְטַמְּאֶיךָ לֹא טִמְּאוּנִי, וְאַתָּה טִמֵּאתָנִי: \n",
+   "en": "The outer parts of vessels that have contracted uncleanness from liquids: Rabbi Eliezer says: they defile liquids but they do not disqualify foods. Rabbi Joshua says: they defile liquids and also disqualify foods. Shimon the brother of Azariah says: neither this nor that. Rather, liquids that were defiled from the outer parts of vessels defile at one remove and disqualify at a second remove. It is as if it say, \"that which defiled you did not defile me but you have defiled me.\""
+  },
+  {
+   "he": "עֲרֵבָה שֶׁהִיא קְטַפְרֵס, וְהַבָּצֵק מִלְּמַעְלָן וּמַשְׁקֶה טוֹפֵחַ מִלְּמַטָּן, שָׁלשׁ חֲתִיכוֹת בְּכַבֵּיצָה, אֵינָן מִצְטָרְפוֹת. וּשְׁתַּיִם, מִצְטָרְפוֹת. רַבִּי יוֹסֵי אוֹמֵר, אַף שְׁתַּיִם אֵינָן מִצְטָרְפוֹת, אֶלָּא אִם כֵּן הָיוּ רוֹצְצוֹת מַשְׁקֶה. וְאִם הָיָה מַשְׁקֶה עוֹמֵד, אֲפִלּוּ כְעֵין הַחַרְדָּל, מִצְטָרֵף. רַבִּי דוֹסָא אוֹמֵר, אֹכֶל פָּרוּד אֵינוֹ מִצְטָרֵף: \n",
+   "en": "If a kneading trough was sloping downwards and there was dough in the higher part and dripping moisture in the lower part, then three pieces that jointly make up the bulk of an egg cannot be combined together, but two are combined. Rabbi Yose says: the two also cannot be combined unless they compress liquid between them. If the liquid was level, even though the piece was the size of a mustard seed they are combined together. Rabbi Dosa says: crumbled food cannot be combined together."
+  },
+  {
+   "he": "מַקֵּל שֶׁהִיא מְלֵאָה מַשְׁקִין טְמֵאִין, כֵּיוָן שֶׁהִשִּׁיקָהּ לַמִּקְוֶה, טְהוֹרָה, דִּבְרֵי רַבִּי יְהוֹשֻׁעַ. וַחֲכָמִים אוֹמְרִים, עַד שֶׁיַּטְבִּיל אֶת כֻּלָּהּ. הַנִּצּוֹק וְהַקְּטַפְרֵס וּמַשְׁקֶה טוֹפֵחַ, אֵינָן חִבּוּר לֹא לַטֻּמְאָה וְלֹא לַטָּהֳרָה. וְהָאֶשְׁבֹּרֶן, חִבּוּר לַטֻּמְאָה וְלַטָּהֳרָה: \n",
+   "en": "If a stick is completely covered with unclean liquid, as soon as it has touched the [water in the] mikveh, it becomes clean, the words of Rabbi Joshua. But the sages say: only when the whole of it is immersed. A flow from one vessel to the other or a slope of dripping moisture does not serve as a connective either for uncleanness or for cleanness. A pool of water serves as a connective in respect both of uncleanness and cleanness."
+  }
+ ]
+}

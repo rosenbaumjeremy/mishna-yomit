@@ -37,6 +37,9 @@ const UI = {
     loading: "טוען…",
     failed: "לא ניתן היה לטעון את הפרק.",
     published: "פורסם",
+    pending: (d) => `הסיכום, המושגים וקושיות המפרשים על פרק זה יתפרסמו ${d}.`,
+    pendingToday: "היום",
+    pendingOn: (heb, greg) => `ב${heb} (${greg})`,
     era: { rishon: "ראשון", acharon: "אחרון", chazal: "חז״ל" },
   },
   english: {
@@ -71,6 +74,9 @@ const UI = {
     loading: "Loading…",
     failed: "Couldn't load the perek.",
     published: "Published",
+    pending: (d) => `The summary, key terms and questions of the mefarshim on this perek will be published ${d}.`,
+    pendingToday: "later today",
+    pendingOn: (heb, greg) => `on ${greg} (${heb})`,
     era: { rishon: "Rishon", acharon: "Acharon", chazal: "Chazal" },
   },
 };
@@ -97,6 +103,55 @@ const masechetBySlug = (slug) => {
   for (const s of state.sedarim) for (const m of s.masechtot) if (m.slug === slug) return m;
   return null;
 };
+
+// The routine studies one perek a day straight through Shas in this order,
+// Berakhot 1 on START, then begins again (scripts/add_brief.py).
+const START = Date.UTC(2026, 9, 8);
+const DAY = 864e5;
+const israelToday = () => {
+  const s = new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Jerusalem" }).format(new Date());
+  const [y, mo, d] = s.split("-").map(Number);
+  return Date.UTC(y, mo - 1, d);
+};
+// The next date (today or later) whose routine run studies this perek.
+function dueDate(slug, perek) {
+  const order = [];
+  for (const s of state.sedarim) for (const m of s.masechtot) for (let p = 1; p <= m.perakim; p++) order.push(`${m.slug}-${p}`);
+  const i = order.indexOf(`${slug}-${perek}`);
+  if (i < 0) return null;
+  const today = israelToday();
+  let at = START + i * DAY;
+  while (at < today) at += order.length * DAY;
+  return { ms: at, today: at === today };
+}
+// 1 -> א׳, 15 -> ט״ו, 787 -> תשפ״ז
+function gematria(n) {
+  const vals = [[400, "ת"], [300, "ש"], [200, "ר"], [100, "ק"], [90, "צ"], [80, "פ"], [70, "ע"], [60, "ס"], [50, "נ"],
+    [40, "מ"], [30, "ל"], [20, "כ"], [10, "י"], [9, "ט"], [8, "ח"], [7, "ז"], [6, "ו"], [5, "ה"], [4, "ד"], [3, "ג"], [2, "ב"], [1, "א"]];
+  let s = "";
+  for (const [v, ch] of vals) {
+    while (n >= v) {
+      if (n === 15 || n === 16) { s += "ט" + (n === 15 ? "ו" : "ז"); n = 0; break; }
+      s += ch; n -= v;
+    }
+  }
+  return s.length > 1 ? `${s.slice(0, -1)}״${s.slice(-1)}` : `${s}׳`;
+}
+function dueText(due) {
+  if (due.today) return t().pendingToday;
+  const date = new Date(due.ms);
+  const greg = date.toISOString().slice(0, 10);
+  let heb = greg;
+  try {
+    const he = state.lang === "hebrew";
+    const parts = new Intl.DateTimeFormat(he ? "he-IL-u-ca-hebrew-nu-latn" : "en-u-ca-hebrew-nu-latn",
+      { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }).formatToParts(date);
+    const get = (k) => (parts.find((x) => x.type === k) || {}).value;
+    const day = +get("day"), year = +get("year"), month = get("month");
+    heb = he ? `${gematria(day)} ב${month.replace(/^ב/, "")} ${gematria(year % 1000)}` : `${day} ${month} ${year}`;
+  } catch {}
+  return t().pendingOn(heb, greg);
+}
 
 /* ---------- matching anchor phrases in the vocalised text ---------- */
 
@@ -250,12 +305,12 @@ function renderSedarim() {
       let any = false;
       for (let p = 1; p <= m.perakim; p++) {
         const label = state.lang === "hebrew" ? HEB_NUM(p) : String(p);
-        if (published(m.slug, p)) {
-          any = true;
-          const a = node("a", "chip", label);
-          a.href = `#${m.slug}-${p}`;
-          chips.append(a);
-        } else chips.append(node("span", "chip", label));
+        // every perek has its text; the published ones also have their brief
+        const done = published(m.slug, p);
+        any = any || done;
+        const a = node("a", done ? "chip" : "chip soon", label);
+        a.href = `#${m.slug}-${p}`;
+        chips.append(a);
       }
       const sumLabel = t().summaries;
       if (any) {
@@ -441,18 +496,25 @@ async function renderPerek() {
   if (!state.perek || state.perek.slug !== slug || state.perek.perek !== perek) return;
   box.lastChild.remove();
 
-  const sec = data[state.lang];
+  const sec = data[state.lang];   // absent until the routine files this perek's brief
   const ref = `${m.title} ${perek}`;
   const head = node("div", "perek-head");
   head.dataset.pdfHead = "";
   head.append(node("h2", null, perekName(m, perek)));
   const meta = node("p");
-  meta.append(`${data.hebrew_date[state.lang === "hebrew" ? "hebrew" : "english"]} · ${data.date} · `);
+  if (sec) meta.append(`${data.hebrew_date[state.lang === "hebrew" ? "hebrew" : "english"]} · ${data.date} · `);
   const a = node("a", null, t().sefaria);
   a.href = sefariaUrl(ref); a.target = "_blank"; a.rel = "noopener";
   meta.append(a);
   head.append(meta, pdfTools());
   box.append(head);
+
+  if (!sec) {
+    const due = dueDate(slug, perek);
+    if (due) box.append(node("p", "pending", t().pending(dueText(due))));
+    box.append(textColumn(data, []));
+    return;
+  }
 
   const sum = node("details", "box");
   sum.open = true;
@@ -469,7 +531,26 @@ async function renderPerek() {
   ];
 
   const layout = node("div", "layout");
-  // right: the text
+  const textCol = textColumn(data, items);
+
+  // left: terms and questions
+  const side = node("div", "side-col");
+  side.append(group(t().topics, items.filter((x) => x.kind === "t"), false));
+  side.append(group(t().questions, items.filter((x) => x.kind === "q"), false));
+  const src = node("details", "box");
+  src.dataset.pdf = t().sources;
+  src.append(node("summary", null, t().sources));
+  const srcBody = node("div", "body");
+  srcBody.append(node("p", "sources", (sec.sources_consulted || []).join(" · ")));
+  src.append(srcBody);
+  side.append(src);
+
+  layout.append(textCol, side);
+  box.append(layout);
+}
+
+// The Mishnah text, with the words each term and question explains marked.
+function textColumn(data, items) {
   const textCol = node("div", "text-col");
   textCol.dataset.pdf = t().text;
   const card = node("div", "mishnah-card");
@@ -493,24 +574,13 @@ async function renderPerek() {
     const mk = e.target.closest("mark.hl");
     if (mk) openItems(mk.dataset.items.split(" "));
   });
-  const legend = node("p", "legend");
-  legend.append(node("span", "lq", t().legendQ), node("span", "lt", t().legendT));
-  textCol.append(card, legend);
-
-  // left: terms and questions
-  const side = node("div", "side-col");
-  side.append(group(t().topics, items.filter((x) => x.kind === "t"), false));
-  side.append(group(t().questions, items.filter((x) => x.kind === "q"), false));
-  const src = node("details", "box");
-  src.dataset.pdf = t().sources;
-  src.append(node("summary", null, t().sources));
-  const srcBody = node("div", "body");
-  srcBody.append(node("p", "sources", (sec.sources_consulted || []).join(" · ")));
-  src.append(srcBody);
-  side.append(src);
-
-  layout.append(textCol, side);
-  box.append(layout);
+  textCol.append(card);
+  if (items.length) {
+    const legend = node("p", "legend");
+    legend.append(node("span", "lq", t().legendQ), node("span", "lt", t().legendT));
+    textCol.append(legend);
+  }
+  return textCol;
 }
 
 function render() {

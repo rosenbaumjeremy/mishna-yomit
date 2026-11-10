@@ -18,12 +18,18 @@ mefarshim on Sefaria, files the brief with
 `scripts/add_brief.py brief.json`, then commits and pushes. Cloudflare deploys
 on push.
 
+Every perek's Mishnah text is on the site from the start
+(`scripts/add_texts.py` wrote a text-only file for each one; safe to re-run).
+A perek without its brief yet shows the text and the date the routine will
+study it; filing the brief replaces the file with the full record.
+
 ```
 site/
   index.html, app.css, app.js, icon.svg
   data/masechtot.json                 sedarim, masechtot, number of perakim
   data/perakim/index.json             {"days": [{date, masechet, perek, ref}]}
   data/perakim/<masechet>-<perek>.json  one perek's brief, with the Mishnah text
+                                      (text only until its brief is filed)
 ```
 
 ## Grounding

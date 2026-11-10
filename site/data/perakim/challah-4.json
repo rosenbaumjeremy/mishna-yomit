@@ -1,0 +1,51 @@
+{
+ "masechet": "challah",
+ "perek": 4,
+ "ref": "Mishnah Challah 4",
+ "mishnayot": [
+  {
+   "he": "שְׁתֵּי נָשִׁים שֶׁעָשׂוּ שְׁנֵי קַבִּין, וְנָגְעוּ זֶה בָזֶה, אֲפִלּוּ הֵם מִמִּין אֶחָד, פְּטוּרִים. וּבִזְמַן שֶׁהֵם שֶׁל אִשָּׁה אַחַת, מִין בְּמִינוֹ, חַיָּב. וְשֶׁלֹּא בְמִינוֹ, פָּטוּר:  ",
+   "en": "Two women who made [separate doughs] from two [separate] kavs, and these [doughs] touched one another, even if they are of the same species, they are exempt [from hallah]. When they belong to one woman: If one species [comes into contact] with the same species, they are subject [to hallah]. If different species, they are exempt."
+  },
+  {
+   "he": "אֵיזֶה הוּא מִין בְּמִינוֹ, הַחִטִּים אֵינָן מִצְטָרְפוֹת עִם הַכֹּל, אֶלָּא עִם הַכֻּסְּמִין. הַשְּׂעוֹרִים מִצְטָרְפוֹת עִם הַכֹּל, חוּץ מִן הַחִטִּים. רַבִּי יוֹחָנָן בֶּן נוּרִי אוֹמֵר, שְׁאָר הַמִּינִים מִצְטָרְפִין זֶה עִם זֶה:  ",
+   "en": "What counts as a species with its same species?Wheat is not reckoned together with any [species] other than with spelt; Barley is reckoned together with all [species] except wheat. Rabbi Yohanan ben Nuri says: the rest of the species are reckoned together one with another."
+  },
+  {
+   "he": "שְׁנֵי קַבִּים, וְקַב אֹרֶז אוֹ קַב תְּרוּמָה בָּאֶמְצַע, אֵינָן מִצְטָרְפִין. דָּבָר שֶׁנִּטְּלָה חַלָּתוֹ בָּאֶמְצַע, מִצְטָרְפִין, שֶׁכְּבָר נִתְחַיֵּב בַּחַלָּה:  ",
+   "en": "[If there are two doughs from] two [separate] kavs, and a kav of rice [dough] or a kav of terumah dough [lying] between, they are not reckoned together. [If there was] dough from which hallah had already been taken [lying] between, they are reckoned together, since it had once been subject to hallah."
+  },
+  {
+   "he": "קַב חָדָשׁ וְקַב יָשָׁן שֶׁנָּשְׁכוּ זֶה בָזֶה, רַבִּי יִשְׁמָעֵאל אוֹמֵר, יִטֹּל מִן הָאֶמְצַע, וַחֲכָמִים אוֹסְרִים. הַנּוֹטֵל חַלָּה מִן הַקַּב, רַבִּי עֲקִיבָא אוֹמֵר, חַלָּה. וַחֲכָמִים אוֹמְרִים, אֵינָהּ חַלָּה:  ",
+   "en": "A kav of [dough made from] new grain and a kav of [dough from] old grain which are stuck together: Rabbi Ishmael says: let him take [hallah] from the middle; But the sages prohibit. One who has taken hallah from [dough made out of] one kav: Rabbi Akiva says: it is hallah; But the sages say: it is not hallah."
+  },
+  {
+   "he": "שְׁנֵי קַבִּין שֶׁנִּטְּלָה חַלָּתוֹ שֶׁל זֶה בִּפְנֵי עַצְמוֹ וְשֶׁל זֶה בִּפְנֵי עַצְמוֹ, חָזַר וַעֲשָׂאוֹ עִסָּה אַחַת, רַבִּי עֲקִיבָא פוֹטֵר, וַחֲכָמִים מְחַיְּבִין. נִמְצָא חֻמְרוֹ קֻלּוֹ:  ",
+   "en": "Two [separate] kavs [of dough], this one had its hallah removed on its own, and this one had its hallah removed on its own, and then he went back and made of them one dough: Rabbi Akiva exempts; But the sages make it liable. It turns out that the stringency of his [first] ruling leads to the leniency of his other ruling."
+  },
+  {
+   "he": "נוֹטֵל אָדָם כְּדֵי חַלָּה מֵעִסָּה שֶׁלֹּא הוּרְמָה חַלָּתָהּ, לַעֲשׂוֹתָה בְּטָהֳרָה, לִהְיוֹת מַפְרִישׁ עָלֶיהָ וְהוֹלֵךְ חַלַּת דְּמַאי עַד שֶׁתִּסָּרֵחַ. שֶׁחַלַּת דְּמַאי נִטֶּלֶת מִן הַטָּהוֹר עַל הַטָּמֵא, וְשֶׁלֹּא מִן הַמֻּקָּף:  ",
+   "en": "A man may take the requisite amount for hallah out of [clean] dough from which hallah has not [previously] been removed in order to remove it in a state of cleanness in order to go on separating [hallah] from it for [unclean] demai, until it becomes putrid, since hallah for demai may be taken from clean [dough] for unclean [dough], and from [one dough for another dough] which is not in close proximity."
+  },
+  {
+   "he": "יִשְׂרָאֵל שֶׁהָיוּ אֲרִיסִין לְנָכְרִים בְּסוּרְיָא, רַבִּי אֱלִיעֶזֶר מְחַיֵּב פֵּרוֹתֵיהֶם בַּמַּעַשְׂרוֹת וּבַשְּׁבִיעִית, וְרַבָּן גַּמְלִיאֵל פּוֹטֵר. רַבָּן גַּמְלִיאֵל אוֹמֵר, שְׁתֵּי חַלּוֹת בְּסוּרְיָא. וְרַבִּי אֱלִיעֶזֶר אוֹמֵר, חַלָּה אֶחָת. אָחֲזוּ קֻלּוֹ שֶׁל רַבָּן גַּמְלִיאֵל וְקֻלּוֹ שֶׁל רַבִּי אֱלִיעֶזֶר. חָזְרוּ לִנְהוֹג כְּדִבְרֵי רַבָּן גַּמְלִיאֵל בִּשְׁתֵּי דְרָכִים:  ",
+   "en": "An Israelite who was a tenant of a non-Jew in Syria: Rabbi Eliezer makes their produce liable to tithes and to [the law of] the sabbatical year; But Rabban Gamaliel makes [it] exempt. Rabban Gamaliel says: [one is to give] two hallah-portions in Syria; But Rabbi Eliezer says: [only] one hallah-portion. They adopted the lenient ruling of Rabban Gamaliel and the lenient ruling of Rabbi Eliezer. Eventually they went back and acted in accordance with Rabban Gamaliel in both respects."
+  },
+  {
+   "he": "רַבָּן גַּמְלִיאֵל אוֹמֵר, שָׁלֹשׁ אֲרָצוֹת לַחַלָּה. מֵאֶרֶץ יִשְׂרָאֵל וְעַד כְּזִיב, חַלָּה אֶחָת. מִכְּזִיב וְעַד הַנָּהָר וְעַד אֲמָנָה, שְׁתֵּי חַלּוֹת, אַחַת לָאוּר וְאַחַת לַכֹּהֵן. שֶׁל אוּר יֶשׁ לָהּ שִׁעוּר, וְשֶׁל כֹּהֵן אֵין לָהּ שִׁעוּר. מִן הַנָּהָר וְעַד אֲמָנָה וְלִפְנִים, שְׁתֵּי חַלּוֹת, אַחַת לָאוּר וְאַחַת לַכֹּהֵן. שֶׁל אוּר אֵין לָהּ שִׁעוּר, וְשֶׁל כֹּהֵן יֶשׁ לָהּ שִׁעוּר. וּטְבוּל יוֹם אוֹכְלָהּ. רַבִּי יוֹסֵי אוֹמֵר, אֵינוֹ צָרִיךְ טְבִילָה. וַאֲסוּרָה לַזָּבִים וְלַזָּבוֹת לַנִּדָּה וְלַיּוֹלְדוֹת, וְנֶאֱכֶלֶת עִם הַזָּר עַל הַשֻּׁלְחָן, וְנִתֶּנֶת לְכָל כֹּהֵן:  ",
+   "en": "Rabban Gamaliel says: there are three territories with regard to [liability to] hallah:From the land of Israel to Chezib: one hallah-portion. From Chezib to the river and to Amanah: two hallah-portions. One for the fire and one for the priest. The one for the fire has a minimum measure, and the one for the priest does not have a minimum measure. From the river and from Amanah and inward: two hallah-portions. One for the fire and one for the priest. The one for the fire has no minimum measure, and the one for the priest has a minimum measure. And [a priest] who has immersed himself during the day [and has not waited till sunset for his purification to be complete] may eat it. Rabbi Yose says: he does not require immersion. But it is forbidden to zavim and zavot, to menstruants, and to women after childbirth; It may be eaten with a non-priest at the [same] table; And it may be given to any priest."
+  },
+  {
+   "he": "וְאֵלּוּ נִתָּנִין לְכָל כֹּהֵן, הַחֲרָמִים, וְהַבְּכוֹרוֹת, וּפִדְיוֹן הַבֵּן, וּפִדְיוֹן פֶּטֶר חֲמוֹר, וְהַזְּרוֹעַ, וְהַלְּחָיַיִם, וְהַקֵּבָה, וְרֵאשִׁית הַגֵּז, וְשֶׁמֶן שְׂרֵפָה, וְקָדְשֵׁי הַמִּקְדָּשׁ, וְהַבִּכּוּרִים. רַבִּי יְהוּדָה אוֹסֵר בַּבִּכּוּרִים. כַּרְשִׁינֵי תְרוּמָה, רַבִּי עֲקִיבָא מַתִּיר וַחֲכָמִים אוֹסְרִים:  ",
+   "en": "These may be given to any priest:Devoted things (haramim); Firstlings; The redemption of the first born; The [lamb substituted as] ransom for the firstling of a donkey; The shoulder, the two cheeks and the maw; The first of the fleece; Oil [fit only] for burning; Consecrated food [which must be eaten] within the Temple; And bikkurim. Rabbi Judah prohibits bikkurim. Vetches of terumah: Rabbi Akiva permits, But the sages prohibit."
+  },
+  {
+   "he": "נִתַּאי אִישׁ תְּקוֹעַ הֵבִיא חַלּוֹת מִבֵּיתָר, וְלֹא קִבְּלוּ מִמֶּנּוּ. אַנְשֵׁי אֲלֶכְּסַנְדְּרִיָּא הֵבִיאוּ חַלּוֹתֵיהֶן מֵאֲלֶכְּסַנְדְּרִיָּא, וְלֹא קִבְּלוּ מֵהֶם. אַנְשֵׁי הַר צְבוֹעִים הֵבִיאוּ בִכּוּרֵיהֶם קֹדֶם עֲצֶרֶת, וְלֹא קִבְּלוּ מֵהֶם, מִפְּנֵי הַכָּתוּב שֶׁבַּתּוֹרָה (שמות כג), וְחַג הַקָּצִיר בִּכּוּרֵי מַעֲשֶׂיךָ אֲשֶׁר תִּזְרַע בַּשָּׂדֶה:  ",
+   "en": "Nittai of Tekoa brought hallah-portions from Be-Yitur, but they did not accept from him. The people of Alexandria brought hallah, but they did not accept from them. The people from Mt. Zevoim brought bikkurim prior to Atzeret (Shavuot), but they did not accept from them, on for it is written in the Torah: “And the festival of the harvest, the first-fruits of your labors, which you have sown in the field” (Exodus 23:16)."
+  },
+  {
+   "he": "בֶּן אַנְטִינוֹס הֶעֱלָה בְכוֹרוֹת מִבָּבֶל, וְלֹא קִבְּלוּ מִמֶּנּוּ. יוֹסֵף הַכֹּהֵן הֵבִיא בִכּוּרֵי יַיִן וְשֶׁמֶן, וְלֹא קִבְּלוּ מִמֶּנּוּ. אַף הוּא הֶעֱלָה אֶת בָּנָיו וּבְנֵי בֵיתוֹ לַעֲשׂוֹת פֶּסַח קָטָן בִּירוּשָׁלַיִם, וְהֶחֱזִירוּהוּ, שֶׁלֹּא יִקָּבַע הַדָּבָר חוֹבָה. אֲרִיסְטוֹן הֵבִיא בִכּוּרָיו מֵאַפַּמְיָא, וְקִבְּלוּ מִמֶּנּוּ, מִפְּנֵי שֶׁאָמְרוּ, הַקּוֹנֶה בְסוּרְיָא, כְּקוֹנֶה בְּפַרְוָר שֶׁבִּירוּשָׁלָיִם:  ",
+   "en": "Ben Antigonus brought up firstlings from Babylon, but they did not accept from him. Joseph the priest brought first fruits of wine and oil, but they did not accept from him. He also brought up his sons and members of his household to celebrate Pesah katan in Jerusalem, but they turned him back, so that the thing should not become firmly fixed as an obligation. Ariston brought his first fruits from Apamea and they accepted from him, because they said, one who buys [a field] in Syria is as one who buys [a field] in the outskirts of Jerusalem."
+  }
+ ]
+}

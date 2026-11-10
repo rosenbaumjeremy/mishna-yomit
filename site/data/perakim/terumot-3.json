@@ -1,0 +1,43 @@
+{
+ "masechet": "terumot",
+ "perek": 3,
+ "ref": "Mishnah Terumot 3",
+ "mishnayot": [
+  {
+   "he": "הַתּוֹרֵם קִשּׁוּת וְנִמְצֵאת מָרָה, אֲבַטִּיחַ וְנִמְצָא סָרוּחַ, תְּרוּמָה, וְיַחֲזֹר וְיִתְרֹם. הַתּוֹרֵם חָבִית שֶׁל יַיִן וְנִמְצֵאת שֶׁל חֹמֶץ, אִם יָדוּעַ שֶׁהָיְתָה שֶׁל חֹמֶץ עַד שֶׁלֹּא תְרָמָהּ, אֵינָה תְרוּמָה. אִם מִשֶּׁתְּרָמָהּ הֶחֱמִיצָה, הֲרֵי זוֹ תְרוּמָה. אִם סָפֵק, תְּרוּמָה, וְיַחֲזֹר וְיִתְרֹם. הָרִאשׁוֹנָה, אֵינָהּ מְדַמַּעַת בִּפְנֵי עַצְמָהּ, וְאֵין חַיָּבִין עָלֶיהָ חֹמֶשׁ. וְכֵן הַשְּׁנִיָּה: \n",
+   "en": "If one gave a cucumber as terumah and it was found to be bitter, a melon and it was found to be rotten, it is considered terumah, but he must again give terumah. If one gave a jar of wine as terumah and it was found to be vinegar: If prior to his act he knew that it was vinegar, the terumah is not valid; But if it had turned sour after he had given it as terumah, behold it is terumah. In case of doubt, it is terumah but he must again give terumah. The first terumah does not render on its own [produce into which it falls] “doubtful terumah” and it is not subject to the added fifth, and so the second."
+  },
+  {
+   "he": "נָפְלָה אַחַת מֵהֶן לְתוֹךְ הַחֻלִּין, אֵינָהּ מְדַמַּעְתָּן. נָפְלָה שְׁנִיָּה לְמָקוֹם אַחֵר, אֵינָהּ מְדַמַּעְתָּן. נָפְלוּ שְׁתֵּיהֶן לְמָקוֹם אֶחָד, מְדַמְּעוֹת כַּקְּטַנָּה שֶׁבִּשְׁתֵּיהֶן: \n",
+   "en": "If one of them falls into non-sacred produce, it does not make [the mixture] medumma [a mixture into which terumah has fallen]. If the second of them falls [then] into another place, it also does not make it medumma. But if both fall into one place, they do make it medumma, according to the size of the smaller of the two."
+  },
+  {
+   "he": "הַשֻּׁתָּפִין שֶׁתָּרְמוּ זֶה אַחַר זֶה, רַבִּי עֲקִיבָא אוֹמֵר, תְּרוּמַת שְׁנֵיהֶם תְּרוּמָה. וַחֲכָמִים אוֹמְרִים, תְּרוּמַת הָרִאשׁוֹן תְּרוּמָה. רַבִּי יוֹסֵי אוֹמֵר, אִם תָּרַם הָרִאשׁוֹן כַּשִּׁעוּר, אֵין תְּרוּמַת הַשֵּׁנִי תְּרוּמָה. וְאִם לֹא תָרַם הָרִאשׁוֹן כַּשִּׁעוּר, תְּרוּמַת הַשֵּׁנִי תְּרוּמָה: \n",
+   "en": "[Two] partners who took terumah, the one after the other:Rabbi Akiva says: the terumah of them both is terumah. But the sages say: the terumah of the first is terumah. Rabbi Yose says: if the first gave the prescribed amount, the terumah of the second is not terumah, but if the first did not give the prescribed amount, the terumah of the second is terumah."
+  },
+  {
+   "he": "בַּמֶּה דְבָרִים אֲמוּרִים, בְּשֶׁלֹּא דִבֵּר, אֲבָל הִרְשָׁה אֶת בֶּן בֵּיתוֹ אוֹ אֶת עַבְדּוֹ אוֹ אֶת שִׁפְחָתוֹ לִתְרֹם, תְּרוּמָתוֹ תְרוּמָה. בִּטֵּל, אִם עַד שֶׁלֹּא תָרַם בִּטֵּל, אֵין תְּרוּמָתוֹ תְרוּמָה. וְאִם מִשֶּׁתָּרַם בִּטֵּל, תְּרוּמָתוֹ תְרוּמָה. הַפּוֹעֲלִים, אֵין לָהֶן רְשׁוּת לִתְרֹם, חוּץ מִן הַדָּרוֹכוֹת, שֶׁהֵן מְטַמְּאִים אֶת הַגַּת מִיָּד: \n",
+   "en": "To what does this apply? Only if one did not confer with the other, but if one allows a member of his household, or his slave or female slave to give terumah for him, this terumah is terumah. If he annulled [this permission]: If he annulled it before the taking of the terumah, the terumah is not terumah; But if he annulled it after the terumah had been taken, the terumah is terumah. Workers have no permission to give terumah, except for those who tread [grapes] for they defile the winepress immediately."
+  },
+  {
+   "he": "הָאוֹמֵר, תְּרוּמַת הַכְּרִי זֶה בְּתוֹכוֹ, וּמַעַשְׂרוֹתָיו בְּתוֹכוֹ, תְּרוּמַת מַעֲשֵׂר זֶה בְּתוֹכוֹ, רַבִּי שִׁמְעוֹן אוֹמֵר, קָרָא שֵׁם. וַחֲכָמִים אוֹמְרִים, עַד שֶׁיֹּאמַר בִּצְפוֹנוֹ אוֹ בִדְרוֹמוֹ. רַבִּי אֶלְעָזָר חִסְמָא אוֹמֵר, הָאוֹמֵר, תְּרוּמַת הַכְּרִי מִמֶּנּוּ עָלָיו, קָרָא שֵׁם. רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹמֵר, הָאוֹמֵר, עִשּׂוּר מַעֲשֵׂר זֶה עָשׂוּי תְּרוּמַת מַעֲשֵׂר עָלָיו, קָרָא שֵׁם: \n",
+   "en": "If one says: “The terumah of this pile is within it,” or, “its tithes are within it,” or, “the terumah of tithe [terumat maaser] is within it:” Rabbi Shimon says: he has thereby designated it. But the sages say: not unless he said, “It is in the north or south of it.” Rabbi Elazar Hisma says: one who says, “The terumah of this pile is taken from it for it,” he has thereby designated it. Rabbi Eliezer ben Yaakov says: one who says, “The tenth part of this tithe is terumah of tithe for that pile,” he has thereby designated it."
+  },
+  {
+   "he": "הַמַּקְדִים תְּרוּמָה לַבִּכּוּרִים, מַעֲשֵׂר רִאשׁוֹן לַתְּרוּמָה, וּמַעֲשֵׂר שֵׁנִי לָרִאשׁוֹן, אַף עַל פִּי שֶׁהוּא עוֹבֵר בְּלֹא תַעֲשֶׂה, מַה שֶּׁעָשָׂה עָשׂוּי. שֶׁנֶּאֱמַר (שמות כב), מְלֵאָתְךָ וְדִמְעֲךָ לֹא תְאַחֵר: \n",
+   "en": "He who gives terumah before first-fruits, or first tithe before terumah, or second tithe before first tithe, although he transgresses a negative commandment, that which he has done is done, for it is said: “You shall not delaying the skimming of the first yield of your vats” (Exodus 22:28)."
+  },
+  {
+   "he": "וּמִנַּיִן שֶׁיִּקְדְּמוּ הַבִּכּוּרִים לַתְּרוּמָה, זֶה קָרוּי תְּרוּמָה וְרֵאשִׁית, וְזֶה קָרוּי תְּרוּמָה וְרֵאשִׁית, אֶלָּא יִקְדְּמוּ בִכּוּרִים, שֶׁהֵן בִּכּוּרִים לַכֹּל. וּתְרוּמָה לָרִאשׁוֹן, שֶׁהִיא רֵאשִׁית. וּמַעֲשֵׂר רִאשׁוֹן לַשֵּׁנִי, שֶׁיֶּשׁ בּוֹ רֵאשִׁית: \n",
+   "en": "From where do we derive that first-fruits must precede terumah, seeing that this one is called “terumah” and “the first” and the other is [also] called “terumah” and “the first”? Rather first-fruits take precedence since they are the first fruits of all produce. And terumah comes before the first tithe also because it is called “first.” And first tithe [precedes second tithe,] because it includes that which is called “first.”"
+  },
+  {
+   "he": "הַמִּתְכַּוֵּן לוֹמַר תְּרוּמָה וְאָמַר מַעֲשֵׂר, מַעֲשֵׂר וְאָמַר תְּרוּמָה, עוֹלָה וְאָמַר שְׁלָמִים, שְׁלָמִים וְאָמַר עוֹלָה, שֶׁאֵינִי נִכְנָס לְבַיִת זֶה וְאָמַר לָזֶה, שֶׁאֵינִי נֶהֱנֶה לָזֶה וְאָמַר לָזֶה, לֹא אָמַר כְּלוּם, עַד שֶׁיִּהְיוּ פִיו וְלִבּוֹ שָׁוִין: \n",
+   "en": "He who intends saying ‘terumah’ and says ‘tithe’, or ‘tithe’ and says ‘terumah’; ‘Burnt-offering’ and he says ‘peace-offering’, or ‘peace-offering’ and he says ‘burnt-offering’; ‘[I vow] that I will not enter this house,’ and says ‘that house’, ‘That I will not derive any benefit from this [man],’ and says ‘from that [man],’ he has said nothing until his heart and mind are at one."
+  },
+  {
+   "he": "הַנָּכְרִי וְהַכּוּתִי, תְּרוּמָתָן תְּרוּמָה, וּמַעַשְׂרוֹתֵיהֶן מַעֲשֵׂר, וְהֶקְדֵּשָׁן הֶקְדֵּשׁ. רַבִּי יְהוּדָה אוֹמֵר, אֵין לַנָּכְרִי כֶּרֶם רְבָעִי. וַחֲכָמִים אוֹמְרִים, יֶשׁ לוֹ. תְּרוּמַת הַנָּכְרִי מְדַמַּעַת, וְחַיָּבִין עָלֶיהָ חֹמֶשׁ. וְרַבִּי שִׁמְעוֹן פּוֹטֵר: \n",
+   "en": "Terumah given by a non-Jew or a Samaritan is terumah and their tithes are tithes and their dedications [to the Temple] are dedications. Rabbi Judah says: the law of the vineyard in the fourth year is not applicable to a non-Jew. But the sages say: it is. The terumah of a non-Jew renders [produce into which it falls] medumma and [one who eats it unwittingly] is obligated [to pay back an extra] fifth. But Rabbi Shimon exempts it."
+  }
+ ]
+}

@@ -90,6 +90,9 @@ a { color: var(--accent); }
 }
 a.chip { color: #fff; background: var(--accent); border-color: var(--accent); text-decoration: none; font-weight: 600; }
 a.chip:hover { filter: brightness(1.2); }
+a.chip.soon { color: var(--accent); background: transparent; font-weight: 400; }
+a.chip.soon:hover { filter: none; background: var(--card); text-decoration: underline; }
+.pending { margin: 0 0 14px; padding: 10px 14px; border: 1px dashed var(--gold); border-radius: var(--radius); background: var(--card); color: var(--muted); font-size: 14px; }
 
 /* ---------- perek view ---------- */
 

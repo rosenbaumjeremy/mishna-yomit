@@ -27,7 +27,9 @@ async function saveDays() {
       await c.put(index, res.clone());
       for (const d of (await res.json()).days || []) {
         const path = file(d);
-        if (await c.match(path)) continue;
+        // a perek saved before its brief came out holds only the text: replace it
+        const hit = await c.match(path);
+        if (hit && "english" in await hit.json().catch(() => ({}))) continue;
         const day = await fetch(path);
         if (day.ok) await c.put(path, day);
       }

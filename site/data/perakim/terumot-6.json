@@ -1,0 +1,31 @@
+{
+ "masechet": "terumot",
+ "perek": 6,
+ "ref": "Mishnah Terumot 6",
+ "mishnayot": [
+  {
+   "he": "הָאוֹכֵל תְּרוּמָה שׁוֹגֵג, מְשַׁלֵּם קֶרֶן וְחֹמֶשׁ. אֶחָד הָאוֹכֵל וְאֶחָד הַשּׁוֹתֶה וְאֶחָד הַסָּךְ, אֶחָד תְּרוּמָה טְהוֹרָה וְאֶחָד תְּרוּמָה טְמֵאָה, מְשַׁלֵּם חֻמְשָׁהּ וְחֹמֶשׁ חֻמְשָׁהּ. אֵינוֹ מְשַׁלֵּם תְּרוּמָה, אֶלָּא חֻלִּין מְתֻקָּנִים, וְהֵם נַעֲשִׂין תְּרוּמָה, וְהַתַּשְׁלוּמִין תְּרוּמָה. אִם רָצָה הַכֹּהֵן לִמְחֹל, אֵינוֹ מוֹחֵל:  ",
+   "en": "One who eats terumah unwittingly must repay its value plus a fifth, whether he eats it or drinks it, or anoints himself with it, or whether the terumah is clean or unclean. [If he eats the added fifth] he must pay its fifth, and a fifth of that fifth. He may not repay with terumah, but rather with tithed hullin, which becomes terumah. And whatever may be repaid in its place also becomes terumah and if the priest wishes to forego [the fine], he cannot do so."
+  },
+  {
+   "he": "בַּת יִשְׂרָאֵל שֶׁאָכְלָה תְרוּמָה וְאַחַר כָּךְ נִשֵּׂאת לְכֹהֵן, אִם תְּרוּמָה שֶׁלֹּא זָכָה בָהּ כֹּהֵן אָכְלָה, מְשַׁלֶּמֶת קֶרֶן וְחֹמֶשׁ לְעַצְמָהּ. וְאִם תְּרוּמָה שֶׁזָּכָה בָהּ כֹּהֵן אָכְלָה, מְשַׁלֶּמֶת קֶרֶן לַבְּעָלִים, וְחֹמֶשׁ לְעַצְמָהּ, מִפְּנֵי שֶׁאָמְרוּ, הָאוֹכֵל תְּרוּמָה שׁוֹגֵג, מְשַׁלֵּם קֶרֶן לַבְּעָלִים, וְחֹמֶשׁ לְכָל מִי שֶׁיִּרְצֶה:  ",
+   "en": "A daughter of an Israelite ate terumah and afterwards married a priest:If the terumah she ate had not yet been acquired by another priest she can repay to herself the value and the fifth. But if a priest had already acquired the terumah she had eaten, she must repay the value to the owners, but [she can repay] the fifth to herself, because they said that he who eats terumah unwittingly, pays the value to the owners and the fifth to whoever he wants."
+  },
+  {
+   "he": "הַמַּאֲכִיל אֶת פּוֹעֲלָיו וְאֶת אוֹרְחָיו תְּרוּמָה, הוּא מְשַׁלֵּם אֶת הַקֶּרֶן, וְהֵם מְשַׁלְּמִין אֶת הַחֹמֶשׁ, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים אוֹמְרִים, הֵם מְשַׁלְּמִין קֶרֶן וְחֹמֶשׁ, וְהוּא מְשַׁלֵּם לָהֶם דְּמֵי סְעוּדָתָן:  ",
+   "en": "If one gives his workmen or his guests terumah to eat he must repay the principal and they must pay the fifth, the words of Rabbi Meir. But the sages say: they must pay both the value and the fifth, and he must pay them for the price of their meal."
+  },
+  {
+   "he": "הַגּוֹנֵב תְּרוּמָה וְלֹא אֲכָלָהּ, מְשַׁלֵּם תַּשְׁלוּמֵי כֵפֶל דְּמֵי תְרוּמָה. אֲכָלָהּ, מְשַׁלֵּם שְׁנֵי קְרָנִים וְחֹמֶשׁ, קֶרֶן וְחֹמֶשׁ מִן הַחֻלִּין, וְקֶרֶן דְּמֵי תְרוּמָה. גָּנַב תְּרוּמַת הֶקְדֵּשׁ וַאֲכָלָהּ, מְשַׁלֵּם שְׁנֵי חֳמָשִׁים וְקֶרֶן, שֶׁאֵין בַּהֶקְדֵּשׁ תַּשְׁלוּמֵי כָפֶל:  ",
+   "en": "If one stole terumah but did not eat it, he must return double-payment at the price of terumah. If he ate it, he must pay twice the value plus a fifth, one principal value and a fifth at the price of hullin, and the other principal at the price of terumah. If one stole terumah of dedicated property and ate it, he must repay two fifths and the principal value, for the laws of double-payment do not apply to dedicated property."
+  },
+  {
+   "he": "אֵין מְשַׁלְּמִין מִן הַלֶּקֶט וּמִן הַשִּׁכְחָה וּמִן הַפֵּאָה וּמִן הַהֶפְקֵר, וְלֹא מִמַּעֲשֵׂר רִאשׁוֹן שֶׁנִּטְּלָה תְּרוּמָתוֹ, וְלֹא מִמַּעֲשֵׂר שֵׁנִי וְהֶקְדֵּשׁ שֶׁנִּפְדּוּ, שֶׁאֵין הֶקְדֵּשׁ פּוֹדֶה אֶת הַקֹּדֶשׁ, דִּבְרֵי רַבִּי מֵאִיר. וַחֲכָמִים מַתִּירִין בָּאֵלּוּ:  ",
+   "en": "They may not make repayment from gleanings, from forgotten sheaf, from peah or ownerless property. Nor from first tithe from which terumah has been taken, nor from second tithe or dedicated produce which have been redeemed, because one dedicated thing (kadosh) cannot be used to redeem another dedicated thing (kadosh), the words of Rabbi Meir. But the sages permit [payment] with these."
+  },
+  {
+   "he": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, מְשַׁלְּמִין מִמִּין עַל שֶׁאֵינוֹ מִינוֹ, בִּלְבַד שֶׁיְּשַׁלֵּם מִן הַיָּפֶה עַל הָרָע. וְרַבִּי עֲקִיבָא אוֹמֵר, אֵין מְשַׁלְּמִין אֶלָּא מִמִּין עַל מִינוֹ. לְפִיכָךְ, אִם אָכַל קִשּׁוּאִין שֶׁל עֶרֶב שְׁבִיעִית, יַמְתִּין לְקִשּׁוּאִין שֶׁל מוֹצָאֵי שְׁבִיעִית, וִישַׁלֵּם מֵהֶם. מִמְּקוֹם שֶׁרַבִּי אֱלִיעֶזֶר מֵקֵל, מִשָּׁם רַבִּי עֲקִיבָא מַחְמִיר, שֶׁנֶּאֱמַר (ויקרא כב), וְנָתַן לַכֹּהֵן אֶת הַקֹּדֶשׁ, כָּל שֶׁהוּא רָאוּי לִהְיוֹת קֹדֶשׁ, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וְרַבִּי עֲקִיבָא אוֹמֵר, וְנָתַן לַכֹּהֵן אֶת הַקֹּדֶשׁ, קֹדֶשׁ שֶׁאָכָל:  ",
+   "en": "Rabbi Eliezer says: they may make repayment from one kind for another, provided that it is from a superior kind for an inferior kind. Rabbi Akiva says: they may make repayment only from the same kind. Hence if a man ate cucumbers grown a year before the seventh year, he must wait for those grown after the termination of the seventh year and repay with them. The same source which causes Rabbi Eliezer to be lenient causes Rabbi Akiva to be stringent, for it says: “And he shall give the priest the holy thing (hakodesh)” (Leviticus 22:14), [implying,] whatever is liable to become “kodesh,” the words of Rabbi Eliezer. But Rabbi Akiva says: “And he shall give the priest the holy thing (kodesh),” [implying] the same kind of holy thing which he ate."
+  }
+ ]
+}
