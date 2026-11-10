@@ -37,6 +37,44 @@ const UI = {
     loading: "טוען…",
     failed: "לא ניתן היה לטעון את הפרק.",
     published: "פורסם",
+    quiz: "חידון",
+    quizPerek: (name) => `חידון — ${name}`,
+    quizMasechet: (name) => `חידון — מסכת ${name}`,
+    quizSub: "שאלות אמריקאיות על לשון המשנה",
+    quizMasechetSub: "שאלות מכל פרקי המסכת, מתוך מאגר השאלות של החידונים על הפרקים",
+    quizNone: "עדיין אין חידון על פרק זה.",
+    quizRules: (p, from, bonus) => `${p} נקודות על כל תשובה נכונה, ועוד ${bonus} נקודות בונוס מהתשובה ה־${from} ברצף.`,
+    quizPoints: (n) => `${n} נק׳`,
+    quizCount: (right, done, total) => `${right}/${done} נכונות · ${done} מתוך ${total}`,
+    quizStreakToast: (n, total) => (n === total ? `🏆 ${n} ברצף — בלי אף טעות!` : n >= 10 ? `🔥🔥 ${n} ברצף! מדהים!` : `🔥 ${n} ברצף!`),
+    quizRank: (right, total, all) => { const w = all ? "במסכת" : "בפרק"; return right === total ? `מושלם! בקיא ${w} כמו תלמיד חכם` : right / total >= 0.9 ? "תלמיד חכם!" : right / total >= 0.7 ? `בקיא ${w}!` : right / total >= 0.5 ? "בדרך הנכונה" : `כדאי לחזור על ${all ? "המסכת" : "הפרק"} ולנסות שוב`; },
+    quizLongest: (n) => `הרצף הארוך ביותר: ${n}`,
+    quizBest: "השיא שלך",
+    quizBestShort: (right, total) => `${right} מתוך ${total}`,
+    quizNewBest: "🎉 שיא אישי חדש!",
+    quizReview: "לחזרה על הטעויות:",
+    quizAgain: "לשחק שוב",
+    quizRight: ["נכון!", "יפה מאוד!", "מצוין!", "בדיוק!", "כל הכבוד!", "אלוף!"],
+    quizWrong: ["לא בדיוק.", "כמעט.", "לא הפעם.", "טעות קטנה."],
+    quizHintBtn: (n) => `רמז (השאלה תהיה שווה ${n} נק׳)`,
+    quizReset: "התחל מחדש",
+    quizMishnah: "למשנה בספריא",
+    quizNote: "",
+    quizBack: "→ לפרק",
+    mHowMany: "כמה שאלות?",
+    mFrom: "מאילו פרקים?",
+    mAll: "כולם",
+    mClear: "נקה",
+    mPick: "בחרו לפחות פרק אחד.",
+    mWillDraw: (n, k, max) => `ייבחרו ${n} שאלות באקראי, מחולקות באופן שווה בין ${k === 1 ? "פרק אחד" : `${k} פרקים`} (יש במאגר ${max}).`,
+    mPartial: (have, all) => `יש חידון ל־${have} מתוך ${all} הפרקים במסכת; השאר יתווספו כשיתפרסמו.`,
+    mNone: "עדיין אין חידונים על פרקי המסכת הזאת.",
+    mStart: "התחילו את החידון",
+    mOrder: "סדר השאלות",
+    mInOrder: "לפי סדר הפרקים",
+    mMixed: "מעורבב",
+    mAgain: "שאלות חדשות",
+    mChange: "שינוי ההגדרות",
     pending: (d) => `הסיכום, המושגים וקושיות המפרשים על פרק זה יתפרסמו ${d}.`,
     pendingToday: "היום",
     pendingOn: (heb, greg) => `ב${heb} (${greg})`,
@@ -74,6 +112,44 @@ const UI = {
     loading: "Loading…",
     failed: "Couldn't load the perek.",
     published: "Published",
+    quiz: "Quiz",
+    quizPerek: (name) => `Quiz — ${name}`,
+    quizMasechet: (name) => `Quiz — Masechet ${name}`,
+    quizSub: "Multiple-choice questions on the words of the Mishnah",
+    quizMasechetSub: "Questions from every perek of the masechet, drawn from the perek quizzes' question bank",
+    quizNone: "There is no quiz on this perek yet.",
+    quizRules: (p, from, bonus) => `${p} points for each right answer, plus a ${bonus}-point bonus from the ${from}rd in a row.`,
+    quizPoints: (n) => `${n} pts`,
+    quizCount: (right, done, total) => `${right}/${done} right · ${done} of ${total}`,
+    quizStreakToast: (n, total) => (n === total ? `🏆 ${n} in a row — not a single mistake!` : n >= 10 ? `🔥🔥 ${n} in a row! Amazing!` : `🔥 ${n} in a row!`),
+    quizRank: (right, total, all) => { const w = all ? "the masechet" : "the perek"; return right === total ? `Perfect! You know ${w} like a talmid chacham` : right / total >= 0.9 ? "Talmid chacham!" : right / total >= 0.7 ? `You know ${w}!` : right / total >= 0.5 ? "On the right track" : `Worth reviewing ${w} and trying again`; },
+    quizLongest: (n) => `Longest streak: ${n}`,
+    quizBest: "Your best",
+    quizBestShort: (right, total) => `${right} of ${total}`,
+    quizNewBest: "🎉 New personal best!",
+    quizReview: "Review your mistakes:",
+    quizAgain: "Play again",
+    quizRight: ["Correct!", "Very good!", "Excellent!", "Exactly!", "Well done!", "Champion!"],
+    quizWrong: ["Not quite.", "Almost.", "Not this time.", "A small slip."],
+    quizHintBtn: (n) => `Hint (this question will be worth ${n} pts)`,
+    quizReset: "Start over",
+    quizMishnah: "The mishnah on Sefaria",
+    quizNote: "The questions are in Hebrew.",
+    quizBack: "← Back to the perek",
+    mHowMany: "How many questions?",
+    mFrom: "From which perakim?",
+    mAll: "All",
+    mClear: "Clear",
+    mPick: "Choose at least one perek.",
+    mWillDraw: (n, k, max) => `${n} questions will be drawn at random, spread evenly over ${k === 1 ? "1 perek" : `${k} perakim`} (${max} in the bank).`,
+    mPartial: (have, all) => `${have} of the ${all} perakim in this masechet have a quiz so far; the rest are added as they are published.`,
+    mNone: "There are no quizzes on this masechet's perakim yet.",
+    mStart: "Start the quiz",
+    mOrder: "Order of the questions",
+    mInOrder: "In perek order",
+    mMixed: "Mixed",
+    mAgain: "New questions",
+    mChange: "Change settings",
     pending: (d) => `The summary, key terms and questions of the mefarshim on this perek will be published ${d}.`,
     pendingToday: "later today",
     pendingOn: (heb, greg) => `on ${greg} (${heb})`,
@@ -81,7 +157,9 @@ const UI = {
   },
 };
 
-const state = { lang: "hebrew", sedarim: [], days: [], perek: null, summaries: null, cache: new Map() };
+const state = { lang: "hebrew", sedarim: [], days: [], perek: null, summaries: null, cache: new Map(),
+  quiz: null,            // the open quiz: {slug, perek} for a perek, {slug} for the whole masechet
+  quizzes: new Set() };  // "<slug>-<perek>" of every perek with a quiz (data/quiz/index.json)
 
 const el = (id) => document.getElementById(id);
 const t = () => UI[state.lang];
@@ -213,10 +291,12 @@ const pdfTools = () => { const d = document.createElement("div"); d.dataset.pdfT
 /* ---------- data ---------- */
 
 async function load() {
-  const [m, d] = await Promise.all([
+  const [m, d, q] = await Promise.all([
     fetch("data/masechtot.json").then((r) => r.json()),
     fetch("data/perakim/index.json").then((r) => r.json()).catch(() => ({ days: [] })),
+    fetch("data/quiz/index.json").then((r) => r.json()).catch(() => ({ days: [] })),
   ]);
+  state.quizzes = new Set(q.days.map((x) => `${x.masechet}-${x.perek}`));
   state.sedarim = m.sedarim;
   state.days = d.days.sort((a, b) => a.date.localeCompare(b.date));
 }
@@ -277,7 +357,7 @@ function renderLatest() {
   const box = el("latest");
   box.replaceChildren();
   const last = state.days[state.days.length - 1];
-  if (!last || state.perek || state.summaries) return;
+  if (!last || state.perek || state.summaries || state.quiz) return;
   const m = masechetBySlug(last.masechet);
   const card = node("div", "latest");
   card.append(node("p", "label", t().latest), node("h2", null, perekName(m, last.perek)),
@@ -291,8 +371,8 @@ function renderLatest() {
 function renderSedarim() {
   const box = el("sedarim");
   box.replaceChildren();
-  box.hidden = !!(state.perek || state.summaries);
-  if (state.perek || state.summaries) return;
+  box.hidden = !!(state.perek || state.summaries || state.quiz);
+  if (state.perek || state.summaries || state.quiz) return;
   for (const s of state.sedarim) {
     const sec = node("section", "seder");
     sec.append(node("h2", null, state.lang === "hebrew" ? `סדר ${s.he}` : `Seder ${s.en}`));
@@ -319,6 +399,12 @@ function renderSedarim() {
         a.href = `#${m.slug}-summaries`;
         chips.append(a);
       } else chips.append(node("span", "chip sum", sumLabel));
+      if (quizPerakim(m).length) {
+        card.classList.add("has");
+        const a = node("a", "chip sum quiz", t().quiz);
+        a.href = `#${m.slug}-quiz`;
+        chips.append(a);
+      }
       card.append(h, chips);
       grid.append(card);
     }
@@ -451,7 +537,13 @@ async function renderSummaries() {
   back.onclick = () => { location.hash = ""; };
   const head = node("div", "perek-head");
   head.dataset.pdfHead = "";
-  head.append(node("h2", null, t().summariesOf(masechetName(m))), pdfTools());
+  head.append(node("h2", null, t().summariesOf(masechetName(m))));
+  if (quizPerakim(m).length) {
+    const qb = node("a", "button quizlink", t().quiz);
+    qb.href = `#${slug}-quiz`;
+    head.append(qb);
+  }
+  head.append(pdfTools());
   box.append(back, head);
   const perakim = [...new Set(state.days.filter((d) => d.masechet === slug).map((d) => d.perek))].sort((a, b) => a - b);
   if (!perakim.length) { box.append(node("p", "muted", t().noSummaries)); return; }
@@ -480,8 +572,9 @@ async function renderSummaries() {
 
 async function renderPerek() {
   const box = el("perek");
-  box.hidden = !state.perek && !state.summaries;
+  box.hidden = !state.perek && !state.summaries && !state.quiz;
   box.replaceChildren();
+  if (state.quiz) return renderQuiz(box);
   if (state.summaries) return renderSummaries();
   if (!state.perek) return;
   const { slug, perek } = state.perek;
@@ -506,6 +599,11 @@ async function renderPerek() {
   const a = node("a", null, t().sefaria);
   a.href = sefariaUrl(ref); a.target = "_blank"; a.rel = "noopener";
   meta.append(a);
+  if (state.quizzes.has(`${slug}-${perek}`)) {
+    const qb = node("a", "button quizlink", t().quiz);
+    qb.href = `#${slug}-${perek}-quiz`;
+    head.append(qb);
+  }
   head.append(meta, pdfTools());
   box.append(head);
 
@@ -583,6 +681,439 @@ function textColumn(data, items) {
   return textCol;
 }
 
+/* ---------- quiz: multiple-choice questions on a perek, or a whole masechet (scripts/quiz.py) ----------
+   The same game as the parasha quizzes on aliyah-yomit: a perek is a parasha, a masechet a sefer. */
+
+// Scoring: 10 points for a right answer (5 if the hint was opened), +5 for every right answer
+// that is the 3rd or more in a row.
+const QUIZ_POINTS = 10, QUIZ_HINTED = 5, QUIZ_STREAK_BONUS = 5, QUIZ_STREAK_FROM = 3;
+// A masechet quiz draws its questions from the perakim's question banks; these are the sizes offered.
+const MASECHET_SIZES = [10, 20, 30, 50, 100];
+const MASECHET_DEFAULT = 20;
+
+const quizFiles = new Map();     // "<slug>-<perek>" -> fetch promise
+const quizRuns = new Map();      // quiz key -> this visit's run: {chosen: Map(i -> option), hinted: Set(i), questions?, size?}
+const masechetSetups = new Map();// slug -> {count, perakim: Set, mix} last chosen on this visit
+
+const quizKey = (q) => (q.perek ? `${q.slug}-${q.perek}` : `masechet:${q.slug}`);
+const quizPerakim = (m) => {
+  const out = [];
+  for (let p = 1; p <= m.perakim; p++) if (state.quizzes.has(`${m.slug}-${p}`)) out.push(p);
+  return out;
+};
+
+function loadQuiz(slug, perek) {
+  const key = `${slug}-${perek}`;
+  if (!quizFiles.has(key)) {
+    quizFiles.set(key, fetch(`data/quiz/${key}.json`)
+      .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+      .catch((error) => { quizFiles.delete(key); throw error; }));
+  }
+  return quizFiles.get(key);
+}
+
+/* the best result on this device (only a convenience: it may be missing) */
+function quizBest(key) {
+  try { return JSON.parse(localStorage.getItem(`quiz-best:${key}`)) || null; } catch { return null; }
+}
+function saveQuizBest(key, result) {
+  try { localStorage.setItem(`quiz-best:${key}`, JSON.stringify(result)); } catch { /* not saved */ }
+}
+
+const calm = () => window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+const shuffled = (list) => {
+  const a = list.slice();
+  for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+  return a;
+};
+
+/** Draw `count` questions spread evenly over the perakim, each tagged with its perek:
+ *  in the order of the perakim, or all mixed together. */
+function drawMasechet(banks, count, mix) {
+  const want = banks.map(() => 0);
+  let left = Math.min(count, banks.reduce((s, b) => s + b.questions.length, 0));
+  const order = shuffled(banks.map((_, i) => i));
+  while (left > 0) {
+    for (const i of order) {
+      if (left > 0 && want[i] < banks[i].questions.length) { want[i]++; left--; }
+    }
+  }
+  const out = [];
+  banks.forEach((bank, i) => {
+    const picks = shuffled(bank.questions.map((_, k) => k)).slice(0, want[i]).sort((x, y) => x - y);
+    picks.forEach((k) => out.push({ ...bank.questions[k], perek: bank.perek }));
+  });
+  return mix ? shuffled(out) : out;
+}
+
+/** Score a run: points, right answers, current and longest streak, the questions missed. */
+function quizTally(questions, run) {
+  let points = 0, right = 0, streak = 0, longest = 0;
+  const missed = [];
+  questions.forEach((q, i) => {
+    if (!run.chosen.has(i)) return;
+    if (run.chosen.get(i) === q.a) {
+      right++; streak++; longest = Math.max(longest, streak);
+      points += run.hinted.has(i) ? QUIZ_HINTED : QUIZ_POINTS;
+      if (streak >= QUIZ_STREAK_FROM) points += QUIZ_STREAK_BONUS;
+    } else { streak = 0; missed.push(i); }
+  });
+  return { points, right, streak, longest, missed, done: run.chosen.size };
+}
+
+/** a burst of confetti over the page */
+function confetti() {
+  if (calm()) return;
+  const layer = node("div", "confetti");
+  layer.setAttribute("aria-hidden", "true");
+  const colors = ["#b8924a", "#16305c", "#2e7d4f", "#d0675c", "#6f93cf", "#e8c46a"];
+  for (let n = 0; n < 90; n++) {
+    const bit = node("i");
+    bit.style.left = `${Math.random() * 100}%`;
+    bit.style.background = colors[n % colors.length];
+    bit.style.animationDelay = `${Math.random() * 0.6}s`;
+    bit.style.animationDuration = `${2.2 + Math.random() * 1.6}s`;
+    bit.style.setProperty("--drift", `${(Math.random() - 0.5) * 220}px`);
+    bit.style.setProperty("--spin", `${(Math.random() - 0.5) * 1440}deg`);
+    layer.appendChild(bit);
+  }
+  document.body.appendChild(layer);
+  setTimeout(() => layer.remove(), 4600);
+}
+
+/** a short line that floats up from an element: "+15" */
+function floatUp(anchor, text, cls) {
+  if (calm()) return;
+  const tag = node("span", `quizfloat ${cls || ""}`, text);
+  tag.dir = "ltr";
+  anchor.appendChild(tag);
+  setTimeout(() => tag.remove(), 1300);
+}
+
+/** a banner under the score bar for a moment: "🔥 5 in a row!" */
+function quizToast(host, text) {
+  const old = host.querySelector(".quiztoast");
+  if (old) old.remove();
+  const toast = node("div", "quiztoast", text);
+  toast.setAttribute("role", "status");
+  host.appendChild(toast);
+  setTimeout(() => toast.classList.add("out"), 1800);
+  setTimeout(() => toast.remove(), 2400);
+}
+
+function renderQuiz(box) {
+  const ui = t();
+  const { slug, perek } = state.quiz;
+  const m = masechetBySlug(slug);
+  const key = quizKey(state.quiz);
+  const back = node("button", "back", perek ? ui.quizBack : ui.backMasechet);
+  back.onclick = () => { location.hash = perek ? `${slug}-${perek}` : ""; };
+  const head = node("div", "perek-head quizhead");
+  const host = node("div");
+  box.append(back, head, host);
+
+  if (!perek) {
+    head.append(node("h2", null, ui.quizMasechet(masechetName(m))), node("p", "muted", ui.quizMasechetSub));
+    const run = quizRuns.get(key);
+    if (run && run.questions) renderQuizRun(host, key, run.questions, { masechet: m });
+    else renderMasechetSetup(host, m);
+    return;
+  }
+
+  head.append(node("h2", null, ui.quizPerek(perekName(m, perek))), node("p", "muted", ui.quizSub));
+  if (!state.quizzes.has(key)) { host.append(node("p", "muted", ui.quizNone)); return; }
+  const slot = node("p", "muted", ui.loading);
+  host.append(slot);
+  const lang = state.lang, wanted = key;
+  loadQuiz(slug, perek).then((record) => {
+    if (state.lang !== lang || !state.quiz || quizKey(state.quiz) !== wanted) return;
+    const inner = node("div");
+    slot.replaceWith(inner);
+    renderQuizRun(inner, wanted, record.questions || [], {});
+  }).catch(() => { slot.textContent = ui.failed; });
+}
+
+/** The masechet quiz's first screen: how many questions, and from which perakim. */
+function renderMasechetSetup(host, m) {
+  const ui = t();
+  const key = `masechet:${m.slug}`;
+  const available = quizPerakim(m);
+  if (!available.length) { host.append(node("p", "muted", ui.mNone)); return; }
+  if (!masechetSetups.has(m.slug)) masechetSetups.set(m.slug, { count: MASECHET_DEFAULT, perakim: new Set(available), mix: false });
+  const setup = masechetSetups.get(m.slug);
+  setup.perakim = new Set([...setup.perakim].filter((p) => available.includes(p)));
+
+  const form = node("div", "quizsetup");
+  if (ui.quizNote) form.append(node("p", "muted", ui.quizNote));
+  form.append(node("p", "quizintro", ui.quizRules(QUIZ_POINTS, QUIZ_STREAK_FROM, QUIZ_STREAK_BONUS)));
+
+  // how many questions
+  form.append(node("div", "label", ui.mHowMany));
+  const sizes = node("div", "qchips");
+  const input = node("input");
+  input.type = "number";
+  input.min = "1";
+  input.inputMode = "numeric";
+  input.setAttribute("aria-label", ui.mHowMany);
+  const sizeButtons = [];
+  const counts = new Map();   // questions in each perek's bank, once its file loads
+  const bankSize = () => available.filter((p) => setup.perakim.has(p)).reduce((n, p) => n + (counts.get(p) ?? 12), 0);
+  const syncSizes = () => {
+    sizeButtons.forEach((b) => b.classList.toggle("on", Number(b.dataset.n) === setup.count));
+    if (Number(input.value) !== setup.count) input.value = String(setup.count);
+  };
+  for (const n of MASECHET_SIZES) {
+    const b = node("button", "qchip", String(n));
+    b.type = "button";
+    b.dataset.n = n;
+    b.onclick = () => { setup.count = n; syncSizes(); refresh(); };
+    sizeButtons.push(b);
+    sizes.append(b);
+  }
+  input.oninput = () => { const n = Math.floor(Number(input.value)); if (n > 0) { setup.count = n; syncSizes(); refresh(); } };
+  sizes.append(input);
+  form.append(sizes);
+
+  // from which perakim
+  const head = node("div", "label qhead");
+  head.append(node("span", null, ui.mFrom));
+  const all = node("button", "linkish", ui.mAll);
+  all.type = "button";
+  const none = node("button", "linkish", ui.mClear);
+  none.type = "button";
+  head.append(all, none);
+  form.append(head);
+  const chips = node("div", "qchips");
+  const chipButtons = available.map((p) => {
+    const b = node("button", "qchip", state.lang === "hebrew" ? HEB_NUM(p) : String(p));
+    b.type = "button";
+    b.title = perekName(m, p);
+    b.onclick = () => { setup.perakim.has(p) ? setup.perakim.delete(p) : setup.perakim.add(p); refresh(); };
+    chips.append(b);
+    return [p, b];
+  });
+  all.onclick = () => { setup.perakim = new Set(available); refresh(); };
+  none.onclick = () => { setup.perakim = new Set(); refresh(); };
+  form.append(chips);
+  if (available.length < m.perakim) form.append(node("p", "muted small", ui.mPartial(available.length, m.perakim)));
+
+  // the order of the questions
+  form.append(node("div", "label", ui.mOrder));
+  const orders = node("div", "qchips");
+  const orderButtons = [[false, ui.mInOrder], [true, ui.mMixed]].map(([mix, label]) => {
+    const b = node("button", "qchip", label);
+    b.type = "button";
+    b.onclick = () => { setup.mix = mix; refresh(); };
+    orders.append(b);
+    return [mix, b];
+  });
+  form.append(orders);
+
+  const note = node("p", "qnote");
+  const start = node("button", "button", ui.mStart);
+  start.type = "button";
+  const refresh = () => {
+    chipButtons.forEach(([p, b]) => b.classList.toggle("on", setup.perakim.has(p)));
+    orderButtons.forEach(([mix, b]) => b.classList.toggle("on", setup.mix === mix));
+    const max = bankSize();
+    start.disabled = !max;
+    note.textContent = !max ? ui.mPick : ui.mWillDraw(Math.min(setup.count, max), setup.perakim.size, max);
+  };
+  form.append(note, start);
+  host.append(form);
+  syncSizes();
+  refresh();
+  available.forEach((p) => loadQuiz(m.slug, p).then((r) => { counts.set(p, (r.questions || []).length); if (start.isConnected) refresh(); }).catch(() => {}));
+
+  const best = quizBest(`${key}:${setup.count}`);
+  if (best) form.insertBefore(node("p", "quizbestline", `${ui.quizBest} (${setup.count}): ${ui.quizBestShort(best.right, best.total)} · ${ui.quizPoints(best.points)}`), note);
+
+  start.onclick = () => {
+    const chosen = available.filter((p) => setup.perakim.has(p));
+    if (!chosen.length) return;
+    start.disabled = true;
+    note.textContent = ui.loading;
+    Promise.all(chosen.map((p) => loadQuiz(m.slug, p).then((r) => ({ perek: p, questions: r.questions || [] }))))
+      .then((banks) => {
+        if (!state.quiz || quizKey(state.quiz) !== key) return;
+        quizRuns.set(key, { chosen: new Map(), hinted: new Set(), questions: drawMasechet(banks, setup.count, setup.mix), size: setup.count });
+        render();
+        window.scrollTo(0, 0);
+      })
+      .catch(() => { note.textContent = ui.failed; start.disabled = false; });
+  };
+}
+
+/** One quiz, question after question, with the score bar and the results card. */
+function renderQuizRun(host, key, questions, { masechet }) {
+  if (!quizRuns.has(key)) quizRuns.set(key, { chosen: new Map(), hinted: new Set() });
+  const run = quizRuns.get(key);
+  const total = questions.length;
+  const bestKey = masechet ? `${key}:${run.size}` : key;
+  const ui = t();
+  const wrap = node("div", "quizwrap");
+  if (ui.quizNote) wrap.append(node("p", "muted", ui.quizNote));
+
+  const intro = node("div", "quizintro");
+  intro.append(node("p", null, ui.quizRules(QUIZ_POINTS, QUIZ_STREAK_FROM, QUIZ_STREAK_BONUS)));
+  const best = quizBest(bestKey);
+  if (best) intro.append(node("p", "quizbestline", `${ui.quizBest}: ${ui.quizBestShort(best.right, best.total)} · ${ui.quizPoints(best.points)}`));
+  wrap.append(intro);
+
+  // the score bar: progress, points, streak
+  const bar = node("div", "quizbar");
+  const stats = node("div", "quizstats");
+  const pointsBox = node("span", "quizpts");
+  const streakBox = node("span", "quizstreak");
+  const countBox = node("span", "quizcount");
+  stats.append(pointsBox, streakBox, countBox);
+  const restart = () => { quizRuns.delete(key); render(); window.scrollTo(0, 0); };
+  const reset = node("button", null, masechet ? ui.mChange : ui.quizReset);
+  reset.type = "button";
+  reset.onclick = restart;
+  const track = node("div", "quizprogress");
+  const fill = node("div", "fill");
+  track.append(fill);
+  bar.append(stats, reset, track);
+  wrap.append(bar);
+
+  const list = node("ol", "quizlist");
+  list.dir = "rtl";
+  list.lang = "he";
+  const items = [];
+  const results = node("div", "quizresults");
+  results.hidden = true;
+
+  const update = () => {
+    const tally = quizTally(questions, run);
+    pointsBox.textContent = ui.quizPoints(tally.points);
+    streakBox.textContent = tally.streak >= 2 ? `🔥 ${tally.streak}` : "";
+    streakBox.classList.toggle("hot", tally.streak >= QUIZ_STREAK_FROM);
+    countBox.textContent = ui.quizCount(tally.right, tally.done, total);
+    fill.style.width = `${(tally.done / total) * 100}%`;
+    return tally;
+  };
+
+  const finish = (fresh) => {
+    const tally = quizTally(questions, run);
+    const prior = quizBest(bestKey);
+    const record = !prior || tally.points > prior.points;
+    if (fresh && record) saveQuizBest(bestKey, { right: tally.right, total, points: tally.points });
+    results.replaceChildren();
+    results.hidden = false;
+    results.append(node("h3", null, ui.quizRank(tally.right, total, !!masechet)));
+    results.append(node("p", "quizfinal", `${ui.quizBestShort(tally.right, total)} · ${ui.quizPoints(tally.points)}`));
+    results.append(node("p", "quizfacts", ui.quizLongest(tally.longest)));
+    if (fresh && record && prior) results.append(node("p", "quizrecord", ui.quizNewBest));
+    else if (prior && !record) results.append(node("p", "muted", `${ui.quizBest}: ${ui.quizPoints(prior.points)}`));
+    if (tally.missed.length) {
+      const again = node("div", "quizmissed");
+      again.append(node("span", null, ui.quizReview));
+      tally.missed.forEach((i) => {
+        const b = node("button", null, String(i + 1));
+        b.type = "button";
+        b.onclick = () => items[i].scrollIntoView({ behavior: calm() ? "auto" : "smooth", block: "center" });
+        again.append(b);
+      });
+      results.append(again);
+    }
+    const replay = node("button", "button", masechet ? ui.mAgain : ui.quizAgain);
+    replay.type = "button";
+    // a masechet quiz plays again with a fresh draw of the same size from the same perakim
+    replay.onclick = masechet ? () => {
+      const setup = masechetSetups.get(masechet.slug);
+      const chosen = quizPerakim(masechet).filter((p) => !setup || setup.perakim.has(p));
+      Promise.all(chosen.map((p) => loadQuiz(masechet.slug, p).then((r) => ({ perek: p, questions: r.questions || [] }))))
+        .then((banks) => {
+          quizRuns.set(key, { chosen: new Map(), hinted: new Set(), questions: drawMasechet(banks, run.size, !!(setup && setup.mix)), size: run.size });
+          render();
+          window.scrollTo(0, 0);
+        });
+    } : restart;
+    results.append(replay);
+    if (masechet) {
+      const change = node("button", "button ghost", ui.mChange);
+      change.type = "button";
+      change.onclick = restart;
+      results.append(change);
+    }
+    if (fresh) {
+      if (tally.right / total >= 0.7) confetti();
+      setTimeout(() => results.scrollIntoView({ behavior: calm() ? "auto" : "smooth", block: "center" }), 350);
+    }
+  };
+
+  questions.forEach((q, i) => {
+    const li = node("li", "quizq");
+    items.push(li);
+    if (q.perek) li.append(node("span", "quiztag", `פרק ${HEB_NUM(q.perek)}`));
+    li.append(node("p", "quizprompt", q.q));
+    const opts = node("div", "quizopts");
+    const after = node("div", "quizafter");
+    const buttons = q.o.map((text, k) => {
+      const b = node("button", "quizopt", text);
+      b.type = "button";
+      b.onclick = () => {
+        if (run.chosen.has(i)) return;
+        run.chosen.set(i, k);
+        show(true);
+        const tally = update();
+        if (k === q.a) {
+          let gained = run.hinted.has(i) ? QUIZ_HINTED : QUIZ_POINTS;
+          if (tally.streak >= QUIZ_STREAK_FROM) gained += QUIZ_STREAK_BONUS;
+          floatUp(b, `+${gained}`, "good");
+          if (tally.streak === total || [3, 5, 10, 15, 20, 25, 50].includes(tally.streak)) quizToast(bar, ui.quizStreakToast(tally.streak, total));
+        }
+        if (tally.done === total) finish(true);
+      };
+      opts.append(b);
+      return b;
+    });
+    let hint = null;
+    if (q.h) {
+      hint = node("button", "quizhint", ui.quizHintBtn(QUIZ_HINTED));
+      hint.type = "button";
+      hint.onclick = () => { run.hinted.add(i); hint.replaceWith(node("p", "quizhinttext", q.h)); };
+    }
+    const show = (fresh) => {
+      const pick = run.chosen.get(i);
+      const good = pick === q.a;
+      buttons.forEach((b, k) => {
+        b.disabled = true;
+        b.classList.toggle("right", k === q.a);
+        b.classList.toggle("wrong", k === pick && !good);
+      });
+      li.classList.add(good ? "got" : "missed");
+      if (fresh && !calm()) {
+        li.classList.add(good ? "pop" : "shake");
+        setTimeout(() => li.classList.remove("pop", "shake"), 600);
+      }
+      if (hint && hint.isConnected) hint.remove();
+      after.replaceChildren();
+      const verdict = node("p", "quizverdict " + (good ? "ok" : "no"));
+      verdict.append(node("b", null, good ? ui.quizRight[i % ui.quizRight.length] : ui.quizWrong[i % ui.quizWrong.length]));
+      verdict.append(" ", q.e);
+      after.append(verdict);
+      const ref = node("p", "quizref");
+      const a = node("a", null, `${q.ref.replace(/^Mishnah /, "")} — ${ui.quizMishnah}`);
+      a.href = sefariaUrl(q.ref); a.target = "_blank"; a.rel = "noopener";
+      a.dir = "ltr";
+      ref.append(a);
+      after.append(ref);
+    };
+    li.append(opts);
+    if (hint) li.append(hint);
+    li.append(after);
+    if (run.chosen.has(i)) show(false);
+    list.append(li);
+  });
+  wrap.append(list, results);
+  const tally = update();
+  if (tally.done === total) finish(false);
+  host.append(wrap);
+}
+
 function render() {
   renderChrome();
   renderLatest();
@@ -591,6 +1122,10 @@ function render() {
 }
 
 function route() {
+  const qp = location.hash.match(/^#([a-z-]+)-(\d+)-quiz$/);
+  const qm = location.hash.match(/^#([a-z-]+)-quiz$/);
+  state.quiz = qp && masechetBySlug(qp[1]) ? { slug: qp[1], perek: +qp[2] }
+    : qm && masechetBySlug(qm[1]) ? { slug: qm[1] } : null;
   const m = location.hash.match(/^#([a-z-]+)-(\d+)$/);
   state.perek = m && masechetBySlug(m[1]) ? { slug: m[1], perek: +m[2] } : null;
   const sm = location.hash.match(/^#([a-z-]+)-summaries$/);

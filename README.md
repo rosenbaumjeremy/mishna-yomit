@@ -28,9 +28,18 @@ site/
   index.html, app.css, app.js, icon.svg
   data/masechtot.json                 sedarim, masechtot, number of perakim
   data/perakim/index.json             {"days": [{date, masechet, perek, ref}]}
+  data/quiz/<masechet>-<perek>.json   one perek's quiz; data/quiz/index.json lists them
   data/perakim/<masechet>-<perek>.json  one perek's brief, with the Mishnah text
                                       (text only until its brief is filed)
 ```
+
+## Quizzes
+
+Each perek can have a multiple-choice quiz (חידון) on the words of the Mishnah, and each
+masechet a quiz drawn from all its perakim' questions — the same game as the parasha
+quizzes on aliyah-yomit. `scripts/quiz.py` checks every quote against the text and
+publishes to `site/data/quiz/`; [ROUTINE-QUIZ.md](ROUTINE-QUIZ.md) says how to write them.
+Masechet Shabbat has its quizzes.
 
 ## Grounding
 

@@ -4,7 +4,11 @@
 // network first (up to 4s), so updates show up; the saved copy is the fallback.
 const CACHE = "site-v2";
 const SHELL = ["./", "app.css", "app.js", "apple-touch-icon.png", "icon-home.svg", "icon.svg", "index.html", "mail.css", "mail.js", "offline.js", "pdf.css", "pdf.js", "share.css", "share.js", "data/masechtot.json"];
-const DAYS = [["data/perakim/index.json", d => `data/perakim/${d.masechet}-${d.perek}.json`]];  // [day index, its days -> file paths]
+// [index, its entries -> file paths, whether a saved copy is final]
+const DAYS = [
+  ["data/perakim/index.json", d => `data/perakim/${d.masechet}-${d.perek}.json`, j => "english" in j],  // a text-only perek gets its brief later
+  ["data/quiz/index.json", d => `data/quiz/${d.masechet}-${d.perek}.json`, () => true],
+];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
@@ -20,7 +24,7 @@ self.addEventListener("message", e => { if (e.data === "sync") e.waitUntil(saveD
 // Save each published day not yet on the device.
 async function saveDays() {
   const c = await caches.open(CACHE);
-  for (const [index, file] of DAYS) {
+  for (const [index, file, final] of DAYS) {
     try {
       const res = await fetch(index, { cache: "no-store" });
       if (!res.ok) continue;
@@ -29,7 +33,7 @@ async function saveDays() {
         const path = file(d);
         // a perek saved before its brief came out holds only the text: replace it
         const hit = await c.match(path);
-        if (hit && "english" in await hit.json().catch(() => ({}))) continue;
+        if (hit && final(await hit.json().catch(() => ({})))) continue;
         const day = await fetch(path);
         if (day.ok) await c.put(path, day);
       }
