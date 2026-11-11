@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-11",
+ "hebrew_date": {
+  "hebrew": "א׳ בְּכִסְלֵו תשפ״ז",
+  "english": "1 Kislev 5787"
+ },
  "masechet": "sheviit",
  "perek": 2,
  "ref": "Mishnah Sheviit 2",
@@ -43,5 +48,761 @@
    "he": "הַדְּלוּעִין שֶׁקִּיְּמָן לְזֶרַע, אִם הִקְשׁוּ לִפְנֵי רֹאשׁ הַשָּׁנָה וְנִפְסְלוּ מֵאֹכֶל אָדָם, מֻתָּר לְקַיְּמָן בַּשְּׁבִיעִית. וְאִם לָאו, אָסוּר לְקַיְּמָן בַּשְּׁבִיעִית. הַתְּמָרוֹת שֶׁלָּהֶם, אֲסוּרוֹת בַּשְּׁבִיעִית. וּמַרְבִּיצִין בְּעָפָר לָבָן, דִּבְרֵי רַבִּי שִׁמְעוֹן, רַבִּי אֱלִיעֶזֶר בֶּן יַעֲקֹב אוֹסֵר. מְמָרְסִין בָּאֹרֶז בַּשְּׁבִיעִית, רַבִּי שִׁמְעוֹן אוֹמֵר, אֲבָל אֵין מְכַסְּחִין: \n",
    "en": "Gourds which he had kept [in the ground] for seed: if they had hardened before Rosh Hashanah and had become unfit for human food, they may be kept during the seventh year; otherwise, they must not be kept in the seventh year. Their buds are forbidden in the seventh year. They may irrigate the soil of a white field (a grain field), the words of Rabbi Shimon. But Rabbi Elazar ben Jacob prohibits. They may soak the rice in the sabbatical year. Rabbi Shimon says: but they may not be trim [the rice]."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 asks how late a white field may be plowed in the sixth year; Rabbi Shimon sets Pesach for it and Atzeret for a tree field.\nMishnah 2 allows manuring and hoeing cucumbers and gourds until Rosh Hashanah; Rabbi Shimon allows even removing a leaf from a cluster in the seventh year itself.\nMishnah 3 lists clearing stones, trimming and pruning, with Rabbi Yehoshua and Rabbi Shimon disagreeing.\nMishnayot 4–5 cover saplings and unripe figs, including Rabbi Yehudah's rule about local custom.\nMishnah 6 forbids planting and grafting within thirty days of Rosh Hashanah.\nMishnayot 7–10 turn to rice, millet, onions, beans and gourds, whose status depends on taking root or on withheld water before Rosh Hashanah.",
+  "topics": [
+   {
+    "term": "Tosefet Sheviit (the added period before the seventh year)",
+    "explanation": "Tosefet Sheviit is the stretch of the sixth year just before Rosh Hashanah during which certain farm work is already restricted as if the seventh year had begun. This perek keeps asking how late into the sixth year each kind of work is allowed: 'until Rosh Hashanah' for most, but earlier for planting and grafting.",
+    "mishnah": 2,
+    "anchors": [
+     "עד ראש השנה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 2:2:2",
+     "quote": "כָּל דָּבָר שֶׁהוּא לְצֹרֶךְ פֵּרוֹת שֶׁל שִׁשִּׁית מֻתָּר בְּתוֹסֶפֶת שְׁבִיעִית"
+    }
+   },
+   {
+    "term": "White field and tree field",
+    "explanation": "A 'white field' (sadeh halavan) is a field sown with grain and legumes, with no trees in it. A 'tree field' is one already planted with trees. The Mishnah gives each its own cut-off date for plowing in the sixth year, because they are plowed for different reasons.",
+    "mishnah": 1,
+    "anchors": [
+     "בשדה הלבן"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 2:1:1",
+     "quote": "שָׂדֶה שֶׁל תְּבוּאָה וְקִטְנִית שֶׁאֵין בּוֹ אִילָן"
+    }
+   },
+   {
+    "term": "Rabban Gamliel's court and the cut-off dates of Pesach and Atzeret",
+    "explanation": "The dates in Mishnah 1 (Pesach for a white field, Atzeret for a tree field) are an older ruling. Bartenura says the court of Rabban Gamliel voted on these two periods and cancelled them, so plowing is permitted until Rosh Hashanah.",
+    "mishnah": 1,
+    "anchors": [
+     "עד הפסח",
+     "עד עצרת"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 2:1:6",
+     "quote": "רַבָּן גַּמְלִיאֵל וּבֵית דִּינוֹ נִמְנוּ עַל שְׁנֵי פְרָקִים הַלָּלוּ שֶׁהֵם פֶּסַח וַעֲצֶרֶת וּבִטְּלוּם"
+    }
+   },
+   {
+    "term": "Beit hashlachin (an irrigated field)",
+    "explanation": "Beit hashlachin is a field that rain alone does not satisfy and that must be watered. The Mishnah allows manuring and hoeing it until Rosh Hashanah just as for cucumbers and gourds.",
+    "mishnah": 2,
+    "anchors": [
+     "בבית השלחין"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 2:2:3",
+     "quote": "שֶׁאֵין דַּי לָהּ בְּמֵי גְשָׁמִים וְצָרִיךְ לְהַשְׁקוֹתָהּ"
+    }
+   },
+   {
+    "term": "Kelita (a graft or cutting taking hold)",
+    "explanation": "Kelita is the moment a planted cutting or graft takes hold in the ground. In Mishnah 6, Rabbi Yehudah, Rabbi Yose and Rabbi Shimon disagree on how many days a graft needs before it counts as having taken, and this decides when it must be done before Rosh Hashanah.",
+    "mishnah": 6,
+    "anchors": [
+     "כל הרכבה שאינה קולטת"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 2:6:2",
+     "quote": "ופירוש קליטה לקיחה וחטיפה"
+    }
+   },
+   {
+    "term": "Hashrasha: taking root decides which year's tithe",
+    "explanation": "For rice, millet, poppy and sesame the Mishnah looks at whether they took root before Rosh Hashanah. If so they are tithed as the previous year's produce and are permitted; if not they carry seventh-year status and are tithed as the following year's.",
+    "mishnah": 7,
+    "anchors": [
+     "שהשרישו"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 2:7:7",
+     "quote": "בְּאֹרֶז וְדֹחַן וּפְרָגִין וְשֻׁמְשְׁמִין דְּאֵין לוֹקְטִים אוֹתָם כְּאֶחָד וְאֵין מְבִיאִים שְׁלִישׁ בִּשּׁוּלָם כְּאֶחָד, אֵין הוֹלְכִים בָּהֶם אֶלָּא אַחַר הַשְׁרָשָׁה"
+    }
+   },
+   {
+    "term": "A field 'of the baal' (rain-fed)",
+    "explanation": "A baal field lies in a low, moist place and needs no watering from the farmer. Rabbi Meir and the sages disagree in Mishnah 9 about how many watering seasons must be withheld from onions and beans in such a field before they count as rain-fed.",
+    "mishnah": 9,
+    "anchors": [
+     "ושל בעל"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 2:9:4",
+     "quote": "שָׂדֶה שֶׁהִיא בָּעֵמֶק וּמְלֻחְלַחַת וְאֵין צָרִיךְ לְהַשְׁקוֹתָהּ"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why hoeing only for cucumbers and gourds?",
+    "pasuk": {
+     "text": "מזבלין ומעדרין במקשאות ובמדלעות עד ראש השנה",
+     "ref": "Mishnah Sheviit 2:2",
+     "label": "Mishnah Sheviit 2:2"
+    },
+    "question": "The Mishnah allows hoeing cucumber and gourd beds until Rosh Hashanah. Why not permit hoeing around all trees, just as manuring is permitted for every field?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:2:2",
+      "quote": "וא\"ת ואמאי לא שרינן עידור בכל האילנות כמו זיבול בכל השדות",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 2:2:2",
+      "quote": "קשה לי איך אפשר לומר כן בטעמא דמתני'",
+      "era": "acharon"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 2:2:1",
+      "quote": "ותמוה דלא מיבעיא למאן דמוקי קרא דבחריש ובקציר תשבות לתוספת שביעית",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב: החמירו בעידור ובחרישה, שהן עבודה בגוף הקרקע עצמה, יותר מבזיבול.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:2:2",
+        "quote": "י\"ל דהחמירו בעידור וחרישה שהיא עבודה בגוף הקרקע"
+       }
+      ]
+     },
+     {
+      "text": "הברטנורא: כל דבר שהוא לצורך פירות השנה הששית מותר בתוספת שביעית, ודבר שהוא רק לתיקון האילן אסור, אלא אם כן איסורו מדברי סופרים אף בשביעית עצמה.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 2:2:2",
+        "quote": "כָּל דָּבָר שֶׁהוּא לְצֹרֶךְ פֵּרוֹת שֶׁל שִׁשִּׁית מֻתָּר בְּתוֹסֶפֶת שְׁבִיעִית"
+       }
+      ]
+     }
+    ],
+    "why": "It reveals the principle behind Tosefet Sheviit: the line is drawn by purpose (the fruit of the sixth year) and by the kind of work.",
+    "mishnah": 2,
+    "anchors": [
+     "מזבלין ומעדרין במקשאות ובמדלעות עד ראש השנה"
+    ]
+   },
+   {
+    "title": "Why isn't clearing stones listed with manuring?",
+    "pasuk": {
+     "text": "מסקלין עד ראש השנה",
+     "ref": "Mishnah Sheviit 2:3",
+     "label": "Mishnah Sheviit 2:3"
+    },
+    "question": "Why did the Mishnah not teach 'they clear stones' together with 'they manure' in the previous mishnah, since both are permitted until Rosh Hashanah?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:3:1",
+      "quote": "קשה קצת דמסקלין הוה ליה למתני בהדי מזבלין",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חון אשיר: אין זו קושיא, כי אין לסיקול שייכות לזיבול ולעידור, שהיתר החרישה תלוי בו.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 2:3:1",
+        "quote": "ואין זו קושיא דאין לו לסיקול שייכות עם זיבול ועידור"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: זבל הוא תמיד דבר תלוש, ואילו כאן מסקלין מוסבר (על פי הירושלמי) באבנים מחוברות לקרקע, ולכן חלקן זה מזה.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 2:3:1",
+        "quote": "משום דזבול הוי בתלוש לעולם ומסקלין דהכא מוקמינן ליה במחובר"
+       }
+      ]
+     }
+    ],
+    "why": "A small point of order shows how the commentators read the Mishnah's arrangement as meaningful.",
+    "mishnah": 3,
+    "anchors": [
+     "מסקלין עד ראש השנה"
+    ]
+   },
+   {
+    "title": "Fumigating and trimming saplings: how do they differ from the previous mishnah?",
+    "pasuk": {
+     "text": "מזהמין את הנטיעות וכורכין אותן וקוטמין אותן",
+     "ref": "Mishnah Sheviit 2:4",
+     "label": "Mishnah Sheviit 2:4"
+    },
+    "question": "'They trim (kotmin) the saplings': one explanation makes this the same as 'covering the roots with dust' (me'abkin) in the previous mishnah. Why would the Mishnah repeat it?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 2:4:2",
+      "quote": "והקשה הרא\"ש ז\"ל דהיינו מאבקין דלעיל",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:4:2",
+      "quote": "הקשה על פירוש ראשון דאינו דהרי הוא מאבקין דלעיל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם, כפי שהובא במלאכת שלמה: האחד בצמרת האילן וזה בשרשים.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 2:4:2",
+        "quote": "והרמב\"ם ז\"ל מפ' דהאי דלעיל בצמרת האילן ושל כאן בשרשים"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש: בהכרח יש חילוק ביניהם, מדלא התירו קטימה אלא לנטיעות.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Sheviit 2:4:1",
+        "quote": "דע\"כ יש חילוק ביניהם מדלא שרינן קטימה אלא לנטיעות"
+       }
+      ]
+     }
+    ],
+    "why": "Defining each verb correctly decides which tree work counts as fruit-related and which as mere upkeep.",
+    "mishnah": 4,
+    "anchors": [
+     "מזהמין את הנטיעות וכורכין אותן וקוטמין אותן"
+    ]
+   },
+   {
+    "title": "Why is planting stricter than plowing?",
+    "pasuk": {
+     "text": "אין נוטעין ואין מבריכין ואין מרכיבין ערב שביעית פחות משלשים יום לפני ראש השנה",
+     "ref": "Mishnah Sheviit 2:6",
+     "label": "Mishnah Sheviit 2:6"
+    },
+    "question": "Plowing is allowed until Rosh Hashanah, yet planting is forbidden within thirty days of it. Why is planting treated more strictly, especially since the Tosefta says the opposite?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:6:2",
+      "quote": "וא\"ת בזמן הבית דמתניתין ביה איירי אמאי שרי עד שלשים יום טפי מחרישה",
+      "era": "acharon"
+     },
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Sheviit 2:3",
+      "quote": "ק\"ל. דהכא החמירו בנטע טפי מחרישה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב בשם פירוש קדום: תוספת שביעית כתובה בתורה רק בחרישה, ולכן לא החמירו בנטיעה כבחרישה.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:6:2",
+        "quote": "שלא החמירו בנטיעה כבחרישה לפי שאין…כתוב בפירות כי אם בחרישה"
+       }
+      ]
+     },
+     {
+      "text": "בועז: החמירו רק כשיש 'חדא לרעותא': לחרוש וליטע בזמן איסור לאכול בשעת היתר, או לחרוש בזמן היתר לאכול בשעת איסור.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Sheviit 2:3",
+        "quote": "דוקא בחדא לרעותא החמירו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows two different ways the commentators explain why Tosefet Sheviit is not uniform.",
+    "mishnah": 6,
+    "anchors": [
+     "אין נוטעין ואין מבריכין ואין מרכיבין ערב שביעית פחות משלשים יום לפני ראש השנה"
+    ]
+   },
+   {
+    "title": "Why does the Mishnah repeat 'and if not'?",
+    "pasuk": {
+     "text": "ואם לאו אסורין בשביעית ומתעשרין לשנה הבאה",
+     "ref": "Mishnah Sheviit 2:7",
+     "label": "Mishnah Sheviit 2:7"
+    },
+    "question": "The Mishnah first says that crops that took root before Rosh Hashanah are permitted. Why add 'and if not they are forbidden'? That follows from the first half.",
+    "asked_by": [
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Sheviit 2:52:1",
+      "quote": "והרי כבר מדיוקא דרישא שמעינן כן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "יכין: בא ללמד שדווקא בוודאי השרישו מותרים, אבל בספק נעשה כסיפא.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Sheviit 2:52:1",
+        "quote": "דווקא בוודאי השרישו אבל בספיקה אמרינן נעשה כסיפא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a doubled phrase teaches how to rule in a case of doubt.",
+    "mishnah": 7,
+    "anchors": [
+     "ואם לאו אסורין בשביעית ומתעשרין לשנה הבאה"
+    ]
+   },
+   {
+    "title": "Does Rabbi Elazar disagree, or explain?",
+    "pasuk": {
+     "text": "רבי אליעזר אומר אפונין הגמלונין משתרמלו לפני ראש השנה",
+     "ref": "Mishnah Sheviit 2:8",
+     "label": "Mishnah Sheviit 2:8"
+    },
+    "question": "According to the reading of the Rash, Rabbi Elazar merely clarifies Rabbi Shimon's words. Why then did he repeat 'large beans' instead of just stating the condition?",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Sheviit 2:8:1",
+      "quote": "ועוד קשה לפי דברי הר\"ש, אמאי חזר לומר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חון אשיר: אפשר לדחות, שנצרך כדי שלא נאמר שהוא קאי גם על דברי רבי שמעון השזורי.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 2:8:1",
+        "quote": "אפשר לדחות באמור, דאצטריך כדי שלא נאמר דאף אדברי ר\"ש השזורי קאי"
+       }
+      ]
+     }
+    ],
+    "why": "Whether he disagrees or clarifies changes what the law is for large beans.",
+    "mishnah": 8,
+    "anchors": [
+     "רבי אליעזר אומר אפונין הגמלונין משתרמלו לפני ראש השנה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Tosafot Rabbi Akiva Eiger",
+   "Rashash",
+   "Bartenura",
+   "Hon Ashir",
+   "Melekhet Shelomoh",
+   "Boaz",
+   "Yachin",
+   "Rambam"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א שואלת עד מתי חורשים שדה לבן בשנה הששית; רבי שמעון קובע פסח לשדה הלבן ועצרת לשדה האילן.\nמשנה ב מתירה לזבל ולעדור במקשאות ובמדלעות עד ראש השנה; רבי שמעון מתיר ליטול עלה מן האשכול אף בשביעית עצמה.\nמשנה ג מונה סיקול, קרסום, זרוד ופסול, ורבי יהושע ורבי שמעון חולקים.\nמשניות ד-ה עוסקות בנטיעות ובפגים, ובכלל זה דברי רבי יהודה על מנהג המקום.\nמשנה ו אוסרת נטיעה, הברכה והרכבה בתוך שלושים יום לפני ראש השנה.\nמשניות ז-י עוברות לאורז, דוחן, בצלים, פול ודלועין, שדינם תלוי בהשרשה או במניעת מים לפני ראש השנה.",
+  "topics": [
+   {
+    "term": "תוספת שביעית",
+    "explanation": "תוספת שביעית היא התקופה בסוף השנה הששית, סמוך לראש השנה, שבה כבר אסורות עבודות מסוימות כאילו נכנסה שנת השמיטה. הפרק עוסק כל העת בשאלה עד מתי מותרת כל עבודה בשנה הששית: עד ראש השנה לרוב העבודות, ומוקדם יותר לנטיעה ולהרכבה.",
+    "mishnah": 2,
+    "anchors": [
+     "עד ראש השנה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 2:2:2",
+     "quote": "כָּל דָּבָר שֶׁהוּא לְצֹרֶךְ פֵּרוֹת שֶׁל שִׁשִּׁית מֻתָּר בְּתוֹסֶפֶת שְׁבִיעִית"
+    }
+   },
+   {
+    "term": "שדה הלבן ושדה האילן",
+    "explanation": "שדה הלבן היא שדה של תבואה וקטניות שאין בה אילן, ושדה האילן היא שדה שכבר נטועה אילנות. המשנה קובעת לכל אחת זמן אחר לחרישה בשנה הששית, משום שחורשים אותן מסיבות שונות.",
+    "mishnah": 1,
+    "anchors": [
+     "בשדה הלבן"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 2:1:1",
+     "quote": "שָׂדֶה שֶׁל תְּבוּאָה וְקִטְנִית שֶׁאֵין בּוֹ אִילָן"
+    }
+   },
+   {
+    "term": "בית דינו של רבן גמליאל ופרקי הפסח והעצרת",
+    "explanation": "הזמנים שבמשנה א (פסח בשדה הלבן ועצרת בשדה האילן) הם הכרעה קדומה. לפי הברטנורא, רבן גמליאל ובית דינו נמנו על שני הפרקים האלה ובטלום, ומותר לחרוש עד ראש השנה.",
+    "mishnah": 1,
+    "anchors": [
+     "עד הפסח",
+     "עד עצרת"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 2:1:6",
+     "quote": "רַבָּן גַּמְלִיאֵל וּבֵית דִּינוֹ נִמְנוּ עַל שְׁנֵי פְרָקִים הַלָּלוּ שֶׁהֵם פֶּסַח וַעֲצֶרֶת וּבִטְּלוּם"
+    }
+   },
+   {
+    "term": "בית השלחין",
+    "explanation": "בית השלחין היא שדה שמי הגשמים אינם מספיקים לה וצריך להשקותה. המשנה מתירה לזבל ולעדור בה עד ראש השנה, כמו במקשאות ובמדלעות.",
+    "mishnah": 2,
+    "anchors": [
+     "בבית השלחין"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 2:2:3",
+     "quote": "שֶׁאֵין דַּי לָהּ בְּמֵי גְשָׁמִים וְצָרִיךְ לְהַשְׁקוֹתָהּ"
+    }
+   },
+   {
+    "term": "קליטה",
+    "explanation": "קליטה היא הרגע שבו נטיעה או הרכבה נקלטת בארץ. במשנה ו חולקים רבי יהודה, רבי יוסי ורבי שמעון כמה ימים צריכה הרכבה כדי להיחשב קולטת, ומכאן נקבע זמן ההרכבה לפני ראש השנה.",
+    "mishnah": 6,
+    "anchors": [
+     "כל הרכבה שאינה קולטת"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 2:6:2",
+     "quote": "ופירוש קליטה לקיחה וחטיפה"
+    }
+   },
+   {
+    "term": "השרשה",
+    "explanation": "באורז, בדוחן, בפרגין ובשומשמין המשנה בודקת אם השרישו לפני ראש השנה. אם השרישו, מתעשרים לשנה שעברה ומותרים בשביעית; ואם לא, יש בהם קדושת שביעית ומתעשרים לשנה הבאה.",
+    "mishnah": 7,
+    "anchors": [
+     "שהשרישו"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 2:7:7",
+     "quote": "בְּאֹרֶז וְדֹחַן וּפְרָגִין וְשֻׁמְשְׁמִין דְּאֵין לוֹקְטִים אוֹתָם כְּאֶחָד וְאֵין מְבִיאִים שְׁלִישׁ בִּשּׁוּלָם כְּאֶחָד, אֵין הוֹלְכִים בָּהֶם אֶלָּא אַחַר הַשְׁרָשָׁה"
+    }
+   },
+   {
+    "term": "שדה בעל",
+    "explanation": "שדה בעל היא שדה בעמק, לחה, שאין צורך להשקותה. רבי מאיר וחכמים חולקים במשנה ט כמה עונות השקיה צריך למנוע מבצלים ומפול בשדה כזו כדי שייחשבו כגדלים בגשמים.",
+    "mishnah": 9,
+    "anchors": [
+     "ושל בעל"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 2:9:4",
+     "quote": "שָׂדֶה שֶׁהִיא בָּעֵמֶק וּמְלֻחְלַחַת וְאֵין צָרִיךְ לְהַשְׁקוֹתָהּ"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "למה עידור רק במקשאות ובמדלעות?",
+    "pasuk": {
+     "text": "מזבלין ומעדרין במקשאות ובמדלעות עד ראש השנה",
+     "ref": "Mishnah Sheviit 2:2",
+     "label": "משנה שביעית ב, ב"
+    },
+    "question": "המשנה מתירה לעדור במקשאות ובמדלעות עד ראש השנה. מדוע לא התירו עידור בכל האילנות, כמו שהתירו זיבול בכל השדות?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:2:2",
+      "quote": "וא\"ת ואמאי לא שרינן עידור בכל האילנות כמו זיבול בכל השדות",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 2:2:2",
+      "quote": "קשה לי איך אפשר לומר כן בטעמא דמתני'",
+      "era": "acharon"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Sheviit 2:2:1",
+      "quote": "ותמוה דלא מיבעיא למאן דמוקי קרא דבחריש ובקציר תשבות לתוספת שביעית",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: the sages were stricter with hoeing and plowing, which work the body of the soil itself, than with manuring.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:2:2",
+        "quote": "י\"ל דהחמירו בעידור וחרישה שהיא עבודה בגוף הקרקע"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: whatever serves the sixth year's fruit is permitted during Tosefet Sheviit, while work that only improves the tree is forbidden unless its prohibition is rabbinic even in the seventh year itself.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 2:2:2",
+        "quote": "כָּל דָּבָר שֶׁהוּא לְצֹרֶךְ פֵּרוֹת שֶׁל שִׁשִּׁית מֻתָּר בְּתוֹסֶפֶת שְׁבִיעִית"
+       }
+      ]
+     }
+    ],
+    "why": "כאן מתגלה העיקרון של תוספת שביעית: הגבול נקבע לפי המטרה (פירות השנה הששית) ולפי סוג העבודה.",
+    "mishnah": 2,
+    "anchors": [
+     "מזבלין ומעדרין במקשאות ובמדלעות עד ראש השנה"
+    ]
+   },
+   {
+    "title": "למה לא שנה מסקלין יחד עם מזבלין?",
+    "pasuk": {
+     "text": "מסקלין עד ראש השנה",
+     "ref": "Mishnah Sheviit 2:3",
+     "label": "משנה שביעית ב, ג"
+    },
+    "question": "מדוע לא שנתה המשנה 'מסקלין' יחד עם 'מזבלין' במשנה הקודמת, הרי שניהם מותרים עד ראש השנה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:3:1",
+      "quote": "קשה קצת דמסקלין הוה ליה למתני בהדי מזבלין",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir: this is no question, since clearing stones has no connection to manuring or hoeing; the permission to plow depends on it.",
+      "sources": [
+       {
+        "name": "חון אשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 2:3:1",
+        "quote": "ואין זו קושיא דאין לו לסיקול שייכות עם זיבול ועידור"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: manure is always loose matter, while here clearing stones is explained (following the Yerushalmi) as attached stones set in the ground, so the two were separated.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 2:3:1",
+        "quote": "משום דזבול הוי בתלוש לעולם ומסקלין דהכא מוקמינן ליה במחובר"
+       }
+      ]
+     }
+    ],
+    "why": "שאלה קטנה של סדר מראה כיצד המפרשים רואים משמעות בסידור המשנה.",
+    "mishnah": 3,
+    "anchors": [
+     "מסקלין עד ראש השנה"
+    ]
+   },
+   {
+    "title": "קוטמין ומזהמין: במה הם שונים ממשנה קודמת?",
+    "pasuk": {
+     "text": "מזהמין את הנטיעות וכורכין אותן וקוטמין אותן",
+     "ref": "Mishnah Sheviit 2:4",
+     "label": "משנה שביעית ב, ד"
+    },
+    "question": "'וקוטמין אותן': לפי פירוש אחד זהו אותו דבר כמו 'מאבקין' במשנה הקודמת. מדוע תחזור המשנה על כך?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 2:4:2",
+      "quote": "והקשה הרא\"ש ז\"ל דהיינו מאבקין דלעיל",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:4:2",
+      "quote": "הקשה על פירוש ראשון דאינו דהרי הוא מאבקין דלעיל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam, as cited in Melekhet Shelomoh: the earlier one is on the top of the tree and this one is on the roots.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 2:4:2",
+        "quote": "והרמב\"ם ז\"ל מפ' דהאי דלעיל בצמרת האילן ושל כאן בשרשים"
+       }
+      ]
+     },
+     {
+      "text": "Rashash: there must be a difference between them, since the Mishnah permits trimming only for saplings.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Sheviit 2:4:1",
+        "quote": "דע\"כ יש חילוק ביניהם מדלא שרינן קטימה אלא לנטיעות"
+       }
+      ]
+     }
+    ],
+    "why": "הגדרה נכונה של כל פועל קובעת איזו עבודת אילן נחשבת לצורך פירות ואיזו לתחזוקה בלבד.",
+    "mishnah": 4,
+    "anchors": [
+     "מזהמין את הנטיעות וכורכין אותן וקוטמין אותן"
+    ]
+   },
+   {
+    "title": "למה נטיעה חמורה מחרישה?",
+    "pasuk": {
+     "text": "אין נוטעין ואין מבריכין ואין מרכיבין ערב שביעית פחות משלשים יום לפני ראש השנה",
+     "ref": "Mishnah Sheviit 2:6",
+     "label": "משנה שביעית ב, ו"
+    },
+    "question": "חרישה מותרת עד ראש השנה, ואילו נטיעה אסורה בתוך שלושים יום לפניו. מדוע החמירו בנטיעה, במיוחד שבתוספתא הדבר הפוך?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:6:2",
+      "quote": "וא\"ת בזמן הבית דמתניתין ביה איירי אמאי שרי עד שלשים יום טפי מחרישה",
+      "era": "acharon"
+     },
+     {
+      "name": "בועז",
+      "ref": "Boaz on Mishnah Sheviit 2:3",
+      "quote": "ק\"ל. דהכא החמירו בנטע טפי מחרישה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov, in the name of an earlier commentary: Tosefet Sheviit is written in the Torah only for plowing, so planting was not treated as strictly as plowing.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 2:6:2",
+        "quote": "שלא החמירו בנטיעה כבחרישה לפי שאין…כתוב בפירות כי אם בחרישה"
+       }
+      ]
+     },
+     {
+      "text": "Boaz: they were strict only where one act worsens things twice, plowing and planting at a time of prohibition for fruit permitted when eaten, or the reverse.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Sheviit 2:3",
+        "quote": "דוקא בחדא לרעותא החמירו"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה שתי דרכים שבהן מסבירים המפרשים מדוע תוספת שביעית אינה אחידה.",
+    "mishnah": 6,
+    "anchors": [
+     "אין נוטעין ואין מבריכין ואין מרכיבין ערב שביעית פחות משלשים יום לפני ראש השנה"
+    ]
+   },
+   {
+    "title": "למה כפל התנא 'ואם לאו'?",
+    "pasuk": {
+     "text": "ואם לאו אסורין בשביעית ומתעשרין לשנה הבאה",
+     "ref": "Mishnah Sheviit 2:7",
+     "label": "משנה שביעית ב, ז"
+    },
+    "question": "המשנה אמרה תחילה שהשרישו לפני ראש השנה מותרים. מדוע הוסיפה 'ואם לאו אסורין'? הרי זה נלמד מהרישא.",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Sheviit 2:52:1",
+      "quote": "והרי כבר מדיוקא דרישא שמעינן כן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Yachin: it comes to teach that only if they certainly took root are they permitted; in case of doubt we treat them like the second half.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Sheviit 2:52:1",
+        "quote": "דווקא בוודאי השרישו אבל בספיקה אמרינן נעשה כסיפא"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד לשון כפולה מלמדת כיצד לפסוק במקרה של ספק.",
+    "mishnah": 7,
+    "anchors": [
+     "ואם לאו אסורין בשביעית ומתעשרין לשנה הבאה"
+    ]
+   },
+   {
+    "title": "האם רבי אליעזר חולק או מפרש?",
+    "pasuk": {
+     "text": "רבי אליעזר אומר אפונין הגמלונין משתרמלו לפני ראש השנה",
+     "ref": "Mishnah Sheviit 2:8",
+     "label": "משנה שביעית ב, ח"
+    },
+    "question": "לפי פירוש הרש שרבי אליעזר רק מפרש את דברי רבי שמעון, מדוע חזר על 'אפונין הגמלונין' ולא הסתפק בהצגת התנאי?",
+    "asked_by": [
+     {
+      "name": "חון אשיר",
+      "ref": "Hon Ashir on Mishnah Sheviit 2:8:1",
+      "quote": "ועוד קשה לפי דברי הר\"ש, אמאי חזר לומר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir: this can be answered, since it was needed so we would not think he also relates to Rabbi Shimon Shezuri.",
+      "sources": [
+       {
+        "name": "חון אשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 2:8:1",
+        "quote": "אפשר לדחות באמור, דאצטריך כדי שלא נאמר דאף אדברי ר\"ש השזורי קאי"
+       }
+      ]
+     }
+    ],
+    "why": "אם הוא חולק או מפרש, משתנה הדין באפונין הגמלונין.",
+    "mishnah": 8,
+    "anchors": [
+     "רבי אליעזר אומר אפונין הגמלונין משתרמלו לפני ראש השנה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "תוספות רבי עקיבא איגר",
+   "רש\"ש",
+   "ברטנורא",
+   "חון אשיר",
+   "מלאכת שלמה",
+   "בועז",
+   "תפארת ישראל (יכין)",
+   "רמב\"ם"
+  ]
+ }
 }
