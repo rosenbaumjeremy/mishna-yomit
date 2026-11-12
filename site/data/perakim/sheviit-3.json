@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-12",
+ "hebrew_date": {
+  "hebrew": "ב׳ בְּכִסְלֵו תשפ״ז",
+  "english": "2 Kislev 5787"
+ },
  "masechet": "sheviit",
  "perek": 3,
  "ref": "Mishnah Sheviit 3",
@@ -43,5 +48,943 @@
    "he": "הַבּוֹנֶה גָדֵר בֵּינוֹ וּבֵין רְשׁוּת הָרַבִּים, מֻתָּר לְהַעֲמִיק עַד הַסֶּלַע. מַה יַּעֲשֶׂה בֶּעָפָר, צוֹבְרוֹ בִּרְשׁוּת הָרַבִּים וּמְתַקְּנוֹ, דִּבְרֵי רַבִּי יְהוֹשֻׁעַ. רַבִּי עֲקִיבָא אוֹמֵר, כְּדֶרֶךְ שֶׁאֵין מְקַלְקְלִין בִּרְשׁוּת הָרַבִּים, כָּךְ לֹא יְתַקֵּנוּ. מַה יַּעֲשֶׂה בֶּעָפָר, צוֹבְרוֹ בְּתוֹךְ שָׂדֵהוּ כְּדֶרֶךְ הַמְזַבְּלִין. וְכֵן הַחוֹפֵר בּוֹר וְשִׁיחַ וּמְעָרָה:  ",
    "en": "One who makes a fence between his own property and the public domain, he is allowed to dig down to rock level. What should he do with the soil? He piles it up in the public domain, and then restores it, the words of Rabbi Joshua. Rabbi Akiva says: just as no damage may be done to a public domain, so one may not repair it. Then what should he do with the soil? He heaps it up in his own field in the manner of those who bring out dung [for manure]. Similarly when one digs a cistern, a trench or a cave."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 When may manure be carried out to heaps in the seventh year? Rabbi Meir: once the workers stop; Rabbi Judah: once the sweetness has dried; Rabbi Yose: once it knots. Mishnayot 2–3 The limit is three heaps for each bet seah, ten baskets each; Rabbi Shimon allows more. One may make a single store only if it is three handbreadths below or above, and Rabbi Elazar ben Azariah adds a rock. Mishnah 4 A person may pen animals in a field of two bet seah, then move the walls to make four; Rabban Shimon ben Gamliel says eight. Mishnayot 5–7 A new quarry may be opened only when three rows (twenty-seven stones) are there, a wall of ten large stones may be cleared, and loose stones may be taken, but those touching the ground stay. Mishnayot 8–9 Steps in ravines and shoulder-stones may be built and brought if the purpose is clearly building. Mishnah 10 Digging beside the public domain: Rabbi Joshua lets him heap and restore the soil there, while Rabbi Akiva says to heap it in his own field.",
+  "topics": [
+   {
+    "term": "Ovdei avodah and appearances (mar'it ayin)",
+    "explanation": "In the seventh year working the land is forbidden, and fertilizing a field counts as working it. So the mishnah asks when a person may carry manure out to a heap. The workers (ovdei avodah) are the non-Jews who still work their fields in the sheviit year; once they stop, someone carrying manure no longer looks like he is fertilizing his own field.",
+    "mishnah": 1,
+    "anchors": [
+     "מִשֶּׁיִּפְסְקוּ עוֹבְדֵי עֲבוֹדָה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 3:1:2",
+     "quote": "שֶׁלֹּא יֹאמְרוּ מֵעוֹבְרֵי עֲבֵרָה הוּא וּלְזַבֵּל שָׂדֵהוּ הוּא מוֹצִיא"
+    }
+   },
+   {
+    "term": "The 'sweetness' (hamatok) of manure",
+    "explanation": "Rabbi Yehudah allows carrying manure out once the hamatok has dried. Bartenura explains it as the manure that gives sweetness to the fruit, once it is dry; Rabbi Yose's 'until it knots' is close to the same point.",
+    "mishnah": 1,
+    "anchors": [
+     "מִשֶּׁיִּיבַשׁ הַמָּתוֹק"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 3:1:3",
+     "quote": "מִשֶּׁיִּהְיֶה יָבֵשׁ הַזֶּבֶל שֶׁנּוֹתֵן מְתִיקָה לַפֵּרוֹת"
+    }
+   },
+   {
+    "term": "Dung-heaps and baskets (ashpatot and mishpelot)",
+    "explanation": "A heap (ashpah) is a pile of manure gathered in one place; a mishpel is a basket that carries manure, holding a letekh, half a kor. The mishnah's limit is three heaps for each bet seah, each of ten baskets: heaps in this number look like a store, not like fertilizing.",
+    "mishnah": 2,
+    "anchors": [
+     "שָׁלֹשׁ שָׁלֹשׁ אַשְׁפַּתּוֹת לְבֵית סְאָה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 3:2:1",
+     "quote": "קֻפּוֹת שֶׁמּוֹצִיאִין בָּהֶם זְבָלִים, שֶׁכָּל מַשְׁפֵּל מַחֲזִיק לֶתֶךְ"
+    }
+   },
+   {
+    "term": "Sahar (a cattle enclosure in the field)",
+    "explanation": "A sahar is a fenced enclosure around the flock. The mishnah lets a person who has no other place for his animals fence one of two bet seah in his field, as a pen.",
+    "mishnah": 4,
+    "anchors": [
+     "עוֹשֶׂה סַהַר לְבֵית סָאתַיִם"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 3:4:2",
+     "quote": "הֶקֵּף שֶׁל מְחִצָּה סְבִיב הַצֹּאן"
+    }
+   },
+   {
+    "term": "Machtzev and murbiyot (a quarry in the field)",
+    "explanation": "A machtzev is a place in the field from which stones are hewn. Opening a new one in the seventh year looks like clearing the field, so the mishnah allows it only if three murbiyot, rows of stones, already stand there, making twenty-seven stones.",
+    "mishnah": 5,
+    "anchors": [
+     "לֹא יִפְתַּח אָדָם מַחְצֵב"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 3:5:1",
+     "quote": "מקום בתוך שדהו יחצב ממנו האבנים"
+    }
+   },
+   {
+    "term": "Avnei katef (shoulder-stones)",
+    "explanation": "Shoulder-stones are heavy stones used for building, which may be taken from any place, even from one's own field. Bartenura: it is known they are wanted for a building and not to improve the field. Rabbi Meir and Rabbi Yose disagree about how heavy a stone must be.",
+    "mishnah": 9,
+    "anchors": [
+     "אַבְנֵי כָתֵף, בָּאוֹת מִכָּל מָקוֹם"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 3:9:1",
+     "quote": "אֲפִלּוּ מִתּוֹךְ שֶׁלּוֹ, דְּמֵידַע יְדִיעַ דִּלְבִנְיָן קָבָעֵי לְהוּ וְלֹא לְתַקֵּן אֶת הַשָּׂדֶה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why isn't the Yerushalmi's appearance concern enough?",
+    "pasuk": {
+     "text": "מִשֶּׁיִּפְסְקוּ עוֹבְדֵי עֲבוֹדָה",
+     "ref": "Mishnah Sheviit 3:1",
+     "label": "Mishnah Sheviit 3:1"
+    },
+    "question": "Even after the workers stop, onlookers might think he is carrying manure to an irrigated field (beit hashelachin), where work continues. Why does the mishnah still permit it?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:1:1",
+      "era": "acharon",
+      "quote": "ירושלמי מעתה אפי' משפסקו עובדי עבודה יהא אסור מפני מראית העין"
+     },
+     {
+      "name": "Tiferet Yisrael (Boaz)",
+      "ref": "Boaz on Mishnah Sheviit 3:1",
+      "era": "acharon",
+      "quote": "אע\"ג דבשבת אסור עובד כוכבים לעשות מלאכת מחובר לישראל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The townspeople know whether he has an irrigated field.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:1:1",
+        "quote": "יודעים הם בני עירו אם יש לו בית השלחין אם אין לו"
+       }
+      ]
+     },
+     {
+      "text": "Here the prohibition is only rabbinic, and the townspeople will tell any guests.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Boaz)",
+        "ref": "Boaz on Mishnah Sheviit 3:1",
+        "quote": "משא\"כ הכא זבול בשביעית מד\"ס"
+       },
+       {
+        "name": "Tiferet Yisrael (Boaz)",
+        "ref": "Boaz on Mishnah Sheviit 3:1",
+        "quote": "ומדבני עירו יודעין שאין לו שלחין יודיעו לאורחין"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash rejects the 'rabbinic' answer; Shabbat is stricter because it carries the penalty of stoning.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Sheviit 3:1:1",
+        "quote": "אלא החילוק הוא דשבת איסור סקילה לפיכך החמירו בה אפילו במידי דרבנן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how far the rule of appearances reaches in a Torah-level and a rabbinic-level prohibition.",
+    "mishnah": 1,
+    "anchors": [
+     "מִשֶּׁיִּפְסְקוּ עוֹבְדֵי עֲבוֹדָה"
+    ]
+   },
+   {
+    "title": "Doesn't deepening make him look like he is digging?",
+    "pasuk": {
+     "text": "עַד שֶׁיַּעֲמִיק שְׁלֹשָׁה",
+     "ref": "Mishnah Sheviit 3:3",
+     "label": "Mishnah Sheviit 3:3"
+    },
+    "question": "The sages permit a heap larger than the limit only if he digs it three handbreadths down or builds it up three. But digging itself looks like working the ground in the seventh year.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:3:2",
+      "era": "acharon",
+      "quote": "פריך והלא כשמעמיק נראה כעודר"
+     },
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 3:3:4",
+      "era": "acharon",
+      "quote": "וטעמא דשביעית הוי משום דמחזי כעודר והכא שרי מדקאמר עד שיעמיק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "One said he had deepened it earlier; the other said the manure itself proves his intention.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:3:2",
+        "quote": "חד אמר כגון שהעמיק קודם לכן וחד אמר זבלו מוכיח עליו"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot: one who sees the pit also sees the manure in it.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 3:3:2",
+        "quote": "דליכא למיחש להא דמאן דחזי החפירה הא חזי ליה לזבל שבחפירה"
+       }
+      ]
+     },
+     {
+      "text": "In the Yerushalmi: the basket and the shovel show he is making a heap.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 3:3:4",
+        "quote": "סלו ומגרפו מוכיחין עליו שכוונתו לעשות אשפה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what actually makes an act look like fertilizing: the manure beside the digging.",
+    "mishnah": 3,
+    "anchors": [
+     "עַד שֶׁיַּעֲמִיק שְׁלֹשָׁה"
+    ]
+   },
+   {
+    "title": "A pen in the field: isn't this fertilizing?",
+    "pasuk": {
+     "text": "הַמְדַיֵּר אֶת שָׂדֵהוּ, עוֹשֶׂה סַהַר לְבֵית סָאתַיִם",
+     "ref": "Mishnah Sheviit 3:4",
+     "label": "Mishnah Sheviit 3:4"
+    },
+    "question": "Mishnah 4:2 forbids a field that was folded with flocks to be sown at the end of the seventh year. How can this mishnah allow penning animals in the field?",
+    "asked_by": [
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 3:4:2",
+      "era": "acharon",
+      "quote": "בַּיְרוּשַׁלְמִי מַקְשֶׁה מִמַּתְנִיתִין ב' פֶּרֶק ד' שָׂדֶה שֶׁנִּדַּיְרָה לֹא תִזָּרַע בְּמוֹצָאֵי שְׁבִיעִית"
+     },
+     {
+      "name": "Tiferet Yisrael (Yachin)",
+      "ref": "Yachin on Mishnah Sheviit 3:22:1",
+      "era": "acharon",
+      "quote": "ואף דבפ\"ד מ\"ב אוסר לדייר בשביעית"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Here he does not intend to fertilize; he has no other place for his animals.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 3:4:1",
+        "quote": "וְאֵינוֹ מִתְכַּוֵּן לְזַבֵּל שָׂדֵהוּ בְּעִנְיָן זֶה"
+       },
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Sheviit 3:22:1",
+        "quote": "הכא מיירי באינו מתכוון לזבלה"
+       }
+      ]
+     },
+     {
+      "text": "The Rash: he makes the sahar only to keep the animals there, and afterwards gathers the manure into heaps.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 3:4:2",
+        "quote": "ופרש הר\"ש דלהעמדה בעלמא עושה הסהר ואחר כך מאסף כל הזבל ועושה אשפתות"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam reads the last clause as a separate matter, and the folding in 4:2 as real fertilizing without animals.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:4:2",
+        "quote": "אבל הרמב\"ם מפרש דסיפא דמוציא לא קאי ארישא אלא ענין בפני עצמו"
+       },
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:4:2",
+        "quote": "ומפרש לנדיירה דלקמן דהיינו מזבלה ממש בלא העמדת הצאן"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the Rash and the Rambam on opposite readings of the same mishnah.",
+    "mishnah": 4,
+    "anchors": [
+     "הַמְדַיֵּר אֶת שָׂדֵהוּ, עוֹשֶׂה סַהַר לְבֵית סָאתַיִם"
+    ]
+   },
+   {
+    "title": "How does Rabban Shimon ben Gamliel reach eight seahs?",
+    "pasuk": {
+     "text": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, בֵּית שְׁמוֹנַת סְאִין",
+     "ref": "Mishnah Sheviit 3:4",
+     "label": "Mishnah Sheviit 3:4"
+    },
+    "question": "The first opinion reaches four seahs, two on each side of the middle wall. Where does Rabban Shimon ben Gamliel's eight come from?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:4:3",
+      "era": "acharon",
+      "quote": "אבל הרמב\"ם מפרש שרשב\"ג מתיר לעשות סהר מכל צד מצדי הסהר הראשון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam: just as a second sahar was allowed on one side, so he may make one on every side.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 3:4:2",
+        "quote": "כשיעשה סהר מבית סאתים כמו שהותר לו לעשות סהר שני מן הצד האחד כן מותר לו לעשות סהר מכל צד"
+       }
+      ]
+     },
+     {
+      "text": "Tiferet Yisrael: one seah on each side of the first sahar.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Sheviit 3:27:1",
+        "quote": "ר\"ל סאה מכל צד לסהר הראשון"
+       }
+      ]
+     },
+     {
+      "text": "The Rash, from the Yerushalmi: he sets a peg in the ground and makes four enclosures on its four sides, eight seahs.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:4:3",
+        "quote": "תוקע יתד בארץ ועושה ארבעה סהרות מד' רוחותיה של ח' סאין"
+       }
+      ]
+     }
+    ],
+    "why": "Three readings of one phrase, as Tosafot Yom Tov notes.",
+    "mishnah": 4,
+    "anchors": [
+     "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, בֵּית שְׁמוֹנַת סְאִין"
+    ]
+   },
+   {
+    "title": "What does 'three murbiyot' require?",
+    "pasuk": {
+     "text": "עַד שֶׁיִּהְיוּ בוֹ שָׁלֹשׁ מוּרְבִּיּוֹת",
+     "ref": "Mishnah Sheviit 3:5",
+     "label": "Mishnah Sheviit 3:5"
+    },
+    "question": "Must the three layers of stones already be exposed before the seventh year, as Bartenura says, or does the mishnah only require that so many stones be there?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 3:5:2",
+      "era": "acharon",
+      "quote": "קשה דהא לא נאמר במשנה עד שיראו בו אך לשון המשנה הוא שיהיו בו"
+     },
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Sheviit 3:5:1",
+      "era": "acharon",
+      "quote": "והר\"ב פירש פירוש אחר והוא מהר\"ש, ואיננו מוכרח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "They must be exposed and visible before the seventh year.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 3:5:2",
+        "quote": "שֶׁיִּהְיוּ נִגְלִים וְנִרְאִים מֵאוֹתוֹ מַחֲצֵב קֹדֶם שְׁבִיעִית שָׁלֹשׁ שׁוּרוֹת שֶׁל אֲבָנִים"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 3:5:1",
+        "quote": "שלשה גלים מן האבנים גבוהים על הארץ"
+       }
+      ]
+     },
+     {
+      "text": "What matters is that it holds many stones, so he clearly cares about the stones and not the ground.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 3:5:2",
+        "quote": "כשיש בו אבנים הרבה שהוא סלע גדול בודאי שאינו חושש על הקרקע אלא על האבנים"
+       },
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Sheviit 3:5:1",
+        "quote": "לולי פי' רבותי נ\"ע הייתי מפרש עד שיהיה בו היינו שימצא בו כ\"כ אבנים"
+       }
+      ]
+     },
+     {
+      "text": "The plain meaning: the three together make twenty-seven stones, each a cubit by a cubit by a cubit.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 3:5:1",
+        "quote": "ששיעור כלם הוא כדי לפסול בהם עשרים ושבעה אבנים, שכל אבן היא אמה על אמה ברום אמה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the stones must be already uncovered, or merely abundant.",
+    "mishnah": 5,
+    "anchors": [
+     "עַד שֶׁיִּהְיוּ בוֹ שָׁלֹשׁ מוּרְבִּיּוֹת"
+    ]
+   },
+   {
+    "title": "Why only two stones here, but ten for a wall?",
+    "pasuk": {
+     "text": "אִם יֵשׁ בָּהֶם שְׁתַּיִם שֶׁל מַשְּׂאוֹי שְׁנַיִם שְׁנַיִם, הֲרֵי אֵלּוּ יִנָּטֵלוּ",
+     "ref": "Mishnah Sheviit 3:7",
+     "label": "Mishnah Sheviit 3:7"
+    },
+    "question": "For a wall, the mishnah requires ten large stones. For stones the plow turned up, two are enough. Why is this easier?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 3:7:1",
+      "era": "acharon",
+      "quote": "תימה למה יקל כאן מגדר דלעיל דבעינן עשרה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Stones the plow shook are already loose, which shows he left them for building.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Sheviit 3:45:1",
+        "quote": "ומדהו\"ל כמטולטלות כבר דאז מוכח שהניחן שם שישתמרו עד שיצטרכם לבנין"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash: it should really be stricter here, since these are attached to the ground.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Sheviit 3:7:1",
+        "quote": "ולכן היה נ\"ל דבאמת כאן חמור כיון דהם במחובר"
+       }
+      ]
+     },
+     {
+      "text": "The Yerushalmi: here it speaks of loose stones, there of attached ones.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:7:1",
+        "quote": "אמר ר' יונה כאן בתלוש כאן במחובר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether loose stones are judged more leniently than attached ones.",
+    "mishnah": 7,
+    "anchors": [
+     "אִם יֵשׁ בָּהֶם שְׁתַּיִם שֶׁל מַשְּׂאוֹי שְׁנַיִם שְׁנַיִם, הֲרֵי אֵלּוּ יִנָּטֵלוּ"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Tiferet Yisrael (Boaz)",
+   "Rashash",
+   "Melekhet Shelomoh",
+   "Ikar Tosafot Yom Tov",
+   "Tiferet Yisrael (Yachin)",
+   "Bartenura",
+   "Rambam",
+   "Hon Ashir"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מתי מוציאים זבלים לאשפתות בשביעית? רבי מאיר: משיפסקו עובדי עבודה; רבי יהודה: משייבש המתוק; רבי יוסי: משיקשר. משניות ב-ג השיעור הוא שלוש אשפתות לבית סאה, ובכל אחת עשר משפלות; רבי שמעון מתיר יותר. אוצר אחד מותר רק אם העמיק שלושה או הגביה שלושה, ורבי אלעזר בן עזריה מוסיף סלע. משנה ד המדייר את שדהו עושה סהר לבית סאתים ואחר כך מעביר את הקירות ונמצא בית ארבעת סאין; רבן שמעון בן גמליאל: בית שמונת סאין. משניות ה-ז אין פותחים מחצב חדש עד שיש בו שלוש מורביות, עשרים ושבע אבנים; גדר של עשר אבנים גדולות נוטלים, ואבנים תלושות נוטלים, אבל מניחים את הנוגעות בארץ. משניות ח-ט מדרגות על פי הגאיות ואבני כתף: בונים ומביאים כשהכוונה ברורה לבניין. משנה י החופר ליד רשות הרבים: רבי יהושע, צוברו שם ומתקנו; רבי עקיבא, צוברו בתוך שדהו.",
+  "topics": [
+   {
+    "term": "עובדי עבודה ומראית העין",
+    "explanation": "בשנה השביעית אסור לעבוד את הארץ, וזיבול השדה נחשב עבודה. לכן המשנה שואלת מתי מותר להוציא זבל לאשפה. עובדי עבודה הם הנכרים שממשיכים לעבוד את שדותיהם בשביעית; משהם פוסקים, מי שנושא זבל אינו נראה עוד כמזבל את שדהו שלו.",
+    "mishnah": 1,
+    "anchors": [
+     "מִשֶּׁיִּפְסְקוּ עוֹבְדֵי עֲבוֹדָה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 3:1:2",
+     "quote": "שֶׁלֹּא יֹאמְרוּ מֵעוֹבְרֵי עֲבֵרָה הוּא וּלְזַבֵּל שָׂדֵהוּ הוּא מוֹצִיא"
+    }
+   },
+   {
+    "term": "\"המתוק\" של הזבל",
+    "explanation": "רבי יהודה מתיר להוציא זבל משיבש המתוק. ברטנורא מפרש שהוא הזבל שנותן מתיקות לפירות, משהוא יבש; ודברי רבי יוסי, \"משיקשר\", קרובים לכך.",
+    "mishnah": 1,
+    "anchors": [
+     "מִשֶּׁיִּיבַשׁ הַמָּתוֹק"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 3:1:3",
+     "quote": "מִשֶּׁיִּהְיֶה יָבֵשׁ הַזֶּבֶל שֶׁנּוֹתֵן מְתִיקָה לַפֵּרוֹת"
+    }
+   },
+   {
+    "term": "אשפתות ומשפלות",
+    "explanation": "אשפה היא ערימת זבל במקום אחד, ומשפל הוא קופה שנושאים בה זבל, ומחזיקה לתך, חצי כור. שיעור המשנה הוא שלוש אשפתות לבית סאה, ובכל אחת עשר משפלות: בכמות כזו נראה הדבר כאוצר ולא כזיבול.",
+    "mishnah": 2,
+    "anchors": [
+     "שָׁלֹשׁ שָׁלֹשׁ אַשְׁפַּתּוֹת לְבֵית סְאָה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 3:2:1",
+     "quote": "קֻפּוֹת שֶׁמּוֹצִיאִין בָּהֶם זְבָלִים, שֶׁכָּל מַשְׁפֵּל מַחֲזִיק לֶתֶךְ"
+    }
+   },
+   {
+    "term": "סהר",
+    "explanation": "סהר הוא מחיצה סביב הצאן. המשנה מתירה למי שאין לו מקום אחר לבהמותיו לעשות בשדהו סהר לבית סאתים, כדיר.",
+    "mishnah": 4,
+    "anchors": [
+     "עוֹשֶׂה סַהַר לְבֵית סָאתַיִם"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 3:4:2",
+     "quote": "הֶקֵּף שֶׁל מְחִצָּה סְבִיב הַצֹּאן"
+    }
+   },
+   {
+    "term": "מחצב ומורביות",
+    "explanation": "מחצב הוא מקום בשדה שחוצבים ממנו אבנים. פתיחת מחצב חדש בשביעית נראית כתיקון השדה, ולכן המשנה מתירה רק אם יש בו שלוש מורביות, שורות של אבנים, שהן עשרים ושבע אבנים.",
+    "mishnah": 5,
+    "anchors": [
+     "לֹא יִפְתַּח אָדָם מַחְצֵב"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 3:5:1",
+     "quote": "מקום בתוך שדהו יחצב ממנו האבנים"
+    }
+   },
+   {
+    "term": "אבני כתף",
+    "explanation": "אבני כתף הן אבנים כבדות לבניין, שמותר להביא מכל מקום, אפילו מתוך שדהו. ברטנורא: ידוע שהוא רוצה אותן לבניין ולא לתקן את השדה. רבי מאיר ורבי יוסי חלוקים בשיעור כובדן של האבנים.",
+    "mishnah": 9,
+    "anchors": [
+     "אַבְנֵי כָתֵף, בָּאוֹת מִכָּל מָקוֹם"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 3:9:1",
+     "quote": "אֲפִלּוּ מִתּוֹךְ שֶׁלּוֹ, דְּמֵידַע יְדִיעַ דִּלְבִנְיָן קָבָעֵי לְהוּ וְלֹא לְתַקֵּן אֶת הַשָּׂדֶה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע אין חשש מראית העין של הירושלמי",
+    "pasuk": {
+     "text": "מִשֶּׁיִּפְסְקוּ עוֹבְדֵי עֲבוֹדָה",
+     "ref": "Mishnah Sheviit 3:1",
+     "label": "משנה שביעית ג, א"
+    },
+    "question": "גם משפסקו עובדי העבודה, הרואים עלולים לחשוב שהוא מוציא את הזבל לבית השלחין, שבו ממשיכים לעבוד. מדוע המשנה מתירה בכל זאת?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:1:1",
+      "era": "acharon",
+      "quote": "ירושלמי מעתה אפי' משפסקו עובדי עבודה יהא אסור מפני מראית העין"
+     },
+     {
+      "name": "תפארת ישראל (בועז)",
+      "ref": "Boaz on Mishnah Sheviit 3:1",
+      "era": "acharon",
+      "quote": "אע\"ג דבשבת אסור עובד כוכבים לעשות מלאכת מחובר לישראל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בני עירו יודעים אם יש לו בית השלחין.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:1:1",
+        "quote": "יודעים הם בני עירו אם יש לו בית השלחין אם אין לו"
+       }
+      ]
+     },
+     {
+      "text": "כאן האיסור מדרבנן בלבד, ובני העיר יודיעו לאורחים.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Sheviit 3:1",
+        "quote": "משא\"כ הכא זבול בשביעית מד\"ס"
+       },
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Sheviit 3:1",
+        "quote": "ומדבני עירו יודעין שאין לו שלחין יודיעו לאורחין"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש דוחה את תשובת \"מדרבנן\"; שבת חמורה יותר כי יש בה איסור סקילה.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Sheviit 3:1:1",
+        "quote": "אלא החילוק הוא דשבת איסור סקילה לפיכך החמירו בה אפילו במידי דרבנן"
+       }
+      ]
+     }
+    ],
+    "why": "הוא מראה עד היכן מגיע כלל מראית העין באיסור דאורייתא ובאיסור דרבנן.",
+    "mishnah": 1,
+    "anchors": [
+     "מִשֶּׁיִּפְסְקוּ עוֹבְדֵי עֲבוֹדָה"
+    ]
+   },
+   {
+    "title": "האם העמקת האשפה אינה נראית כעידור",
+    "pasuk": {
+     "text": "עַד שֶׁיַּעֲמִיק שְׁלֹשָׁה",
+     "ref": "Mishnah Sheviit 3:3",
+     "label": "משנה שביעית ג, ג"
+    },
+    "question": "החכמים מתירים אשפה גדולה מן השיעור רק אם העמיק שלושה טפחים או הגביה שלושה. אבל עצם החפירה נראית כעבודת קרקע בשביעית.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:3:2",
+      "era": "acharon",
+      "quote": "פריך והלא כשמעמיק נראה כעודר"
+     },
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 3:3:4",
+      "era": "acharon",
+      "quote": "וטעמא דשביעית הוי משום דמחזי כעודר והכא שרי מדקאמר עד שיעמיק"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אחד אמר שהעמיק קודם לכן, ואחד אמר שהזבל עצמו מוכיח עליו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:3:2",
+        "quote": "חד אמר כגון שהעמיק קודם לכן וחד אמר זבלו מוכיח עליו"
+       }
+      ]
+     },
+     {
+      "text": "התוספות: מי שרואה את החפירה רואה גם את הזבל שבחפירה.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 3:3:2",
+        "quote": "דליכא למיחש להא דמאן דחזי החפירה הא חזי ליה לזבל שבחפירה"
+       }
+      ]
+     },
+     {
+      "text": "בירושלמי: הסל והמגרפה מוכיחים שהוא עושה אשפה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 3:3:4",
+        "quote": "סלו ומגרפו מוכיחין עליו שכוונתו לעשות אשפה"
+       }
+      ]
+     }
+    ],
+    "why": "הוא מראה מה גורם לפעולה להיראות כזיבול: הזבל שליד החפירה.",
+    "mishnah": 3,
+    "anchors": [
+     "עַד שֶׁיַּעֲמִיק שְׁלֹשָׁה"
+    ]
+   },
+   {
+    "title": "דיר בשדה: האם אין זה זיבול",
+    "pasuk": {
+     "text": "הַמְדַיֵּר אֶת שָׂדֵהוּ, עוֹשֶׂה סַהַר לְבֵית סָאתַיִם",
+     "ref": "Mishnah Sheviit 3:4",
+     "label": "משנה שביעית ג, ד"
+    },
+    "question": "במשנה ד, ב נאסר לזרוע במוצאי שביעית שדה שנדיירה. איך מתירה משנתנו להעמיד צאן בשדה?",
+    "asked_by": [
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 3:4:2",
+      "era": "acharon",
+      "quote": "בַּיְרוּשַׁלְמִי מַקְשֶׁה מִמַּתְנִיתִין ב' פֶּרֶק ד' שָׂדֶה שֶׁנִּדַּיְרָה לֹא תִזָּרַע בְּמוֹצָאֵי שְׁבִיעִית"
+     },
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Sheviit 3:22:1",
+      "era": "acharon",
+      "quote": "ואף דבפ\"ד מ\"ב אוסר לדייר בשביעית"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כאן אינו מתכוון לזבל; אין לו מקום אחר לבהמותיו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 3:4:1",
+        "quote": "וְאֵינוֹ מִתְכַּוֵּן לְזַבֵּל שָׂדֵהוּ בְּעִנְיָן זֶה"
+       },
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Sheviit 3:22:1",
+        "quote": "הכא מיירי באינו מתכוון לזבלה"
+       }
+      ]
+     },
+     {
+      "text": "הר\"ש: הוא עושה את הסהר רק להעמדת הצאן, ואחר כך מאסף את הזבל לאשפתות.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 3:4:2",
+        "quote": "ופרש הר\"ש דלהעמדה בעלמא עושה הסהר ואחר כך מאסף כל הזבל ועושה אשפתות"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם מפרש שהסיפא ענין בפני עצמו, ו\"נדיירה\" בד, ב היא זיבול ממש בלא העמדת צאן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:4:2",
+        "quote": "אבל הרמב\"ם מפרש דסיפא דמוציא לא קאי ארישא אלא ענין בפני עצמו"
+       },
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:4:2",
+        "quote": "ומפרש לנדיירה דלקמן דהיינו מזבלה ממש בלא העמדת הצאן"
+       }
+      ]
+     }
+    ],
+    "why": "הוא מעמיד את הר\"ש והרמב\"ם בשני פירושים לאותה משנה.",
+    "mishnah": 4,
+    "anchors": [
+     "הַמְדַיֵּר אֶת שָׂדֵהוּ, עוֹשֶׂה סַהַר לְבֵית סָאתַיִם"
+    ]
+   },
+   {
+    "title": "כיצד מגיע רשב\"ג לבית שמונת סאין",
+    "pasuk": {
+     "text": "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, בֵּית שְׁמוֹנַת סְאִין",
+     "ref": "Mishnah Sheviit 3:4",
+     "label": "משנה שביעית ג, ד"
+    },
+    "question": "התנא הראשון מגיע לארבע סאין, שתים מכל צד של המחיצה האמצעית. מאין באות שמונה סאין של רבן שמעון בן גמליאל?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:4:3",
+      "era": "acharon",
+      "quote": "אבל הרמב\"ם מפרש שרשב\"ג מתיר לעשות סהר מכל צד מצדי הסהר הראשון"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: כשם שהותר סהר שני מצד אחד, כך מותר מכל צד.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 3:4:2",
+        "quote": "כשיעשה סהר מבית סאתים כמו שהותר לו לעשות סהר שני מן הצד האחד כן מותר לו לעשות סהר מכל צד"
+       }
+      ]
+     },
+     {
+      "text": "תפארת ישראל: סאה מכל צד של הסהר הראשון.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Sheviit 3:27:1",
+        "quote": "ר\"ל סאה מכל צד לסהר הראשון"
+       }
+      ]
+     },
+     {
+      "text": "הר\"ש, מן הירושלמי: תוקע יתד בארץ ועושה ארבעה סהרות, ח' סאין.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:4:3",
+        "quote": "תוקע יתד בארץ ועושה ארבעה סהרות מד' רוחותיה של ח' סאין"
+       }
+      ]
+     }
+    ],
+    "why": "שלושה פירושים לביטוי אחד, כפי שמעיר התוספות יום טוב.",
+    "mishnah": 4,
+    "anchors": [
+     "רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, בֵּית שְׁמוֹנַת סְאִין"
+    ]
+   },
+   {
+    "title": "מה דורשות שלוש המורביות",
+    "pasuk": {
+     "text": "עַד שֶׁיִּהְיוּ בוֹ שָׁלֹשׁ מוּרְבִּיּוֹת",
+     "ref": "Mishnah Sheviit 3:5",
+     "label": "משנה שביעית ג, ה"
+    },
+    "question": "האם שלוש השורות צריכות להיות גלויות כבר קודם שביעית, כדברי ברטנורא, או שהמשנה מצריכה רק שיהיו שם כל כך הרבה אבנים?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 3:5:2",
+      "era": "acharon",
+      "quote": "קשה דהא לא נאמר במשנה עד שיראו בו אך לשון המשנה הוא שיהיו בו"
+     },
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Sheviit 3:5:1",
+      "era": "acharon",
+      "quote": "והר\"ב פירש פירוש אחר והוא מהר\"ש, ואיננו מוכרח"
+     }
+    ],
+    "answers": [
+     {
+      "text": "צריך שיהיו גלויות ונראות קודם שביעית.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 3:5:2",
+        "quote": "שֶׁיִּהְיוּ נִגְלִים וְנִרְאִים מֵאוֹתוֹ מַחֲצֵב קֹדֶם שְׁבִיעִית שָׁלֹשׁ שׁוּרוֹת שֶׁל אֲבָנִים"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 3:5:1",
+        "quote": "שלשה גלים מן האבנים גבוהים על הארץ"
+       }
+      ]
+     },
+     {
+      "text": "העיקר שיש בו אבנים הרבה, ולכן ברור שהוא חושש לאבנים ולא לקרקע.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 3:5:2",
+        "quote": "כשיש בו אבנים הרבה שהוא סלע גדול בודאי שאינו חושש על הקרקע אלא על האבנים"
+       },
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Sheviit 3:5:1",
+        "quote": "לולי פי' רבותי נ\"ע הייתי מפרש עד שיהיה בו היינו שימצא בו כ\"כ אבנים"
+       }
+      ]
+     },
+     {
+      "text": "הפשט: כולן יחד הן עשרים ושבע אבנים, כל אחת אמה על אמה ברום אמה.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 3:5:1",
+        "quote": "ששיעור כלם הוא כדי לפסול בהם עשרים ושבעה אבנים, שכל אבן היא אמה על אמה ברום אמה"
+       }
+      ]
+     }
+    ],
+    "why": "הוא מכריע אם האבנים צריכות להיות כבר גלויות, או רק רבות.",
+    "mishnah": 5,
+    "anchors": [
+     "עַד שֶׁיִּהְיוּ בוֹ שָׁלֹשׁ מוּרְבִּיּוֹת"
+    ]
+   },
+   {
+    "title": "מדוע שתי אבנים כאן ועשר בגדר",
+    "pasuk": {
+     "text": "אִם יֵשׁ בָּהֶם שְׁתַּיִם שֶׁל מַשְּׂאוֹי שְׁנַיִם שְׁנַיִם, הֲרֵי אֵלּוּ יִנָּטֵלוּ",
+     "ref": "Mishnah Sheviit 3:7",
+     "label": "משנה שביעית ג, ז"
+    },
+    "question": "בגדר דורשת המשנה עשר אבנים גדולות. באבנים שזעזעתן המחרשה די בשתיים. מדוע כאן קל יותר?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Sheviit 3:7:1",
+      "era": "acharon",
+      "quote": "תימה למה יקל כאן מגדר דלעיל דבעינן עשרה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "אבנים שזעזעתן המחרשה כבר תלושות, והדבר מוכיח שהניחן לבניין.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Sheviit 3:45:1",
+        "quote": "ומדהו\"ל כמטולטלות כבר דאז מוכח שהניחן שם שישתמרו עד שיצטרכם לבנין"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש: דווקא כאן צריך להיות חמור יותר, כי הן מחוברות.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Sheviit 3:7:1",
+        "quote": "ולכן היה נ\"ל דבאמת כאן חמור כיון דהם במחובר"
+       }
+      ]
+     },
+     {
+      "text": "הירושלמי: כאן בתלוש וכאן במחובר.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 3:7:1",
+        "quote": "אמר ר' יונה כאן בתלוש כאן במחובר"
+       }
+      ]
+     }
+    ],
+    "why": "הוא מראה אם דנים באבנים תלושות בקלות יותר מבמחוברות.",
+    "mishnah": 7,
+    "anchors": [
+     "אִם יֵשׁ בָּהֶם שְׁתַּיִם שֶׁל מַשְּׂאוֹי שְׁנַיִם שְׁנַיִם, הֲרֵי אֵלּוּ יִנָּטֵלוּ"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "תפארת ישראל (בועז)",
+   "רש\"ש",
+   "מלאכת שלמה",
+   "עיקר תוספות יום טוב",
+   "תפארת ישראל (יכין)",
+   "ברטנורא",
+   "רמב\"ם",
+   "הון עשיר"
+  ]
+ }
 }
