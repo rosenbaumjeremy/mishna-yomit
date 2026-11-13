@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-13",
+ "hebrew_date": {
+  "hebrew": "ג׳ בְּכִסְלֵו תשפ״ז",
+  "english": "3 Kislev 5787"
+ },
  "masechet": "sheviit",
  "perek": 4,
  "ref": "Mishnah Sheviit 4",
@@ -43,5 +48,929 @@
    "he": "מֵאֵימָתַי אֵין קוֹצְצִין אֶת הָאִילָן בַּשְּׁבִיעִית. בֵּית שַׁמַּאי אוֹמְרִים, כָּל הָאִילָן מִשֶּׁיּוֹצִיא. וּבֵית הִלֵּל אוֹמְרִים, הֶחָרוּבִין מִשֶּׁיְּשַׁלְשֵׁלוּ, וְהַגְּפָנִים מִשֶּׁיְּגָרְעוּ, וְהַזֵּיתִים מִשֶּׁיָּנֵצוּ, וּשְׁאָר כָּל אִילָן מִשֶּׁיּוֹצִיא. וְכָל הָאִילָן, כֵּיוָן שֶׁבָּא לְעוֹנַת הַמַּעַשְׂרוֹת, מֻתָּר לְקָצְצוֹ. כַּמָּה יְהֵא בַזַּיִת וְלֹא יְקֻצֶּנּוּ, רֹבַע. רַבָּן שִׁמְעוֹן בֶּן גַּמְלִיאֵל אוֹמֵר, הַכֹּל לְפִי הַזַּיִת: \n",
    "en": "From when may they no longer cut down trees in the seventh year? Bet Shammai says: every tree, after it has produced [fruit]. Bet Hillel says: carob trees after [the carobs] begin to droop, vines after the berries begin to be moist, olive-trees after they had blossomed, any other tree after it has produced [fruit]. And any tree as soon as it reaches the season for tithes it may be cut down. How much should be on an olive tree such that it may not be cut down? A quarter [kav]. Rabban Shimon ben Gamaliel says: all depends on the olive-tree."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 The old rule let one gather large wood, stones and weeds from his own field; when transgressors increased the sages decreed each gathers from the other's field, not as a favor. Mishnah 2 Fields that were cleared of thorns may be sown after the seventh year, but those improved or penned may not; Beit Shammai and Beit Hillel argue about eating produce of an improved field and doing so 'as a favor', and Rabbi Yehuda reverses them. Mishnah 3 One may rent plowed land from Gentiles but not from Jews, encourage Gentiles in words, and greet them for the ways of peace. Mishnah 4-6 Rules of working with trees: thinning versus leveling olive trees, covering stumps with stones or straw and not earth, cutting a virgin sycamore, trimming vines and reeds, and tying a split tree. Mishnayot 7-9 From when fruit may be eaten in the field and brought home: figs, unripe grapes and olives. Mishnah 10 From when trees may no longer be cut down, according to Beit Shammai, Beit Hillel and Rabban Shimon ben Gamliel.",
+  "topics": [
+   {
+    "term": "Gas ha-gas and the decree",
+    "explanation": "At first one could gather large pieces of wood, stones and weeds from his own field, as from a neighbor's, since gathering only the large looked like taking wood and not clearing the field. When transgressors gathered everything, the sages decreed that each gathers from the other's field, not as a favor.",
+    "mishnah": 1,
+    "anchors": [
+     "הגס הגס"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 4:1:1",
+     "quote": "הם הבולטים ששיעורן גדול"
+    }
+   },
+   {
+    "term": "Nitayvah (a field improved)",
+    "explanation": "A field that was plowed well in the seventh year. The sages penalized this by forbidding sowing it after the seventh year and, according to Beit Shammai, eating its produce.",
+    "mishnah": 2,
+    "anchors": [
+     "שנטיבה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 4:2:2",
+     "quote": "חרשו אותה היטב והפכו אותה היטב"
+    }
+   },
+   {
+    "term": "Betovah (as a favor)",
+    "explanation": "Eating or gathering seventh-year produce 'as a favor' means doing so with an expression of thanks to the owner. Since the produce is ownerless, Beit Shammai forbid it; Beit Hillel permit it either way.",
+    "mishnah": 2,
+    "anchors": [
+     "בטובה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 4:2:3",
+     "quote": "בטובה שהוא גמילות או שבח"
+    }
+   },
+   {
+    "term": "Machzikin yedei nochrim",
+    "explanation": "One may encourage Gentiles working in the seventh year, but only in words, not in deeds; and one may greet them, even on their festivals, for the ways of peace.",
+    "mishnah": 3,
+    "anchors": [
+     "ומחזיקין ידי נכרים"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 4:3:2",
+     "quote": "מחזיקין ידי עכו\"ם בדבור לא במעשה"
+    }
+   },
+   {
+    "term": "Medel and machlik",
+    "explanation": "Thinning out is removing one or two olive trees; leveling is removing three side by side. Leveling looks like preparing the ground, so even Beit Hillel forbid uprooting there.",
+    "mishnah": 4,
+    "anchors": [
+     "המדל בזיתים",
+     "המחליק"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 4:4:3",
+     "quote": "שמחליק פני הקרקע יותר מדאי יאמרו לעבודת קרקע הוא מתכוון ואסור"
+    }
+   },
+   {
+    "term": "Betulat shikmah (virgin sycamore)",
+    "explanation": "A sycamore that was never cut before. Cutting it is considered labor because it helps it grow, like pruning vines.",
+    "mishnah": 5,
+    "anchors": [
+     "בתולת שקמה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 4:5:2",
+     "quote": "ובתולת שקמה הוא הצמח הראשון שיצא בה קודם שיכרתו אותה"
+    }
+   },
+   {
+    "term": "Pagim and ripening: eating in the field",
+    "explanation": "Unripe figs may be eaten in the field once they turn reddish, which is the start of ripening; to bring them home they must ripen further. Similar stages apply to tithes in other years.",
+    "mishnah": 7,
+    "anchors": [
+     "הפגים משיזריחו"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 4:7:3",
+     "quote": "האדימו וזהו התחלת בשולן"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "After the decree: may one pick the small stuff from a neighbor's field?",
+    "pasuk": {
+     "text": "כדרך שהוא מלקט מתוך של חברו את הגס הגס",
+     "ref": "Mishnah Sheviit 4:1",
+     "label": "Mishnah Sheviit 4:1"
+    },
+    "question": "The mishnah says that after the decree each man gathers from the other's field 'as he gathers from his own', the large ones. Does the decree limit the gathering to large pieces only, or may one still gather large and small from a neighbor's field?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 4:1:2",
+      "quote": "אין לו הבנה. דאי תקנתא להך גיסא הואי. למאי אצטריכו לתקוני שילקטו שלא בטובה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rash and Tosafot Yom Tov: the decree means only the large ones, because even without thanks, if each gathers in the other's field and the other in his, gathering the small would look like improving the field.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:1:2",
+        "quote": "הואיל וזה מלקט בשל זה וזה בשל זה אי מלקטין הדקין נראה כמתקן"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: after the decree one may not gather anything, large or small, from one's own field, but one may gather from a neighbor's.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 4:1:1",
+        "quote": "אסרו שילקט אדם מתוך שדהו שום דבר לא גס ולא דק אבל לוקט הוא מתוך של חבירו"
+       }
+      ]
+     }
+    ],
+    "why": "It decides what the decree actually forbade and why 'not as a favor' matters.",
+    "mishnah": 1,
+    "anchors": [
+     "כדרך שהוא מלקט מתוך של חברו את הגס הגס"
+    ]
+   },
+   {
+    "title": "Plowing in the seventh year for the king's tax",
+    "pasuk": {
+     "text": "שדה שנתקוצה תזרע במוצאי שביעית",
+     "ref": "Mishnah Sheviit 4:2",
+     "label": "Mishnah Sheviit 4:2"
+    },
+    "question": "If the mishnah deals with plowing and sowing to pay the king's tax, how was it permitted, when plowing in the seventh year is a Torah prohibition?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:2:1",
+      "quote": "וא\"ת ומשום ארנונא התירו לחרוש ולזרוע דהויא איסורא דאורייתא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It speaks of the seventh year in our time, when it is rabbinic.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:2:1",
+        "quote": "וי\"ל דמיירי בשביעית בזמן הזה דרבנן"
+       }
+      ]
+     },
+     {
+      "text": "Or it was a matter of life: the king demanded tax and they had nothing to pay with, and died in his custody.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:2:1",
+        "quote": "דפקוח נפש הוא ששואל להם המלך מס ואין להם מה יפרעו"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: the mishnah speaks of a time of danger when the government forced the tax on the land, so one plowing was permitted and a second was penalized.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 4:2:2",
+        "quote": "שהיתה המלכות אונסת על המס המוטל על הקרקעות והתירו לחרוש בשביעית"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the mishnah is not a general permit to plow in the seventh year.",
+    "mishnah": 2,
+    "anchors": [
+     "שדה שנתקוצה תזרע במוצאי שביעית"
+    ]
+   },
+   {
+    "title": "What exactly is 'thinning out' olive trees?",
+    "pasuk": {
+     "text": "המדל בזיתים בית שמאי אומרים יגום",
+     "ref": "Mishnah Sheviit 4:4",
+     "label": "Mishnah Sheviit 4:4"
+    },
+    "question": "Bartenura explains 'thinning' as removing trees so the others grow thicker. But why is that allowed in the seventh year, when pruning to improve a tree is forbidden? Is it better to follow the Rambam, that the thinner cuts them down for firewood?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:4:1",
+      "quote": "וצריך לחלק בין מדל לזירוד ופיסול דפ\"ב מ\"ג",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 4:4:1-5",
+      "quote": "ולא ידענא אמאי ניחא ליה טפי בפי' הרמב\"ם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: he removes one or two so the rest will grow and thicken.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 4:4:1",
+        "quote": "נוטל אחד ומניח שנים או נוטל שנים ומניח אחד כדי שיגדל ויתעבה"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the 'medel' cuts them down to be firewood.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 4:4:1",
+        "quote": "המדל בזיתים הוא שיכרתם להיות עצים לאש"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov, following the Rambam: here he must not act to make the others thicker, but only to cut for wood.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:4:1",
+        "quote": "דבכאן צריך שלא יעשה בשביל שיעבה ויגדל אלא שיכרות לעצים"
+       }
+      ]
+     }
+    ],
+    "why": "It defines the line between forbidden work on the tree and permitted removal.",
+    "mishnah": 4,
+    "anchors": [
+     "המדל בזיתים בית שמאי אומרים יגום"
+    ]
+   },
+   {
+    "title": "Why does it say 'until he cuts it down to the ground'?",
+    "pasuk": {
+     "text": "ומודים במחליק עד שיגום",
+     "ref": "Mishnah Sheviit 4:4",
+     "label": "Mishnah Sheviit 4:4"
+    },
+    "question": "The word 'until' (ad) is awkward, since 'yagom' (cut down to the ground) is less than uprooting. What does it come to teach?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:4:2",
+      "quote": "לישנא דעד לא ניחא. דהא יגום פחות ממשרש הוא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashash: 'ad' here means that he is permitted only if he cuts it to the ground, a usage found often in the language of Chazal.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Sheviit 4:4:1",
+        "quote": "לא שרי רק באופן שיגום. והרבה תמצא בלשון חז\"ל שמוש מלת עד על כוונה זו"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam avoided this problem in his Mishneh Torah.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:4:2",
+        "quote": "והרמב\"ם נשמר מזה בחיבורו וכתב לא ישרש"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes whether the leveler is limited to cutting at ground level.",
+    "mishnah": 4,
+    "anchors": [
+     "ומודים במחליק עד שיגום"
+    ]
+   },
+   {
+    "title": "Rabbi Yehuda and the virgin sycamore: who is the halacha like?",
+    "pasuk": {
+     "text": "רבי יהודה אומר כדרכה אסור אלא או מגביה עשרה טפחים או גומם מעל הארץ",
+     "ref": "Mishnah Sheviit 4:5",
+     "label": "Mishnah Sheviit 4:5"
+    },
+    "question": "Bartenura and the Rambam rule like Rabbi Yehuda, yet according to the Rashbam the first tanna has another measure (from three handbreadths up it is forbidden). Why rule like Rabbi Yehuda if he is disputed?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:5:3",
+      "quote": "ולפ\"ז נראה דהלכתא כת\"ק כיון שחולק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Kesef Mishneh: perhaps Rabbi Yehuda came only to explain, not to disagree.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:5:3",
+        "quote": "שאפשר שסובר דר' יהודה לא לחלוק בא אלא לפרש"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: because the unattributed Gemara in Bava Batra challenges from his words.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:5:3",
+        "quote": "דמשום דסתמא דסוגיא פריך מיניה התם בב\"ב"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, from the Yerushalmi: the dispute is only from three to nine handbreadths.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 4:5:2",
+        "quote": "אלא משלש טפחים ולמעלה עד ט' הוא דפליגי"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the halachic weight of a machlokes between a tanna and his colleagues.",
+    "mishnah": 5,
+    "anchors": [
+     "רבי יהודה אומר כדרכה אסור אלא או מגביה עשרה טפחים או גומם מעל הארץ"
+    ]
+   },
+   {
+    "title": "Why may one not cut down fruit trees in the seventh year?",
+    "pasuk": {
+     "text": "מאימתי אין קוצצין את האילן בשביעית",
+     "ref": "Mishnah Sheviit 4:10",
+     "label": "Mishnah Sheviit 4:10"
+    },
+    "question": "Bartenura brings the Rambam's reason, that cutting robs the public. Why give another reason when the Gemara says 'for eating, not for destruction'?",
+    "asked_by": [
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 4:10:1",
+      "quote": "ותמהני לָמָּה מְפָרֵשׁ טַעַם אַחֵר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: it is robbing people, since God gave the fruits to all people.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 4:10:1",
+        "quote": "מפני שהוא גוזל בני אדם שהקב\"ה נתן פירותיהם לכל בני אדם"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: the Rambam only gave the reason for the derivation 'for eating and not for destruction'.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:10:1",
+        "quote": "לא נתכוין אלא לתת טעם על דרשה דלאכלה ולא להפסד"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: because the Torah said it is for eating and not for destruction.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 4:10:1",
+        "quote": "משום דלאכלה אמר רחמנא ולא להפסד"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the seventh-year ban is about loss of fruit or about taking from the public.",
+    "mishnah": 10,
+    "anchors": [
+     "מאימתי אין קוצצין את האילן בשביעית"
+    ]
+   },
+   {
+    "title": "Why not cut down a tree that bears fruit even outside the seventh year?",
+    "pasuk": {
+     "text": "כמה יהא בזית ולא יקצנו רבע",
+     "ref": "Mishnah Sheviit 4:10",
+     "label": "Mishnah Sheviit 4:10"
+    },
+    "question": "Where a tree has reached its tithing season it may be cut. But even without the seventh year, wouldn't cutting it violate 'do not destroy its trees'?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 4:10:1",
+      "quote": "והקשו תוס' ז\"ל וא\"ת בלאו שביעית נמי תיפוק לי דאסור משום לא תשחית את עצה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot: it speaks of a tree that does not bear a kav, where 'do not destroy' does not apply.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 4:10:1",
+        "quote": "וי\"ל דמיירי היכא דלא טעין קבא דלא שייך בי' לא תשחית"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: there is no problem of cutting good trees if it is worth more as wood than as a tree.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 4:10:6",
+        "quote": "שדמיו יקרים לעצים יותר מלאילן"
+       }
+      ]
+     }
+    ],
+    "why": "It separates the seventh-year ban from the general ban on destroying fruit trees.",
+    "mishnah": 10,
+    "anchors": [
+     "כמה יהא בזית ולא יקצנו רבע"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Lechem Shamayim",
+   "Tosafot Yom Tov",
+   "Rambam",
+   "Bartenura",
+   "Rashash",
+   "Melekhet Shelomoh",
+   "Ikar Tosafot Yom Tov"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א בראשונה היו מלקטים מתוך שלהם עצים ואבנים ועשבים גסים; משרבו עוברי עבירה התקינו שזה מלקט משל זה וזה משל זה, שלא בטובה. משנה ב שדה שנתקוצה תזרע במוצאי שביעית, שנטיבה או שנדיירה לא תזרע; ובית שמאי ובית הלל נחלקים באכילת פירות שדה שנטיבה ובאכילה בטובה, ורבי יהודה מחליף את הדברים. משנה ג חוכרים נירין מן הנכרים ולא מישראל, מחזיקים ידי נכרים ושואלים בשלומם מפני דרכי שלום. משניות ד-ו דיני עבודת אילנות: מדל ומחליק בזיתים, כיסוי בעפר או באבנים ובקש, בתולת שקמה, זנוב גפנים וקציצת קנים, ואילן שנפשח. משניות ז-ט מאימתי אוכלים פירות האילן בשדה ומכניסים לבית: פגים, בוסר וזיתים. משנה י מאימתי אין קוצצים את האילן בשביעית, לדעת בית שמאי, בית הלל ורבן שמעון בן גמליאל.",
+  "topics": [
+   {
+    "term": "הגס הגס והתקנה",
+    "explanation": "בתחילה היה מותר ללקט מתוך שלו רק את הגסים, שכך נראה שהוא לוקט לצורך עצים ולא לתקן את השדה. כשרבו עוברי עבירה, התקינו שזה ילקט משדה זה וזה משדה זה, שלא בטובה.",
+    "mishnah": 1,
+    "anchors": [
+     "הגס הגס"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 4:1:1",
+     "quote": "הם הבולטים ששיעורן גדול"
+    }
+   },
+   {
+    "term": "שנטיבה",
+    "explanation": "שדה שנחרשה היטב בשביעית. חכמים קנסו בכך שאסרו לזרעה במוצאי שביעית, ולדעת בית שמאי גם לאכול את פירותיה.",
+    "mishnah": 2,
+    "anchors": [
+     "שנטיבה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 4:2:2",
+     "quote": "חרשו אותה היטב והפכו אותה היטב"
+    }
+   },
+   {
+    "term": "בטובה",
+    "explanation": "אכילה או ליקוט פירות שביעית 'בטובה' פירושה בהכרת טובה לבעלים. כיוון שהפירות הפקר, בית שמאי אוסרים ובית הלל מתירים בין כך ובין כך.",
+    "mishnah": 2,
+    "anchors": [
+     "בטובה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 4:2:3",
+     "quote": "בטובה שהוא גמילות או שבח"
+    }
+   },
+   {
+    "term": "מחזיקין ידי נכרים",
+    "explanation": "מותר לחזק את הנכרים העובדים בשביעית, אך בדיבור ולא במעשה; ומותר לשאול בשלומם, אפילו בימי חגיהם, מפני דרכי שלום.",
+    "mishnah": 3,
+    "anchors": [
+     "ומחזיקין ידי נכרים"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 4:3:2",
+     "quote": "מחזיקין ידי עכו\"ם בדבור לא במעשה"
+    }
+   },
+   {
+    "term": "מדל ומחליק",
+    "explanation": "מדל הוא נטילת זית אחד או שניים; מחליק הוא נטילת שלושה זה בצד זה. מחליק נראה כהכנת הקרקע, ולכן גם בית הלל אוסרים לשרש.",
+    "mishnah": 4,
+    "anchors": [
+     "המדל בזיתים",
+     "המחליק"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 4:4:3",
+     "quote": "שמחליק פני הקרקע יותר מדאי יאמרו לעבודת קרקע הוא מתכוון ואסור"
+    }
+   },
+   {
+    "term": "בתולת שקמה",
+    "explanation": "שקמה שלא נקצצה מעולם. קציצתה נחשבת עבודה כי היא מועילה לגדילתה, כזמירת גפנים.",
+    "mishnah": 5,
+    "anchors": [
+     "בתולת שקמה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 4:5:2",
+     "quote": "ובתולת שקמה הוא הצמח הראשון שיצא בה קודם שיכרתו אותה"
+    }
+   },
+   {
+    "term": "פגים והבשלה: אכילה בשדה",
+    "explanation": "פגים אפשר לאכול בשדה משעה שהם מאדימים, והיא התחלת בישולם; כדי להכניסם הביתה צריך שיבשילו עוד. שלבים דומים קובעים גם לענין מעשרות בשאר השנים.",
+    "mishnah": 7,
+    "anchors": [
+     "הפגים משיזריחו"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 4:7:3",
+     "quote": "האדימו וזהו התחלת בשולן"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "אחרי התקנה: האם מותר ללקט את הדקים משדה חברו?",
+    "pasuk": {
+     "text": "כדרך שהוא מלקט מתוך של חברו את הגס הגס",
+     "ref": "Mishnah Sheviit 4:1",
+     "label": "משנה שביעית ד, 1"
+    },
+    "question": "המשנה אומרת שאחרי התקנה כל אחד מלקט מתוך שדה חברו 'כדרך' שהיה מלקט מתוך שלו, את הגס הגס. האם התקנה מגבילה את הליקוט לגסים בלבד, או שאפשר עדיין ללקט מתוך שדה חברו גם גסים וגם דקים?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 4:1:2",
+      "quote": "אין לו הבנה. דאי תקנתא להך גיסא הואי. למאי אצטריכו לתקוני שילקטו שלא בטובה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הר\"ש ותוספות יום טוב: התקנה היא דוקא בגסים, שאף שמלקטים שלא בטובה, הואיל וזה מלקט בשל זה וזה בשל זה, אם ילקטו את הדקים ייראה הדבר כמתקן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:1:2",
+        "quote": "הואיל וזה מלקט בשל זה וזה בשל זה אי מלקטין הדקין נראה כמתקן"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: אחרי התקנה אסור ללקט משדהו שום דבר, לא גס ולא דק, אבל מותר ללקט מתוך של חברו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 4:1:1",
+        "quote": "אסרו שילקט אדם מתוך שדהו שום דבר לא גס ולא דק אבל לוקט הוא מתוך של חבירו"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע מה בדיוק אסרה התקנה ומדוע חשוב 'שלא בטובה'.",
+    "mishnah": 1,
+    "anchors": [
+     "כדרך שהוא מלקט מתוך של חברו את הגס הגס"
+    ]
+   },
+   {
+    "title": "חרישה בשביעית בגלל מס המלך",
+    "pasuk": {
+     "text": "שדה שנתקוצה תזרע במוצאי שביעית",
+     "ref": "Mishnah Sheviit 4:2",
+     "label": "משנה שביעית ד, 2"
+    },
+    "question": "אם המשנה עוסקת בחרישה וזריעה כדי לתת את מס המלך, כיצד הותרה, והרי חרישה בשביעית היא איסור דאורייתא?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:2:1",
+      "quote": "וא\"ת ומשום ארנונא התירו לחרוש ולזרוע דהויא איסורא דאורייתא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מדובר בשביעית בזמן הזה, שהיא מדרבנן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:2:1",
+        "quote": "וי\"ל דמיירי בשביעית בזמן הזה דרבנן"
+       }
+      ]
+     },
+     {
+      "text": "או שהיה זה פיקוח נפש: המלך דרש מס ולא היה להם במה לשלם, ומתו בתפיסת המלך.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:2:1",
+        "quote": "דפקוח נפש הוא ששואל להם המלך מס ואין להם מה יפרעו"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: המשנה עוסקת בשעת הסכנה שהמלכות אונסת על המס המוטל על הקרקעות, והתירו חרישה אחת וקנסו על שתי חרישות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 4:2:2",
+        "quote": "שהיתה המלכות אונסת על המס המוטל על הקרקעות והתירו לחרוש בשביעית"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה שהמשנה אינה היתר כללי לחרוש בשביעית.",
+    "mishnah": 2,
+    "anchors": [
+     "שדה שנתקוצה תזרע במוצאי שביעית"
+    ]
+   },
+   {
+    "title": "מהו 'המדל בזיתים'?",
+    "pasuk": {
+     "text": "המדל בזיתים בית שמאי אומרים יגום",
+     "ref": "Mishnah Sheviit 4:4",
+     "label": "משנה שביעית ד, 4"
+    },
+    "question": "הברטנורא מפרש 'מדל' שנוטל זיתים כדי שהאחרים יגדלו ויתעבו. אבל מדוע מותר הדבר בשביעית, והרי זמירה לשיפור האילן אסורה? האם עדיף לפרש כרמב\"ם, שהמדל כורת לעצים?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:4:1",
+      "quote": "וצריך לחלק בין מדל לזירוד ופיסול דפ\"ב מ\"ג",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 4:4:1-5",
+      "quote": "ולא ידענא אמאי ניחא ליה טפי בפי' הרמב\"ם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: נוטל אחד או שניים כדי שהאחרים יגדלו ויתעבו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 4:4:1",
+        "quote": "נוטל אחד ומניח שנים או נוטל שנים ומניח אחד כדי שיגדל ויתעבה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: המדל בזיתים הוא שכורת אותם להיות עצים לאש.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 4:4:1",
+        "quote": "המדל בזיתים הוא שיכרתם להיות עצים לאש"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב, כדעת הרמב\"ם: כאן צריך שלא יעשה כדי שיעבה ויגדל אלא שיכרות לעצים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:4:1",
+        "quote": "דבכאן צריך שלא יעשה בשביל שיעבה ויגדל אלא שיכרות לעצים"
+       }
+      ]
+     }
+    ],
+    "why": "זה מגדיר את הגבול בין עבודת האילן האסורה להסרה המותרת.",
+    "mishnah": 4,
+    "anchors": [
+     "המדל בזיתים בית שמאי אומרים יגום"
+    ]
+   },
+   {
+    "title": "מדוע נאמר 'עד שיגום'?",
+    "pasuk": {
+     "text": "ומודים במחליק עד שיגום",
+     "ref": "Mishnah Sheviit 4:4",
+     "label": "משנה שביעית ד, 4"
+    },
+    "question": "הלשון 'עד' אינה נוחה, שהרי 'יגום' פחות מלשרש. מה היא באה ללמד?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:4:2",
+      "quote": "לישנא דעד לא ניחא. דהא יגום פחות ממשרש הוא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"ש: 'עד' כאן פירושו שאינו מותר אלא באופן שיגום, ולשון זו מצויה הרבה בלשון חז\"ל.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Sheviit 4:4:1",
+        "quote": "לא שרי רק באופן שיגום. והרבה תמצא בלשון חז\"ל שמוש מלת עד על כוונה זו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם נשמר מכך בחיבורו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:4:2",
+        "quote": "והרמב\"ם נשמר מזה בחיבורו וכתב לא ישרש"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע שהמחליק מוגבל לגימום על פני הקרקע.",
+    "mishnah": 4,
+    "anchors": [
+     "ומודים במחליק עד שיגום"
+    ]
+   },
+   {
+    "title": "רבי יהודה ובתולת שקמה: כמי ההלכה?",
+    "pasuk": {
+     "text": "רבי יהודה אומר כדרכה אסור אלא או מגביה עשרה טפחים או גומם מעל הארץ",
+     "ref": "Mishnah Sheviit 4:5",
+     "label": "משנה שביעית ד, 5"
+    },
+    "question": "הברטנורא והרמב\"ם פוסקים כרבי יהודה, ואילו לפי הרשב\"ם לתנא קמא שיעור אחר (משלושה טפחים ולמעלה אסור). מדוע פוסקים כרבי יהודה אם הוא נחלק?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:5:3",
+      "quote": "ולפ\"ז נראה דהלכתא כת\"ק כיון שחולק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הכסף משנה: אפשר שרבי יהודה לא בא לחלוק אלא לפרש.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:5:3",
+        "quote": "שאפשר שסובר דר' יהודה לא לחלוק בא אלא לפרש"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: משום שסתמא דסוגיא בבבא בתרא מקשה מדבריו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:5:3",
+        "quote": "דמשום דסתמא דסוגיא פריך מיניה התם בב\"ב"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה, מהירושלמי: המחלוקת היא רק משלושה טפחים עד תשעה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 4:5:2",
+        "quote": "אלא משלש טפחים ולמעלה עד ט' הוא דפליגי"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה את המשקל ההלכתי של מחלוקת תנא וחבריו.",
+    "mishnah": 5,
+    "anchors": [
+     "רבי יהודה אומר כדרכה אסור אלא או מגביה עשרה טפחים או גומם מעל הארץ"
+    ]
+   },
+   {
+    "title": "מדוע אין קוצצים אילן בשביעית?",
+    "pasuk": {
+     "text": "מאימתי אין קוצצין את האילן בשביעית",
+     "ref": "Mishnah Sheviit 4:10",
+     "label": "משנה שביעית ד, 10"
+    },
+    "question": "הברטנורא מביא טעם של גזל הרבים, שהוא מפירוש הרמב\"ם, במקום מה שנאמר בגמרא 'לאכלה ולא להפסד'. מדוע להביא טעם אחר?",
+    "asked_by": [
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 4:10:1",
+      "quote": "ותמהני לָמָּה מְפָרֵשׁ טַעַם אַחֵר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: הוא גוזל בני אדם, שהקב\"ה נתן פירותיהם לכל בני אדם.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 4:10:1",
+        "quote": "מפני שהוא גוזל בני אדם שהקב\"ה נתן פירותיהם לכל בני אדם"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: הרמב\"ם לא התכוון אלא לתת טעם לדרשה 'לאכלה ולא להפסד'.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 4:10:1",
+        "quote": "לא נתכוין אלא לתת טעם על דרשה דלאכלה ולא להפסד"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: משום שהתורה אמרה לאכלה ולא להפסד.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 4:10:1",
+        "quote": "משום דלאכלה אמר רחמנא ולא להפסד"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה אם האיסור בשביעית הוא משום הפסד הפרי או משום נטילה מן הציבור.",
+    "mishnah": 10,
+    "anchors": [
+     "מאימתי אין קוצצין את האילן בשביעית"
+    ]
+   },
+   {
+    "title": "האם גם שלא בשביעית אסור לקצוץ אילן פרי?",
+    "pasuk": {
+     "text": "כמה יהא בזית ולא יקצנו רבע",
+     "ref": "Mishnah Sheviit 4:10",
+     "label": "משנה שביעית ד, 10"
+    },
+    "question": "כשהאילן הגיע לעונת המעשרות מותר לקוצצו. אבל גם בלי שביעית, האם אין כאן 'לא תשחית את עצה'?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 4:10:1",
+      "quote": "והקשו תוס' ז\"ל וא\"ת בלאו שביעית נמי תיפוק לי דאסור משום לא תשחית את עצה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות: מדובר באילן שאינו טוען קבא, שלא שייך בו 'לא תשחית'.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 4:10:1",
+        "quote": "וי\"ל דמיירי היכא דלא טעין קבא דלא שייך בי' לא תשחית"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: אין כאן איסור קוצץ אילנות טובים אם הוא מעולה בדמים, שדמיו יקרים לעצים יותר מלאילן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 4:10:6",
+        "quote": "שדמיו יקרים לעצים יותר מלאילן"
+       }
+      ]
+     }
+    ],
+    "why": "זה מבדיל בין איסור שביעית לאיסור הכללי להשחית אילן פרי.",
+    "mishnah": 10,
+    "anchors": [
+     "כמה יהא בזית ולא יקצנו רבע"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "לחם שמים",
+   "תוספות יום טוב",
+   "רמב\"ם",
+   "ברטנורא",
+   "רש\"ש",
+   "מלאכת שלמה",
+   "עיקר תוספות יום טוב"
+  ]
+ }
 }
