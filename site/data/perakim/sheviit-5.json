@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-14",
+ "hebrew_date": {
+  "hebrew": "ד׳ בְּכִסְלֵו תשפ״ז",
+  "english": "4 Kislev 5787"
+ },
  "masechet": "sheviit",
  "perek": 5,
  "ref": "Mishnah Sheviit 5",
@@ -39,5 +44,1095 @@
    "he": "מַשְׁאֶלֶת אִשָּׁה לַחֲבֶרְתָּהּ הַחֲשׁוּדָה עַל הַשְּׁבִיעִית נָפָה וּכְבָרָה וְרֵחַיִם וְתַנּוּר. אֲבָל לֹא תָבוֹר וְלֹא תִטְחַן עִמָּהּ. אֵשֶׁת חָבֵר מַשְׁאֶלֶת לְאֵשֶׁת עַם הָאָרֶץ נָפָה וּכְבָרָה, וּבוֹרֶרֶת וְטוֹחֶנֶת וּמַרְקֶדֶת עִמָּהּ. אֲבָל מִשֶּׁתַּטִּיל הַמַּיִם, לֹא תִגַּע אֶצְלָהּ, שֶׁאֵין מַחְזִיקִין יְדֵי עוֹבְרֵי עֲבֵרָה. וְכֻלָּן לֹא אָמְרוּ אֶלָּא מִפְּנֵי דַרְכֵי שָׁלוֹם. וּמַחֲזִיקִין יְדֵי נָכְרִים בַּשְּׁבִיעִית, אֲבָל לֹא יְדֵי יִשְׂרָאֵל. וְשׁוֹאֲלִין בִּשְׁלוֹמָן, מִפְּנֵי דַרְכֵי שָׁלוֹם: \n",
    "en": "A woman may lend to her neighbor who is suspect of transgressing the laws of the sabbatical year, a sifter, a sieve, a hand-mill, or an oven. But she may not sift or grind with her. The wife of a haver may lend to the wife of an am haaretz a sifter and a sieve and may even sift, grind, or sift flour with her. But once she poured water [over the flour], she may not touch [it] with her, for one may not aid those who commit a transgression. And all these things were only allowed in the interests of peace. They may offer encouragement to Gentiles during the sabbatical year, but not to Jews. In the interests of peace, one may also offer greetings to Gentiles."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 Bnot shuach (white figs) have their sheviit in the second year of the cycle, since they ripen once in three years, while Rabbi Yehuda says the Persian figs ripen in two years, and the Sages limit this to bnot shuach. Mishnah 2 Luf that is buried during the sabbatical year must be buried in set amounts, heights and cover, in a place where people walk, according to Rabbi Meir and the Sages. Mishnah 3 Rabbi Eliezer and Rabbi Yehoshua disagree whether one must reckon with the poor for luf that remained into the eighth year. Mishnah 4 Beit Shammai and Beit Hillel disagree whether luf, onions and puah that entered the seventh year are uprooted with wooden or metal tools. Mishnah 5 Rabbi Yehuda says luf may be bought at once after the seventh year, but the Sages say only after the new crop appears. Mishnayot 6–9 teach which tools a craftsman may not sell in the seventh year, the potter's limits, what may be sold or lent when we assume a permitted use, and what a woman may lend or do with a neighbor suspected of violating the sheviit, all for the sake of peace.",
+  "topics": [
+   {
+    "term": "Bnot shuach and Persiyot (white and Persian figs)",
+    "explanation": "Bnot shuach are a kind of white fig whose fruit takes about three years from setting to ripening, so a fruit that set during the sabbatical year ripens in the second year after it. The mishnah says that fig still carries the sanctity of sheviit then, because for tree fruit we follow the time it set (chanatah). Rabbi Yehuda says the Persian figs ripen in two years, but the Sages limit this to bnot shuach.",
+    "mishnah": 1,
+    "anchors": [
+     "בנות שוח"
+    ],
+    "source": {
+     "name": "Rash MiShantz",
+     "ref": "Rash MiShantz on Mishnah Sheviit 5:1:2",
+     "quote": "דפירות החונטים בשביעית אין נגמר בישולן עד שנה שניה"
+    }
+   },
+   {
+    "term": "Burying luf (a type of onion)",
+    "explanation": "Luf is a bulb of the onion family that people used to store buried in the ground. During the sabbatical year, burying a small amount would look like sowing, so the mishnah gives minimum amounts, heights and a covering of earth that make it plainly storage, and requires burying it where people walk so it will not sprout.",
+    "mishnah": 2,
+    "anchors": [
+     "הטומן את הלוף"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 5:2:1",
+     "quote": "אינו מותר לו להטמין שיעור מועט מפני שדומה לזרע וכאילו"
+    }
+   },
+   {
+    "term": "Making a reckoning with the poor",
+    "explanation": "Luf that stayed in the ground past the sabbatical year grew partly in the seventh year and partly in the eighth. Rabbi Eliezer holds that if the poor did not gather its leaves, the owner must estimate how much grew in the seventh year and give that share to the poor. Rabbi Yehoshua says no reckoning is owed. The Rambam ties this to the dispute whether sheviit produce may be eaten after the time of removal (biur).",
+    "mishnah": 3,
+    "anchors": [
+     "יעשה חשבון עם העניים"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 5:3:1",
+     "quote": "ואם לא לקטו עליו יעשה חשבון וענין החשבון"
+    }
+   },
+   {
+    "term": "Shinui: doing the work in an unusual way",
+    "explanation": "Beit Shammai require uprooting with wooden hoes rather than metal, so that someone watching will not think the person is working the land. The tool is a change (shinui) from ordinary farming. Beit Hillel are not concerned about appearing to work the land and allow metal axes.",
+    "mishnah": 4,
+    "anchors": [
+     "במארופות של עץ"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 5:4:4",
+     "quote": "כלים עשויין מעץ לחפור בהם כדי שישנה ולא יחשב"
+    }
+   },
+   {
+    "term": "Puah (madder), a red dye plant",
+    "explanation": "Puah is a plant whose root gives a red dye. 'Of idit' means the good, rich kind, according to the Rambam, while the Aruch takes idit as a place name. It is one of the crops the mishnah lists as grown from before the sabbatical year and still in the ground.",
+    "mishnah": 4,
+    "anchors": [
+     "פואה של עדית"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 5:4:3",
+     "quote": "הוא עץ אדום צובעים בו"
+    }
+   },
+   {
+    "term": "Lifnei iver: not aiding those who transgress",
+    "explanation": "The ban on selling a plow and its parts in the seventh year rests on the verse 'before the blind do not place a stumbling block'. It is forbidden to help someone who is drawn to sin, so one may not make or sell him the tools of the forbidden work. The general rule: a tool made only for forbidden work may not be sold, while one with a permitted use may be.",
+    "mishnah": 6,
+    "anchors": [
+     "כל שמלאכתו מיוחדת לעבירה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 5:6:1",
+     "quote": "אסור לעזור עוברי עבירה ולא יתקנו להם"
+    }
+   },
+   {
+    "term": "Talinan: assuming a permitted use",
+    "explanation": "Where a purchase or loan could serve a permitted purpose as easily as a forbidden one, we assume the permitted one. Beit Hillel therefore permit selling a plowing cow, since it can be slaughtered. Beit Shammai disagree because it is not normal to slaughter a cow that plows. If the buyer says outright that it is for forbidden work, all of this is forbidden.",
+    "mishnah": 8,
+    "anchors": [
+     "מפני שהוא יכול לשחטה"
+    ],
+    "source": {
+     "name": "Rash MiShantz",
+     "ref": "Rash MiShantz on Mishnah Sheviit 5:8:2",
+     "quote": "דכל היכא דאיכא למיתלי תלינן."
+    }
+   },
+   {
+    "term": "One suspected of sheviit violations, and darkhei shalom",
+    "explanation": "A woman suspected of the sheviit is one who eats sheviit produce after the time of removal without removing it. The mishnah lets a neighbor lend her tools that have a permitted use, but not help her do the work, and it lists the permitted help as allowed only for the sake of peace (darkhei shalom).",
+    "mishnah": 9,
+    "anchors": [
+     "החשודה על השביעית"
+    ],
+    "source": {
+     "name": "Rash MiShantz",
+     "ref": "Rash MiShantz on Mishnah Sheviit 5:9:1",
+     "quote": "לאכול פירות אחר הביעור בלא"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why only bnot shuach?",
+    "pasuk": {
+     "text": "לא אמרו אלא בנות שוח",
+     "ref": "Mishnah Sheviit 5:1",
+     "label": "Mishnah Sheviit 5:1"
+    },
+    "question": "Rabbi Yehuda says Persian figs also have sheviit status in the year after the seventh, and the Sages answer 'they said it only of bnot shuach'. Why do Persian figs not get the same rule, given that they too set during the seventh year?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:1:1",
+      "quote": "ולא נתפרש הטעם למה לא אמרו כמו כן בפרסאות דכיון שנחנטו בשביעית שיהיה לפירותיהן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The reason is the place, not the nature of the fruit: Persian figs ripen quicker or slower only according to where they grow (Tiberias, Tzippori), so the Sages gave no rule for telling them apart.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 5:1:1",
+        "quote": "דאין זה העיכוב מטבע הפרסיות עצמם כבנות שוח, … אלא המקום גורם,"
+       }
+      ]
+     },
+     {
+      "text": "We follow the time of setting only for trees that bear two crops a year, like an ordinary fig. A tree with a single crop follows the time of picking.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 5:1:1-9",
+        "quote": "דווקא העושין כעין שתי בריכות בשנה."
+       }
+      ]
+     },
+     {
+      "text": "There is no need to ask, because 'they said to him' is simply the first tanna's reply, and a statement does not need its reason given.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 5:1:4",
+        "quote": "ונלע\"ד דמשום דהוי כמילתא בלא טעמא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows when sheviit status follows the setting of a fruit and when it follows the picking.",
+    "mishnah": 1,
+    "anchors": [
+     "לא אמרו אלא בנות שוח"
+    ]
+   },
+   {
+    "title": "Luf picked in the eighth year",
+    "pasuk": {
+     "text": "אם לקטו העניים את עליו",
+     "ref": "Mishnah Sheviit 5:3",
+     "label": "Mishnah Sheviit 5:3"
+    },
+    "question": "For vegetables we follow the time of picking, so luf leaves picked in the eighth year should not have sheviit status at all. Why then must the owner make a reckoning with the poor?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:3:1",
+      "quote": "וא\"ת בירק אזלינן בתר לקיטה",
+      "era": "acharon"
+     },
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Sheviit 5:3:1",
+      "quote": "וא\"ת בירק אזלינן בתר לקיטה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The mishnah speaks of luf uprooted with its leaves at the end of the seventh year, replanted, and which grew more in the eighth year; the reckoning is for that growth.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:3:1",
+        "quote": "ותירץ הר\"ש דמתניתין איירי דעקרוהו עם עליו סוף שביעית ועקרוהו"
+       }
+      ]
+     },
+     {
+      "text": "Following the time of picking applies only to the years of ma'aser. When the root is a piece of forbidden produce, we do not follow the picking.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 5:3:2",
+        "quote": "דלא אזלי' גבי ירק בתר לקיטה אלא לענין שנות"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the limits of the rule that vegetables follow the picking.",
+    "mishnah": 3,
+    "anchors": [
+     "אם לקטו העניים את עליו"
+    ]
+   },
+   {
+    "title": "Is uprooting forbidden for loss of produce?",
+    "pasuk": {
+     "text": "בְּמַאֲרוּפוֹת שֶׁל עֵץ",
+     "ref": "Mishnah Sheviit 5:4",
+     "label": "Mishnah Sheviit 5:4"
+    },
+    "question": "Bartenura says that if the luf added growth in the seventh year it is forbidden to uproot it, because it destroys fruit. Tosafot Yom Tov and the Rambam hold that sprouts are forbidden to eat only where their growth began in the seventh year. How can the same luf be forbidden to destroy?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 5:4:1",
+      "quote": "ותמוה דהא במשנה דלעיל כ'",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 5:4:1-5",
+      "quote": "ואין זה מכוון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "This is the Yerushalmi's own reading: if the sprouts grew, it was forbidden to uproot and destroy them.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Sheviit 5:4:1",
+        "quote": "דאם הוסיפו ספיחין היה אסור לעוקרן"
+       }
+      ]
+     },
+     {
+      "text": "It is about wild luf, which comes from ownerless land and is not forbidden to eat, but still has sheviit sanctity, so it may not be destroyed; one should pick it by hand.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 5:4:6-9",
+        "quote": "אלא ילקטנו ביד:"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Yosef writes that this explanation of the luf is unknown to him, since luf is not a tree; rather if it added growth it has sheviit status.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 5:4:1",
+        "quote": "פי' זה איני יודע מנין בא … יש לו דין שביעית"
+       }
+      ]
+     }
+    ],
+    "why": "It exposes the question of what status a plant has when it added growth during the seventh year.",
+    "mishnah": 4,
+    "anchors": [
+     "בְּמַאֲרוּפוֹת שֶׁל עֵץ"
+    ]
+   },
+   {
+    "title": "What is 'pua shel tzelaot'?",
+    "pasuk": {
+     "text": "וּמוֹדִים בְּפוּאָה שֶׁל צְלָעוֹת",
+     "ref": "Mishnah Sheviit 5:4",
+     "label": "Mishnah Sheviit 5:4"
+    },
+    "question": "Beit Shammai agree with Beit Hillel that pua shel tzelaot may be uprooted with metal. One reading is the sides of the field where one does not sow, but then why would metal tools even be needed, and why does the mishnah need the agreement?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 5:4:5",
+      "quote": "פי' זה אין נראה דא\"כ למה צריך קרדומות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "It means the plant has ribs and sits deep in the ground, so it cannot be uprooted with wooden tools, only with iron.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 5:4:5",
+        "quote": "שיש לה צלעות והיא בעומק הארץ"
+       }
+      ]
+     },
+     {
+      "text": "It grows between rocks, where it is not normal to sow, so using metal does not look like working the land.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 5:4:6",
+        "quote": "כֵּיוָן דְּאֵין דֶּרֶךְ לִזְרֹעַ שָׁם"
+       }
+      ]
+     },
+     {
+      "text": "On the 'sides of the field' reading, the point of the agreement is that the dispute applies even where it is customary to sow.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 5:4:1",
+        "quote": "נפקא מינה בהודאה זו,"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what lies behind the disagreement of Beit Shammai and Beit Hillel on appearing to work the land.",
+    "mishnah": 4,
+    "anchors": [
+     "וּמוֹדִים בְּפוּאָה שֶׁל צְלָעוֹת"
+    ]
+   },
+   {
+    "title": "Rabbi Yehuda permits luf immediately",
+    "pasuk": {
+     "text": "רַבִּי יְהוּדָה אוֹמֵר, מִיָּד",
+     "ref": "Mishnah Sheviit 5:5",
+     "label": "Mishnah Sheviit 5:5"
+    },
+    "question": "For other vegetables Rabbi Yehuda agrees one may buy only after the like has been made. Why is luf different, and if luf that grew in the sixth year is permitted, why should one suspect the seventh-year luf at all?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 5:5:1",
+      "quote": "לכאורה תמוה … דהא פי' שם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Luf has to be uprooted with a change, so a person is not likely to come across forbidden luf after the seventh year, and it is permitted at once; ordinary vegetables are different.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 5:5:1",
+        "quote": "לֹא שְׁכִיחַ דְּאִסּוּרָא"
+       }
+      ]
+     },
+     {
+      "text": "The Yerushalmi speaks of luf buried: there it is not normal to uproot in a changed way just to bury it until after the seventh year, but during the seventh year itself we suspect he brought forbidden luf and says it was from the buried.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:5:1",
+        "quote": "דבטמון אנן קיימין … אבל בשביעית עצמו"
+       }
+      ]
+     },
+     {
+      "text": "Rashash: if the luf grew sprouts it is forbidden to uproot it at all, so one might suspect that he uprooted those in a changed way to hide it.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Sheviit 5:5:1",
+        "quote": "וצ\"ל דכוונתו דבהוסיפו ספיחין … כדי לגנוב את העין"
+       }
+      ]
+     }
+    ],
+    "why": "It explains why luf has a special leniency compared to other vegetables.",
+    "mishnah": 5,
+    "anchors": [
+     "רַבִּי יְהוּדָה אוֹמֵר, מִיָּד"
+    ]
+   },
+   {
+    "title": "The permitted sickle",
+    "pasuk": {
+     "text": "אֲבָל מוֹכֵר הוּא מַגַּל יָד וּמַגַּל קָצִיר",
+     "ref": "Mishnah Sheviit 5:6",
+     "label": "Mishnah Sheviit 5:6"
+    },
+    "question": "According to the Rambam all sprouts are forbidden to eat, including grain and legumes that people reap. If so, for what permitted purpose may a craftsman sell a sickle?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:6:4",
+      "quote": "וא\"כ הך מגל יד",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The sickle is assumed to be for cutting weeds that most people do not sow, such as pigam.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:6:4",
+        "quote": "אלא דתלינן שיקצור העשבים שאין זורעים"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: he may want to reap from ownerless land and bring it by cart for his household; only bringing a great deal to store is forbidden.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 5:6:4",
+        "quote": "וְאֵין אָסוּר אֶלָּא לְהָבִיא הַרְבֵּה"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: even on the Rambam's view, grain that reached a third before the seventh year has the full status of sixth-year produce, so reaping tools can be sold for it.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 5:6:1-5",
+        "quote": "ולענ\"ד אין צ\"ל כן … אם הביאו שליש לפני שביעיא."
+       }
+      ]
+     }
+    ],
+    "why": "It tests the reason behind the list of forbidden and permitted tools.",
+    "mishnah": 6,
+    "anchors": [
+     "אֲבָל מוֹכֵר הוּא מַגַּל יָד וּמַגַּל קָצִיר"
+    ]
+   },
+   {
+    "title": "Why does the Rambam omit the potter's rule?",
+    "pasuk": {
+     "text": "וְאִם הֵבִיא יוֹתֵר מִכָּאן, מֻתָּר",
+     "ref": "Mishnah Sheviit 5:7",
+     "label": "Mishnah Sheviit 5:7"
+    },
+    "question": "Tosafot Yom Tov is surprised that the Rambam omitted the clause 'if he brought more it is permitted' from his Mishneh Torah. Why is it not stated there?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:7:1",
+      "quote": "ואני תמה על הרמב\"ם שהשמיט",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rashash: this was overlooked, for the Rambam does give it in chapter 4, for a different purpose.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Sheviit 5:7:1",
+        "quote": "ונעלם מכ\"ת שהביאה … לכוונה אחרת"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Yosef reads the clause as: the potter should not begin by selling more, but if the owner brought more, more may be sold so he will not lose sheviit produce.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 5:7:1",
+        "quote": "אם עבר הבעל הבית והביא יותר … כדי שלא יפסיד פירות שביעית"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mishnah's wording is read against the Rambam's code.",
+    "mishnah": 7,
+    "anchors": [
+     "וְאִם הֵבִיא יוֹתֵר מִכָּאן, מֻתָּר"
+    ]
+   },
+   {
+    "title": "What does 'darkhei shalom' apply to?",
+    "pasuk": {
+     "text": "וְכֻלָּן לֹא אָמְרוּ אֶלָּא מִפְּנֵי דַרְכֵי שָׁלוֹם",
+     "ref": "Mishnah Sheviit 5:9",
+     "label": "Mishnah Sheviit 5:9"
+    },
+    "question": "Does 'all these were said only for the sake of peace' refer to the whole chapter (the craftsman, the cow, the loans), or only to the woman lending to her neighbor? And since the earlier cases are permitted without it, why is it needed here?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Sheviit 5:9:6",
+      "quote": "מיבעיא ליה אי קאי … צריך טעם דהנך דלעיל",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Yerushalmi concludes it refers only to the woman lending; the earlier cases are permitted because a permitted use can be assumed, but here it is known she has only sheviit produce, so only darkhei shalom permits it.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:9:7",
+        "quote": "דלא קאי הך טעמא … אלא דהכא מיירי בידוע"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam says it means everything said in this halakha about allowing lending and even slight help.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 5:9:2",
+        "quote": "כל מה שנאמר בהלכה זו"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: they did not allow lending the tools or helping outside the moment of transgression itself, except for the sake of peace.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 5:9:10",
+        "quote": "אֶלָּא מִשּׁוּם דַּרְכֵי שָׁלוֹם:"
+       }
+      ]
+     }
+    ],
+    "why": "It decides how wide the leniency of darkhei shalom reaches.",
+    "mishnah": 9,
+    "anchors": [
+     "וְכֻלָּן לֹא אָמְרוּ אֶלָּא מִפְּנֵי דַרְכֵי שָׁלוֹם"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Hon Ashir",
+   "Lechem Shamayim",
+   "Melekhet Shelomoh",
+   "Rash MiShantz",
+   "Rashash",
+   "Rambam",
+   "Bartenura"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א בנות שוח שביעית שלהן בשנה שנייה של השמיטה, שהן עושות לשלוש שנים, ורבי יהודה אומר שהפרסאות עושות לשתי שנים, וחכמים מגבילים זאת לבנות שוח. משנה ב הטומן לוף בשביעית חייב בשיעורי כמות, גובה ועפר, ובמקום דריסת אדם, לפי רבי מאיר וחכמים. משנה ג רבי אליעזר ורבי יהושע חלוקים אם צריך לעשות חשבון עם העניים בלוף שעבר עליו שביעית. משנה ד בית שמאי ובית הלל חלוקים אם עוקרים לוף, בצלים ופואה שנכנסו לשביעית במארופות של עץ או בקרדומות של מתכת. משנה ה רבי יהודה אומר שמותר לקנות לוף במוצאי שביעית מיד, וחכמים אומרים משירבה החדש. משניות ו-ט מלמדות אילו כלים אין האומן רשאי למכור בשביעית, גבולות היוצר, מה מוכרים ומשאילים כשתולים בהיתר, ומה אשה מותרת להשאיל ולעשות עם חברתה החשודה על השביעית, הכול מפני דרכי שלום.",
+  "topics": [
+   {
+    "term": "בנות שוח ופרסאות",
+    "explanation": "בנות שוח הן תאנים לבנות שפירותיהן נגמרים כשלוש שנים מאז החנטה, ולכן פרי שחנט בשביעית מבשיל בשנה השנייה של השמיטה. המשנה אומרת שדינו עדיין כדין שביעית, כי באילן הולכים אחר החנטה. רבי יהודה אומר שגם הפרסאות עושות לשתי שנים, ואילו חכמים מגבילים את הדין לבנות שוח בלבד.",
+    "mishnah": 1,
+    "anchors": [
+     "בנות שוח"
+    ],
+    "source": {
+     "name": "רש משנץ",
+     "ref": "Rash MiShantz on Mishnah Sheviit 5:1:2",
+     "quote": "דפירות החונטים בשביעית אין נגמר בישולן עד שנה שניה"
+    }
+   },
+   {
+    "term": "הטמנת לוף",
+    "explanation": "לוף הוא מין בצל שהיו רגילים לטמון בארץ לשם אחסון. בשביעית טמינה של כמות קטנה נראית כזריעה, ולכן המשנה קובעת שיעורים, גובה ועפר שמראים שזו אחסנה, ומצריכה לטמון במקום דריסת רגל כדי שלא יצמח.",
+    "mishnah": 2,
+    "anchors": [
+     "הטומן את הלוף"
+    ],
+    "source": {
+     "name": "רמב״ם",
+     "ref": "Rambam on Mishnah Sheviit 5:2:1",
+     "quote": "אינו מותר לו להטמין שיעור מועט מפני שדומה לזרע וכאילו"
+    }
+   },
+   {
+    "term": "חשבון עם העניים",
+    "explanation": "לוף שעמד בארץ מעבר לשנת השמיטה גדל חלקו בשביעית וחלקו בשמינית. רבי אליעזר סובר שאם לא לקטו העניים את עליו, על בעל השדה להעריך כמה גדל בשביעית ולתת לעניים את חלקם. רבי יהושע אומר שאין עליו חשבון. הרמב״ם קושר זאת למחלוקת אם מותר לאכול פירות שביעית אחרי זמן הביעור.",
+    "mishnah": 3,
+    "anchors": [
+     "יעשה חשבון עם העניים"
+    ],
+    "source": {
+     "name": "רמב״ם",
+     "ref": "Rambam on Mishnah Sheviit 5:3:1",
+     "quote": "ואם לא לקטו עליו יעשה חשבון וענין החשבון"
+    }
+   },
+   {
+    "term": "שינוי בדרך העבודה",
+    "explanation": "בית שמאי מצריכים עקירה במארופות של עץ ולא בברזל, כדי שהרואה לא יחשוב שהוא עובד את האדמה. הכלי הוא שינוי מדרך העבודה הרגילה. בית הלל אינם חוששים שייראה כעובד את הארץ ומתירים קרדומות של מתכת.",
+    "mishnah": 4,
+    "anchors": [
+     "במארופות של עץ"
+    ],
+    "source": {
+     "name": "רמב״ם",
+     "ref": "Rambam on Mishnah Sheviit 5:4:4",
+     "quote": "כלים עשויין מעץ לחפור בהם כדי שישנה ולא יחשב"
+    }
+   },
+   {
+    "term": "פואה",
+    "explanation": "פואה היא צמח שמשורשו מפיקים צבע אדום. 'של עידית' פירושו הטובה והשמנה לפי הרמב״ם, ובערוך עידית הוא שם מקום. היא אחד הגידולים שהמשנה מונה כנטועים מלפני השביעית ועודם בקרקע.",
+    "mishnah": 4,
+    "anchors": [
+     "פואה של עדית"
+    ],
+    "source": {
+     "name": "רמב״ם",
+     "ref": "Rambam on Mishnah Sheviit 5:4:3",
+     "quote": "הוא עץ אדום צובעים בו"
+    }
+   },
+   {
+    "term": "לפני עיוור ועוזר עוברי עבירה",
+    "explanation": "האיסור למכור מחרשה וכליה בשביעית נסמך על הפסוק 'ולפני עור לא תתן מכשול'. אסור לסייע למי שיצרו מושך אותו לעבירה, ולכן אין מוכרים לו את כלי המלאכה האסורה. הכלל: כלי שמלאכתו מיוחדת לעבירה אסור, ואם יש לו שימוש מותר, מותר למוכרו.",
+    "mishnah": 6,
+    "anchors": [
+     "כל שמלאכתו מיוחדת לעבירה"
+    ],
+    "source": {
+     "name": "רמב״ם",
+     "ref": "Rambam on Mishnah Sheviit 5:6:1",
+     "quote": "אסור לעזור עוברי עבירה ולא יתקנו להם"
+    }
+   },
+   {
+    "term": "תלינן להיתר",
+    "explanation": "כשקנייה או השאלה יכולות לשמש להיתר כמו לאיסור, תולים בהיתר. לכן בית הלל מתירים למכור פרה חורשת, שהרי אפשר לשוחטה. בית שמאי חולקים כי אין דרך לשחוט פרה העומדת לחרישה. אם הקונה אומר במפורש שהוא צריך לעבודה אסורה, כל זה אסור.",
+    "mishnah": 8,
+    "anchors": [
+     "מפני שהוא יכול לשחטה"
+    ],
+    "source": {
+     "name": "רש משנץ",
+     "ref": "Rash MiShantz on Mishnah Sheviit 5:8:2",
+     "quote": "דכל היכא דאיכא למיתלי תלינן."
+    }
+   },
+   {
+    "term": "חשודה על השביעית ודרכי שלום",
+    "explanation": "חשודה על השביעית היא מי שאוכלת פירות שביעית אחרי הביעור בלא ביעור. המשנה מתירה להשאיל לה כלים שיש להם שימוש מותר, אך לא לסייע לה במלאכה, והיתר העזרה נאמר רק מפני דרכי שלום.",
+    "mishnah": 9,
+    "anchors": [
+     "החשודה על השביעית"
+    ],
+    "source": {
+     "name": "רש משנץ",
+     "ref": "Rash MiShantz on Mishnah Sheviit 5:9:1",
+     "quote": "לאכול פירות אחר הביעור בלא"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע רק בנות שוח?",
+    "pasuk": {
+     "text": "לא אמרו אלא בנות שוח",
+     "ref": "Mishnah Sheviit 5:1",
+     "label": "משנה שביעית ה, 1"
+    },
+    "question": "רבי יהודה אומר שגם לפרסאות יש דין שביעית בשנה שלאחר השמיטה, וחכמים משיבים 'לא אמרו אלא בנות שוח'. מדוע אין לפרסאות אותו דין, והלוא גם הן חנטו בשביעית?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:1:1",
+      "quote": "ולא נתפרש הטעם למה לא אמרו כמו כן בפרסאות דכיון שנחנטו בשביעית שיהיה לפירותיהן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הטעם הוא המקום ולא טבע הפרי: הפרסאות מבשילות מהר או לאט לפי המקום (טבריה, צפורי), ולכן חכמים לא קבעו דין להבחין ביניהן.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 5:1:1",
+        "quote": "דאין זה העיכוב מטבע הפרסיות עצמם כבנות שוח, … אלא המקום גורם,"
+       }
+      ]
+     },
+     {
+      "text": "הולכים אחר חנטה רק באילנות שעושים שתי בריכות בשנה, כתאנה רגילה. אילן שעושה בריכה אחת הולכים בו אחר לקיטה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 5:1:1-9",
+        "quote": "דווקא העושין כעין שתי בריכות בשנה."
+       }
+      ]
+     },
+     {
+      "text": "אין צורך לשאול, כי 'אמרו לו' הוא דברי התנא הראשון, ואין הכרח שיתפרש הטעם.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 5:1:4",
+        "quote": "ונלע\"ד דמשום דהוי כמילתא בלא טעמא"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה מתי דין שביעית הולך אחר חנטת הפרי ומתי אחר לקיטתו.",
+    "mishnah": 1,
+    "anchors": [
+     "לא אמרו אלא בנות שוח"
+    ]
+   },
+   {
+    "title": "לוף שנלקט בשמינית",
+    "pasuk": {
+     "text": "אם לקטו העניים את עליו",
+     "ref": "Mishnah Sheviit 5:3",
+     "label": "משנה שביעית ה, 3"
+    },
+    "question": "בירק הולכים אחר לקיטה, ולכן עלי לוף שנלקטו בשמינית לא אמורים להיות בדין שביעית. מדוע אפוא צריך בעל הבית לעשות חשבון עם העניים?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:3:1",
+      "quote": "וא\"ת בירק אזלינן בתר לקיטה",
+      "era": "acharon"
+     },
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Sheviit 5:3:1",
+      "quote": "וא\"ת בירק אזלינן בתר לקיטה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "המשנה עוסקת בלוף שנעקר עם עליו בסוף שביעית, נשתל מחדש והוסיף גידולים בשמינית, ועל גידולים אלו עושים חשבון.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:3:1",
+        "quote": "ותירץ הר\"ש דמתניתין איירי דעקרוהו עם עליו סוף שביעית ועקרוהו"
+       }
+      ]
+     },
+     {
+      "text": "ההליכה אחר לקיטה בירק נאמרת רק לענין שנות מעשר, אך כשהעיקר חתיכה של איסור אין הולכים אחר לקיטה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 5:3:2",
+        "quote": "דלא אזלי' גבי ירק בתר לקיטה אלא לענין שנות"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר קובע את גבולות הכלל שבירק הולכים אחר לקיטה.",
+    "mishnah": 3,
+    "anchors": [
+     "אם לקטו העניים את עליו"
+    ]
+   },
+   {
+    "title": "האם איסור העקירה משום הפסד פרי?",
+    "pasuk": {
+     "text": "בְּמַאֲרוּפוֹת שֶׁל עֵץ",
+     "ref": "Mishnah Sheviit 5:4",
+     "label": "משנה שביעית ה, 4"
+    },
+    "question": "הברטנורא אומר שאם הוסיף הלוף צמחים בשביעית אסור לעוקרו משום הפסד פרי. אך התוספות יום טוב והרמב\"ם סוברים שספיחים נאסרו רק כשתחילת גידולם בשביעית. כיצד אותו לוף אסור להפסדו?",
+    "asked_by": [
+     {
+      "name": "רש״ש",
+      "ref": "Rashash on Mishnah Sheviit 5:4:1",
+      "quote": "ותמוה דהא במשנה דלעיל כ'",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 5:4:1-5",
+      "quote": "ואין זה מכוון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "כך מפורש בירושלמי: אם הוסיפו ספיחים היה אסור לעוקרם ולהפסידם.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Sheviit 5:4:1",
+        "quote": "דאם הוסיפו ספיחין היה אסור לעוקרן"
+       }
+      ]
+     },
+     {
+      "text": "מדובר בלוף שוטה שבא מן ההפקר, שאין אסור באכילה אך נוהגת בו קדושת שביעית, ולכן אסור להפסידו אלא ילקטנו ביד.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 5:4:6-9",
+        "quote": "אלא ילקטנו ביד:"
+       }
+      ]
+     },
+     {
+      "text": "רבי יוסף כותב שאינו יודע מנין בא פירוש זה, שהרי לוף אינו אילן, ונראה שאם הוסיף יש לו דין שביעית.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 5:4:1",
+        "quote": "פי' זה איני יודע מנין בא … יש לו דין שביעית"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר חושף את השאלה מה דינו של צמח שהוסיף גידול בשביעית.",
+    "mishnah": 4,
+    "anchors": [
+     "בְּמַאֲרוּפוֹת שֶׁל עֵץ"
+    ]
+   },
+   {
+    "title": "מהי 'פואה של צלעות'?",
+    "pasuk": {
+     "text": "וּמוֹדִים בְּפוּאָה שֶׁל צְלָעוֹת",
+     "ref": "Mishnah Sheviit 5:4",
+     "label": "משנה שביעית ה, 4"
+    },
+    "question": "בית שמאי מודים לבית הלל שפואה של צלעות עוקרים בקרדומות של מתכת. לפי פירוש אחד הכוונה לצדי השדה שאין דרך לזרוע שם, אך אז למה צריך קרדומות, ומה צורך בהודאה?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 5:4:5",
+      "quote": "פי' זה אין נראה דא\"כ למה צריך קרדומות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הכוונה לפואה שיש לה צלעות והיא בעומק הארץ, ואי אפשר לעקור אותה בכלי עץ אלא בברזל.",
+      "sources": [
+       {
+        "name": "רמב״ם",
+        "ref": "Rambam on Mishnah Sheviit 5:4:5",
+        "quote": "שיש לה צלעות והיא בעומק הארץ"
+       }
+      ]
+     },
+     {
+      "text": "היא גדלה בין הסלעים, ושם אין דרך לזרוע, ולכן אין נראה כעובד את הארץ.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 5:4:6",
+        "quote": "כֵּיוָן דְּאֵין דֶּרֶךְ לִזְרֹעַ שָׁם"
+       }
+      ]
+     },
+     {
+      "text": "לפי פירוש 'צדי השדה', הנפקא מינה בהודאה היא שמחלוקתם אף במקום שדרך לזרוע שם.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 5:4:1",
+        "quote": "נפקא מינה בהודאה זו,"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה מה עומד מאחורי מחלוקת בית שמאי ובית הלל על חשש עבודת הארץ.",
+    "mishnah": 4,
+    "anchors": [
+     "וּמוֹדִים בְּפוּאָה שֶׁל צְלָעוֹת"
+    ]
+   },
+   {
+    "title": "רבי יהודה מתיר לוף מיד",
+    "pasuk": {
+     "text": "רַבִּי יְהוּדָה אוֹמֵר, מִיָּד",
+     "ref": "Mishnah Sheviit 5:5",
+     "label": "משנה שביעית ה, 5"
+    },
+    "question": "בשאר ירקות מודה רבי יהודה שאסור עד שיעשה כיוצא בו. במה שונה לוף, ואם הלוף של ששית מותר, מה יש לחשוש?",
+    "asked_by": [
+     {
+      "name": "רש״ש",
+      "ref": "Rashash on Mishnah Sheviit 5:5:1",
+      "quote": "לכאורה תמוה … דהא פי' שם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לוף צריך לעקרו בשינוי, ולכן אין שכיח איסור במוצאי שביעית ומותר מיד, בניגוד לירק רגיל.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 5:5:1",
+        "quote": "לֹא שְׁכִיחַ דְּאִסּוּרָא"
+       }
+      ]
+     },
+     {
+      "text": "הירושלמי עוסק בלוף טמון, ואין דרך לעקור בשינוי של איסור כדי לטמון עד מוצאי שביעית, אך בשביעית עצמה חוששים שמא יביא מן האיסור ויאמר מן הטמון הבאתי.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:5:1",
+        "quote": "דבטמון אנן קיימין … אבל בשביעית עצמו"
+       }
+      ]
+     },
+     {
+      "text": "רש\"ש: אם הוסיף ספיחים אסור לעקרו כלל, ולכן חוששים שמא עקר את אלו בשינוי כדי לגנוב את העין.",
+      "sources": [
+       {
+        "name": "רש״ש",
+        "ref": "Rashash on Mishnah Sheviit 5:5:1",
+        "quote": "וצ\"ל דכוונתו דבהוסיפו ספיחין … כדי לגנוב את העין"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מסביר מדוע ללוף יש קולא מיוחדת לעומת שאר ירקות.",
+    "mishnah": 5,
+    "anchors": [
+     "רַבִּי יְהוּדָה אוֹמֵר, מִיָּד"
+    ]
+   },
+   {
+    "title": "מגל יד המותר",
+    "pasuk": {
+     "text": "אֲבָל מוֹכֵר הוּא מַגַּל יָד וּמַגַּל קָצִיר",
+     "ref": "Mishnah Sheviit 5:6",
+     "label": "משנה שביעית ה, 6"
+    },
+    "question": "לפי הרמב\"ם כל הספיחים אסורים באכילה, גם תבואה וקטניות שדרך לקצור. אם כן, לאיזה שימוש מותר מותר למכור מגל?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:6:4",
+      "quote": "וא\"כ הך מגל יד",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תולים שיקצור עשבים שאין רוב האדם זורעים אותם, כגון הפיגם.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:6:4",
+        "quote": "אלא דתלינן שיקצור העשבים שאין זורעים"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: שמא רוצה לקצור מן ההפקר ולהביא למאכל ביתו, ואין אסור אלא להביא הרבה לעשות אוצר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 5:6:4",
+        "quote": "וְאֵין אָסוּר אֶלָּא לְהָבִיא הַרְבֵּה"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: גם לפי הרמב\"ם, תבואה שהביאה שליש לפני השביעית דינה כפירות ששית, ולכן אפשר למכור לה כלי קצירה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 5:6:1-5",
+        "quote": "ולענ\"ד אין צ\"ל כן … אם הביאו שליש לפני שביעיא."
+       }
+      ]
+     }
+    ],
+    "why": "הדבר בוחן את הטעם שביסוד רשימת הכלים האסורים והמותרים.",
+    "mishnah": 6,
+    "anchors": [
+     "אֲבָל מוֹכֵר הוּא מַגַּל יָד וּמַגַּל קָצִיר"
+    ]
+   },
+   {
+    "title": "מדוע הרמב\"ם משמיט את דין היוצר?",
+    "pasuk": {
+     "text": "וְאִם הֵבִיא יוֹתֵר מִכָּאן, מֻתָּר",
+     "ref": "Mishnah Sheviit 5:7",
+     "label": "משנה שביעית ה, 7"
+    },
+    "question": "התוספות יום טוב תמה מדוע השמיט הרמב\"ם בחיבורו את הסיפא 'ואם הביא יותר מכאן מותר'. מדוע אינה מובאת שם?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:7:1",
+      "quote": "ואני תמה על הרמב\"ם שהשמיט",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רש\"ש: דבר זה נעלם, כי הרמב\"ם הביאה בפרק ד' לכוונה אחרת.",
+      "sources": [
+       {
+        "name": "רש״ש",
+        "ref": "Rashash on Mishnah Sheviit 5:7:1",
+        "quote": "ונעלם מכ\"ת שהביאה … לכוונה אחרת"
+       }
+      ]
+     },
+     {
+      "text": "רבי יוסף מפרש שלכתחילה אין מוכרים יותר, אך אם הביא בעל הבית יותר מותר למכור לו כדי שלא יפסיד פירות שביעית.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 5:7:1",
+        "quote": "אם עבר הבעל הבית והביא יותר … כדי שלא יפסיד פירות שביעית"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר מראה כיצד לשון המשנה נקראת מול ספר ההלכה של הרמב\"ם.",
+    "mishnah": 7,
+    "anchors": [
+     "וְאִם הֵבִיא יוֹתֵר מִכָּאן, מֻתָּר"
+    ]
+   },
+   {
+    "title": "על מה חל 'מפני דרכי שלום'?",
+    "pasuk": {
+     "text": "וְכֻלָּן לֹא אָמְרוּ אֶלָּא מִפְּנֵי דַרְכֵי שָׁלוֹם",
+     "ref": "Mishnah Sheviit 5:9",
+     "label": "משנה שביעית ה, 9"
+    },
+    "question": "האם 'וכולן לא אמרו אלא מפני דרכי שלום' חל על כל הפרק (האומן, הפרה, ההלוואות), או רק על משאלת אשה לחברתה? ומכיון שהמקרים הקודמים מותרים בלעדיו, למה צריך אותו כאן?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Sheviit 5:9:6",
+      "quote": "מיבעיא ליה אי קאי … צריך טעם דהנך דלעיל",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מסקנת הירושלמי שהוא נאמר רק על משאלת אשה; הקודמים מותרים כי אפשר לתלות בהיתר, וכאן ידוע שאין לה אלא פירות שביעית ולכן רק דרכי שלום מתירה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 5:9:7",
+        "quote": "דלא קאי הך טעמא … אלא דהכא מיירי בידוע"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם אומר שהכוונה לכל מה שנאמר בהלכה זו מהתרת ההשאלה והעזר אפילו במעט.",
+      "sources": [
+       {
+        "name": "רמב״ם",
+        "ref": "Rambam on Mishnah Sheviit 5:9:2",
+        "quote": "כל מה שנאמר בהלכה זו"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: לא התירו להשאילן כלים ולסייען שלא בשעת העבירה עצמה אלא משום דרכי שלום.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 5:9:10",
+        "quote": "אֶלָּא מִשּׁוּם דַּרְכֵי שָׁלוֹם:"
+       }
+      ]
+     }
+    ],
+    "why": "הדבר קובע עד היכן מגיעה קולת דרכי שלום.",
+    "mishnah": 9,
+    "anchors": [
+     "וְכֻלָּן לֹא אָמְרוּ אֶלָּא מִפְּנֵי דַרְכֵי שָׁלוֹם"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "הון עשיר",
+   "לחם שמים",
+   "מלאכת שלמה",
+   "רש משנץ",
+   "רש״ש",
+   "רמב״ם",
+   "ברטנורא"
+  ]
+ }
 }
