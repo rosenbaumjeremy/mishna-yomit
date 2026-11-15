@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-15",
+ "hebrew_date": {
+  "hebrew": "ה׳ בכסלו תשפ״ז",
+  "english": "5 Kislev 5787"
+ },
  "masechet": "sheviit",
  "perek": 6,
  "ref": "Mishnah Sheviit 6",
@@ -27,5 +32,1061 @@
    "he": "אֵין מְבִיאִין תְּרוּמָה מֵחוּצָה לָאָרֶץ לָאָרֶץ. אָמַר רַבִּי שִׁמְעוֹן, שָׁמַעְתִּי בְּפֵרוּשׁ, שֶׁמְּבִיאִין מִסּוּרְיָא וְאֵין מְבִיאִין מִחוּצָה לָאָרֶץ:  ",
    "en": "They may not import terumah from outside the land of Israel into Israel. Rabbi Shimon said: I have heard it expressly stated that they may be bring from Syria, but not from any other country outside the land."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 divides the land into three territories for the seventh year: what the returnees from Babylon took is neither eaten nor worked, what the returnees from Egypt took is eaten but not worked, and the inner land is both eaten and worked. Mishnah 2 says that in Syria one may work with detached produce but not attached produce, and Rabbi Akiva gives the rule that whatever is permitted in Eretz Yisrael may be done in Syria. Mishnah 3 treats onions on which rain fell and which sprouted: black leaves forbid, green ones permit, and Rabbi Hanina ben Antigonus tests whether they can be pulled out by their leaves. Mishnah 4 asks when vegetables may be bought after the seventh year, namely once similar ones have grown, and Rabbi allowed it immediately. Mishnayot 5–6 forbid taking out of the land oil of terumah that must be burned and seventh-year produce, and bringing terumah into the land from outside, with Rabbi Shimon allowing Syria.",
+  "topics": [
+   {
+    "term": "Olei Bavel and olei Mitzrayim",
+    "explanation": "The mishnah divides the land by who took it. Territory taken by those who came up from Egypt under Joshua was holy, but its holiness ended when the Temple was destroyed. Territory retaken by those who came up from Babylon with Ezra kept its holiness. So the three territories differ in what the seventh year forbids.",
+    "mishnah": 1,
+    "anchors": [
+     "שהחזיקו עולי בבל",
+     "שהחזיקו עולי מצרים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 6:1:2",
+     "quote": "עֶזְרָא וְסִיעָתוֹ כְּשֶׁעָלוּ מִבָּבֶל:"
+    }
+   },
+   {
+    "term": "Syria (Suria)",
+    "explanation": "Syria is the land of Aram that David conquered before he had conquered all of Eretz Yisrael. For some laws it is treated like the land and for others like outside it, so the mishnah gives it its own rules.",
+    "mishnah": 2,
+    "anchors": [
+     "בסוריא"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 6:2:1",
+     "quote": "אֲרַם נַהֲרַיִם וַאֲרַם צוֹבָה שֶׁכָּבַשׁ דָּוִד, וְאֵינָהּ כְּאֶרֶץ יִשְׂרָאֵל"
+    }
+   },
+   {
+    "term": "Detached and attached produce",
+    "explanation": "In Syria, work on produce already cut from the ground is allowed, but cutting, harvesting grapes or olives, which is work on attached produce, is not. The reason given is to stop people from settling in Syria and leaving Eretz Yisrael.",
+    "mishnah": 2,
+    "anchors": [
+     "אבל לא במחבר",
+     "אבל לא קוצרין ולא בוצרין ולא מוסקים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 6:2:3",
+     "quote": "כְּדֵי שֶׁלֹּא יִהְיוּ מַנִּיחִים אֶת אֶרֶץ יִשְׂרָאֵל"
+    }
+   },
+   {
+    "term": "Growth of the seventh year (gidulei sheviit)",
+    "explanation": "Onions of the sixth year that grew in the seventh year are tested by their leaves. If the leaves turned black, new growth from the soil of the seventh year has been added and it forbids the onion. If they turned green, the onion fed itself and is permitted.",
+    "mishnah": 3,
+    "anchors": [
+     "אם היו העלין שלהם שחורין",
+     "הוריקו"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 6:3:1",
+     "quote": "אִם הִשְׁחִירוּ הֶעָלִין בְּיָדוּעַ שֶׁגָּדְלוּ וְהוֹסִיפוּ, וַאֲתוּ גִּדּוּלֵי"
+    }
+   },
+   {
+    "term": "Bachir and afil",
+    "explanation": "Bachir is a place that brings its produce early, and afil is the later-ripening place. After the seventh year, once the early place has produced like the old crop, the later place is permitted too, since its vegetables are presumed to come from the early place.",
+    "mishnah": 4,
+    "anchors": [
+     "עשה הבכיר",
+     "התר האפיל"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 6:4:2",
+     "quote": "הוא הממהר לצאת בתחלת מוצאי"
+    }
+   },
+   {
+    "term": "Shemen sereifa",
+    "explanation": "Oil of impure terumah that may only be burned. The mishnah forbids taking it out of the land, as with seventh-year produce, which must be removed (biur) in the land.",
+    "mishnah": 5,
+    "anchors": [
+     "שמן שרפה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 6:5:1",
+     "quote": "הוא שמן תרומה שנטמא ונקרא"
+    }
+   },
+   {
+    "term": "Biur of seventh-year produce",
+    "explanation": "Seventh-year produce must be removed from the home, in the land, once the time of removal comes. That is why the mishnah does not let it leave the land.",
+    "mishnah": 5,
+    "anchors": [
+     "פרות שביעית"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 6:5:1",
+     "quote": "וְכֵן פֵּרוֹת שְׁבִיעִית צְרִיכִים בִּעוּר"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Where do Acco, Kziv and Amanah lie?",
+    "pasuk": {
+     "text": "מכזיב ועד הנהר ועד אמנה, נאכל,",
+     "ref": "Mishnah Sheviit 6:1",
+     "label": "Mishnah Sheviit 6:1"
+    },
+    "question": "Bartenura describes Kziv and the 'river' as two strips extending from Acco inside the northeast corner of Eretz Yisrael. Tosafot Yom Tov asks: the mishnah never mentions Acco, so why describe the territories from it, and does the strip run from Acco or from Kziv? Rashash adds that Bartenura's reading makes even the first clause (up to Kziv) hard.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 6:1:1",
+      "quote": "וקשה עכו מאן דכר שמה ולפי פירושו הוה לי' למיתני מעכו עד",
+      "era": "acharon"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 6:1:1",
+      "quote": "ולכאורה יותר קשה לפירושו רישא דמתניתין דקתני כל שהחזיקו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: all three places lie on the western coast, per Kaftor VaFerach, who says he saw it himself.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 6:1:1",
+        "quote": "וכתב דעכו וכזיב ואמנה שלשתן על הים המערבי של"
+       }
+      ]
+     },
+     {
+      "text": "Rashash: on Bartenura's view the first clause must also mean 'up to Kziv' along the same strip from Acco, and the reason they forbade it may be that it is short and was not known to all.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Sheviit 6:1:1",
+        "quote": "וטעם שגזרו עליה אולי מפני שקצרה היא שלא"
+       }
+      ]
+     }
+    ],
+    "why": "It decides where the middle territory, eaten but not worked, actually lies.",
+    "mishnah": 1,
+    "anchors": [
+     "מכזיב ועד הנהר ועד אמנה, נאכל,"
+    ]
+   },
+   {
+    "title": "What does 'eaten but not cultivated' mean?",
+    "pasuk": {
+     "text": "נאכל, אבל לא נעבד.",
+     "ref": "Mishnah Sheviit 6:1",
+     "label": "Mishnah Sheviit 6:1"
+    },
+    "question": "Bartenura brings two readings of 'not eaten and not cultivated', and Rambam gives a third. Rabbi Akiva Eiger is unsure on Bartenura's second reading whether produce may also be eaten before the removal (biur) as ordinary food, or only with the sanctity of the seventh year. How is the middle territory to be understood?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 6:1:1",
+      "quote": "מסתפק במ\"ל אם גם קודם הביעור מותר לאכול בתורת",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: 'not cultivated' means working the land is forbidden, and if it was worked, what grows is eaten with the sanctity of the seventh year.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 6:1:1",
+        "quote": "ושאמר נאכל אבל לא נעבד…ואם נעבדה יהיה כל הצומח בה נאכל בקדושת"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura's main reading: 'not eaten' means not eaten after the seventh year without removal (biur), and 'not cultivated' means not worked during the seventh year.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 6:1:3",
+        "quote": "פֵּרוּשׁ אַחֵר וְעִקָּר, לֹא נֶאֱכָל לְאַחַר שְׁבִיעִית בְּלֹא בִעוּר, וְלֹא"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov, citing Rash: the restriction applies only to attached produce; detached produce may be worked, as in Syria, or else the mishnah would list four territories.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 6:1:2",
+        "quote": "וְדַוְקָא בִּמְחֻבָּר, אֲבָל בְּתָלוּשׁ עוֹשִׂין כְּמוֹ בְּסוּרְיָא דִּבְסָמוּךְ, דְּאִי לֹא"
+       }
+      ]
+     }
+    ],
+    "why": "It sets what the middle territory forbids and which kind of work.",
+    "mishnah": 1,
+    "anchors": [
+     "נאכל, אבל לא נעבד."
+    ]
+   },
+   {
+    "title": "Why is the list of work in Syria out of order?",
+    "pasuk": {
+     "text": "דשים וזורין ודורכין ומעמרין,",
+     "ref": "Mishnah Sheviit 6:2",
+     "label": "Mishnah Sheviit 6:2"
+    },
+    "question": "The mishnah lists threshing, winnowing, treading and sheaving. Sheaving comes before threshing in the real order of work, and treading grapes is placed among the grain work. Why this order?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 6:2:2",
+      "quote": "שלא כסדר מלאכתן הם שנוים…ולא ידענא טעמא מאי:",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 6:2:1",
+      "quote": "שֶׁלֹּא כְסֵדֶר מְלַאכְתָּן הֵם שְׁנוּיִים, דְּעִמּוּר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir: threshing and winnowing are normally done near the threshing floor each year, so they would look suspect, which is why they are listed with the harvest-like sheaving at the end.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 6:2:1",
+        "quote": "דהרואה יכול לדון אותו לכף זכות לומר דחיטים של"
+       },
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 6:2:1",
+        "quote": "דישה וזירה שדרך לעשותם סמוך לגורן מידי שנה"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: it is also ordered by weight, each earlier item lighter than the next, in the style 'not only this but even that'.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 6:2:6",
+        "quote": "שכל השנויה תחלה. קלה מאותה של אחריה. דוק ותשכח."
+       },
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 6:2:6",
+        "quote": "לא זו אף זו"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh quoting Rabbi Yosef: 'not only this but even that', with threshing, treading and even sheaving permitted though it looks like it comes from this field.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:2:2",
+        "quote": "לא זו אלא אף זו"
+       }
+      ]
+     }
+    ],
+    "why": "Even the order of a mishnah carries a halakhic reason, here the suspicion of onlookers.",
+    "mishnah": 2,
+    "anchors": [
+     "דשים וזורין ודורכין ומעמרין,"
+    ]
+   },
+   {
+    "title": "Does 'work on detached produce' cover people suspected on the seventh year?",
+    "pasuk": {
+     "text": "עושין בתלוש בסוריא,",
+     "ref": "Mishnah Sheviit 6:2",
+     "label": "Mishnah Sheviit 6:2"
+    },
+    "question": "Bartenura explains that detached work is allowed in Syria even with those suspected of not keeping the seventh year, though in Eretz Yisrael one may not sort or grind with them. Melekhet Shelomoh, citing Rabbi Yosef, rejects this: would the Sages permit helping transgressors?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:2:1",
+      "quote": "אין נראה לומר שיתירו חכמים לסייע לעוברי עבירה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura (and Rash): even near the suspects, since in Eretz Yisrael one may not sort or grind with them.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 6:2:2",
+        "quote": "אֲפִלּוּ אֵצֶל הַחֲשׁוּדִים,"
+       },
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Sheviit 6:2:1",
+        "quote": "אפילו אצל החשודין אע\"ג דבארץ תנן לא"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Yosef in Melekhet Shelomoh: it means with non-Jews in Syria.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:2:1",
+        "quote": "אצל העובדי כוכבים אבל לא"
+       }
+      ]
+     }
+    ],
+    "why": "It sets whom one may work with and how seventh-year suspects are treated.",
+    "mishnah": 2,
+    "anchors": [
+     "עושין בתלוש בסוריא,"
+    ]
+   },
+   {
+    "title": "Why do the onions' black leaves forbid, and what does the end of the mishnah teach?",
+    "pasuk": {
+     "text": "אם היו העלין שלהם שחורין,",
+     "ref": "Mishnah Sheviit 6:3",
+     "label": "Mishnah Sheviit 6:3"
+    },
+    "question": "Rash asks about the clause 'after the seventh year the like of these are permitted': it cannot refer to onions of the seventh year itself, since those are not permitted after it. What is the clause about?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Sheviit 6:3:3",
+      "quote": "לא יתכן לפרש בבצלים של שביעית דהנהו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura (and Rash): it is about onions of the sixth year that were pulled up and replanted, whose small seventh-year growth is cancelled by growth in the eighth year.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 6:3:3",
+        "quote": "אֶלָּא סֵיפָא נַמִּי מַיְרֵי בִּבְצָלִים שֶׁל שִׁשִּׁית שֶׁעֲקָרָן"
+       },
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Sheviit 6:3:3",
+        "quote": "אלא סיפא נמי בבצלין של ששית איירי"
+       }
+      ]
+     },
+     {
+      "text": "Rashi and Rosh, per Melekhet Shelomoh: onions of the seventh year that sprouted in the eighth year are permitted if their leaves are strong.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:3:3",
+        "quote": "שאם היו של שביעית וצמחו בשמינית ויש להם כח בעלין"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how growth that permits can cancel growth that forbids.",
+    "mishnah": 3,
+    "anchors": [
+     "אם היו העלין שלהם שחורין,"
+    ]
+   },
+   {
+    "title": "Is the whole onion forbidden, or only the leaves?",
+    "pasuk": {
+     "text": "בצלים שירדו עליהם גשמים וצמחו,",
+     "ref": "Mishnah Sheviit 6:3",
+     "label": "Mishnah Sheviit 6:3"
+    },
+    "question": "Bartenura says that when the leaves turn black, the growth of the seventh year cancels the original onion even though it is larger. Rabbi Akiva Eiger notes that Rambam's wording implies only the new growth is forbidden.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 6:3:1",
+      "quote": "אבל הרמב\"ם כתב מה שצמח מהן יהיה כאילו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the seventh-year growth cancels the original onion, even though it is larger.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 6:3:1",
+        "quote": "וַאֲתוּ גִּדּוּלֵי שְׁבִיעִית וּמְבַטְּלִים הָעִקָּר אַף עַל פִּי שֶׁהוּא"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: what grew from them is treated as grown in the land, and counts as seventh-year produce. In his Yad, only the leaves are forbidden as sefichim and the onions remain permitted.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 6:3:1",
+        "quote": "יהיה כאילו צמח בארץ ויחשבו כפירות שביעית וזה ענין"
+       },
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 6:3:1",
+        "quote": "ואותן העלים אסורים משום ספיחים. והבצלים עצמם"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the forbidden growth takes the whole onion with it.",
+    "mishnah": 3,
+    "anchors": [
+     "בצלים שירדו עליהם גשמים וצמחו,"
+    ]
+   },
+   {
+    "title": "Why must similar vegetables grow first, if vegetables follow the picking?",
+    "pasuk": {
+     "text": "מאימתי מתר אדם",
+     "ref": "Mishnah Sheviit 6:4",
+     "label": "Mishnah Sheviit 6:4"
+    },
+    "question": "Lechem Shamayim asks on the explanation that vegetables follow the picking: if they were picked after the seventh year they would be permitted anyway, so why wait for similar vegetables to grow?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 6:4:1-2",
+      "quote": "א\"כ למאי צריך שיעשה כיוצא בו כי היכי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the permitted growth became more than the forbidden and cancelled it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 6:4:1",
+        "quote": "מִפְּנֵי שֶׁרָבָה הַהֶתֵּר עַל הָאִסּוּר וְנִתְבַּטֵּל:"
+       }
+      ]
+     },
+     {
+      "text": "Rash: although with vegetables one follows the picking, we still suspect it came from what was picked in the seventh year.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Sheviit 6:4:1",
+        "quote": "חיישינן שלא יהא מן הנלקט בשביעית"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the point at which vegetables become permitted to buy.",
+    "mishnah": 4,
+    "anchors": [
+     "מאימתי מתר אדם"
+    ]
+   },
+   {
+    "title": "Why not import terumah, when bikkurim are accepted from Syria?",
+    "pasuk": {
+     "text": "אין מביאין תרומה",
+     "ref": "Mishnah Sheviit 6:6",
+     "label": "Mishnah Sheviit 6:6"
+    },
+    "question": "Rash reports the Yerushalmi's question: Ariston brought his bikkurim from Apamea and they were accepted, so why not terumah? Why is bringing terumah forbidden?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Sheviit 6:6:1",
+      "quote": "הביא בכורים מאספמיא וקבלו ממנו ויביא תרומתו אמר",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the priests go after terumah at the threshing floors, and the Sages feared they might run outside the land to fetch it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 6:6:1",
+        "quote": "חַיְשֵׁי רַבָּנָן שֶׁמָּא יִהְיוּ הַכֹּהֲנִים מְרַדְּפִים אַחֲרֶיהָ וְיֵצְאוּ"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: bringing terumah is not the owners' duty, but bikkurim must be brought to Jerusalem by the owners.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:6:1",
+        "quote": "שאין על הבעלים להביאה אלא מחלקים"
+       },
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:6:1",
+        "quote": "דעל כרחן מביאין אותם הבעלים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why Syria is treated like Eretz Yisrael for some laws.",
+    "mishnah": 6,
+    "anchors": [
+     "אין מביאין תרומה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Rashash",
+   "Tosafot Rabbi Akiva Eiger",
+   "Rambam",
+   "Bartenura",
+   "Ikar Tosafot Yom Tov",
+   "Hon Ashir",
+   "Lechem Shamayim",
+   "Melekhet Shelomoh",
+   "Rash MiShantz"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מחלקת את הארץ לשלוש ארצות לשביעית: מה שהחזיקו עולי בבל לא נאכל ולא נעבד, מה שהחזיקו עולי מצרים נאכל אך לא נעבד, ופנימה מן הנהר ומאמנה נאכל ונעבד. משנה ב: בסוריא עושים בתלוש ולא במחובר, ורבי עקיבא אומר כלל – כל שכיוצא בו מותר בארץ ישראל עושים אותו בסוריא. משנה ג: בצלים שירדו עליהם גשמים וצמחו – עלים שחורים אוסרים, הוריקו מותרים, ורבי חנינא בן אנטיגנוס בודק אם יכולים להתלש בעליהם. משנה ד: מתי מותר לקחת ירק במוצאי שביעית – משיעשה כיוצא בו, ורבי התיר מיד. משניות ה-ו: אין מוציאים שמן שריפה ופירות שביעית מן הארץ לחוץ לארץ, ואין מביאים תרומה מחוץ לארץ, ורבי שמעון מתיר לסוריא.",
+  "topics": [
+   {
+    "term": "עולי בבל ועולי מצרים",
+    "explanation": "המשנה מחלקת את הארץ לפי מי שכבש אותה: עולי מצרים כבשו בימי יהושע וקדושתם בטלה, ועולי בבל עם עזרא החזיקו את הארץ וקדושתה נשארה. לכן שלוש הארצות שונות במה שהשביעית אוסרת בהן.",
+    "mishnah": 1,
+    "anchors": [
+     "שהחזיקו עולי בבל",
+     "שהחזיקו עולי מצרים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 6:1:2",
+     "quote": "עֶזְרָא וְסִיעָתוֹ כְּשֶׁעָלוּ מִבָּבֶל:"
+    }
+   },
+   {
+    "term": "סוריא",
+    "explanation": "סוריא היא ארץ ארם שכבש דוד לפני שכבש את כל ארץ ישראל. בחלק מהדינים היא נחשבת כארץ ישראל ובחלק אחר כחוץ לארץ, ולכן המשנה קובעת לה דינים משלה.",
+    "mishnah": 2,
+    "anchors": [
+     "בסוריא"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 6:2:1",
+     "quote": "אֲרַם נַהֲרַיִם וַאֲרַם צוֹבָה שֶׁכָּבַשׁ דָּוִד, וְאֵינָהּ כְּאֶרֶץ יִשְׂרָאֵל"
+    }
+   },
+   {
+    "term": "תלוש ומחובר",
+    "explanation": "בסוריא מותר לעשות בתלוש, אבל אסור לקצור, לבצור ולמסוק, שהם עבודה במחובר. הטעם: שלא יניחו את ארץ ישראל וישתקעו בסוריא.",
+    "mishnah": 2,
+    "anchors": [
+     "אבל לא במחבר",
+     "אבל לא קוצרין ולא בוצרין ולא מוסקים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 6:2:3",
+     "quote": "כְּדֵי שֶׁלֹּא יִהְיוּ מַנִּיחִים אֶת אֶרֶץ יִשְׂרָאֵל"
+    }
+   },
+   {
+    "term": "גידולי שביעית",
+    "explanation": "בצלי שישית שגדלו בשביעית נבדקים לפי העלים. אם השחירו העלים, יש גידול חדש מקרקע שביעית והוא אוסר; ואם הוריקו, הבצל גדל מעצמו ומותר.",
+    "mishnah": 3,
+    "anchors": [
+     "אם היו העלין שלהם שחורין",
+     "הוריקו"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 6:3:1",
+     "quote": "אִם הִשְׁחִירוּ הֶעָלִין בְּיָדוּעַ שֶׁגָּדְלוּ וְהוֹסִיפוּ, וַאֲתוּ גִּדּוּלֵי"
+    }
+   },
+   {
+    "term": "בכיר ואפיל",
+    "explanation": "בכיר הוא מקום שפירותיו מתבכרים מוקדם, ואפיל הוא המתאחר. לאחר שהבכיר עשה כיוצא בו, מותר גם האפיל, שתולים שהירק בא מן הבכיר.",
+    "mishnah": 4,
+    "anchors": [
+     "עשה הבכיר",
+     "התר האפיל"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 6:4:2",
+     "quote": "הוא הממהר לצאת בתחלת מוצאי"
+    }
+   },
+   {
+    "term": "שמן שרפה",
+    "explanation": "שמן תרומה שנטמא ועומד לשריפה. המשנה אוסרת להוציאו מן הארץ, כפירות שביעית שביעורם בארץ.",
+    "mishnah": 5,
+    "anchors": [
+     "שמן שרפה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 6:5:1",
+     "quote": "הוא שמן תרומה שנטמא ונקרא"
+    }
+   },
+   {
+    "term": "ביעור פירות שביעית",
+    "explanation": "פירות שביעית צריכים ביעור, וזה בארץ. לכן המשנה אינה מתירה להוציאם מן הארץ.",
+    "mishnah": 5,
+    "anchors": [
+     "פרות שביעית"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 6:5:1",
+     "quote": "וְכֵן פֵּרוֹת שְׁבִיעִית צְרִיכִים בִּעוּר"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "היכן עכו, כזיב ואמנה?",
+    "pasuk": {
+     "text": "מכזיב ועד הנהר ועד אמנה, נאכל,",
+     "ref": "Mishnah Sheviit 6:1",
+     "label": "משנה שביעית ו, א"
+    },
+    "question": "הברטנורא מתאר את כזיב ואת 'הנהר' כשתי רצועות היוצאות מעכו בפינה הצפונית-מזרחית של ארץ ישראל. התוספות יום טוב שואל: המשנה לא הזכירה את עכו, ולכן מדוע להסביר את הגבולות ממנה, ומהיכן מתחילה הרצועה – מעכו או מכזיב? והרש\"ש מוסיף שלפירושו קשה אף הרישא של המשנה (עד כזיב).",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 6:1:1",
+      "quote": "וקשה עכו מאן דכר שמה ולפי פירושו הוה לי' למיתני מעכו עד",
+      "era": "acharon"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Sheviit 6:1:1",
+      "quote": "ולכאורה יותר קשה לפירושו רישא דמתניתין דקתני כל שהחזיקו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב: שלושתן על שפת הים המערבי, לפי ספר כפתור ופרח שכותבו ראה זאת בעצמו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 6:1:1",
+        "quote": "וכתב דעכו וכזיב ואמנה שלשתן על הים המערבי של"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש: לפירוש הברטנורא צריך לומר שגם הרישא ('עד כזיב') היא אותה רצועה היוצאת מעכו, וטעם שגזרו עליה אולי מפני שקצרה ולא הייתה ידועה לכל.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Sheviit 6:1:1",
+        "quote": "וטעם שגזרו עליה אולי מפני שקצרה היא שלא"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע היכן נמצאת הארץ האמצעית – 'נאכל ולא נעבד'.",
+    "mishnah": 1,
+    "anchors": [
+     "מכזיב ועד הנהר ועד אמנה, נאכל,"
+    ]
+   },
+   {
+    "title": "מה משמעות 'נאכל אבל לא נעבד'?",
+    "pasuk": {
+     "text": "נאכל, אבל לא נעבד.",
+     "ref": "Mishnah Sheviit 6:1",
+     "label": "משנה שביעית ו, א"
+    },
+    "question": "הברטנורא מביא שני פירושים ל'לא נאכל ולא נעבד', והרמב\"ם נותן פירוש שלישי. רבי עקיבא איגר מסתפק, לפי הפירוש השני של הברטנורא, אם מותר לאכול גם קודם הביעור כחולין או רק בקדושת שביעית. כיצד יש להבין את הארץ האמצעית?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 6:1:1",
+      "quote": "מסתפק במ\"ל אם גם קודם הביעור מותר לאכול בתורת",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: 'לא נעבד' – אסורה עבודת הקרקע, ואם נעבדה, כל הצומח בה נאכל בקדושת שביעית.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 6:1:1",
+        "quote": "ושאמר נאכל אבל לא נעבד…ואם נעבדה יהיה כל הצומח בה נאכל בקדושת"
+       }
+      ]
+     },
+     {
+      "text": "עיקר פירוש הברטנורא: 'לא נאכל' – לא נאכל לאחר שביעית בלא ביעור, ו'לא נעבד' – לא נעבד בשביעית.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 6:1:3",
+        "quote": "פֵּרוּשׁ אַחֵר וְעִקָּר, לֹא נֶאֱכָל לְאַחַר שְׁבִיעִית בְּלֹא בִעוּר, וְלֹא"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב בשם הר\"ש: האיסור דווקא במחובר, אבל בתלוש עושים כבסוריא, שאם לא כן היה צריך לשנות ארבע ארצות.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 6:1:2",
+        "quote": "וְדַוְקָא בִּמְחֻבָּר, אֲבָל בְּתָלוּשׁ עוֹשִׂין כְּמוֹ בְּסוּרְיָא דִּבְסָמוּךְ, דְּאִי לֹא"
+       }
+      ]
+     }
+    ],
+    "why": "קובע מה אסור בארץ האמצעית ואיזו עבודה.",
+    "mishnah": 1,
+    "anchors": [
+     "נאכל, אבל לא נעבד."
+    ]
+   },
+   {
+    "title": "מדוע סדר המלאכות בסוריא משובש?",
+    "pasuk": {
+     "text": "דשים וזורין ודורכין ומעמרין,",
+     "ref": "Mishnah Sheviit 6:2",
+     "label": "משנה שביעית ו, ב"
+    },
+    "question": "המשנה מונה דישה, זריה, דריכה ועימור. העימור קודם לדישה בסדר המלאכה, ודריכת ענבים נכנסה בין מלאכות התבואה. מדוע?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 6:2:2",
+      "quote": "שלא כסדר מלאכתן הם שנוים…ולא ידענא טעמא מאי:",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 6:2:1",
+      "quote": "שֶׁלֹּא כְסֵדֶר מְלַאכְתָּן הֵם שְׁנוּיִים, דְּעִמּוּר",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הון עשיר: דישה וזריה נעשות סמוך לגורן מדי שנה, ולכן הן עלולות לעורר חשד מראית עין, ולכן העימור שהוא בשעת הקציר ממש בא בסוף.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 6:2:1",
+        "quote": "דהרואה יכול לדון אותו לכף זכות לומר דחיטים של"
+       },
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 6:2:1",
+        "quote": "דישה וזירה שדרך לעשותם סמוך לגורן מידי שנה"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: יש גם סדר לפי חומרה – כל מלאכה קלה מזו שאחריה, בדרך 'לא זו אף זו'.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 6:2:6",
+        "quote": "שכל השנויה תחלה. קלה מאותה של אחריה. דוק ותשכח."
+       },
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 6:2:6",
+        "quote": "לא זו אף זו"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם רבי יוסף: 'לא זו אלא אף זו' – אפילו לדרוך ולעמר מותר, אף שנראה שהוא מאותה השדה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:2:2",
+        "quote": "לא זו אלא אף זו"
+       }
+      ]
+     }
+    ],
+    "why": "גם סדר המשנה נושא טעם הלכתי, כאן חשש מראית עין.",
+    "mishnah": 2,
+    "anchors": [
+     "דשים וזורין ודורכין ומעמרין,"
+    ]
+   },
+   {
+    "title": "האם 'עושין בתלוש' כולל חשודים על השביעית?",
+    "pasuk": {
+     "text": "עושין בתלוש בסוריא,",
+     "ref": "Mishnah Sheviit 6:2",
+     "label": "משנה שביעית ו, ב"
+    },
+    "question": "הברטנורא מפרש שעושים בתלוש בסוריא אפילו אצל החשודים, ואילו בארץ ישראל אין בוררים וטוחנים עמהם. מלאכת שלמה בשם רבי יוסף דוחה: האם יתירו חכמים לסייע לעוברי עבירה?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:2:1",
+      "quote": "אין נראה לומר שיתירו חכמים לסייע לעוברי עבירה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא (והר\"ש): אפילו אצל החשודים, ואילו בארץ אין בוררים וטוחנים עמהם.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 6:2:2",
+        "quote": "אֲפִלּוּ אֵצֶל הַחֲשׁוּדִים,"
+       },
+       {
+        "name": "רש משאנץ",
+        "ref": "Rash MiShantz on Mishnah Sheviit 6:2:1",
+        "quote": "אפילו אצל החשודין אע\"ג דבארץ תנן לא"
+       }
+      ]
+     },
+     {
+      "text": "רבי יוסף במלאכת שלמה: הכוונה אצל העובדי כוכבים בסוריא.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:2:1",
+        "quote": "אצל העובדי כוכבים אבל לא"
+       }
+      ]
+     }
+    ],
+    "why": "קובע עם מי מותר לעבוד וכיצד דנים בחשודים על השביעית.",
+    "mishnah": 2,
+    "anchors": [
+     "עושין בתלוש בסוריא,"
+    ]
+   },
+   {
+    "title": "מדוע עלים שחורים אוסרים, ומה מלמד סוף המשנה?",
+    "pasuk": {
+     "text": "אם היו העלין שלהם שחורין,",
+     "ref": "Mishnah Sheviit 6:3",
+     "label": "משנה שביעית ו, ג"
+    },
+    "question": "הר\"ש שואל על 'וכנגד כן מוצאי שביעית מותרין': אי אפשר לפרשו בבצלים של שביעית עצמה, שהרי אלו אינם מותרים במוצאי שביעית. על מה המשנה מדברת?",
+    "asked_by": [
+     {
+      "name": "רש משאנץ",
+      "ref": "Rash MiShantz on Mishnah Sheviit 6:3:3",
+      "quote": "לא יתכן לפרש בבצלים של שביעית דהנהו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא (והר\"ש): מדובר בבצלי שישית שעקרם ונטעם בשביעית, והתוספת הקטנה בשמינית מבטלת את האיסור.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 6:3:3",
+        "quote": "אֶלָּא סֵיפָא נַמִּי מַיְרֵי בִּבְצָלִים שֶׁל שִׁשִּׁית שֶׁעֲקָרָן"
+       },
+       {
+        "name": "רש משאנץ",
+        "ref": "Rash MiShantz on Mishnah Sheviit 6:3:3",
+        "quote": "אלא סיפא נמי בבצלין של ששית איירי"
+       }
+      ]
+     },
+     {
+      "text": "רש\"י והרא\"ש, בלשון מלאכת שלמה: אם היו של שביעית וצמחו בשמינית ויש להם כוח בעלים – מותרים.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:3:3",
+        "quote": "שאם היו של שביעית וצמחו בשמינית ויש להם כח בעלין"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד גידולי היתר מבטלים גידולי איסור.",
+    "mishnah": 3,
+    "anchors": [
+     "אם היו העלין שלהם שחורין,"
+    ]
+   },
+   {
+    "title": "האם כל הבצל אסור או רק העלים?",
+    "pasuk": {
+     "text": "בצלים שירדו עליהם גשמים וצמחו,",
+     "ref": "Mishnah Sheviit 6:3",
+     "label": "משנה שביעית ו, ג"
+    },
+    "question": "הברטנורא כותב שאם הושחרו העלים, גידולי שביעית מבטלים את העיקר אף שהוא מרובה. רבי עקיבא איגר מעיר שלשון הרמב\"ם משמעה שרק מה שצמח אסור.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 6:3:1",
+      "quote": "אבל הרמב\"ם כתב מה שצמח מהן יהיה כאילו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: גידולי שביעית מבטלים את העיקר אף שהוא מרובה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 6:3:1",
+        "quote": "וַאֲתוּ גִּדּוּלֵי שְׁבִיעִית וּמְבַטְּלִים הָעִקָּר אַף עַל פִּי שֶׁהוּא"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: מה שצמח כאילו צמח בארץ ונחשב פירות שביעית. ובחיבורו: העלים אסורים משום ספיחים והבצלים עצמם מותרים ועומדים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 6:3:1",
+        "quote": "יהיה כאילו צמח בארץ ויחשבו כפירות שביעית וזה ענין"
+       },
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 6:3:1",
+        "quote": "ואותן העלים אסורים משום ספיחים. והבצלים עצמם"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם האיסור חל על כל הבצל או רק על התוספת.",
+    "mishnah": 3,
+    "anchors": [
+     "בצלים שירדו עליהם גשמים וצמחו,"
+    ]
+   },
+   {
+    "title": "למה צריך שיעשה כיוצא בו, והרי בירק הולכים אחר לקיטה?",
+    "pasuk": {
+     "text": "מאימתי מתר אדם",
+     "ref": "Mishnah Sheviit 6:4",
+     "label": "משנה שביעית ו, ד"
+    },
+    "question": "לחם שמים שואל על ההסבר שבירק הולכים אחר הלקיטה: אם נלקט במוצאי שביעית הרי הוא מותר, ולמה צריך שיעשה כיוצא בו?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 6:4:1-2",
+      "quote": "א\"כ למאי צריך שיעשה כיוצא בו כי היכי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: ההיתר רבה על האיסור ונתבטל.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 6:4:1",
+        "quote": "מִפְּנֵי שֶׁרָבָה הַהֶתֵּר עַל הָאִסּוּר וְנִתְבַּטֵּל:"
+       }
+      ]
+     },
+     {
+      "text": "הר\"ש: אף שבירק הולכים אחר הלקיטה, חוששים שמא הוא מן הנלקט בשביעית.",
+      "sources": [
+       {
+        "name": "רש משאנץ",
+        "ref": "Rash MiShantz on Mishnah Sheviit 6:4:1",
+        "quote": "חיישינן שלא יהא מן הנלקט בשביעית"
+       }
+      ]
+     }
+    ],
+    "why": "קובע מתי מותר לקנות ירק במוצאי שביעית.",
+    "mishnah": 4,
+    "anchors": [
+     "מאימתי מתר אדם"
+    ]
+   },
+   {
+    "title": "למה אין מביאים תרומה, והרי בכורים התקבלו מסוריא?",
+    "pasuk": {
+     "text": "אין מביאין תרומה",
+     "ref": "Mishnah Sheviit 6:6",
+     "label": "משנה שביעית ו, ו"
+    },
+    "question": "הר\"ש מביא את קושיית הירושלמי: אריסטון הביא בכוריו מאפמיא וקיבלו ממנו, אז מדוע לא יביא תרומה? מדוע נאסרה הבאת תרומה?",
+    "asked_by": [
+     {
+      "name": "רש משאנץ",
+      "ref": "Rash MiShantz on Mishnah Sheviit 6:6:1",
+      "quote": "הביא בכורים מאספמיא וקבלו ממנו ויביא תרומתו אמר",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: הכוהנים מחזרים אחר התרומה בבתי הגרנות, וחששו חכמים שמא ירדפו אחריה ויצאו לחוץ לארץ.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 6:6:1",
+        "quote": "חַיְשֵׁי רַבָּנָן שֶׁמָּא יִהְיוּ הַכֹּהֲנִים מְרַדְּפִים אַחֲרֶיהָ וְיֵצְאוּ"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: אין על הבעלים להביא תרומה, אבל בכורים הבעלים מביאים לירושלים על כרחם.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:6:1",
+        "quote": "שאין על הבעלים להביאה אלא מחלקים"
+       },
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 6:6:1",
+        "quote": "דעל כרחן מביאין אותם הבעלים"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מדוע סוריא נחשבת כארץ ישראל לחלק מהדינים.",
+    "mishnah": 6,
+    "anchors": [
+     "אין מביאין תרומה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "רש\"ש",
+   "תוספות רבי עקיבא איגר",
+   "רמב\"ם",
+   "ברטנורא",
+   "עיקר תוספות יום טוב",
+   "הון עשיר",
+   "לחם שמים",
+   "מלאכת שלמה",
+   "רש משאנץ"
+  ]
+ }
 }
