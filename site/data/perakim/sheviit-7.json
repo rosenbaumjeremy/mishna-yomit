@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-16",
+ "hebrew_date": {
+  "hebrew": "ו׳ בְּכִסְלֵו תשפ״ז",
+  "english": "6 Kislev 5787"
+ },
  "masechet": "sheviit",
  "perek": 7,
  "ref": "Mishnah Sheviit 7",
@@ -31,5 +36,923 @@
    "he": "וֶרֶד חָדָשׁ שֶׁכְּבָשׁוֹ בְּשֶׁמֶן יָשָׁן, יְלַקֵּט אֶת הַוֶּרֶד. וְיָשָׁן בְּחָדָשׁ, חַיָּב בַּבִּעוּר. חָרוּבִין חֲדָשִׁים שֶׁכְּבָשָׁן בְּיַיִן יָשָׁן, וִישָׁנִים בְּחָדָשׁ, חַיָּבִין בַּבִּעוּר. זֶה הַכְּלָל, כָּל שֶׁהוּא בְנוֹתֵן טַעַם, חַיָּב לְבַעֵר, מִין בְּשֶׁאֵינוֹ מִינוֹ. וּמִין בְּמִינוֹ, כָּל שֶׁהוּא. שְׁבִיעִית אוֹסֶרֶת כָּל שֶׁהוּא בְּמִינָהּ, וְשֶׁלֹּא בְמִינָהּ, בְּנוֹתֵן טָעַם: \n",
    "en": "If a new rose has been preserved in old oil, the rose may be taken out. But if an old rose was preserved in new oil, it is subject to the law of removal. New carobs preserved in old wine, or old carobs in new wine, are subject to the law of removal. This is the general principle: Any thing that imparts taste, he must remove it if it is one kind mixed with a different kind. But if it is mixed with the identical kind, then [the whole is subject to removal] even if only the smallest quantity exists. Sabbatical year produce renders similar kinds prohibited even [if it exists] in the smallest quantity. But if of different species only when it imparts taste."
   }
- ]
+ ],
+ "english": {
+  "topics": [
+   {
+    "term": "Biur (removal)",
+    "explanation": "When the produce of a species is gone from the field, the wild animals can no longer eat it there, so the produce that a person stored at home must be cleared out as well. This is called biur. It applies to the kinds listed in this mishnah, and the mishnah says it applies to their money-substitute too. The detailed laws of biur come later, in chapter 9.",
+    "mishnah": 1,
+    "anchors": [
+     "יש לו ביעור"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 7:1:2",
+     "quote": "כשכלה לחיה חייב לבער"
+    }
+   },
+   {
+    "term": "Money-substitute (dmei sheviit)",
+    "explanation": "If a person sells sheviit produce, the money received takes on the holiness of sheviit. The mishnah repeats this for every list of plants, so that the money has the same status as the produce itself, in the matters the mishnah lists, which are sheviit and biur.",
+    "mishnah": 1,
+    "anchors": [
+     "ולדמיו שביעית"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 7:1:1",
+     "quote": "אם מכרן וקבל הדמים שלהם יש בדמיהן קדושת שביעית"
+    }
+   },
+   {
+    "term": "Dyeing plants (minei tzovim)",
+    "explanation": "Plants used for dyeing are counted together with food in the laws of sheviit. The Torah's word for food is 'to eat', so the rule applies to a thing whose use and its removal from the world come together. A dye root is used up in the boiling pot as it gives its colour, which is the same kind of consuming as eating.",
+    "mishnah": 1,
+    "anchors": [
+     "וממין הצובעים"
+    ],
+    "source": {
+     "name": "Ikar Tosafot Yom Tov",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:1:3",
+     "quote": "בשעת רתיחת היורה כלה השורש וקולט הצבע"
+    }
+   },
+   {
+    "term": "Trading in sheviit produce (sechorah)",
+    "explanation": "Sheviit produce is for eating and use, not for business. A dyer may use sheviit peels to dye for himself, but dyeing for pay counts as trade, so it is forbidden. The same holds for gathering vegetables in order to sell them in the market.",
+    "mishnah": 3,
+    "anchors": [
+     "שאין עושין סחורה בפירות שביעית"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 7:3:5",
+     "quote": "שאין עושים סחורה בפירות שביעית וצביעה בשכר היינו סחורה"
+    }
+   },
+   {
+    "term": "Firstborn animal with a blemish (bechor)",
+    "explanation": "A firstborn animal belongs to the kohen. If it has a blemish, it may be eaten anywhere and may be sold. Even so, the mishnah teaches that it may not be made into a business. It may be sold only when a person bought it for a real need, such as his son's feast or a festival, and then no longer needed it.",
+    "mishnah": 4,
+    "anchors": [
+     "לקח בכור"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 7:4:1",
+     "quote": "ואם נמצא בו מום יאכלנו בכל מקום"
+    }
+   },
+   {
+    "term": "Leaves that fall from their parent (noshrin me'avihen)",
+    "explanation": "The branch is called the 'parent' of the leaves attached to it. Leaves fall off from where they are joined, and so they have their own biur. The lulavim, the young shoots, do not fall off, so they have none. The mishnah says this to explain why the leaves differ from the lulavim.",
+    "mishnah": 5,
+    "anchors": [
+     "מפני שנושרין מאביהן"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 7:5:5",
+     "quote": "העלים נושרים הן ממקום חבורן"
+    }
+   },
+   {
+    "term": "Mixtures: the same kind and a different kind",
+    "explanation": "When sheviit produce falls into the same kind of produce, even the smallest amount makes the whole subject to biur. For example, one drop of sheviit wine in a large vessel of sixth-year wine. When it falls into a different kind, it matters only if it gives its taste.",
+    "mishnah": 7,
+    "anchors": [
+     "מין במינו כל שהוא"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 7:7:3",
+     "quote": "מין במינו כ\"ש כגון שיתערב יין של שביעית ביין של ששית ואפילו טפה אחת בכלי גדול הוא חייב לבער"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why 'a great principle' and not just 'a principle'?",
+    "pasuk": {
+     "text": "כלל גדול אמרו בשביעית",
+     "ref": "Mishnah Sheviit 7:1",
+     "label": "Mishnah Sheviit 7:1"
+    },
+    "question": "In the matching mishnah in Peah, the rule is introduced as 'a principle they said', without the word 'great'. Why does the mishnah here say 'a great principle'?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Sheviit 7:1:1",
+      "quote": "כלל אמרו בפאה ולא תנן גדול מפרש במסכת שבת",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov, following the gemara in Shabbat, says the word 'great' is used because the punishment for sheviit is greater than for maaser: sheviit applies to food for people and for animals, while maaser applies only to food for people.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:1:1",
+        "quote": "משום דגדול עונשו של שביעית יותר משל מעשר דאילו שביעית איתיה בין במאכל אדם בין במאכל בהמה"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger, in his gloss on this comment, adds that the same word is used about Shabbat for a similar reason. He says Shabbat applies to both detached and attached produce, while sheviit applies to attached and not to detached.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 7:1:1",
+        "quote": "דשבת איתא בין בתלוש בין במחובר ושביעית במחובר איתא בתלוש ליתא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how seriously sheviit is treated compared with other agricultural gifts.",
+    "mishnah": 1,
+    "anchors": [
+     "כלל גדול אמרו בשביעית"
+    ]
+   },
+   {
+    "title": "Why name the leaf of the wild luf?",
+    "pasuk": {
+     "text": "עלה הלוף השוטה",
+     "ref": "Mishnah Sheviit 7:1",
+     "label": "Mishnah Sheviit 7:1"
+    },
+    "question": "Why does the mishnah need to list the leaf of the wild luf, and the endives and leeks, among the plants that fall under sheviit? Aren't they plainly food?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Sheviit 7:1:4",
+      "quote": "הא דלא נקט לוף פיקח לוף שוטה איצטריך ליה משום דתנן בפרק בתרא דעוקצין",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says it had to be taught, because another mishnah (in Oktzin) says the leaf of the wild luf does not become impure as food. One might have thought sheviit does not apply to it either, so the mishnah teaches that it does. He says the same of endives: in a normal year only the garden kind is counted as food, but in the sabbatical year, when garden vegetables are not found, the field kind is counted.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 7:1:3",
+        "quote": "אצטריך למתני לוף שוטה משום דתנן בפרק בתרא דעקצים עלה לוף שוטה אין מטמא טומאת אכלים סלקא דעתך אמינא הכי נמי לא לחול עליהו קדושת שביעית קמשמע לן"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 7:1:5",
+        "quote": "דבשביעית דאין עולשי גנה מצויין"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that a plant that is not normally counted as food can be counted as food in the sabbatical year.",
+    "mishnah": 1,
+    "anchors": [
+     "עלה הלוף השוטה"
+    ]
+   },
+   {
+    "title": "Does 'and can be left in the soil' apply to all three kinds?",
+    "pasuk": {
+     "text": "כל שאינו מאכל אדם ומאכל בהמה וממין הצובעין ומתקיים בארץ",
+     "ref": "Mishnah Sheviit 7:2",
+     "label": "Mishnah Sheviit 7:2"
+    },
+    "question": "Does the phrase 'and can be left in the soil' qualify food for people and animals as well as the dyeing plants, or only the dyeing plants?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 7:2:1",
+      "quote": "אלא אאו ממין הצובעים דסמיך ליה צע\"ג",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov and Ikar Tosafot Yom Tov, following the Rambam, read 'can be left in the soil' as referring only to the dyeing plants. A thing that is not food for people or animals has no biur even if it does not stay in the ground.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:2:1",
+        "quote": "ומפרש דומתקיים בארץ לא קאי אלא אמין הצובעים אבל שאינו מאכל אדם ובהמה אע\"פ שאינו מתקיים בארץ אין להם ביעור"
+       },
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:2:1",
+        "quote": "ומפרש דמתקיים בארץ לא קאי אלא אמין הצובעים"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura gives the reason for no biur as the fact that these plants stay in the ground, so the field never runs out for the wild animals. Tosafot Yom Tov also brings another version of the text, in which 'can be left in the soil' refers to all of them.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 7:2:7",
+        "quote": "לפי שמתקיימים בארץ ולא כלה לחיה מן השדה לפיכך אין צריך לבערו מן הבית"
+       },
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:2:1",
+        "quote": "ולגי' זו מתקיים בארץ אכולהו קאי"
+       }
+      ]
+     }
+    ],
+    "why": "It decides which plants have biur and which do not.",
+    "mishnah": 2,
+    "anchors": [
+     "כל שאינו מאכל אדם ומאכל בהמה וממין הצובעין ומתקיים בארץ"
+    ]
+   },
+   {
+    "title": "Why only sheviit, and not biur, for peels and pits?",
+    "pasuk": {
+     "text": "קלפי רמון והנץ שלו קלפי אגוזים והגלעינין יש להם שביעית ולדמיהן שביעית",
+     "ref": "Mishnah Sheviit 7:3",
+     "label": "Mishnah Sheviit 7:3"
+    },
+    "question": "The mishnah says these have sheviit, but says nothing about biur. Why does it not include them with the earlier mishnayot, and if the pits are used as fuel, why does sheviit apply to them at all?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:3:1",
+      "quote": "והא ל\"ק דלכללינהו בהדי חדא מהנך תרתי משניות דלעיל",
+      "era": "acharon"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 7:3:1",
+      "quote": "קשה הא עצי הסקה אין בהם קדושת שביעית",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura and Rash say the mishnah speaks of pits that are fit for animals or can be made into oil, and so they are food. Tosafot Yom Tov says, on this view, the mishnah teaches sheviit and the same goes for biur.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 7:3:3",
+        "quote": "גרעיני פירות כגון הגרעינים שבזיתים שמוציאים מהן שמן וגרעיני תמרים שראוין למאכל בהמה"
+       },
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Sheviit 7:3:2",
+        "quote": "גרעיני זיתים ותמרים חזו להסקה וחזו נמי לבהמה"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam, as explained by Ikar Tosafot Yom Tov, says these are for fuel and have no biur. Sheviit still applies, since the fruit itself is fit for people.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:3:1",
+        "quote": "והכסף משנה יהיב טעמא דלהסקה קיימי ומפרש בכל גרעיני פירות וכיון דעיקר הפרי ראוי למאכל אדם חלה קדושת שביעית עליהם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the commentators decide which part of a fruit is still food and so holy.",
+    "mishnah": 3,
+    "anchors": [
+     "קלפי רמון והנץ שלו קלפי אגוזים והגלעינין יש להם שביעית ולדמיהן שביעית"
+    ]
+   },
+   {
+    "title": "Is the ban on trading in neveilot from the Torah or from the rabbis?",
+    "pasuk": {
+     "text": "ולא בנבלות ולא בטרפות",
+     "ref": "Mishnah Sheviit 7:3",
+     "label": "Mishnah Sheviit 7:3"
+    },
+    "question": "Bartenura's wording says the Sages did not forbid trade except in food. That sounds like a rabbinic ban, yet the ban is learned from a verse. What is the source of the prohibition?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:3:4",
+      "quote": "קצת קשה בדברי הר\"ב בלשונו שכתב ולא אסרו לעשות כו דמשמע דרבנן הוא דאסרי והרי ממקרא הוא נדרש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ikar Tosafot Yom Tov says the ban is from the Torah, from the word 'shall be', but because the verse also says 'to you', the Sages were left to decide in which way trade is forbidden and in which it is allowed.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:3:2",
+        "quote": "ונראה לי דאף על גב דמדאורייתא אסור לעשות בהן סחורה מדכתיב יהיו אפילו הכי מדכתיב נמי לכם לומר שלכם יהיו נשאר האיסור וההיתר מסור לחכמים"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura says that whatever is forbidden by the Torah may not be traded in, while what the Sages forbade may be traded in.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 7:3:7",
+        "quote": "וכל דבר שאיסורו מן התורה אסור לעשות בו סחורה אבל דבר שאיסורו מדבריהם אין אסור לעשות בו סחורה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides how far the ban on trade reaches.",
+    "mishnah": 3,
+    "anchors": [
+     "ולא בנבלות ולא בטרפות"
+    ]
+   },
+   {
+    "title": "What is the dispute between Rabbi Yehuda and the Sages?",
+    "pasuk": {
+     "text": "צדי חיה עופות ודגים שנזדמנו להם מינים טמאין",
+     "ref": "Mishnah Sheviit 7:4",
+     "label": "Mishnah Sheviit 7:4"
+    },
+    "question": "The mishnah first permits trappers to sell unclean animals they happen to catch. Rabbi Yehuda adds a man who just happened upon one, and 'the Sages forbid'. Who are the Sages, since the first opinion is also the Sages' opinion?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 7:4:3",
+      "quote": "תימה לע\"ד חכמים היינו ת\"ק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ikar Tosafot Yom Tov says the Sages are the first opinion, and the difference between them is a trapper who sets out to catch unclean animals: the Sages allow it because he owes tax to the king, and the first opinion allows only what happens to come.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:4:3",
+        "quote": "חכמים היינו תנא קמא ויש לומר דצייד כשמכוין לצוד טמאים איכא ביניהו"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura says that the Sages permit only trappers, because trappers must pay tax to the king from their craft and so were allowed to sell the unclean animals to pay it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 7:4:6",
+        "quote": "וטעמיהו דרבנן לפי שהצידים שצריכים לתן מס למלך מאומנותם התירו להם למכור חיה עופות ודגים טמאים"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir reads the mishnah differently: 'trapper' is not exact, and the same permit holds for any person who spread a net once for his own benefit.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 7:4:5",
+        "quote": "וצייד דקתני לאו דווקא הוא דה\"ה לכל אדם שאינו צייד שפרש רשת פעם אחת"
+       }
+      ]
+     }
+    ],
+    "why": "It determines who may sell unclean animals caught by chance.",
+    "mishnah": 4,
+    "anchors": [
+     "צדי חיה עופות ודגים שנזדמנו להם מינים טמאין"
+    ]
+   },
+   {
+    "title": "Why does the mishnah teach roses and carobs separately?",
+    "pasuk": {
+     "text": "ורד חדש שכבשו בשמן ישן ילקט את הוורד",
+     "ref": "Mishnah Sheviit 7:7",
+     "label": "Mishnah Sheviit 7:7"
+    },
+    "question": "The mishnah teaches the rule for a rose and then, in different words, for carobs. If the two cases are the same, why teach both?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:7:2",
+      "quote": "והדבר תמוה לפרש משנתנו על פיה דמשמע דבענין אחד שנאן לורד וחרובין אלא שדינם נשתנה",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:7:2",
+      "quote": "ותמוה דבמשנתנו משמע דבענין אחד שנאן לורד וחרובין אלא שדינם נשתנה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam, as brought by Tosafot Yom Tov and Ikar Tosafot Yom Tov, says the taste of carobs enters wine at once, so in either case the wine must be cleared out. A rose is different: it does not give taste to oil quickly.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 7:7:2",
+        "quote": "אבל החרובין ביין יכנס בו טעם החרובין מיד ומפני זה על שני הדרכים חייב לבער היין"
+       },
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:7:2",
+        "quote": "והר\"מ מפרש דחרובין ביין יכנס בו טעם החרובין מיד"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura says the first case is a rose of the seventh year pickled in oil of the sixth year, before biur time, so it is taken out and all is allowed. The carob case is about someone who comes to drink the wine after biur time, when it must be cleared out either way.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 7:7:1",
+        "quote": "ורד של שביעית שכבשו בשמן של ששית ילקט את הוורד קודם שיגיע זמן הביעור והכל מותר"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 7:7:2",
+        "quote": "הכא מיירי בבא לשתות היין אחר זמן הביעור דבכל ענין חייב לבער"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the commentators read the mishnah's cases as two different times or two different tastes.",
+    "mishnah": 7,
+    "anchors": [
+     "ורד חדש שכבשו בשמן ישן ילקט את הוורד"
+    ]
+   }
+  ],
+  "summary": "Mishnah 1 gives a great principle of sheviit: food for people or animals, and dyeing plants, that do not last in the ground, have sheviit and biur, and so does the money received for them. Mishnah 2 gives the other principle, for plants that do last: they have sheviit but no biur, and Rabbi Meir says their money must be cleared by Rosh Hashanah. Mishnah 3 says peels and pits have sheviit, a dyer may dye for himself and not for pay, and sheviit produce may not be traded in. Mishnah 4 allows selling a firstborn bought for a feast or festival and unclean animals that a trapper caught by chance, and Rabbi Yehuda and the Sages disagree about others. Mishnayot 5–6 list tree shoots, leaves, roses and balsam, and Rabbi Shimon says balsam sap is not fruit. Mishnah 7 deals with roses and carobs pickled in oil or wine, and the general rule on mixtures.",
+  "sources_consulted": [
+   "Rash MiShantz",
+   "Tosafot Yom Tov",
+   "Tosafot Rabbi Akiva Eiger",
+   "Bartenura",
+   "Rashash",
+   "Ikar Tosafot Yom Tov",
+   "Melekhet Shelomoh",
+   "Hon Ashir",
+   "Rambam"
+  ]
+ },
+ "hebrew": {
+  "topics": [
+   {
+    "term": "ביעור",
+    "explanation": "כאשר פרי מין מסוים כלה מן השדה ואין חיות השדה יכולות לאכול ממנו שם, צריך לפנות מן הבית את הפירות שאגר אדם. פינוי זה נקרא ביעור. הוא חל על המינים המנויים במשנה, ואף על דמיהם. פרטי דיני הביעור יבוארו בפרק ט.",
+    "mishnah": 1,
+    "anchors": [
+     "יש לו ביעור"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 7:1:2",
+     "quote": "כשכלה לחיה חייב לבער"
+    }
+   },
+   {
+    "term": "דמי שביעית",
+    "explanation": "אם מכר אדם פירות שביעית, הדמים שקיבל נתפסים בקדושת שביעית. המשנה חוזרת על כך בכל רשימת צמחים, כדי שלדמים יהיה דין כמו לפירות עצמם, בעניינים שהמשנה מזכירה, הם שביעית וביעור.",
+    "mishnah": 1,
+    "anchors": [
+     "ולדמיו שביעית"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 7:1:1",
+     "quote": "אם מכרן וקבל הדמים שלהם יש בדמיהן קדושת שביעית"
+    }
+   },
+   {
+    "term": "מין הצובעים",
+    "explanation": "צמחים המשמשים לצביעה נמנים עם האוכל בדיני שביעית. התורה כתבה 'לאכלה', ולכן הדין נאמר בדבר שהנאתו וביעורו שווים. שורש הצבע כלה בקדירה הרותחת כשהוא נותן את צבעו, והדבר דומה לאכילה.",
+    "mishnah": 1,
+    "anchors": [
+     "וממין הצובעים"
+    ],
+    "source": {
+     "name": "עיקר תוספות יום טוב",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:1:3",
+     "quote": "בשעת רתיחת היורה כלה השורש וקולט הצבע"
+    }
+   },
+   {
+    "term": "סחורה בפירות שביעית",
+    "explanation": "פירות שביעית נועדו לאכילה ולשימוש, לא למסחר. צבע רשאי לצבוע בקליפות של שביעית לעצמו, אך צביעה בשכר נחשבת סחורה ואסורה. כך גם לקיטת ירקות כדי למכרם בשוק.",
+    "mishnah": 3,
+    "anchors": [
+     "שאין עושין סחורה בפירות שביעית"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 7:3:5",
+     "quote": "שאין עושים סחורה בפירות שביעית וצביעה בשכר היינו סחורה"
+    }
+   },
+   {
+    "term": "בכור בעל מום",
+    "explanation": "הבכור הוא לכהן. אם יש בו מום, אוכלים אותו בכל מקום ומותר למכרו. ובכל זאת אסור לעשות בו סחורה. המשנה מתירה למכרו רק למי שלקחו לצורך אמיתי, כמו משתה בנו או רגל, ואחר כך לא נצרך לו.",
+    "mishnah": 4,
+    "anchors": [
+     "לקח בכור"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 7:4:1",
+     "quote": "ואם נמצא בו מום יאכלנו בכל מקום"
+    }
+   },
+   {
+    "term": "נושרין מאביהן",
+    "explanation": "הענף נקרא 'אב' לעלים המחוברים אליו. העלים נושרים ממקום חיבורם, ולכן יש להם ביעור משלהם. הלולבים אינם נושרים ולכן אין להם. המשנה אומרת זאת כדי להסביר מדוע העלים שונים מן הלולבים.",
+    "mishnah": 5,
+    "anchors": [
+     "מפני שנושרין מאביהן"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 7:5:5",
+     "quote": "העלים נושרים הן ממקום חבורן"
+    }
+   },
+   {
+    "term": "תערובת: מין במינו ומין בשאינו מינו",
+    "explanation": "כששביעית נופלת למין שלה, אפילו כל שהוא מחייב את הכול בביעור, למשל טיפה אחת של יין שביעית בכלי גדול של יין שנה ששית. כשהיא נופלת למין אחר, הדין תלוי בכך שהיא נותנת טעם.",
+    "mishnah": 7,
+    "anchors": [
+     "מין במינו כל שהוא"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 7:7:3",
+     "quote": "מין במינו כ\"ש כגון שיתערב יין של שביעית ביין של ששית ואפילו טפה אחת בכלי גדול הוא חייב לבער"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע 'כלל גדול' ולא 'כלל'?",
+    "pasuk": {
+     "text": "כלל גדול אמרו בשביעית",
+     "ref": "Mishnah Sheviit 7:1",
+     "label": "משנה שביעית ז, א"
+    },
+    "question": "במשנה המקבילה בפאה נאמר 'כלל אמרו' ללא המילה 'גדול'. מדוע כאן נאמר 'כלל גדול'?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Sheviit 7:1:1",
+      "quote": "כלל אמרו בפאה ולא תנן גדול מפרש במסכת שבת",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב, על פי הגמרא בשבת, אומר שנאמר 'גדול' משום שעונשה של שביעית גדול מזה של מעשר: שביעית חלה בין במאכל אדם בין במאכל בהמה, ומעשר חל רק במאכל אדם.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:1:1",
+        "quote": "משום דגדול עונשו של שביעית יותר משל מעשר דאילו שביעית איתיה בין במאכל אדם בין במאכל בהמה"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר, בהגהתו על דברי התוספות יום טוב, מוסיף שגם בשבת נאמר 'כלל גדול' מטעם דומה. לדבריו שבת חלה בין בתלוש בין במחובר, ושביעית חלה במחובר ובתלוש אינה.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 7:1:1",
+        "quote": "דשבת איתא בין בתלוש בין במחובר ושביעית במחובר איתא בתלוש ליתא"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה עד כמה חמורה שביעית בהשוואה לשאר מתנות החקלאות.",
+    "mishnah": 1,
+    "anchors": [
+     "כלל גדול אמרו בשביעית"
+    ]
+   },
+   {
+    "title": "מדוע נאמר 'עלה הלוף השוטה'?",
+    "pasuk": {
+     "text": "עלה הלוף השוטה",
+     "ref": "Mishnah Sheviit 7:1",
+     "label": "משנה שביעית ז, א"
+    },
+    "question": "מדוע המשנה צריכה למנות את עלה הלוף השוטה, את העולשין ואת הכרישין בין הצמחים שדין שביעית חל עליהם? והלוא ברור שהם אוכל?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Sheviit 7:1:4",
+      "quote": "הא דלא נקט לוף פיקח לוף שוטה איצטריך ליה משום דתנן בפרק בתרא דעוקצין",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא אומר שהיה צריך לשנות זאת, משום ששנינו במשנה אחרת (בעוקצין) שעלה לוף שוטה אינו מטמא טומאת אוכלים. הייתי אומר שגם קדושת שביעית לא תחול עליו, ולכן המשנה משמיעה שהיא חלה. כך הוא אומר גם על העולשין: בשנה רגילה רק של הגינה נחשב אוכל, ובשביעית, כשאין ירקות גינה מצויים, גם של השדה נחשב.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 7:1:3",
+        "quote": "אצטריך למתני לוף שוטה משום דתנן בפרק בתרא דעקצים עלה לוף שוטה אין מטמא טומאת אכלים סלקא דעתך אמינא הכי נמי לא לחול עליהו קדושת שביעית קמשמע לן"
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 7:1:5",
+        "quote": "דבשביעית דאין עולשי גנה מצויין"
+       }
+      ]
+     }
+    ],
+    "why": "זה מלמד שצמח שאינו נחשב אוכל בשנים רגילות נחשב אוכל בשנת שמיטה.",
+    "mishnah": 1,
+    "anchors": [
+     "עלה הלוף השוטה"
+    ]
+   },
+   {
+    "title": "האם 'ומתקיים בארץ' נאמר על כל שלושת המינים?",
+    "pasuk": {
+     "text": "כל שאינו מאכל אדם ומאכל בהמה וממין הצובעין ומתקיים בארץ",
+     "ref": "Mishnah Sheviit 7:2",
+     "label": "משנה שביעית ז, ב"
+    },
+    "question": "האם המילים 'ומתקיים בארץ' מתייחסות גם למאכל אדם ובהמה, או רק למין הצובעים?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Sheviit 7:2:1",
+      "quote": "אלא אאו ממין הצובעים דסמיך ליה צע\"ג",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב ועיקר תוספות יום טוב, בעקבות הרמב\"ם, מפרשים ש'מתקיים בארץ' נאמר רק על מין הצובעים. דבר שאינו מאכל אדם ובהמה אין לו ביעור גם אם אינו מתקיים בארץ.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:2:1",
+        "quote": "ומפרש דומתקיים בארץ לא קאי אלא אמין הצובעים אבל שאינו מאכל אדם ובהמה אע\"פ שאינו מתקיים בארץ אין להם ביעור"
+       },
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:2:1",
+        "quote": "ומפרש דמתקיים בארץ לא קאי אלא אמין הצובעים"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא נותן את הטעם לאין ביעור בכך שהם מתקיימים בארץ, ולכן לא כלה לחיה מן השדה. תוספות יום טוב מביא גם נוסח אחר, שבו 'מתקיים בארץ' נאמר על כולם.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 7:2:7",
+        "quote": "לפי שמתקיימים בארץ ולא כלה לחיה מן השדה לפיכך אין צריך לבערו מן הבית"
+       },
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:2:1",
+        "quote": "ולגי' זו מתקיים בארץ אכולהו קאי"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע לאילו צמחים יש ביעור ולאילו אין.",
+    "mishnah": 2,
+    "anchors": [
+     "כל שאינו מאכל אדם ומאכל בהמה וממין הצובעין ומתקיים בארץ"
+    ]
+   },
+   {
+    "title": "מדוע רק שביעית ולא ביעור בקליפות ובגלעינין?",
+    "pasuk": {
+     "text": "קלפי רמון והנץ שלו קלפי אגוזים והגלעינין יש להם שביעית ולדמיהן שביעית",
+     "ref": "Mishnah Sheviit 7:3",
+     "label": "משנה שביעית ז, ג"
+    },
+    "question": "המשנה אומרת שיש להם שביעית, ואינה אומרת דבר על ביעור. מדוע לא כללה אותם עם המשניות הקודמות? ואם הגלעינין משמשים להסקה, מדוע חלה עליהם שביעית כלל?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:3:1",
+      "quote": "והא ל\"ק דלכללינהו בהדי חדא מהנך תרתי משניות דלעיל",
+      "era": "acharon"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Sheviit 7:3:1",
+      "quote": "קשה הא עצי הסקה אין בהם קדושת שביעית",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא ורש אומרים שהמשנה עוסקת בגלעינין הראויים לבהמה או שמוציאים מהם שמן, ולכן הם אוכל. תוספות יום טוב אומר שלפי דרך זו המשנה מלמדת שביעית וה\"ה ביעור.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 7:3:3",
+        "quote": "גרעיני פירות כגון הגרעינים שבזיתים שמוציאים מהן שמן וגרעיני תמרים שראוין למאכל בהמה"
+       },
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Sheviit 7:3:2",
+        "quote": "גרעיני זיתים ותמרים חזו להסקה וחזו נמי לבהמה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם, כפי שמסביר עיקר תוספות יום טוב, אומר שאלה עומדים להסקה ואין להם ביעור. שביעית חלה עליהם מפני שהפרי עצמו ראוי לאדם.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:3:1",
+        "quote": "והכסף משנה יהיב טעמא דלהסקה קיימי ומפרש בכל גרעיני פירות וכיון דעיקר הפרי ראוי למאכל אדם חלה קדושת שביעית עליהם"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד המפרשים קובעים איזה חלק של פרי עדיין נחשב אוכל וקדוש.",
+    "mishnah": 3,
+    "anchors": [
+     "קלפי רמון והנץ שלו קלפי אגוזים והגלעינין יש להם שביעית ולדמיהן שביעית"
+    ]
+   },
+   {
+    "title": "האם איסור הסחורה בנבלות מן התורה או מדרבנן?",
+    "pasuk": {
+     "text": "ולא בנבלות ולא בטרפות",
+     "ref": "Mishnah Sheviit 7:3",
+     "label": "משנה שביעית ז, ג"
+    },
+    "question": "לשון ברטנורא היא שלא אסרו לעשות סחורה אלא בדבר העומד לאכילה. זה נשמע כאיסור מדרבנן, ובכל זאת האיסור נלמד מפסוק. מהו מקורו של האיסור?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:3:4",
+      "quote": "קצת קשה בדברי הר\"ב בלשונו שכתב ולא אסרו לעשות כו דמשמע דרבנן הוא דאסרי והרי ממקרא הוא נדרש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עיקר תוספות יום טוב אומר שהאיסור מן התורה, מהמילה 'יהיו', אבל מפני שהפסוק אומר גם 'לכם', נמסר לחכמים לפרש באיזה אופן אסור לסחור ובאיזה מותר.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:3:2",
+        "quote": "ונראה לי דאף על גב דמדאורייתא אסור לעשות בהן סחורה מדכתיב יהיו אפילו הכי מדכתיב נמי לכם לומר שלכם יהיו נשאר האיסור וההיתר מסור לחכמים"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא אומר שכל דבר שאיסורו מן התורה אסור לעשות בו סחורה, ודבר שאיסורו מדבריהם מותר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 7:3:7",
+        "quote": "וכל דבר שאיסורו מן התורה אסור לעשות בו סחורה אבל דבר שאיסורו מדבריהם אין אסור לעשות בו סחורה"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע עד היכן מגיע איסור הסחורה.",
+    "mishnah": 3,
+    "anchors": [
+     "ולא בנבלות ולא בטרפות"
+    ]
+   },
+   {
+    "title": "במה נחלקים רבי יהודה וחכמים?",
+    "pasuk": {
+     "text": "צדי חיה עופות ודגים שנזדמנו להם מינים טמאין",
+     "ref": "Mishnah Sheviit 7:4",
+     "label": "משנה שביעית ז, ד"
+    },
+    "question": "המשנה מתירה תחילה לצדים למכור מינים טמאים שנזדמנו להם. רבי יהודה מוסיף גם מי שנזדמן לו, ו'חכמים אוסרין'. מי הם חכמים, והרי גם התנא הראשון הוא דעת חכמים?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 7:4:3",
+      "quote": "תימה לע\"ד חכמים היינו ת\"ק",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עיקר תוספות יום טוב אומר שחכמים הם התנא הראשון, והמחלוקת ביניהם היא צייד שמכוון לצוד טמאים: לחכמים מותר מפני שהוא חייב מס למלך, ולתנא קמא מותר רק מה שנזדמן.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:4:3",
+        "quote": "חכמים היינו תנא קמא ויש לומר דצייד כשמכוין לצוד טמאים איכא ביניהו"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא אומר שחכמים מתירים רק לצדים, מפני שהצדים צריכים לשלם מס למלך מאומנותם, ולכן התירו להם למכור טמאים כדי לשלם אותו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 7:4:6",
+        "quote": "וטעמיהו דרבנן לפי שהצידים שצריכים לתן מס למלך מאומנותם התירו להם למכור חיה עופות ודגים טמאים"
+       }
+      ]
+     },
+     {
+      "text": "הון עשיר מפרש את המשנה אחרת: 'צייד' אינו מדויק, וההיתר שווה לכל אדם שפרש רשת פעם אחת לצורכו.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 7:4:5",
+        "quote": "וצייד דקתני לאו דווקא הוא דה\"ה לכל אדם שאינו צייד שפרש רשת פעם אחת"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע מי רשאי למכור טמאים שנצודו במקרה.",
+    "mishnah": 4,
+    "anchors": [
+     "צדי חיה עופות ודגים שנזדמנו להם מינים טמאין"
+    ]
+   },
+   {
+    "title": "מדוע המשנה שונה ורד וחרובין בנפרד?",
+    "pasuk": {
+     "text": "ורד חדש שכבשו בשמן ישן ילקט את הוורד",
+     "ref": "Mishnah Sheviit 7:7",
+     "label": "משנה שביעית ז, ז"
+    },
+    "question": "המשנה שונה את הדין בוורד ואחר כך, בלשון אחרת, בחרובין. אם שני המקרים שווים, מדוע לשנות את שניהם?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 7:7:2",
+      "quote": "והדבר תמוה לפרש משנתנו על פיה דמשמע דבענין אחד שנאן לורד וחרובין אלא שדינם נשתנה",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:7:2",
+      "quote": "ותמוה דבמשנתנו משמע דבענין אחד שנאן לורד וחרובין אלא שדינם נשתנה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם, כפי שמביאים תוספות יום טוב ועיקר תוספות יום טוב, אומר שטעם החרובין נכנס ליין מיד, ולכן בשני הדרכים צריך לבער את היין. הוורד שונה: אינו נותן טעם בשמן מהר.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 7:7:2",
+        "quote": "אבל החרובין ביין יכנס בו טעם החרובין מיד ומפני זה על שני הדרכים חייב לבער היין"
+       },
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 7:7:2",
+        "quote": "והר\"מ מפרש דחרובין ביין יכנס בו טעם החרובין מיד"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא אומר שהמקרה הראשון הוא ורד של שביעית שנכבש בשמן של שנה ששית, לפני זמן הביעור, ולכן מוציאים אותו והכל מותר. המקרה של החרובין עוסק במי שבא לשתות את היין אחרי זמן הביעור, ואז הוא חייב לבער בכל מקרה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 7:7:1",
+        "quote": "ורד של שביעית שכבשו בשמן של ששית ילקט את הוורד קודם שיגיע זמן הביעור והכל מותר"
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 7:7:2",
+        "quote": "הכא מיירי בבא לשתות היין אחר זמן הביעור דבכל ענין חייב לבער"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד המפרשים קוראים את מקרי המשנה כשני זמנים שונים או שני טעמים שונים.",
+    "mishnah": 7,
+    "anchors": [
+     "ורד חדש שכבשו בשמן ישן ילקט את הוורד"
+    ]
+   }
+  ],
+  "summary": "משנה א מלמדת כלל גדול בשביעית: מאכל אדם או בהמה וממין הצובעים שאינם מתקיימים בארץ יש להם שביעית וביעור, וכן לדמיהם. משנה ב מלמדת כלל אחר, בצמחים המתקיימים: יש להם שביעית ואין להם ביעור, ורבי מאיר אומר שדמיהם מתבערים עד ראש השנה. משנה ג אומרת שלקליפות ולגלעינין יש שביעית, שהצבע צובע לעצמו ולא בשכר, ושאין עושים סחורה בפירות שביעית. משנה ד מתירה למכור בכור שנלקח למשתה או לרגל ומינים טמאים שנזדמנו לצדים, ורבי יהודה וחכמים נחלקים בשאר בני אדם. משניות ה-ו מונות לולבים, עלים, ורד ובושם, ורבי שמעון אומר שאין לקטף שביעית מפני שאינו פרי. משנה ז עוסקת בוורד ובחרובין שנכבשו בשמן או ביין ובכלל התערובות.",
+  "sources_consulted": [
+   "רש משנץ",
+   "תוספות יום טוב",
+   "תוספות רבי עקיבא איגר",
+   "ברטנורא",
+   "רש\"ש",
+   "עיקר תוספות יום טוב",
+   "מלאכת שלמה",
+   "הון עשיר",
+   "רמב\"ם"
+  ]
+ }
 }
