@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-17",
+ "hebrew_date": {
+  "hebrew": "ז׳ בְּכִסְלֵו תשפ״ז",
+  "english": "7 Kislev 5787"
+ },
  "masechet": "sheviit",
  "perek": 8,
  "ref": "Mishnah Sheviit 8",
@@ -47,5 +52,1077 @@
    "he": "מֶרְחָץ שֶׁהֻסְּקָה בְּתֶבֶן אוֹ בְקַשׁ שֶׁל שְׁבִיעִית, מֻתָּר לִרְחֹץ בָּהּ. וְאִם מִתְחַשֵּׁב הוּא, הֲרֵי זֶה לֹא יִרְחֹץ: \n",
    "en": "A bath heated with straw or stubble of the seventh year, it is permitted to wash in it. But if he is an important man, he should not wash in it. \n"
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 gives the great principle: what is designated for human food may not be used as a poultice; what is not may be used for a person but not an animal; and an item intended for both takes both sets of stringencies, while one intended as wood is treated as wood.\nMishnah 2 says sheviit produce is for eating, drinking and anointing, that one may not anoint with wine or vinegar, and that sheviit is more lenient than terumah in that its oil may kindle a lamp.\nMishnah 3 forbids selling sheviit produce by measure, weight or number, with Beit Shammai and Beit Hillel disagreeing about bundles.\nMishnayot 4–5 forbid paying a debt, or paying a well-digger, bathkeeper, barber or sailor, with sheviit money, but allow a gift.\nMishnayot 6–7 forbid working the produce in the usual manner (cutting, treading, pressing) and cooking it in terumah oil, with Rabbi Shimon more lenient, and teach that the sanctity passes to the last item exchanged.\nMishnayot 8–11 forbid buying slaves, land or an unclean animal with sheviit money, or anointing vessels with its oil (“he eats the equivalent”), record Rabbi Eliezer and Rabbi Akiva on an oiled hide and on bread of the Kutim, and permit a bath heated with sheviit straw unless the bather is an important man.",
+  "topics": [
+   {
+    "term": "Melugma (poultice)",
+    "explanation": "A melugma is a dressing or poultice laid on a wound. The seventh year’s produce was given “to eat,” so food meant for people may not be turned into a poultice for a person.",
+    "mishnah": 1,
+    "anchors": [
+     "מלוגמא"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 8:1:1",
+     "quote": "הוא שלא יעשה מפירות שביעית לא תחבושת ולא רטיות"
+    }
+   },
+   {
+    "term": "Chumrei adam and chumrei behemah",
+    "explanation": "An item not designated for either people or animals, but that one intended as food for both, takes both sets of stringencies: it may not be used as a poultice, and (per the explanations) not boiled.",
+    "mishnah": 1,
+    "anchors": [
+     "חמרי אדם וחמרי בהמה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 8:1:4",
+     "quote": "שֶׁאֵין עוֹשִׂין מֵהֶם מְלוּגְמָא:"
+    }
+   },
+   {
+    "term": "Lighting a lamp with sheviit produce",
+    "explanation": "Besides eating, drinking and anointing, sheviit produce (oil) may also be used to light a lamp, which makes the seventh year more lenient than terumah.",
+    "mishnah": 2,
+    "anchors": [
+     "להדלקת הנר"
+    ],
+    "source": {
+     "name": "Ikar Tosafot Yom Tov",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 8:2:1",
+     "quote": "תִּהְיֶה, אַף לְהַדְלָקַת הַנֵּר."
+    }
+   },
+   {
+    "term": "Bundles (agudot) and Beit Shammai / Beit Hillel",
+    "explanation": "Sheviit produce may not be sold the way it is sold in other years. Beit Shammai forbid even selling in bundles; Beit Hillel allow bundling in the market what is usually bundled at home, such as leeks.",
+    "mishnah": 3,
+    "anchors": [
+     "אף לא אגודות"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 8:3:2",
+     "quote": "שֶׁלֹּא יִמְכֹּר כְּדֶרֶךְ שֶׁמּוֹכְרִים בִּשְׁאָר שָׁנִים:"
+    }
+   },
+   {
+    "term": "No paying a debt with sheviit money",
+    "explanation": "Money received for sheviit produce takes on its sanctity. It may be used for food but not for paying a debt, since that is like trading with it.",
+    "mishnah": 4,
+    "anchors": [
+     "פורעין חוב מדמי שביעית"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 8:4:6",
+     "quote": "לֹא יְשַׁלֵּם לוֹ מִדְּמֵי שְׁבִיעִית. דַּהֲוֵי"
+    }
+   },
+   {
+    "term": "“Acharon acharon nitpas” – the last one is caught",
+    "explanation": "When sheviit produce is exchanged for something else, the sanctity moves to the last item bought and leaves the first, while the fruit itself remains forbidden. Each stage therefore carries the laws of sheviit, including removal (biur).",
+    "mishnah": 7,
+    "anchors": [
+     "אחרון אחרון נתפש"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 8:7:1",
+     "quote": "נמצאת אומר אחרון אחרון נתפש בשביעית"
+    }
+   },
+   {
+    "term": "“Yochal kenegdan” – he eats the equivalent",
+    "explanation": "If someone used sheviit money for something forbidden (slaves, land, an unclean animal), he must spend his own money of the same value on food and eat it with the sanctity of sheviit.",
+    "mishnah": 8,
+    "anchors": [
+     "יאכל כנגדן"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 8:8:3",
+     "quote": "שיוציא מממונו מה שהוא שוה הדבר ההוא ויקנה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "What does “chumrei behemah” actually mean?",
+    "pasuk": {
+     "text": "נוֹתְנִין עָלָיו חֻמְרֵי אָדָם וְחֻמְרֵי בְהֵמָה.",
+     "ref": "Mishnah Sheviit 8:1",
+     "label": "Mishnah Sheviit 8:1"
+    },
+    "question": "The mishnah says that if one intended an item for both people and animals, “we impose upon it the stringencies of people and the stringencies of animals.” The stringency of people is clear (no poultice), but what is the stringency of animals? Even the Rambam seems to explain it in two different ways.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:1:3",
+      "quote": "אע\"ג דבפירושו מפ' בענין אחר:",
+      "era": "acharon"
+     },
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:1:2",
+      "quote": "אבל בחבורו כתב חומרי מאכל בהמה שאין שולקין",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the stringency of animals is that it is forbidden to boil it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 8:1:5",
+        "quote": "וְחֻמְרֵי בְהֵמָה. שֶׁאָסוּר לְשָׁלְקָן:"
+       }
+      ]
+     },
+     {
+      "text": "Rambam in the commentary: it must be like animal food that an animal eats only while that kind is found in the field.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 8:1:3",
+        "quote": "וחומרי בהמה הוא שיהיו כמו מאכל בהמה שאין בהמה אוכלת אותו אלא כל"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov brings the Rambam’s other explanation in the Mishneh Torah, that such food may not be boiled.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:1:3",
+        "quote": "לפי שאין שולקין אוכלי בהמה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides how such an item may be used in the seventh year, so one must know what exactly is forbidden.",
+    "mishnah": 1,
+    "anchors": [
+     "נוֹתְנִין עָלָיו חֻמְרֵי אָדָם וְחֻמְרֵי בְהֵמָה."
+    ]
+   },
+   {
+    "title": "Anointing with wine – grapes are for “sicha,” yet wine is forbidden",
+    "pasuk": {
+     "text": "לֹא יָסוּךְ יַיִן וָחֹמֶץ,",
+     "ref": "Mishnah Sheviit 8:2",
+     "label": "Mishnah Sheviit 8:2"
+    },
+    "question": "Bartenura says the mishnah speaks of grapes and olives, which have eating, drinking and anointing. But the mishnah itself says one may not anoint with wine. How can grapes be given for anointing?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 8:2:1",
+      "quote": "תמוה דהא במשנה מבואר דלא יסוך יין:",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir: wine is forbidden when it is put on a wound, where it acts as a poultice.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 8:2:2",
+        "quote": "כגון על המכה שדרכו בכך,"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh (citing R. Yosef): anointing spoils the wine, and it is forbidden to spoil seventh-year produce, whereas oil is anointed in its usual way.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:2:3",
+        "quote": "שהוא מפסידן בסיכה ואסור להפסיד פירות שביעית אבל השמן"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the limit of “sicha”: what it permits and what is a waste of the fruit.",
+    "mishnah": 2,
+    "anchors": [
+     "לֹא יָסוּךְ יַיִן וָחֹמֶץ,"
+    ]
+   },
+   {
+    "title": "Burning pure maaser sheni and the “lamp-kindling” leniency",
+    "pasuk": {
+     "text": "קַל מֵהֶם שְׁבִיעִית, שֶׁנִּתְּנָה לְהַדְלָקַת הַנֵּר:",
+     "ref": "Mishnah Sheviit 8:2",
+     "label": "Mishnah Sheviit 8:2"
+    },
+    "question": "Bartenura says that for pure maaser sheni it is permitted to burn, based on “I have not burned of it while impure.” But the verse only says “while impure” – why would pure be permitted?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 8:2:2",
+      "quote": "תמוה לי דהא במ\"ש ואכלת כתיב. ושתיי'",
+      "era": "acharon"
+     },
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Sheviit 8:2:3",
+      "quote": "הר\"ב והר\"ש כתבו דזה מותר במ\"ש טהור, ותימא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Boaz: even pure maaser sheni is permitted to burn at the time of its removal (biur), when one may destroy it; so it is lighter than terumah.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Sheviit 8:2",
+        "quote": "דעכ\"פ אשכחנא מע\"ש טהו' דמותר בהדלקה בשעת בעורו."
+       }
+      ]
+     },
+     {
+      "text": "Bartenura gives the ruling and its basis: for pure maaser sheni it is permitted to burn.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 8:2:4",
+        "quote": "אֲבָל בְּטָהוֹר מֻתָּר לְבַעֵר."
+       }
+      ]
+     }
+    ],
+    "why": "It shows how far the seventh year is more lenient than terumah and maaser sheni.",
+    "mishnah": 2,
+    "anchors": [
+     "קַל מֵהֶם שְׁבִיעִית, שֶׁנִּתְּנָה לְהַדְלָקַת הַנֵּר:"
+    ]
+   },
+   {
+    "title": "Why repeat “nor figs by number”?",
+    "pasuk": {
+     "text": "וְלֹא תְאֵנִים בְּמִנְיָן,",
+     "ref": "Mishnah Sheviit 8:3",
+     "label": "Mishnah Sheviit 8:3"
+    },
+    "question": "The mishnah has already said that sheviit produce may not be sold by measure, weight or number. Why does it repeat “nor figs by number, nor vegetables by weight”?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:3:1",
+      "quote": "קשיא לי דאמאי אצטריך למהדר ולמיתני תו ולא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: it teaches that even if one changes from the usual way (figs are usually weighed, vegetables counted in bundles), it is still forbidden; one sells by estimate.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:3:2",
+        "quote": "קמ\"ל דאין מותר למכור באלו הדרכים אפי' בשינוי מכדרכו אלא מוכר אכסרה"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir: the clause is better left out of the text, since figs are usually sold by number.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 8:3:2",
+        "quote": "מחוורתא כההיא דלא גריס ליה, כי"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether even an unusual way of measuring is forbidden.",
+    "mishnah": 3,
+    "anchors": [
+     "וְלֹא תְאֵנִים בְּמִנְיָן,"
+    ]
+   },
+   {
+    "title": "“Gather for me” versus “gather with it” – and the dyer",
+    "pasuk": {
+     "text": "הֵא לָךְ אִסָּר זֶה וּלְקֹט לִי יָרָק הַיּוֹם,",
+     "ref": "Mishnah Sheviit 8:4",
+     "label": "Mishnah Sheviit 8:4"
+    },
+    "question": "Why is the worker’s pay permitted when one says “gather for me,” but forbidden with “gather with it”? And why is it not forbidden like paying a dyer with sheviit produce (7:3)?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:4:2",
+      "quote": "וא\"ת ומ\"ש מצובע בשכר דמשנה",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 8:4:1",
+      "quote": "וְאִם תֹּאמַר וּמַאי שְׁנָא מִצּוֹבֵעַ בְּשָׂכָר דְּמִשְׁנָה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: a worker’s wage is small, so the rabbis did not penalize it; carriers (and dyers) earn much and resemble trade, so they penalized them.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:4:2",
+        "quote": "פועל דלא נפיש אגריה לא קנסוהו רבנן חמרין דנפיש אגרייהו קנסו"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: one who hires a worker to gather finds a lost object for him; the worker sells nothing, only takes the pay for his effort.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 8:4:1-6",
+        "quote": "משום דשוכר פועל ללקוט לו מציאות הוא."
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh (citing R. Avin in the Yerushalmi): it is among the laws of ‘amamum, which should have been forbidden but were eased for a worker’s livelihood.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:4:1",
+        "quote": "דמהלכות של עמעום היא דראוי הי' לאסור אלא שעמעמו עליה"
+       }
+      ]
+     }
+    ],
+    "why": "It marks the line between wages and sale of sheviit produce.",
+    "mishnah": 4,
+    "anchors": [
+     "הֵא לָךְ אִסָּר זֶה וּלְקֹט לִי יָרָק הַיּוֹם,"
+    ]
+   },
+   {
+    "title": "What “invalidation” is feared when cooking with terumah oil?",
+    "pasuk": {
+     "text": "שֶׁלֹּא יְבִיאֶנּוּ לִידֵי פְסוּל.",
+     "ref": "Mishnah Sheviit 8:7",
+     "label": "Mishnah Sheviit 8:7"
+    },
+    "question": "Why may sheviit vegetables not be cooked in terumah oil “lest it bring it to invalidation”? The Rambam/Bartenura explain one way, the Rash another, and the acharonim question the reasoning.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 8:7:1",
+      "quote": "והר\"ש פי' שלא יביא שמן של תרומה לידי",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 8:7:1-2",
+      "quote": "ותמוה הוא דמפני הספק לא היו אוסרין.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: if it becomes invalid because of the terumah, everything must be burned, and sheviit produce would not be eaten.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 8:7:1",
+        "quote": "שאם נפסל בשביל התרומה ישרף הכל מפני"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura gives the same explanation.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 8:7:1",
+        "quote": "שֶׁאִם נִפְסַל, בִּשְׁבִיל שֶׁמֶן שֶׁל תְּרוּמָה יִשָּׂרֵף הַכֹּל,"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh quotes the Rash: lest it bring the terumah oil to invalidation by sheviit, until the time of removal.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:7:1",
+        "quote": "שלא יביא שמן של תרומה לידי פסול דשביעית"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how two sanctities (sheviit and terumah) interact.",
+    "mishnah": 7,
+    "anchors": [
+     "שֶׁלֹּא יְבִיאֶנּוּ לִידֵי פְסוּל."
+    ]
+   },
+   {
+    "title": "What does “he eats the equivalent” accomplish?",
+    "pasuk": {
+     "text": "וְאִם לָקַח, יֹאכַל כְּנֶגְדָּן.",
+     "ref": "Mishnah Sheviit 8:8",
+     "label": "Mishnah Sheviit 8:8"
+    },
+    "question": "When one bought slaves or land with sheviit money, he must “eat the equivalent.” But the forbidden produce is still forbidden and now gone – what does eating the equivalent fix?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 8:8:1",
+      "quote": "ק\"ל דמאי מהני בזה שיאכל כנגדו הלא הפרי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: with that money he buys food of his own and eats it with the sanctity of sheviit.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 8:8:1",
+        "quote": "כְּנֶגֶד אוֹתָם דָּמִים יִקְנֶה מִשֶּׁלוֹ דְּבָרִים שֶׁהֵם לְצֹרֶךְ"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: so that the sinner not profit.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:8:2",
+        "quote": "כדי שלא יהא חוטא"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: it is only a penalty.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:9:2",
+        "quote": "מסתבר דטעמא לא הוי אלא משום קנסא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether this is a real redemption or a rabbinic penalty.",
+    "mishnah": 8,
+    "anchors": [
+     "וְאִם לָקַח, יֹאכַל כְּנֶגְדָּן."
+    ]
+   },
+   {
+    "title": "Why “bread of the Kutim” and not simply a non-Jew?",
+    "pasuk": {
+     "text": "הָאוֹכֵל פַּת כּוּתִים כְּאוֹכֵל בְּשַׂר חֲזִיר. אָמַר",
+     "ref": "Mishnah Sheviit 8:10",
+     "label": "Mishnah Sheviit 8:10"
+    },
+    "question": "R. Eliezer says whoever eats bread of the Kutim is like one who eats pork. If the Kutim were already treated as non-Jews, why does the mishnah not say “non-Jews”? And if the issue is tithes, why teach bread rather than fruit?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:10:1",
+      "quote": "וקשה דליתני עובדי כוכבים.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Lechem Shamayim: it teaches that the Kutim too were made like non-Jews afterwards.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 8:10:1-4",
+        "quote": "והא קמ\"ל דכותים נמי עשאום אח\"כ כעכו\"ם. אע\"פ"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: not literal; the eater is not flogged by the Torah, only receives rabbinic disciplinary lashes.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 8:10:1",
+        "quote": "אֶלָּא מַכַּת מַרְדּוּת מִדְּרַבָּנָן:"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh quotes the Rash: R. Eliezer is stricter because they do not tithe and their produce is tevel.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:10:1",
+        "quote": "דלא מעשרי וטבל במיתה ע\"כ"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the date and status of the Kutim in the Mishnah.",
+    "mishnah": 10,
+    "anchors": [
+     "הָאוֹכֵל פַּת כּוּתִים כְּאוֹכֵל בְּשַׂר חֲזִיר. אָמַר"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Melekhet Shelomoh",
+   "Bartenura",
+   "Rambam",
+   "Rashash",
+   "Hon Ashir",
+   "Tosafot Rabbi Akiva Eiger",
+   "Boaz",
+   "Ikar Tosafot Yom Tov",
+   "Lechem Shamayim"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א נותנת כלל גדול: מה שמיוחד למאכל אדם אין עושים ממנו מלוגמא; מה שאינו מיוחד עושים ממנו לאדם ולא לבהמה; ודבר שחשב עליו לאדם ולבהמה נותנים עליו חומרי שניהם, ודבר שחשב עליו לעצים הרי הוא כעצים.\nמשנה ב אומרת ששביעית ניתנה לאכילה ולשתיה ולסיכה, שלא יסוך יין וחומץ, ושהיא קלה מתרומה כי ניתנה להדלקת הנר.\nמשנה ג אוסרת למכור פירות שביעית במדה, במשקל ובמנין, ובית שמאי ובית הלל חלוקים באגודות.\nמשניות ד-ה אוסרות לפרוע חוב או לשלם לבייר, בלן, ספר וספן מדמי שביעית, ומתירות מתנת חינם.\nמשניות ו-ז אוסרות לעבד את הפירות כדרכם (קציצה, דריכה, עשיית זיתים) ולבשל ירק בשמן תרומה, ורבי שמעון מקל, ומלמדות שהקדושה עוברת לאחרון.\nמשניות ח-יא אוסרות לקנות עבדים, קרקעות ובהמה טמאה מדמי שביעית או לסוך כלים בשמנה (“יאכל כנגדן”), מביאות את רבי אליעזר ורבי עקיבא על עור שסכו ועל פת כותים, ומתירות מרחץ שהוסקה בתבן של שביעית אלא אם האדם מתחשב.",
+  "topics": [
+   {
+    "term": "מלוגמא",
+    "explanation": "מלוגמא היא תחבושת או רטיה על מכה. פירות שביעית ניתנו “לאכלה”, ולכן מה שמיוחד למאכל אדם אין עושים ממנו מלוגמא.",
+    "mishnah": 1,
+    "anchors": [
+     "מלוגמא"
+    ],
+    "source": {
+     "name": "רמב״ם",
+     "ref": "Rambam on Mishnah Sheviit 8:1:1",
+     "quote": "הוא שלא יעשה מפירות שביעית לא תחבושת ולא רטיות"
+    }
+   },
+   {
+    "term": "חומרי אדם וחומרי בהמה",
+    "explanation": "דבר שלא יועד למאכל אדם או בהמה, וחשב עליו לשניהם, נותנים עליו את שתי החומרות: אין עושים ממנו מלוגמא, ולפי הפירושים אין שולקים אותו.",
+    "mishnah": 1,
+    "anchors": [
+     "חמרי אדם וחמרי בהמה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 8:1:4",
+     "quote": "שֶׁאֵין עוֹשִׂין מֵהֶם מְלוּגְמָא:"
+    }
+   },
+   {
+    "term": "הדלקת הנר",
+    "explanation": "מלבד אכילה שתיה וסיכה, מותר להדליק נר בשמן שביעית, ובכך שביעית קלה מתרומה.",
+    "mishnah": 2,
+    "anchors": [
+     "להדלקת הנר"
+    ],
+    "source": {
+     "name": "עיקר תוספות יום טוב",
+     "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 8:2:1",
+     "quote": "תִּהְיֶה, אַף לְהַדְלָקַת הַנֵּר."
+    }
+   },
+   {
+    "term": "אגודות ובית שמאי ובית הלל",
+    "explanation": "אין מוכרין פירות שביעית כדרך שמוכרים בשאר שנים. בית שמאי אוסרים אף אגודות; בית הלל מתירים לאגוד בשוק את מה שדרכו להיאגד בבית, כגון כרישין.",
+    "mishnah": 3,
+    "anchors": [
+     "אף לא אגודות"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 8:3:2",
+     "quote": "שֶׁלֹּא יִמְכֹּר כְּדֶרֶךְ שֶׁמּוֹכְרִים בִּשְׁאָר שָׁנִים:"
+    }
+   },
+   {
+    "term": "אין פורעין חוב מדמי שביעית",
+    "explanation": "דמי שביעית יש בהם קדושת שביעית. מותר לקנות בהם אוכל אך לא לפרוע חוב, כי זה כמו סחורה.",
+    "mishnah": 4,
+    "anchors": [
+     "פורעין חוב מדמי שביעית"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 8:4:6",
+     "quote": "לֹא יְשַׁלֵּם לוֹ מִדְּמֵי שְׁבִיעִית. דַּהֲוֵי"
+    }
+   },
+   {
+    "term": "אחרון אחרון נתפש",
+    "explanation": "כשמחליפים פירות שביעית בדבר אחר, הקדושה עוברת לאחרון ויוצאת הראשון, והפרי עצמו נשאר אסור. כל שלב כפוף לדיני שביעית, כולל ביעור.",
+    "mishnah": 7,
+    "anchors": [
+     "אחרון אחרון נתפש"
+    ],
+    "source": {
+     "name": "רמב״ם",
+     "ref": "Rambam on Mishnah Sheviit 8:7:1",
+     "quote": "נמצאת אומר אחרון אחרון נתפש בשביעית"
+    }
+   },
+   {
+    "term": "יאכל כנגדן",
+    "explanation": "מי שעשה שימוש אסור בדמי שביעית (עבדים, קרקע, בהמה טמאה), עליו להוציא מממונו כשיעור זה ולקנות אוכל ולאכלו בקדושת שביעית.",
+    "mishnah": 8,
+    "anchors": [
+     "יאכל כנגדן"
+    ],
+    "source": {
+     "name": "רמב״ם",
+     "ref": "Rambam on Mishnah Sheviit 8:8:3",
+     "quote": "שיוציא מממונו מה שהוא שוה הדבר ההוא ויקנה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מהם “חומרי בהמה”?",
+    "pasuk": {
+     "text": "נוֹתְנִין עָלָיו חֻמְרֵי אָדָם וְחֻמְרֵי בְהֵמָה.",
+     "ref": "Mishnah Sheviit 8:1",
+     "label": "משנה שביעית ח, א"
+    },
+    "question": "המשנה אומרת שמי שחשב על דבר למאכל אדם ולמאכל בהמה, “נותנין עליו חומרי אדם וחומרי בהמה”. חומרת האדם ברורה (אין עושים ממנו מלוגמא), אך מהי חומרת הבהמה? נראה שאף הרמב״ם מפרש אותה בשתי דרכים.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:1:3",
+      "quote": "אע\"ג דבפירושו מפ' בענין אחר:",
+      "era": "acharon"
+     },
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:1:2",
+      "quote": "אבל בחבורו כתב חומרי מאכל בהמה שאין שולקין",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: חומרת בהמה היא שאסור לשלקן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 8:1:5",
+        "quote": "וְחֻמְרֵי בְהֵמָה. שֶׁאָסוּר לְשָׁלְקָן:"
+       }
+      ]
+     },
+     {
+      "text": "הרמב״ם בפירושו: חומרי בהמה הם שיהיו כמאכל בהמה שאין בהמה אוכלת אותו אלא כל זמן שהוא נמצא בשדה.",
+      "sources": [
+       {
+        "name": "רמב״ם",
+        "ref": "Rambam on Mishnah Sheviit 8:1:3",
+        "quote": "וחומרי בהמה הוא שיהיו כמו מאכל בהמה שאין בהמה אוכלת אותו אלא כל"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב מביא את דברי הרמב״ם בחיבורו: אין שולקין אוכלי בהמה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:1:3",
+        "quote": "לפי שאין שולקין אוכלי בהמה"
+       }
+      ]
+     }
+    ],
+    "why": "מכאן נקבע כיצד מותר להשתמש בדבר כזה בשביעית, ולכן צריך לדעת מהי החומרה.",
+    "mishnah": 1,
+    "anchors": [
+     "נוֹתְנִין עָלָיו חֻמְרֵי אָדָם וְחֻמְרֵי בְהֵמָה."
+    ]
+   },
+   {
+    "title": "סיכה ביין – הענבים נתנו לסיכה ויין אסור",
+    "pasuk": {
+     "text": "לֹא יָסוּךְ יַיִן וָחֹמֶץ,",
+     "ref": "Mishnah Sheviit 8:2",
+     "label": "משנה שביעית ח, ב"
+    },
+    "question": "הברטנורא מפרש שהמשנה מדברת בענבים וזיתים שיש בהם אכילה ושתיה וסיכה. אך המשנה עצמה אומרת שלא יסוך יין. כיצד נתנו הענבים לסיכה?",
+    "asked_by": [
+     {
+      "name": "רש״ש",
+      "ref": "Rashash on Mishnah Sheviit 8:2:1",
+      "quote": "תמוה דהא במשנה מבואר דלא יסוך יין:",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הון עשיר: ביין על המכה, שהוא בגדר מלוגמא ואסור.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 8:2:2",
+        "quote": "כגון על המכה שדרכו בכך,"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם ר' יוסף: הסיכה מפסידה את היין ואסור להפסיד פירות שביעית, אבל השמן דרכו בכך.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:2:3",
+        "quote": "שהוא מפסידן בסיכה ואסור להפסיד פירות שביעית אבל השמן"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע את גדר ה“סיכה”: מה מותר ומה הפסד של הפרי.",
+    "mishnah": 2,
+    "anchors": [
+     "לֹא יָסוּךְ יַיִן וָחֹמֶץ,"
+    ]
+   },
+   {
+    "title": "הבערת מעשר שני טהור ו“הדלקת הנר”",
+    "pasuk": {
+     "text": "קַל מֵהֶם שְׁבִיעִית, שֶׁנִּתְּנָה לְהַדְלָקַת הַנֵּר:",
+     "ref": "Mishnah Sheviit 8:2",
+     "label": "משנה שביעית ח, ב"
+    },
+    "question": "הברטנורא כותב שבמעשר שני טהור מותר לבער, מהפסוק “ולא בערתי ממנו בטמא”. אך הפסוק אומר רק “בטמא” – מנין שבטהור מותר?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 8:2:2",
+      "quote": "תמוה לי דהא במ\"ש ואכלת כתיב. ושתיי'",
+      "era": "acharon"
+     },
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Sheviit 8:2:3",
+      "quote": "הר\"ב והר\"ש כתבו דזה מותר במ\"ש טהור, ותימא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בועז: במעשר שני טהור מותר בהדלקה בשעת הביעור, שאז מותר לאבדו; ולכן הוא קל מתרומה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Sheviit 8:2",
+        "quote": "דעכ\"פ אשכחנא מע\"ש טהו' דמותר בהדלקה בשעת בעורו."
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא קובע: במעשר שני טהור מותר לבער.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 8:2:4",
+        "quote": "אֲבָל בְּטָהוֹר מֻתָּר לְבַעֵר."
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה עד כמה שביעית קלה מתרומה ומעשר שני.",
+    "mishnah": 2,
+    "anchors": [
+     "קַל מֵהֶם שְׁבִיעִית, שֶׁנִּתְּנָה לְהַדְלָקַת הַנֵּר:"
+    ]
+   },
+   {
+    "title": "למה נשנה “ולא תאנים במנין”?",
+    "pasuk": {
+     "text": "וְלֹא תְאֵנִים בְּמִנְיָן,",
+     "ref": "Mishnah Sheviit 8:3",
+     "label": "משנה שביעית ח, ג"
+    },
+    "question": "המשנה כבר אמרה שאין מוכרין פירות שביעית לא במדה ולא במשקל ולא במנין. למה חוזרת: “ולא תאנים במנין ולא ירק במשקל”?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:3:1",
+      "quote": "קשיא לי דאמאי אצטריך למהדר ולמיתני תו ולא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב: להשמיענו שאף בשינוי מדרכו אסור, ומוכר אכסרה, כלומר באומד.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:3:2",
+        "quote": "קמ\"ל דאין מותר למכור באלו הדרכים אפי' בשינוי מכדרכו אלא מוכר אכסרה"
+       }
+      ]
+     },
+     {
+      "text": "הון עשיר: עדיף כגרסה שאין בה את המילים, שהרי תאנים לחים דרכן במנין.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 8:3:2",
+        "quote": "מחוורתא כההיא דלא גריס ליה, כי"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע אם אף דרך מדידה משונה אסורה.",
+    "mishnah": 3,
+    "anchors": [
+     "וְלֹא תְאֵנִים בְּמִנְיָן,"
+    ]
+   },
+   {
+    "title": "“לקט לי” ו“לקט לי בו” – ומה בין זה לצובע",
+    "pasuk": {
+     "text": "הֵא לָךְ אִסָּר זֶה וּלְקֹט לִי יָרָק הַיּוֹם,",
+     "ref": "Mishnah Sheviit 8:4",
+     "label": "משנה שביעית ח, ד"
+    },
+    "question": "מדוע שכר הפועל מותר ב“לקט לי” ואסור ב“לקט לי בו”? ומדוע אין לאסור כמו צובע בשכר (ז, ג)?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:4:2",
+      "quote": "וא\"ת ומ\"ש מצובע בשכר דמשנה",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 8:4:1",
+      "quote": "וְאִם תֹּאמַר וּמַאי שְׁנָא מִצּוֹבֵעַ בְּשָׂכָר דְּמִשְׁנָה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: פועל שאין שכרו מרובה לא קנסוהו, וחמרים וצובעים שמרויחים הרבה דומים לסחורה וקנסום.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:4:2",
+        "quote": "פועל דלא נפיש אגריה לא קנסוהו רבנן חמרין דנפיש אגרייהו קנסו"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: השוכר פועל ללקט הוא כמגביה מציאה לחברו, והפועל לא מכר כלום אלא שכר פעולתו.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 8:4:1-6",
+        "quote": "משום דשוכר פועל ללקוט לו מציאות הוא."
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם ר' אבין בירושלמי: מהלכות של עמעום היא, שהיה ראוי לאסור והקלו משום חיי הפועל.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:4:1",
+        "quote": "דמהלכות של עמעום היא דראוי הי' לאסור אלא שעמעמו עליה"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע את הגבול בין שכר לבין מכירת פירות שביעית.",
+    "mishnah": 4,
+    "anchors": [
+     "הֵא לָךְ אִסָּר זֶה וּלְקֹט לִי יָרָק הַיּוֹם,"
+    ]
+   },
+   {
+    "title": "איזה “פסול” חוששים בבישול בשמן תרומה?",
+    "pasuk": {
+     "text": "שֶׁלֹּא יְבִיאֶנּוּ לִידֵי פְסוּל.",
+     "ref": "Mishnah Sheviit 8:7",
+     "label": "משנה שביעית ח, ז"
+    },
+    "question": "מדוע אין מבשלין ירק שביעית בשמן תרומה “שלא יביאנו לידי פסול”? הרמב״ם והברטנורא מפרשים בדרך אחת, הר״ש בדרך אחרת, והאחרונים מקשים.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 8:7:1",
+      "quote": "והר\"ש פי' שלא יביא שמן של תרומה לידי",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 8:7:1-2",
+      "quote": "ותמוה הוא דמפני הספק לא היו אוסרין.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב״ם: אם נפסל בשביל התרומה ישרף הכל, והפירות לא יאכלו.",
+      "sources": [
+       {
+        "name": "רמב״ם",
+        "ref": "Rambam on Mishnah Sheviit 8:7:1",
+        "quote": "שאם נפסל בשביל התרומה ישרף הכל מפני"
+       }
+      ]
+     },
+     {
+      "text": "הברטנורא מסביר כך גם הוא.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 8:7:1",
+        "quote": "שֶׁאִם נִפְסַל, בִּשְׁבִיל שֶׁמֶן שֶׁל תְּרוּמָה יִשָּׂרֵף הַכֹּל,"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את הר״ש: שלא יביא שמן של תרומה לידי פסול של שביעית עד הביעור.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:7:1",
+        "quote": "שלא יביא שמן של תרומה לידי פסול דשביעית"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה כיצד שתי קדושות (שביעית ותרומה) משפיעות זו על זו.",
+    "mishnah": 7,
+    "anchors": [
+     "שֶׁלֹּא יְבִיאֶנּוּ לִידֵי פְסוּל."
+    ]
+   },
+   {
+    "title": "מה מועיל “יאכל כנגדן”?",
+    "pasuk": {
+     "text": "וְאִם לָקַח, יֹאכַל כְּנֶגְדָּן.",
+     "ref": "Mishnah Sheviit 8:8",
+     "label": "משנה שביעית ח, ח"
+    },
+    "question": "מי שקנה עבדים וקרקעות מדמי שביעית, “יאכל כנגדן”. אך הפרי עצמו נשאר אסור, ומה מועיל שיאכל כנגדו?",
+    "asked_by": [
+     {
+      "name": "רש״ש",
+      "ref": "Rashash on Mishnah Sheviit 8:8:1",
+      "quote": "ק\"ל דמאי מהני בזה שיאכל כנגדו הלא הפרי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: יקנה משלו דברים לצורך אכילה ויאכל בקדושת שביעית.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 8:8:1",
+        "quote": "כְּנֶגֶד אוֹתָם דָּמִים יִקְנֶה מִשֶּׁלוֹ דְּבָרִים שֶׁהֵם לְצֹרֶךְ"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: כדי שלא יהא חוטא נשכר.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:8:2",
+        "quote": "כדי שלא יהא חוטא"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: הטעם הוא משום קנס.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:9:2",
+        "quote": "מסתבר דטעמא לא הוי אלא משום קנסא"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה אם זה תיקון ממשי או קנס דרבנן.",
+    "mishnah": 8,
+    "anchors": [
+     "וְאִם לָקַח, יֹאכַל כְּנֶגְדָּן."
+    ]
+   },
+   {
+    "title": "מדוע “פת כותים” ולא עובדי כוכבים?",
+    "pasuk": {
+     "text": "הָאוֹכֵל פַּת כּוּתִים כְּאוֹכֵל בְּשַׂר חֲזִיר. אָמַר",
+     "ref": "Mishnah Sheviit 8:10",
+     "label": "משנה שביעית ח, י"
+    },
+    "question": "ר' אליעזר אומר שהאוכל פת כותים כאוכל בשר חזיר. אם הכותים כבר נחשבו כעובדי כוכבים, למה לא שנה המשנה עובדי כוכבים? ואם הבעיה המעשרות, למה פת ולא פירות?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 8:10:1",
+      "quote": "וקשה דליתני עובדי כוכבים.",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לחם שמים: מלמדנו שאף הכותים נעשו אחר כך כעכו״ם.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 8:10:1-4",
+        "quote": "והא קמ\"ל דכותים נמי עשאום אח\"כ כעכו\"ם. אע\"פ"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: לאו דוקא, אלא מכת מרדות מדרבנן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 8:10:1",
+        "quote": "אֶלָּא מַכַּת מַרְדּוּת מִדְּרַבָּנָן:"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את הר״ש: מחמיר משום דלא מעשרי ופירותם טבל.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 8:10:1",
+        "quote": "דלא מעשרי וטבל במיתה ע\"כ"
+       }
+      ]
+     }
+    ],
+    "why": "זה קובע את זמנם ומעמדם של הכותים במשנה.",
+    "mishnah": 10,
+    "anchors": [
+     "הָאוֹכֵל פַּת כּוּתִים כְּאוֹכֵל בְּשַׂר חֲזִיר. אָמַר"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "מלאכת שלמה",
+   "ברטנורא",
+   "רמב״ם",
+   "רש״ש",
+   "הון עשיר",
+   "תוספות רבי עקיבא איגר",
+   "תפארת ישראל (בועז)",
+   "עיקר תוספות יום טוב",
+   "לחם שמים"
+  ]
+ }
 }
