@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-18",
+ "hebrew_date": {
+  "hebrew": "ח׳ בְּכִסְלֵו תשפ״ז",
+  "english": "8 Kislev 5787"
+ },
  "masechet": "sheviit",
  "perek": 9,
  "ref": "Mishnah Sheviit 9",
@@ -39,5 +44,899 @@
    "he": "מִי שֶׁהָיוּ לוֹ פֵּרוֹת שְׁבִיעִית שֶׁנָּפְלוּ לוֹ בִירֻשָּׁה אוֹ שֶׁנִּתְּנוּ לוֹ בְּמַתָּנָה, רַבִּי אֱלִיעֶזֶר אוֹמֵר, יִנָּתְנוּ לְאוֹכְלֵיהֶן. וַחֲכָמִים אוֹמְרִים, אֵין הַחוֹטֵא נִשְׂכָּר, אֶלָּא יִמָּכְרוּ לְאוֹכְלֵיהֶן, וּדְמֵיהֶם יִתְחַלְּקוּ לְכָל אָדָם. הָאוֹכֵל מֵעִסַּת שְׁבִיעִית עַד שֶׁלֹּא הוּרְמָה חַלָּתָהּ, חַיָּב מִיתָה: \n",
    "en": "If one had inherited seventh year produce or had received them as a gift: Rabbi Eliezer says: they must be given to anyone who eats them. But the sages say: the sinner must not benefit, rather it should be sold to anyone who eats it, and its price divided among everyone. If one eats dough of seventh year [produce] before the hallah was taken from it, he has incurred thereby the death penalty [at the hands of heaven]."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 lists wild vegetables, such as rue and purslane, which are exempt from tithes and may be bought from anyone in the seventh year, and then the dispute over aftergrowths (sefichim): Rabbi Judah permits mustard, Rabbi Shimon all but cabbage, the Sages none.\nMishnayot 2–3 divide the land into Judea, Transjordan and the Galilee, each in three regions, and explain that one eats in each region until the last of that fruit is gone there; Rabbi Shimon limits this to Judea and takes Har HaMelekh as the measure for the other lands.\nMishnah 4 allows eating on produce that is ownerless but not on what is guarded (Rabbi Yose permits even the guarded), and on poor grain and two-crop trees but not winter grapes, with Rabbi Judah more lenient.\nMishnah 5 asks how long one may eat from a jar of three pickled kinds: Rabbi Eliezer until the first runs out in the field, Rabbi Joshua until the last, Rabban Gamliel removes each kind as it runs out, and Rabbi Shimon treats all vegetables as one.\nMishnayot 6–7 give the time limits for gathered herbs, and the second rainfall as a marker for renting a house or a vow \"until the rains\", for the poor to enter orchards and for burning sabbatical straw.\nMishnayot 8–9 teach that when the time of biur comes one distributes three meals to each person, with Rabbi Judah and Rabbi Yose disagreeing about the poor and rich, that inherited or gifted sabbatical produce is sold and its price divided, and that sabbatical dough is liable to challah.",
+  "topics": [
+   {
+    "term": "Sefichim (aftergrowths)",
+    "explanation": "Sefichim are the plants that sprout by themselves after a harvest, without having been sown. The Mishnah argues over whether such aftergrowths of the seventh year may be eaten: Rabbi Judah permits mustard, Rabbi Shimon permits all except cabbage, and the Sages forbid them all.",
+    "mishnah": 1,
+    "anchors": [
+     "כל הספיחין אסורין"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 9:1:7",
+     "quote": "וספיחים הוא מה שיצמח אחר הקציר"
+    }
+   },
+   {
+    "term": "Biur (removal) of sabbatical produce",
+    "explanation": "Biur is the duty to clear sabbatical produce out of the house once that kind of produce has finished for the animals in the field. The time depends on the region and the kind of fruit, and from then on the produce may no longer be eaten as one's own.",
+    "mishnah": 8,
+    "anchors": [
+     "והגיע שעת הביעור"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 9:4:1",
+     "quote": "ונותר בבתים או בגנים לא יאכל אבל הוא חייב לבער"
+    }
+   },
+   {
+    "term": "The three lands and Har HaMelekh",
+    "explanation": "For biur the land is divided into Judea, Transjordan and the Galilee, each split in three: mountain, plain and valley. One eats in each region until the last of that kind is gone there. Har HaMelekh is the region whose fruit lasts longest, and Rabbi Shimon uses it as the measure for the other lands.",
+    "mishnah": 3,
+    "anchors": [
+     "כהר המלך"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 9:3:3",
+     "quote": "והוא היה רב הפירות ואחרון מכל שאר ארצות"
+    }
+   },
+   {
+    "term": "Mufkar and shamur",
+    "explanation": "Mufkar is produce still ownerless in the field, available to animals; shamur is produce guarded in houses and gardens. The first Tanna lets one keep eating from the house as long as the kind is found in the open field, and Rabbi Yose allows it even on the guarded.",
+    "mishnah": 4,
+    "anchors": [
+     "אוכלין על המופקר"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 9:4:1",
+     "quote": "אוכלים ממה שבבית על ידי שמצוי מאותו המין בשדה במקום מופקר"
+    }
+   },
+   {
+    "term": "Noten taam (flavor transfer) in the jar",
+    "explanation": "When three kinds of vegetable are pickled together, a kind that has already finished in the field imparts its flavor to the rest. Rabbi Eliezer therefore lets one eat only until the first kind finishes, Rabbi Joshua until the last, and Rabban Gamliel has each kind removed as it finishes.",
+    "mishnah": 5,
+    "anchors": [
+     "כל שכלה מינו מן השדה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 9:5:3",
+     "quote": "שאותו מין שכלה נתן טעם באותן שלא כלו ואסרן"
+    }
+   },
+   {
+    "term": "The second rainfall (revi'ah sheniyah)",
+    "explanation": "The second rainfall of the rainy season is a fixed marker used in several rulings in this perek: how long gathered herbs may be eaten, how long poor people may enter orchards, and when sabbatical straw may be used. Its date varies between early, middle and late years.",
+    "mishnah": 6,
+    "anchors": [
+     "עד שתרד רביעה שניה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 9:6:3",
+     "quote": "ורביעה שניה כבר נתבאר בסוף פאה שזמנה בשנה המבכרה"
+    }
+   },
+   {
+    "term": "Poor and rich after biur",
+    "explanation": "Rabbi Judah lets the poor, but not the rich, eat sabbatical produce after the time of biur; Rabbi Yose lets both. A mefaresh explains who counts as poor and rich here: those who gathered from others' ownerless fields, versus the owners of the fields themselves.",
+    "mishnah": 8,
+    "anchors": [
+     "ועניים אוכלין אחר הביעור"
+    ],
+    "source": {
+     "name": "Tosafot Yom Tov",
+     "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:8:1",
+     "quote": "פי' עניים כל שלקטו הפירות משדות אחרים מן ההפקר"
+    }
+   },
+   {
+    "term": "Challah of sabbatical dough",
+    "explanation": "Challah is the portion of dough separated for the kohen. The Mishnah teaches that sabbatical dough is not exempt from it, and that eating it before challah is taken carries the penalty of death at the hands of Heaven.",
+    "mishnah": 9,
+    "anchors": [
+     "עד שלא הורמה חלתה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 9:9:3",
+     "quote": "ראשית עריסותיכם אמרה תורה מאיזו עיסה שתהיה חלה תרימו"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why three lands, each divided into three?",
+    "pasuk": {
+     "text": "וְלָמָּה אָמְרוּ שָׁלֹשׁ אֲרָצוֹת",
+     "ref": "Mishnah Sheviit 9:3",
+     "label": "Mishnah Sheviit 9:3"
+    },
+    "question": "Since each of the three lands has three regions there are nine in all. What is the point of dividing it this way for biur?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Sheviit 9:3:1",
+      "era": "acharon",
+      "quote": "הואיל ושלש ארצות בכל אחת הרי כאן תשע ארצות"
+     },
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 9:3:1",
+      "era": "acharon",
+      "quote": "וקשה הרבה למה חלקום כל א' לשלש ארצות כיון שאין נפקותא כלל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam: the benefit is that one eats in each of the nine regions until the last of that kind in it is finished; the further division into three is only part of the boundaries given to the lands, not an added law.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 9:3:1",
+        "quote": "שהתועלת שיהו אוכלין בכל אחת ואחת עד שיכלה האחרון שבה"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing Rabbi Shemuel Sirilio: in every region mountain, plain and valley are separate from each other, so the Mishnah teaches both that Judea, Transjordan and Galilee are separate and that each divides in three.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 9:3:1",
+        "quote": "לעולם בכולן הר בפני עצמו ושפלה בפני עצמו ועמק בפני עצמו"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes where one may keep eating.",
+    "mishnah": 3,
+    "anchors": [
+     "וְלָמָּה אָמְרוּ שָׁלֹשׁ אֲרָצוֹת"
+    ]
+   },
+   {
+    "title": "Rabbi Yose and the guarded produce",
+    "pasuk": {
+     "text": "רַבִּי יוֹסֵי מַתִּיר אַף עַל הַשָּׁמוּר",
+     "ref": "Mishnah Sheviit 9:4",
+     "label": "Mishnah Sheviit 9:4"
+    },
+    "question": "If Rabbi Yose permits eating even on guarded produce, when would the time of biur ever come?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:4:1",
+      "era": "acharon",
+      "quote": "ותימה דלת\"ק שמור היינו מה שבבתים ומה שבגנות"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 9:4:1",
+      "era": "acharon",
+      "quote": "ותימה דלתנא קמא שמור היינו מה שבבתים ומה שבגנות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: Rabbi Yose does not mean every guarded place, since then the time of biur would never come; only that there is some guarded produce one may eat on, such as fruit still attached to a tree standing in a guarded place.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:4:1",
+        "quote": "אלא מיהת יש שמור שיאכל עליו"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov repeats this reading: since the fruit is still attached, one may eat on it even in a guarded place.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 9:4:1",
+        "quote": "הואיל והפירות עדיין במחובר אוכלים עליהם"
+       }
+      ]
+     }
+    ],
+    "why": "It limits how far Rabbi Yose's leniency reaches.",
+    "mishnah": 4,
+    "anchors": [
+     "רַבִּי יוֹסֵי מַתִּיר אַף עַל הַשָּׁמוּר"
+    ]
+   },
+   {
+    "title": "What does the verse teach Rabbi Eliezer?",
+    "pasuk": {
+     "text": "רַבִּי יְהוֹשֻׁעַ אוֹמֵר, אַף עַל הָאַחֲרוֹן",
+     "ref": "Mishnah Sheviit 9:5",
+     "label": "Mishnah Sheviit 9:5"
+    },
+    "question": "Rabbi Joshua derives his ruling from 'from the field you shall eat'. If the verse is otherwise extra, what does Rabbi Eliezer do with it?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Sheviit 9:5:4",
+      "era": "acharon",
+      "quote": "והאי קרא יתרא הוא"
+     },
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:5:2",
+      "era": "acharon",
+      "quote": "וא\"ת לרבי אליעזר הך קרא מה עביד ביה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the verse 'from the field you shall eat' is extra for the animals' rule, so it comes for pickled produce, to permit eating the whole jar while some of the kind remains in the field.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 9:5:4",
+        "quote": "אלא קרא לכבושים הוא דאתא"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov: Rabbi Eliezer also learns from this verse; without it we would have thought only the finished kind must be removed and not the rest, so the verse for him teaches that the flavor does count.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 9:5:1",
+        "quote": "דאי לאו האי קרא הוה אמינא דאותו המין דוקא יבער ולא יותר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the dispute as a dispute over one verse.",
+    "mishnah": 5,
+    "anchors": [
+     "רַבִּי יְהוֹשֻׁעַ אוֹמֵר, אַף עַל הָאַחֲרוֹן"
+    ]
+   },
+   {
+    "title": "'And the halakhah follows him'",
+    "pasuk": {
+     "text": "רַבָּן גַּמְלִיאֵל אוֹמֵר, כָּל שֶׁכָּלָה מִינוֹ מִן הַשָּׂדֶה, יְבַעֵר מִינוֹ מִן הֶחָבִית, וַהֲלָכָה כִדְבָרָיו",
+     "ref": "Mishnah Sheviit 9:5",
+     "label": "Mishnah Sheviit 9:5"
+    },
+    "question": "Is 'and the halakhah follows him' really part of the Mishnah, and why would the halakhah follow Rabban Gamliel against Rabbi Eliezer and Rabbi Joshua, Rabbi Akiva's teachers?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Sheviit 9:5:1",
+      "era": "acharon",
+      "quote": "אבל מ\"מ ק\"ל דהא ר\"א ור\"י רבותיו של ר\"ע היו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam: the halakhah follows Rabban Gamliel not because of the words 'and the halakhah follows him', but because that is the view of Rabbi (Yehudah HaNasi), and the Gemara rules like Rabbi against a colleague.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 9:5:2",
+        "quote": "אלא מטעם שהוא על דעת רבי והגמ' פסק הלכה כרבי מחבירו"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: from the Yerushalmi it is clear that the words 'and the halakhah follows him' are not part of the Mishnah's text, so the Rambam's text is doubtful.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 9:5:3",
+        "quote": "אבל בירוש' מוכח דלא גרסי' לי' במשנה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a mefaresh tests the text.",
+    "mishnah": 5,
+    "anchors": [
+     "רַבָּן גַּמְלִיאֵל אוֹמֵר, כָּל שֶׁכָּלָה מִינוֹ מִן הַשָּׂדֶה, יְבַעֵר מִינוֹ מִן הֶחָבִית, וַהֲלָכָה כִדְבָרָיו"
+    ]
+   },
+   {
+    "title": "Is it consistent with the earlier ruling on flavor?",
+    "pasuk": {
+     "text": "כָּל שֶׁכָּלָה מִינוֹ מִן הַשָּׂדֶה, יְבַעֵר מִינוֹ מִן הֶחָבִית",
+     "ref": "Mishnah Sheviit 9:5",
+     "label": "Mishnah Sheviit 9:5"
+    },
+    "question": "If the halakhah follows Rabban Gamliel, how can Bartenura rule earlier in the masechet that sabbatical produce forbids a mixture by flavor even before biur?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:5:3",
+      "era": "acharon",
+      "quote": "אבל תימה דאי הלכה כרבן גמליאל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Lechem Shamayim: that ruling was said about the holiness of sabbatical produce, not about biur, so the two rulings do not contradict each other.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 9:5:1-7",
+        "quote": "דלענין קדושת שביעית אתמר"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger: there the flavor forbids only in that one must eat it with sabbatical holiness and not trade in it, but it is not subject to biur.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 9:5:1",
+        "quote": "דצריך לאכלו בקדושת שביעית שלא לעשות בו סחורה"
+       }
+      ]
+     }
+    ],
+    "why": "It tests whether the rulings agree.",
+    "mishnah": 5,
+    "anchors": [
+     "כָּל שֶׁכָּלָה מִינוֹ מִן הַשָּׂדֶה, יְבַעֵר מִינוֹ מִן הֶחָבִית"
+    ]
+   },
+   {
+    "title": "The second rainfall and the Peah rule on olives",
+    "pasuk": {
+     "text": "עַד אֵימָתַי עֲנִיִּים נִכְנָסִים לַפַּרְדֵּסוֹת, עַד שֶׁתֵּרֵד רְבִיעָה שְׁנִיָּה",
+     "ref": "Mishnah Sheviit 9:7",
+     "label": "Mishnah Sheviit 9:7"
+    },
+    "question": "Why does the Mishnah let the poor enter orchards until the second rainfall, when Peah 8 gives that date only for olives?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 9:7:3",
+      "era": "acharon",
+      "quote": "וקשה לי קצת דבזיתים לחוד תנן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: Peah 8 is not comparable, since there the issue is when anyone may take the poor man's gifts.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:7:2",
+        "quote": "דהתם לענין היתר כל אדם במתנות העניים"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov, citing the Rash: in Eretz Yisrael trampling does not harm the crops until that time, so the owner does not object.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 9:7:1",
+        "quote": "לא קשה דריסת הרגל לזרעים עד אותו זמן"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies what the date marks in each context.",
+    "mishnah": 7,
+    "anchors": [
+     "עַד אֵימָתַי עֲנִיִּים נִכְנָסִים לַפַּרְדֵּסוֹת, עַד שֶׁתֵּרֵד רְבִיעָה שְׁנִיָּה"
+    ]
+   },
+   {
+    "title": "Why is sabbatical dough liable to challah?",
+    "pasuk": {
+     "text": "הָאוֹכֵל מֵעִסַּת שְׁבִיעִית עַד שֶׁלֹּא הוּרְמָה חַלָּתָהּ, חַיָּב מִיתָה",
+     "ref": "Mishnah Sheviit 9:9",
+     "label": "Mishnah Sheviit 9:9"
+    },
+    "question": "Why does the Mishnah need to teach that sabbatical dough is liable to challah, when challah applies only to what is 'to eat' and not what is burned?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:9:2",
+      "era": "acharon",
+      "quote": "ותמהני למה ידחה המשמעות את הדיוק דלאכלה ולא לשרפה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: lest we say there is no challah in the seventh year because challah is 'to eat' and not 'to burn', the Mishnah teaches that the Torah said 'the first of your dough' from any dough.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 9:9:3",
+        "quote": "דראשית עריסותיכם אמרה תורה מאיזו עיסה שתהיה חלה תרימו"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov, citing the Rash: 'for your generations' is written about challah, which implies even in the seventh year.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 9:9:1",
+        "quote": "לדורותיכם כתיב בחלה משמע אפילו בשביעית"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a derivation is read against the plain meaning of a verse.",
+    "mishnah": 9,
+    "anchors": [
+     "הָאוֹכֵל מֵעִסַּת שְׁבִיעִית עַד שֶׁלֹּא הוּרְמָה חַלָּתָהּ, חַיָּב מִיתָה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Bartenura",
+   "Melekhet Shelomoh",
+   "Rambam",
+   "Tosafot Yom Tov",
+   "Ikar Tosafot Yom Tov",
+   "Rashash",
+   "Lechem Shamayim",
+   "Tosafot Rabbi Akiva Eiger"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א מונה ירקות בר, כמו פיגם והחלגלוגית, שפטורים ממעשרות ונלקחים מכל אדם בשביעית, ואחר כך את המחלוקת בספיחים: רבי יהודה מתיר ספיחי חרדל, רבי שמעון את כולם חוץ מכרוב, וחכמים אוסרים את כולם.\nמשניות ב-ג מחלקות את הארץ ליהודה, עבר הירדן והגליל, כל אחת לשלושה אזורים, ומסבירות שאוכלים בכל אזור עד שיכלה האחרון שבו; רבי שמעון מגביל זאת ליהודה ועושה את הר המלך מדד לשאר הארצות.\nמשנה ד מתירה לאכול על המופקר אך לא על השמור (רבי יוסי מתיר אף על השמור), ועל הטפיחים והדופרא אך לא על הסתוניות, ורבי יהודה מקל יותר.\nמשנה ה שואלת עד מתי אוכלים מחבית שכבשו בה שלושה מינים: רבי אליעזר עד שיכלה הראשון בשדה, רבי יהושע עד האחרון, רבן גמליאל מבער כל מין כשהוא כלה, ורבי שמעון רואה את כל הירק כמין אחד.\nמשניות ו-ז נותנות זמנים לעשבים שנלקטו, ואת הרביעה השנייה כסימן להשכרת בית ולנדר \"עד הגשמים\", לכניסת עניים לפרדסים ולשריפת תבן וקש של שביעית.\nמשניות ח-ט מלמדות שכשמגיע זמן הביעור מחלקים מזון שלוש סעודות לכל אחד, ורבי יהודה ורבי יוסי חלוקים בעניים ובעשירים, שפירות שביעית שנפלו בירושה או במתנה נמכרים ודמיהם מתחלקים, ושעיסת שביעית חייבת בחלה.",
+  "topics": [
+   {
+    "term": "ספיחים",
+    "explanation": "ספיחים הם מה שצומח מעצמו אחרי הקציר, בלי שנזרע. המשנה דנה אם מותר לאכול ספיחים כאלה בשביעית: רבי יהודה מתיר ספיחי חרדל, רבי שמעון מתיר את כולם חוץ מספיחי כרוב, וחכמים אוסרים את כולם.",
+    "mishnah": 1,
+    "anchors": [
+     "כל הספיחין אסורין"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 9:1:7",
+     "quote": "וספיחים הוא מה שיצמח אחר הקציר"
+    }
+   },
+   {
+    "term": "ביעור פירות שביעית",
+    "explanation": "ביעור הוא החובה להוציא פירות שביעית מן הבית כשאותו מין כלה מן השדה לחיה. הזמן תלוי במקום ובסוג הפרי, ומאותו זמן אין אוכלים אותם עוד כשלו.",
+    "mishnah": 8,
+    "anchors": [
+     "והגיע שעת הביעור"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 9:4:1",
+     "quote": "ונותר בבתים או בגנים לא יאכל אבל הוא חייב לבער"
+    }
+   },
+   {
+    "term": "שלוש הארצות והר המלך",
+    "explanation": "לצורך הביעור מחולקת הארץ ליהודה, עבר הירדן והגליל, וכל אחת נחלקת לשלוש: הר, שפלה ועמק. אוכלים בכל אזור עד שיכלה האחרון שבו. הר המלך הוא האזור שפירותיו נשארים הכי הרבה זמן, ורבי שמעון עושה אותו מדד לשאר הארצות.",
+    "mishnah": 3,
+    "anchors": [
+     "כהר המלך"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 9:3:3",
+     "quote": "והוא היה רב הפירות ואחרון מכל שאר ארצות"
+    }
+   },
+   {
+    "term": "מופקר ושמור",
+    "explanation": "מופקר הוא מה שעדיין הפקר בשדה ועומד לחיה; שמור הוא מה שמשומר בבתים ובגנות. התנא הראשון מתיר להמשיך לאכול מן הבית כל זמן שהמין נמצא בשדה הפתוח, ורבי יוסי מתיר אף על השמור.",
+    "mishnah": 4,
+    "anchors": [
+     "אוכלין על המופקר"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 9:4:1",
+     "quote": "אוכלים ממה שבבית על ידי שמצוי מאותו המין בשדה במקום מופקר"
+    }
+   },
+   {
+    "term": "נותן טעם בחבית",
+    "explanation": "כשכובשים שלושה מיני ירק יחד, מין שכבר כלה מן השדה נותן טעם בשאר. לכן רבי אליעזר מתיר לאכול רק עד שיכלה הראשון, רבי יהושע עד האחרון, ורבן גמליאל מבער כל מין כשהוא כלה.",
+    "mishnah": 5,
+    "anchors": [
+     "כל שכלה מינו מן השדה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 9:5:3",
+     "quote": "שאותו מין שכלה נתן טעם באותן שלא כלו ואסרן"
+    }
+   },
+   {
+    "term": "רביעה שנייה",
+    "explanation": "הרביעה השנייה של עונת הגשמים היא סימן קבוע בכמה דינים בפרק: עד מתי אוכלים עשבים שנלקטו, עד מתי עניים נכנסים לפרדסים ומתי מותר ליהנות בתבן ובקש של שביעית. זמנה משתנה בין שנה מבכרת, בינונית ומאוחרת.",
+    "mishnah": 6,
+    "anchors": [
+     "עד שתרד רביעה שניה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 9:6:3",
+     "quote": "ורביעה שניה כבר נתבאר בסוף פאה שזמנה בשנה המבכרה"
+    }
+   },
+   {
+    "term": "עניים ועשירים אחר הביעור",
+    "explanation": "רבי יהודה מתיר לעניים אך לא לעשירים לאכול פירות שביעית אחר זמן הביעור; רבי יוסי מתיר לשניהם. מפרש מבאר מיהם העניים והעשירים כאן: מי שליקטו משדות אחרים מן ההפקר, לעומת בעלי השדות עצמם.",
+    "mishnah": 8,
+    "anchors": [
+     "ועניים אוכלין אחר הביעור"
+    ],
+    "source": {
+     "name": "תוספות יום טוב",
+     "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:8:1",
+     "quote": "פי' עניים כל שלקטו הפירות משדות אחרים מן ההפקר"
+    }
+   },
+   {
+    "term": "חלה מעיסת שביעית",
+    "explanation": "חלה היא החלק מן העיסה המופרש לכהן. המשנה מלמדת שעיסת שביעית אינה פטורה ממנה, ושהאוכל ממנה לפני הפרשת חלה חייב מיתה בידי שמים.",
+    "mishnah": 9,
+    "anchors": [
+     "עד שלא הורמה חלתה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 9:9:3",
+     "quote": "ראשית עריסותיכם אמרה תורה מאיזו עיסה שתהיה חלה תרימו"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע שלוש ארצות וכל אחת מחולקת לשלוש?",
+    "pasuk": {
+     "text": "וְלָמָּה אָמְרוּ שָׁלֹשׁ אֲרָצוֹת",
+     "ref": "Mishnah Sheviit 9:3",
+     "label": "משנה שביעית ט, 3"
+    },
+    "question": "הואיל וכל אחת משלוש הארצות מחולקת לשלושה, יש כאן תשעה אזורים. מה התועלת בחלוקה כזו לעניין ביעור?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Sheviit 9:3:1",
+      "era": "acharon",
+      "quote": "הואיל ושלש ארצות בכל אחת הרי כאן תשע ארצות"
+     },
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 9:3:1",
+      "era": "acharon",
+      "quote": "וקשה הרבה למה חלקום כל א' לשלש ארצות כיון שאין נפקותא כלל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: התועלת היא שאוכלים בכל אחד מתשעת האזורים עד שיכלה האחרון שבו; החלוקה לשלוש נוספת היא רק חלק מהגבולות שניתנו לארצות, ולא תוספת דין.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 9:3:1",
+        "quote": "שהתועלת שיהו אוכלין בכל אחת ואחת עד שיכלה האחרון שבה"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם הר\"ש שירילי\"ו: בכל אזור ההר, השפלה והעמק נפרדים זה מזה, ולכן המשנה מלמדת גם שיהודה, עבר הירדן והגליל נפרדים וגם שכל אחד מהם מתחלק לשלושה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 9:3:1",
+        "quote": "לעולם בכולן הר בפני עצמו ושפלה בפני עצמו ועמק בפני עצמו"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת היכן מותר להמשיך לאכול.",
+    "mishnah": 3,
+    "anchors": [
+     "וְלָמָּה אָמְרוּ שָׁלֹשׁ אֲרָצוֹת"
+    ]
+   },
+   {
+    "title": "רבי יוסי והשמור",
+    "pasuk": {
+     "text": "רַבִּי יוֹסֵי מַתִּיר אַף עַל הַשָּׁמוּר",
+     "ref": "Mishnah Sheviit 9:4",
+     "label": "משנה שביעית ט, 4"
+    },
+    "question": "אם רבי יוסי מתיר אף על השמור, מתי יגיע אי פעם זמן הביעור?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:4:1",
+      "era": "acharon",
+      "quote": "ותימה דלת\"ק שמור היינו מה שבבתים ומה שבגנות"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 9:4:1",
+      "era": "acharon",
+      "quote": "ותימה דלתנא קמא שמור היינו מה שבבתים ומה שבגנות"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: רבי יוסי אינו מתכוון לכל שמור, שאז לא יגיע זמן הביעור לעולם; אלא שיש שמור שאוכלים עליו, כגון פרי שעדיין מחובר לאילן העומד במקום שמור.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:4:1",
+        "quote": "אלא מיהת יש שמור שיאכל עליו"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב חוזר על פירוש זה: הואיל והפירות עדיין מחוברים, אוכלים עליהם אף במקום שמור.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 9:4:1",
+        "quote": "הואיל והפירות עדיין במחובר אוכלים עליהם"
+       }
+      ]
+     }
+    ],
+    "why": "הוא מגדיר עד היכן מגיעה קולת רבי יוסי.",
+    "mishnah": 4,
+    "anchors": [
+     "רַבִּי יוֹסֵי מַתִּיר אַף עַל הַשָּׁמוּר"
+    ]
+   },
+   {
+    "title": "מה מלמד הפסוק את רבי אליעזר?",
+    "pasuk": {
+     "text": "רַבִּי יְהוֹשֻׁעַ אוֹמֵר, אַף עַל הָאַחֲרוֹן",
+     "ref": "Mishnah Sheviit 9:5",
+     "label": "משנה שביעית ט, 5"
+    },
+    "question": "רבי יהושע לומד את הלכתו מ'מן השדה תאכלו'. אם הפסוק מיותר, מה עושה בו רבי אליעזר?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Sheviit 9:5:4",
+      "era": "acharon",
+      "quote": "והאי קרא יתרא הוא"
+     },
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:5:2",
+      "era": "acharon",
+      "quote": "וא\"ת לרבי אליעזר הך קרא מה עביד ביה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: הפסוק 'מן השדה תאכלו' מיותר לעניין החיה, ולכן בא לכבושים, להתיר לאכול את כל החבית כל עוד נשאר מקצת מן המין בשדה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 9:5:4",
+        "quote": "אלא קרא לכבושים הוא דאתא"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: גם רבי אליעזר דורש מפסוק זה; בלעדיו היינו אומרים שרק אותו מין יבער ולא יותר, ולכן הפסוק מלמד אצלו כיוצא בכך.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 9:5:1",
+        "quote": "דאי לאו האי קרא הוה אמינא דאותו המין דוקא יבער ולא יותר"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה שהמחלוקת היא על פסוק אחד.",
+    "mishnah": 5,
+    "anchors": [
+     "רַבִּי יְהוֹשֻׁעַ אוֹמֵר, אַף עַל הָאַחֲרוֹן"
+    ]
+   },
+   {
+    "title": "'והלכה כדבריו'",
+    "pasuk": {
+     "text": "רַבָּן גַּמְלִיאֵל אוֹמֵר, כָּל שֶׁכָּלָה מִינוֹ מִן הַשָּׂדֶה, יְבַעֵר מִינוֹ מִן הֶחָבִית, וַהֲלָכָה כִדְבָרָיו",
+     "ref": "Mishnah Sheviit 9:5",
+     "label": "משנה שביעית ט, 5"
+    },
+    "question": "האם 'והלכה כדבריו' באמת חלק מן המשנה, ומדוע תהיה ההלכה כרבן גמליאל נגד רבי אליעזר ורבי יהושע, רבותיו של רבי עקיבא?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Sheviit 9:5:1",
+      "era": "acharon",
+      "quote": "אבל מ\"מ ק\"ל דהא ר\"א ור\"י רבותיו של ר\"ע היו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: ההלכה כרבן גמליאל לא משום המילים 'והלכה כדבריו', אלא משום שהוא על דעת רבי, והגמרא פסקה הלכה כרבי מחברו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 9:5:2",
+        "quote": "אלא מטעם שהוא על דעת רבי והגמ' פסק הלכה כרבי מחבירו"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: מן הירושלמי מוכח שהמילים 'והלכה כדבריו' אינן גרסה במשנה, ולכן גרסת הרמב\"ם מוטלת בספק.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 9:5:3",
+        "quote": "אבל בירוש' מוכח דלא גרסי' לי' במשנה"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך מפרש בוחן את הגרסה.",
+    "mishnah": 5,
+    "anchors": [
+     "רַבָּן גַּמְלִיאֵל אוֹמֵר, כָּל שֶׁכָּלָה מִינוֹ מִן הַשָּׂדֶה, יְבַעֵר מִינוֹ מִן הֶחָבִית, וַהֲלָכָה כִדְבָרָיו"
+    ]
+   },
+   {
+    "title": "האם הדבר מתיישב עם הפסק הקודם בעניין טעם?",
+    "pasuk": {
+     "text": "כָּל שֶׁכָּלָה מִינוֹ מִן הַשָּׂדֶה, יְבַעֵר מִינוֹ מִן הֶחָבִית",
+     "ref": "Mishnah Sheviit 9:5",
+     "label": "משנה שביעית ט, 5"
+    },
+    "question": "אם ההלכה כרבן גמליאל, איך פסק הרע\"ב קודם לכן במסכת ששביעית אוסרת בנותן טעם אף לפני הביעור?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:5:3",
+      "era": "acharon",
+      "quote": "אבל תימה דאי הלכה כרבן גמליאל"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לחם שמים: ההלכה ההיא נאמרה לעניין קדושת שביעית, ולא לעניין ביעור, ולכן אין סתירה בין הפסקים.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Sheviit 9:5:1-7",
+        "quote": "דלענין קדושת שביעית אתמר"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר: שם הטעם אוסר רק לעניין שצריך לאוכלו בקדושת שביעית ולא לסחור בו, אבל אינו חייב בביעור.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 9:5:1",
+        "quote": "דצריך לאכלו בקדושת שביעית שלא לעשות בו סחורה"
+       }
+      ]
+     }
+    ],
+    "why": "זה בוחן אם הפסקים מתאימים.",
+    "mishnah": 5,
+    "anchors": [
+     "כָּל שֶׁכָּלָה מִינוֹ מִן הַשָּׂדֶה, יְבַעֵר מִינוֹ מִן הֶחָבִית"
+    ]
+   },
+   {
+    "title": "רביעה שנייה והלכת פאה בזיתים",
+    "pasuk": {
+     "text": "עַד אֵימָתַי עֲנִיִּים נִכְנָסִים לַפַּרְדֵּסוֹת, עַד שֶׁתֵּרֵד רְבִיעָה שְׁנִיָּה",
+     "ref": "Mishnah Sheviit 9:7",
+     "label": "משנה שביעית ט, 7"
+    },
+    "question": "מדוע המשנה מתירה לעניים להיכנס לפרדסים עד רביעה שנייה, כשבפאה פרק ח תאריך זה נאמר רק בזיתים?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Sheviit 9:7:3",
+      "era": "acharon",
+      "quote": "וקשה לי קצת דבזיתים לחוד תנן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: אין להשוות לפאה פרק ח, ששם העניין הוא מתי מותר לכל אדם ליטול מתנות עניים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:7:2",
+        "quote": "דהתם לענין היתר כל אדם במתנות העניים"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב בשם הר\"ש: בארץ ישראל דריסת הרגל אינה מזיקה לזרעים עד אותו זמן, ולכן בעל הבית אינו מוחה.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 9:7:1",
+        "quote": "לא קשה דריסת הרגל לזרעים עד אותו זמן"
+       }
+      ]
+     }
+    ],
+    "why": "זה מבהיר מה התאריך מסמן בכל הקשר.",
+    "mishnah": 7,
+    "anchors": [
+     "עַד אֵימָתַי עֲנִיִּים נִכְנָסִים לַפַּרְדֵּסוֹת, עַד שֶׁתֵּרֵד רְבִיעָה שְׁנִיָּה"
+    ]
+   },
+   {
+    "title": "מדוע עיסת שביעית חייבת בחלה?",
+    "pasuk": {
+     "text": "הָאוֹכֵל מֵעִסַּת שְׁבִיעִית עַד שֶׁלֹּא הוּרְמָה חַלָּתָהּ, חַיָּב מִיתָה",
+     "ref": "Mishnah Sheviit 9:9",
+     "label": "משנה שביעית ט, 9"
+    },
+    "question": "מדוע המשנה צריכה ללמד שעיסת שביעית חייבת בחלה, כשחלה נוהגת רק במה ש'לאכלה' ולא במה שנשרף?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 9:9:2",
+      "era": "acharon",
+      "quote": "ותמהני למה ידחה המשמעות את הדיוק דלאכלה ולא לשרפה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: שמא נאמר שאין חלה בשביעית כי חלה נאמרה 'לאכלה' ולא 'לשרפה', קמ\"ל שהתורה אמרה 'ראשית עריסותיכם' מכל עיסה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 9:9:3",
+        "quote": "דראשית עריסותיכם אמרה תורה מאיזו עיסה שתהיה חלה תרימו"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב בשם הר\"ש: 'לדורותיכם' נאמר בחלה, ומשמע אפילו בשביעית.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 9:9:1",
+        "quote": "לדורותיכם כתיב בחלה משמע אפילו בשביעית"
+       }
+      ]
+     }
+    ],
+    "why": "זה מראה איך דרשה נקראת מול פשט הפסוק.",
+    "mishnah": 9,
+    "anchors": [
+     "הָאוֹכֵל מֵעִסַּת שְׁבִיעִית עַד שֶׁלֹּא הוּרְמָה חַלָּתָהּ, חַיָּב מִיתָה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "ברטנורא",
+   "מלאכת שלמה",
+   "רמב\"ם",
+   "תוספות יום טוב",
+   "עיקר תוספות יום טוב",
+   "רש\"ש",
+   "לחם שמים",
+   "תוספות רבי עקיבא איגר"
+  ]
+ }
 }
