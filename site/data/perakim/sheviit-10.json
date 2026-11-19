@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-19",
+ "hebrew_date": {
+  "hebrew": "ט׳ בְּכִסְלֵו תשפ״ז",
+  "english": "9 Kislev 5787"
+ },
  "masechet": "sheviit",
  "perek": 10,
  "ref": "Mishnah Sheviit 10",
@@ -39,5 +44,1047 @@
    "he": "הַמַּחֲזִיר חוֹב בַּשְּׁבִיעִית, רוּחַ חֲכָמִים נוֹחָה מִמֶּנּוּ. הַלֹּוֶה מִן הַגֵּר שֶׁנִּתְגַּיְּרוּ בָנָיו עִמּוֹ, לֹא יַחֲזִיר לְבָנָיו. וְאִם הֶחֱזִיר, רוּחַ חֲכָמִים נוֹחָה מִמֶּנּוּ. כָּל הַמִּטַּלְטְלִין, נִקְנִין בִּמְשִׁיכָה. וְכָל הַמְקַיֵּם אֶת דְּבָרוֹ, רוּחַ חֲכָמִים נוֹחָה מִמֶּנּוּ: \n",
    "en": "One who repays his debts after the seventh year, the sages are pleased with him. One who borrows from a convert whose sons had converted with him, the debt need not be repaid to his sons, but if he returns it the sages are pleased with him. All movable property can be acquired [only] by the act of drawing, but whoever fulfills his word, the sages are well pleased with him."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 The sabbatical year cancels loans, whether written or oral, but not an open shop account or a worker's wages unless they were converted into a loan; Rabbi Judah and Rabbi Yose disagree on details.\nMishnah 2 Debts arising on Rosh Hashanah depend on whether the month was intercalated; fines, court-ordered payments, loans with a pledge and documents handed to a court are not cancelled.\nMishnayot 3–4 Hillel enacted the prozbul so that people would not stop lending, and the mishnah gives its formula: debts handed to judges, to be collected whenever he wishes.\nMishnayot 5–6 A pre-dated prozbul is valid and a post-dated one invalid, while loan documents are the reverse; a prozbul needs land, even a small plot, and Rabbi Hutzpit allows a wife's property or a guardian's.\nMishnah 7 Rabbi Eliezer treats a beehive as land and the Sages do not.\nMishnayot 8–9 One who repays a debt after the seventh year is approved of by the sages, and the same for returning a convert's money to his sons or keeping one's word without drawing.",
+  "topics": [
+   {
+    "term": "Prozbul",
+    "explanation": "A prozbul is a document in which a creditor hands his debts over to a court, so that the debts count as already collected and the sabbatical year does not cancel them. Hillel the Elder enacted it when people stopped lending because the seventh year was near. The Bartenura reads the word as 'prozbul' = a remedy (pruz) for the wealthy (bul).",
+    "mishnah": 3,
+    "anchors": [
+     "פְּרוֹזְבּוּל"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 10:3:1",
+     "quote": "פְּרוֹז תַּקָּנָה, בּוּל עֲשִׁירִים"
+    }
+   },
+   {
+    "term": "Cancellation of debts today is rabbinic",
+    "explanation": "Mefarshim explain that in the absence of the Jubilee, the cancellation of monetary debts in the seventh year is only a rabbinic enactment. This is why Hillel had the authority to institute the prozbul.",
+    "mishnah": 3,
+    "anchors": [
+     "הִתְקִין הִלֵּל"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 10:3:1",
+     "quote": "תקנת הלל היא בשביעית בזמן הזה שהיא מדרבנן"
+    }
+   },
+   {
+    "term": "Hakafat hachanut (shop credit)",
+    "explanation": "Hakafat hachanut is buying from a shopkeeper on trust, running up an open account. Since it is not a formal loan, the seventh year does not cancel it, unless the two sat down, tallied it, and turned it into a loan.",
+    "mishnah": 1,
+    "anchors": [
+     "הַקָּפַת הַחֲנוּת"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 10:1:3",
+     "quote": "שֶׁקָּנָה מִמֶּנּוּ בַּאֲמָנָה"
+    }
+   },
+   {
+    "term": "Debts held by a court (ma'aseh beit din)",
+    "explanation": "Money that a court has ordered someone to pay is no longer an ordinary debt, so the seventh year does not cancel it. The Rambam applies the same logic to one who hands his debt documents to a court.",
+    "mishnah": 2,
+    "anchors": [
+     "כָל מַעֲשֵׂה בֵית דִּין"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 10:2:3",
+     "quote": "ומוסר שטרותיו לבית דין"
+    }
+   },
+   {
+    "term": "Land as the basis of a prozbul",
+    "explanation": "A prozbul is written only if the borrower owns land, since only then is the debt treated as already collected by the court. If he has none, the lender may give him title to the smallest plot of his own field. The Bartenura explains that even a tiny plot suffices because it is fit to collect the whole debt from it a little at a time.",
+    "mishnah": 6,
+    "anchors": [
+     "אֶלָּא עַל הַקַּרְקַע"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 10:6:2",
+     "quote": "מְזַכֶּה לוֹ מַלְוֶה לַלֹּוֶה בְּתוֹךְ שָׂדֵהוּ קַרְקַע כָּל דְּהו"
+    }
+   },
+   {
+    "term": "Kavueret (beehive)",
+    "explanation": "A kavueret is the vessel in which bees gather and make honey. The mishnah disputes whether such a hive has the status of land, which affects prozbul, impurity and Shabbat liability.",
+    "mishnah": 7,
+    "anchors": [
+     "כַּוֶּרֶת דְּבוֹרִים"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Sheviit 10:7:1",
+     "quote": "היא הכלי שיאספו בה הדבורים ויעשו בו דבש"
+    }
+   },
+   {
+    "term": "Ruach chachamim nocha and meshicha",
+    "explanation": "Movable goods are acquired by pulling them (meshicha), and until then either side may retract. Yet whoever keeps his word, even without pulling, earns the sages' approval. The Bartenura grounds this in the verse about an honest ephah and hin.",
+    "mishnah": 9,
+    "anchors": [
+     "וְכָל הַמְקַיֵּם אֶת דְּבָרו"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Sheviit 10:9:4",
+     "quote": "איפת צדק והין צדק"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "How could Hillel enact the prozbul?",
+    "pasuk": {
+     "text": "הִתְקִין הִלֵּל לַפְּרוֹזְבּוּל",
+     "ref": "Mishnah Sheviit 10:3",
+     "label": "Mishnah Sheviit 10:3"
+    },
+    "question": "The Torah commands the cancellation of debts in the seventh year. How could Hillel institute a document that prevents the cancellation, if this uproots a Torah law?",
+    "asked_by": [
+     {
+      "name": "Rambam",
+      "ref": "Rambam on Mishnah Sheviit 10:3:1",
+      "quote": "מי איכא מידי דמדאורייתא משמט שביעית ומתקן הלל דלא תשמט",
+      "era": "rishon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 10:3:1",
+      "quote": "לא היה מהראוי להלל לתקן לעקור מצוה דאוריית",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam answers that Hillel's enactment applies to the seventh year in our time, which is only rabbinic.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 10:3:1",
+        "quote": "ובארנו שתקנת הלל היא בשביעית בזמן הזה שהיא מדרבנן"
+       }
+      ]
+     },
+     {
+      "text": "The Bartenura adds that the Sages themselves enacted the cancellation of debts nowadays, so they had the power to modify it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 10:3:1",
+        "quote": "וְרַבָּנָן הוּא דִּתְקִינוּ שְׁמִטַּת כְּסָפִים בַּזְּמַן הַזֶּה"
+       }
+      ]
+     },
+     {
+      "text": "The Melekhet Shelomoh, citing the Gemara's reasoning, says that a court's declaration of ownerlessness is binding (hefker beit din hefker).",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 10:3:3",
+        "quote": "משום דהפקר ב\"ד היה הפקר"
+       }
+      ]
+     }
+    ],
+    "why": "It shows why the prozbul is not seen as undermining the Torah.",
+    "mishnah": 3,
+    "anchors": [
+     "הִתְקִין הִלֵּל לַפְּרוֹזְבּוּל"
+    ]
+   },
+   {
+    "title": "Why are pre-dated loan documents invalid?",
+    "pasuk": {
+     "text": "שִׁטְרֵי חוֹב הַמֻּקְדָּמִים, פְּסוּלִים",
+     "ref": "Mishnah Sheviit 10:5",
+     "label": "Mishnah Sheviit 10:5"
+    },
+    "question": "Why does the mishnah invalidate a pre-dated loan document entirely, instead of letting the lender collect only from the true date of the loan? And how can the witnesses who signed it be trusted?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Sheviit 10:5:2",
+      "quote": "ודבר תימה היכי גבי ממשעבדי אפילו מזמן שני בהאי שטרא",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: the Sages fined the lender, and also decreed lest he collect from buyers between the dates, and the witnesses are not wicked since they can say they signed only on the loan itself.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 10:5:2",
+        "quote": "וְקָנְסִינְהוּ רַבָּנָן דְּלֹא לִיגְבּוּ בִּשְׁטָר זֶה"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 10:5:2",
+        "quote": "גְּזֵרָה שֶׁמָּא יִגְבֶּה מֵאוֹתָן שֶׁבֵּין תִּשְׁרֵי לְנִיסָן"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: it is invalid forever, and we do not say he collects from the later date, lest he collect from the earlier one.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 10:5:2",
+        "quote": "גזרה שמא יטרוף מזמן ראשון"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies how a document can harm buyers of the debtor's land.",
+    "mishnah": 5,
+    "anchors": [
+     "שִׁטְרֵי חוֹב הַמֻּקְדָּמִים, פְּסוּלִים"
+    ]
+   },
+   {
+    "title": "Is a post-dated prozbul valid from its writing date?",
+    "pasuk": {
+     "text": "פְּרוֹזְבּוּל הַמֻּקְדָּם, כָּשֵׁר, וְהַמְאֻחָר, פָּסוּל",
+     "ref": "Mishnah Sheviit 10:5",
+     "label": "Mishnah Sheviit 10:5"
+    },
+    "question": "The Yerushalmi seems to hold that a post-dated prozbul remains valid, counting only from the date of writing. Why do the poskim ignore this, and should we?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 10:5:1",
+      "quote": "אבל תימה דהרמב\"ם והטור לא כתבו להך ירושלמי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Hon Ashir defends the Yerushalmi and argues that its words may not be rejected on weak grounds.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Sheviit 10:5:1",
+        "quote": "מה חטא לנו הירושלמי שלא נשגיח עליו"
+       }
+      ]
+     },
+     {
+      "text": "The Tosafot Yom Tov himself, citing the Ran, concludes that such a prozbul is wholly invalid, as with loan documents, against the Yerushalmi.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 10:5:1",
+        "quote": "הרי שאינו מחלק בינו לש\"ח הפסול ודלא כהירושלמי"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash notes in short that this is not like the Yerushalmi.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Sheviit 10:5:1",
+        "quote": "והמאוחר פסול. ודלא כהירושלמי"
+       }
+      ]
+     }
+    ],
+    "why": "It is a rare case where acharonim argue over a Yerushalmi that the poskim set aside.",
+    "mishnah": 5,
+    "anchors": [
+     "פְּרוֹזְבּוּל הַמֻּקְדָּם, כָּשֵׁר, וְהַמְאֻחָר, פָּסוּל"
+    ]
+   },
+   {
+    "title": "Which property of the wife is meant?",
+    "pasuk": {
+     "text": "כּוֹתְבִין לָאִישׁ עַל נִכְסֵי אִשְׁתּו",
+     "ref": "Mishnah Sheviit 10:6",
+     "label": "Mishnah Sheviit 10:6"
+    },
+    "question": "The mishnah says a prozbul may be written for a man on the property of his wife. Does this mean only property whose fruits he eats (melog), as the Bartenura writes, or any of her land?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 10:6:5",
+      "quote": "ותמהני מנ\"ל והא סתמא תנן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura explains it as land of 'nichsei melog', where the husband eats the fruits.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 10:6:4",
+        "quote": "כְּגוֹן קַרְקַע שֶׁל נִכְסֵי מְלוֹג שֶׁהוּא אוֹכֵל פֵּרוֹת"
+       }
+      ]
+     },
+     {
+      "text": "The Ikar Tosafot Yom Tov says this is not exact: even if he does not eat the fruits, as when land was given to her on condition that her husband has no rights.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 10:6:2",
+        "quote": "אֶלָּא אֲפִלּוּ אֵינוֹ אוֹכֵל פֵּרוֹת"
+       }
+      ]
+     }
+    ],
+    "why": "It defines how close a connection to land the prozbul requires.",
+    "mishnah": 6,
+    "anchors": [
+     "כּוֹתְבִין לָאִישׁ עַל נִכְסֵי אִשְׁתּו"
+    ]
+   },
+   {
+    "title": "When is the beehive disputed?",
+    "pasuk": {
+     "text": "הֲרֵי הִיא כְקַרְקַע",
+     "ref": "Mishnah Sheviit 10:7",
+     "label": "Mishnah Sheviit 10:7"
+    },
+    "question": "The Bartenura says everyone agrees that a hive fixed in clay is land and one on pegs is a vessel, and the dispute is only for a hive resting on the ground. Is this correct?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 10:7:1",
+      "quote": "תמוה לי דזה לא כס\"ד דהש\"ס",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 10:7:1",
+      "quote": "דבר זה חדוש הוא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: they differ only where the hive rests on the ground and is not joined with clay.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 10:7:1",
+        "quote": "לֹא נֶחְלְקוּ אֶלָּא שֶׁמּוּנַחַת עַל גַּבֵּי קַרְקַע"
+       }
+      ]
+     },
+     {
+      "text": "The Boaz defends the Bartenura: his words come from a holy place, for the Yerushalmi says the same.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Sheviit 10:3",
+        "quote": "דברי הר\"ב ז\"ל ממקום קדוש יהלכו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how mefarshim test even the Bartenura's claims.",
+    "mishnah": 7,
+    "anchors": [
+     "הֲרֵי הִיא כְקַרְקַע"
+    ]
+   },
+   {
+    "title": "What does saying 'I remit it' accomplish?",
+    "pasuk": {
+     "text": "יֹאמַר לוֹ מְשַׁמֵּט אָנִי",
+     "ref": "Mishnah Sheviit 10:8",
+     "label": "Mishnah Sheviit 10:8"
+    },
+    "question": "If the creditor accepts payment anyway, then he has not remitted the debt. What is the point of saying 'I remit it'?",
+    "asked_by": [
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 10:8:2",
+      "quote": "וּדְבַר תֵּימַהּ הוּא, דְּאִם יְקַבֵּל בְּפֵרָעוֹן אִם כֵּן אֵינוֹ מְשַׁמֵּט",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Ikar Tosafot Yom Tov, citing the Gemara, says that when he pays he should say, 'I give it to you as a gift'.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 10:8:2",
+        "quote": "כֵּן בְּמַתָּנָה אֲנִי נוֹתֵן לְך"
+       }
+      ]
+     },
+     {
+      "text": "The Bartenura: a mere word suffices, so the first statement 'I remit it' is enough and he need not repeat it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 10:8:4",
+        "quote": "דִּבּוּר בְּעַלְמָא שֶׁמּוֹצִיא מִפִּיו שֶׁהוּא מְשַׁמֵּט דַּיּו"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: once he has spoken the word, the matter is permitted to him.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 10:8:1",
+        "quote": "מאחר שהוציא הדבר מפיו התירו"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies the legal weight of saying the words before taking repayment.",
+    "mishnah": 8,
+    "anchors": [
+     "יֹאמַר לוֹ מְשַׁמֵּט אָנִי"
+    ]
+   },
+   {
+    "title": "Why return a convert's money to his sons?",
+    "pasuk": {
+     "text": "הַלֹּוֶה מִן הַגֵּר שֶׁנִּתְגַּיְּרוּ בָנָיו עִמּו",
+     "ref": "Mishnah Sheviit 10:9",
+     "label": "Mishnah Sheviit 10:9"
+    },
+    "question": "Why is the sages' approval earned by returning the debt to the sons who converted with him, when he is not obligated?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Sheviit 10:9:1",
+      "quote": "וקשה מרבא דבפ' מי שמת",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: lest they return to their old ways, since a gentile inherits his father by Torah law.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 10:9:3",
+        "quote": "יֵשׁ לָחוּשׁ שֶׁמָּא יַחְזְרוּ לְסוּרָם"
+       }
+      ]
+     },
+     {
+      "text": "The Rash reaches the same reason and explains when it applies, where conception and birth were both outside holiness.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Sheviit 10:9:1",
+        "quote": "הימנה שמא יחזור לסורו"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: he is not obligated by law to return it, because he acquired it.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 10:9:1",
+        "quote": "שלא נתחייב מן הדין להחזיר לבניו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows a reason for the sages' approval beyond strict law.",
+    "mishnah": 9,
+    "anchors": [
+     "הַלֹּוֶה מִן הַגֵּר שֶׁנִּתְגַּיְּרוּ בָנָיו עִמּו"
+    ]
+   },
+   {
+    "title": "What if one does not keep his word?",
+    "pasuk": {
+     "text": "וְכָל הַמְקַיֵּם אֶת דְּבָרוֹ, רוּחַ חֲכָמִים נוֹחָה מִמֶּנּו",
+     "ref": "Mishnah Sheviit 10:9",
+     "label": "Mishnah Sheviit 10:9"
+    },
+    "question": "The Rash infers that one who does not keep his word lacks the sages' approval but is not forbidden. Does this fit with the Gemara's rules on those lacking faith?",
+    "asked_by": [
+     {
+      "name": "Petach Einayim",
+      "ref": "Petach Einayim on Mishnah Sheviit 10:9:1",
+      "quote": "ודבריו קשים להולמם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Bartenura: whoever keeps his word, even without drawing, has the sages' approval, per 'a just hin'.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Sheviit 10:9:4",
+        "quote": "שיהא לאו שלך צדק והין שלך צדק"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: one who commits to dealing in good faith and does not retract, even without drawing, has the sages' approval.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Sheviit 10:9:4",
+        "quote": "ואף על פי שאין שם משיכה רוח חכמים נוחה הימנו"
+       }
+      ]
+     }
+    ],
+    "why": "It links the mishnah's moral standard to the question of acting in good faith.",
+    "mishnah": 9,
+    "anchors": [
+     "וְכָל הַמְקַיֵּם אֶת דְּבָרוֹ, רוּחַ חֲכָמִים נוֹחָה מִמֶּנּו"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Rambam",
+   "Tosafot Rabbi Akiva Eiger",
+   "Bartenura",
+   "Melekhet Shelomoh",
+   "Rash MiShantz",
+   "Tosafot Yom Tov",
+   "Hon Ashir",
+   "Rashash",
+   "Ikar Tosafot Yom Tov",
+   "Lechem Shamayim",
+   "Boaz",
+   "Petach Einayim"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א שביעית משמטת מלווה בשטר ושלא בשטר, אך לא הקפת חנות ושכר שכיר אלא אם עשאום מלווה; רבי יהודה ורבי יוסי חולקים בפרטים.\nמשנה ב חוב שנוצר בראש השנה תלוי בעיבור החודש; קנסות, מעשה בית דין, מלווה על המשכון ומוסר שטרותיו לבית דין אינם משמטים.\nמשניות ג-ד הלל התקין את הפרוזבול כדי שלא ימנעו מלהלוות, והמשנה מביאה את נוסחו: מסירת החובות לדיינים כדי לגבותם כל זמן שירצה.\nמשניות ה-ו פרוזבול מוקדם כשר ומאוחר פסול, ושטרי חוב להפך; כותבים פרוזבול רק על הקרקע, אפילו כל שהוא, ורבי חוצפית מתיר על נכסי אשתו או אפוטרופוס.\nמשנה ז רבי אליעזר דן את הכוורת כקרקע וחכמים חולקים.\nמשניות ח-ט המחזיר חוב בשביעית רוח חכמים נוחה הימנו, וכן המחזיר לבני הגר והמקיים דברו אף בלי משיכה.",
+  "topics": [
+   {
+    "term": "פרוזבול",
+    "explanation": "פרוזבול הוא שטר שבו המלווה מוסר את חובותיו לבית דין, וכך הם נחשבים כגבויים והשביעית אינה משמטת אותם. הלל הזקן תיקן אותו כשראה שהעם נמנעים מלהלוות מפני שנת השמיטה. ברטנורא מפרש את השם: 'פרוז' – תקנה, 'בול' – עשירים.",
+    "mishnah": 3,
+    "anchors": [
+     "פְּרוֹזְבּוּל"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 10:3:1",
+     "quote": "פְּרוֹז תַּקָּנָה, בּוּל עֲשִׁירִים"
+    }
+   },
+   {
+    "term": "השמטת כספים בזמן הזה מדרבנן",
+    "explanation": "המפרשים מבארים שבזמן שאין יובל, השמטת כספים בשביעית היא מדרבנן בלבד, ולכן היה כוח ביד הלל לתקן את הפרוזבול.",
+    "mishnah": 3,
+    "anchors": [
+     "הִתְקִין הִלֵּל"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 10:3:1",
+     "quote": "תקנת הלל היא בשביעית בזמן הזה שהיא מדרבנן"
+    }
+   },
+   {
+    "term": "הקפת החנות",
+    "explanation": "הקפת החנות היא קנייה מבעל החנות באמון, בחשבון פתוח. מכיוון שאין זו הלוואה רגילה, השביעית אינה משמטת אותה, אלא אם חישבו וקבעו אותה כהלוואה.",
+    "mishnah": 1,
+    "anchors": [
+     "הַקָּפַת הַחֲנוּת"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 10:1:3",
+     "quote": "שֶׁקָּנָה מִמֶּנּוּ בַּאֲמָנָה"
+    }
+   },
+   {
+    "term": "מעשה בית דין",
+    "explanation": "ממון שבית דין פסקו לתת אינו חוב רגיל, ולכן השביעית אינה משמטת אותו. הרמב\"ם מיישם אותו עיקרון על מי שמסר את שטרותיו לבית דין.",
+    "mishnah": 2,
+    "anchors": [
+     "כָל מַעֲשֵׂה בֵית דִּין"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 10:2:3",
+     "quote": "ומוסר שטרותיו לבית דין"
+    }
+   },
+   {
+    "term": "קרקע כל שהוא",
+    "explanation": "כותבים פרוזבול רק אם ללווה יש קרקע, שאז החוב נחשב כגבוי ביד בית דין. אם אין לו, המלווה מזכה לו קרקע כל שהוא משדהו. ברטנורא מסביר שדי בקרקע קטנה כי ראוי לגבות בה את כל החוב מעט מעט.",
+    "mishnah": 6,
+    "anchors": [
+     "אֶלָּא עַל הַקַּרְקַע"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 10:6:2",
+     "quote": "מְזַכֶּה לוֹ מַלְוֶה לַלֹּוֶה בְּתוֹךְ שָׂדֵהוּ קַרְקַע כָּל דְּהו"
+    }
+   },
+   {
+    "term": "כוורת דבורים",
+    "explanation": "כוורת היא הכלי שבו הדבורים אוספות ועושות דבש. המשנה חלוקה אם דינה כקרקע, ויש לכך השלכות לענין פרוזבול, טומאה וחיוב בשבת.",
+    "mishnah": 7,
+    "anchors": [
+     "כַּוֶּרֶת דְּבוֹרִים"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Sheviit 10:7:1",
+     "quote": "היא הכלי שיאספו בה הדבורים ויעשו בו דבש"
+    }
+   },
+   {
+    "term": "רוח חכמים נוחה והקנאה במשיכה",
+    "explanation": "מטלטלין נקנים במשיכה, ועד אז כל צד יכול לחזור בו. ועם זאת המקיים את דברו גם בלי משיכה זוכה לרוח חכמים נוחה. ברטנורא מסמיך זאת על הפסוק 'איפת צדק והין צדק'.",
+    "mishnah": 9,
+    "anchors": [
+     "וְכָל הַמְקַיֵּם אֶת דְּבָרו"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Sheviit 10:9:4",
+     "quote": "איפת צדק והין צדק"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "איך יכול היה הלל לתקן פרוזבול?",
+    "pasuk": {
+     "text": "הִתְקִין הִלֵּל לַפְּרוֹזְבּוּל",
+     "ref": "Mishnah Sheviit 10:3",
+     "label": "משנה שביעית י, ג"
+    },
+    "question": "התורה מצווה להשמיט חובות בשביעית. איך יכול היה הלל לתקן שטר שמונע את ההשמטה, והרי נראה שהוא עוקר דין תורה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ם",
+      "ref": "Rambam on Mishnah Sheviit 10:3:1",
+      "quote": "מי איכא מידי דמדאורייתא משמט שביעית ומתקן הלל דלא תשמט",
+      "era": "rishon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 10:3:1",
+      "quote": "לא היה מהראוי להלל לתקן לעקור מצוה דאוריית",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם משיב שתקנת הלל נאמרה בשביעית בזמן הזה, שהיא מדרבנן.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 10:3:1",
+        "quote": "ובארנו שתקנת הלל היא בשביעית בזמן הזה שהיא מדרבנן"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא מוסיף שחכמים הם שתיקנו את השמטת הכספים בזמן הזה, ולכן היה להם כוח לתקן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 10:3:1",
+        "quote": "וְרַבָּנָן הוּא דִּתְקִינוּ שְׁמִטַּת כְּסָפִים בַּזְּמַן הַזֶּה"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את טעם הגמרא: הפקר בית דין הפקר.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Sheviit 10:3:3",
+        "quote": "משום דהפקר ב\"ד היה הפקר"
+       }
+      ]
+     }
+    ],
+    "why": "מראה מדוע הפרוזבול אינו נחשב כעקירת התורה.",
+    "mishnah": 3,
+    "anchors": [
+     "הִתְקִין הִלֵּל לַפְּרוֹזְבּוּל"
+    ]
+   },
+   {
+    "title": "מדוע שטרות חוב מוקדמים פסולים?",
+    "pasuk": {
+     "text": "שִׁטְרֵי חוֹב הַמֻּקְדָּמִים, פְּסוּלִים",
+     "ref": "Mishnah Sheviit 10:5",
+     "label": "משנה שביעית י, ה"
+    },
+    "question": "מדוע המשנה פוסלת שטר חוב מוקדם לגמרי, ולא מאפשרת לגבות לפחות מזמן ההלוואה האמיתי? ואיך נסמוך על העדים שחתמו עליו?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Sheviit 10:5:2",
+      "quote": "ודבר תימה היכי גבי ממשעבדי אפילו מזמן שני בהאי שטרא",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: חכמים קנסו את המלווה, וגזרו שמא יגבה מהלקוחות שבין הזמנים; והעדים אינם רשעים, כי הם יכולים לומר שחתמו על עיקר ההלוואה ולא על הזמן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 10:5:2",
+        "quote": "וְקָנְסִינְהוּ רַבָּנָן דְּלֹא לִיגְבּוּ בִּשְׁטָר זֶה"
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 10:5:2",
+        "quote": "גְּזֵרָה שֶׁמָּא יִגְבֶּה מֵאוֹתָן שֶׁבֵּין תִּשְׁרֵי לְנִיסָן"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: הוא פסול לעולם, ולא אומרים שיגבה מזמן אחרון, גזרה שמא יגבה מזמן ראשון.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 10:5:2",
+        "quote": "גזרה שמא יטרוף מזמן ראשון"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר כיצד שטר יכול לפגוע בלקוחות של קרקעות הלווה.",
+    "mishnah": 5,
+    "anchors": [
+     "שִׁטְרֵי חוֹב הַמֻּקְדָּמִים, פְּסוּלִים"
+    ]
+   },
+   {
+    "title": "האם פרוזבול מאוחר כשר מזמן הכתיבה?",
+    "pasuk": {
+     "text": "פְּרוֹזְבּוּל הַמֻּקְדָּם, כָּשֵׁר, וְהַמְאֻחָר, פָּסוּל",
+     "ref": "Mishnah Sheviit 10:5",
+     "label": "משנה שביעית י, ה"
+    },
+    "question": "הירושלמי נראה כסובר שפרוזבול מאוחר כשר ומונה משעת הכתיבה. מדוע הפוסקים משמיטים זאת, ויש לנו לדחותו?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 10:5:1",
+      "quote": "אבל תימה דהרמב\"ם והטור לא כתבו להך ירושלמי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הון עשיר מגן על הירושלמי וטוען שאין לדחות את דבריו בראיות חלשות.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Sheviit 10:5:1",
+        "quote": "מה חטא לנו הירושלמי שלא נשגיח עליו"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב עצמו, בשם הר\"ן, מסיק שאינו מחלק בין פרוזבול לשטר חוב פסול, ודלא כירושלמי.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Sheviit 10:5:1",
+        "quote": "הרי שאינו מחלק בינו לש\"ח הפסול ודלא כהירושלמי"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש מעיר בקצרה שהדבר דלא כהירושלמי.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Sheviit 10:5:1",
+        "quote": "והמאוחר פסול. ודלא כהירושלמי"
+       }
+      ]
+     }
+    ],
+    "why": "דוגמה נדירה לאחרונים שחולקים על ירושלמי שהפוסקים הניחוהו.",
+    "mishnah": 5,
+    "anchors": [
+     "פְּרוֹזְבּוּל הַמֻּקְדָּם, כָּשֵׁר, וְהַמְאֻחָר, פָּסוּל"
+    ]
+   },
+   {
+    "title": "באיזה נכסי אשתו מדובר?",
+    "pasuk": {
+     "text": "כּוֹתְבִין לָאִישׁ עַל נִכְסֵי אִשְׁתּו",
+     "ref": "Mishnah Sheviit 10:6",
+     "label": "משנה שביעית י, ו"
+    },
+    "question": "המשנה אומרת שכותבים פרוזבול לאיש על נכסי אשתו. האם הכוונה דווקא לנכסי מלוג שהוא אוכל פירותיהם, כדברי הברטנורא, או לכל קרקע שלה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Sheviit 10:6:5",
+      "quote": "ותמהני מנ\"ל והא סתמא תנן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא מפרש: קרקע של נכסי מלוג שהוא אוכל פירות.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 10:6:4",
+        "quote": "כְּגוֹן קַרְקַע שֶׁל נִכְסֵי מְלוֹג שֶׁהוּא אוֹכֵל פֵּרוֹת"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב אומר שאין זה בדווקא: אפילו אינו אוכל פירות, כגון שניתנה לה קרקע על מנת שאין לבעלה זכות.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 10:6:2",
+        "quote": "אֶלָּא אֲפִלּוּ אֵינוֹ אוֹכֵל פֵּרוֹת"
+       }
+      ]
+     }
+    ],
+    "why": "מגדיר כמה קרוב צריך להיות הקשר לקרקע כדי שיועיל הפרוזבול.",
+    "mishnah": 6,
+    "anchors": [
+     "כּוֹתְבִין לָאִישׁ עַל נִכְסֵי אִשְׁתּו"
+    ]
+   },
+   {
+    "title": "באיזה מצב נחלקו במכוורת?",
+    "pasuk": {
+     "text": "הֲרֵי הִיא כְקַרְקַע",
+     "ref": "Mishnah Sheviit 10:7",
+     "label": "משנה שביעית י, ז"
+    },
+    "question": "ברטנורא כותב שכולם מודים שכוורת המחוברת בטיט היא כקרקע, ושעל גבי יתדות היא ככלים, והמחלוקת היא רק במונחת על הקרקע. האם כך הדבר?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Sheviit 10:7:1",
+      "quote": "תמוה לי דזה לא כס\"ד דהש\"ס",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Sheviit 10:7:1",
+      "quote": "דבר זה חדוש הוא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: לא נחלקו אלא שמונחת על גבי קרקע ואינה מחוברת בטיט.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 10:7:1",
+        "quote": "לֹא נֶחְלְקוּ אֶלָּא שֶׁמּוּנַחַת עַל גַּבֵּי קַרְקַע"
+       }
+      ]
+     },
+     {
+      "text": "בועז מגן על הברטנורא: דבריו ממקום קדוש יהלכו, שכך כתוב בירושלמי.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Sheviit 10:3",
+        "quote": "דברי הר\"ב ז\"ל ממקום קדוש יהלכו"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד המפרשים בוחנים גם את דברי הברטנורא.",
+    "mishnah": 7,
+    "anchors": [
+     "הֲרֵי הִיא כְקַרְקַע"
+    ]
+   },
+   {
+    "title": "מה מועילה האמירה 'משמט אני'?",
+    "pasuk": {
+     "text": "יֹאמַר לוֹ מְשַׁמֵּט אָנִי",
+     "ref": "Mishnah Sheviit 10:8",
+     "label": "משנה שביעית י, ח"
+    },
+    "question": "אם המלווה מקבל את התשלום בכל זאת, הרי לא השמיט. מה מועילה אמירת 'משמט אני'?",
+    "asked_by": [
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 10:8:2",
+      "quote": "וּדְבַר תֵּימַהּ הוּא, דְּאִם יְקַבֵּל בְּפֵרָעוֹן אִם כֵּן אֵינוֹ מְשַׁמֵּט",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עיקר תוספות יום טוב, בשם הגמרא: כשהוא נותן לו יאמר 'במתנה אני נותן לך'.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Sheviit 10:8:2",
+        "quote": "כֵּן בְּמַתָּנָה אֲנִי נוֹתֵן לְך"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: דיבור בעלמא שמוציא מפיו שהוא משמט דיו, ואין צריך שיאמר ויישנה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 10:8:4",
+        "quote": "דִּבּוּר בְּעַלְמָא שֶׁמּוֹצִיא מִפִּיו שֶׁהוּא מְשַׁמֵּט דַּיּו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: מאחר שהוציא הדבר מפיו התירו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 10:8:1",
+        "quote": "מאחר שהוציא הדבר מפיו התירו"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר את משקלן ההלכתי של המילים לפני קבלת התשלום.",
+    "mishnah": 8,
+    "anchors": [
+     "יֹאמַר לוֹ מְשַׁמֵּט אָנִי"
+    ]
+   },
+   {
+    "title": "מדוע להחזיר ממון גר לבניו?",
+    "pasuk": {
+     "text": "הַלֹּוֶה מִן הַגֵּר שֶׁנִּתְגַּיְּרוּ בָנָיו עִמּו",
+     "ref": "Mishnah Sheviit 10:9",
+     "label": "משנה שביעית י, ט"
+    },
+    "question": "מדוע רוח חכמים נוחה ממי שמחזיר לבני הגר שנתגיירו עמו, והרי אינו חייב?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Sheviit 10:9:1",
+      "quote": "וקשה מרבא דבפ' מי שמת",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: יש לחשוש שמא יחזרו לסורם, כי עובד כוכבים יורש את אביו מן התורה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 10:9:3",
+        "quote": "יֵשׁ לָחוּשׁ שֶׁמָּא יַחְזְרוּ לְסוּרָם"
+       }
+      ]
+     },
+     {
+      "text": "רש מגיע לאותו טעם ומבאר מתי הוא נאמר, כשהורתו ולידתו שלא בקדושה.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Sheviit 10:9:1",
+        "quote": "הימנה שמא יחזור לסורו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: לא נתחייב מן הדין להחזיר לבניו מפני שזכה בו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 10:9:1",
+        "quote": "שלא נתחייב מן הדין להחזיר לבניו"
+       }
+      ]
+     }
+    ],
+    "why": "מראה טעם לרצון החכמים מעבר לדין.",
+    "mishnah": 9,
+    "anchors": [
+     "הַלֹּוֶה מִן הַגֵּר שֶׁנִּתְגַּיְּרוּ בָנָיו עִמּו"
+    ]
+   },
+   {
+    "title": "מה דין מי שאינו מקיים דברו?",
+    "pasuk": {
+     "text": "וְכָל הַמְקַיֵּם אֶת דְּבָרוֹ, רוּחַ חֲכָמִים נוֹחָה מִמֶּנּו",
+     "ref": "Mishnah Sheviit 10:9",
+     "label": "משנה שביעית י, ט"
+    },
+    "question": "הר\"ש מסיק שמי שאינו מקיים דברו אין רוח חכמים נוחה הימנו אך אין איסור. האם זה מתיישב עם הדין במחוסרי אמנה?",
+    "asked_by": [
+     {
+      "name": "פתח עינים",
+      "ref": "Petach Einayim on Mishnah Sheviit 10:9:1",
+      "quote": "ודבריו קשים להולמם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: המקיים את דבריו, אפילו לא משך, רוח חכמים נוחה הימנו, כמו שנאמר 'הין צדק'.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Sheviit 10:9:4",
+        "quote": "שיהא לאו שלך צדק והין שלך צדק"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: המחייב עצמו להיות משאו ומתנו באמונה ולא יחזור בו, אף שאין משיכה, רוח חכמים נוחה הימנו.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Sheviit 10:9:4",
+        "quote": "ואף על פי שאין שם משיכה רוח חכמים נוחה הימנו"
+       }
+      ]
+     }
+    ],
+    "why": "קושר את הסטנדרט המוסרי של המשנה לשאלת התנהגות באמונה.",
+    "mishnah": 9,
+    "anchors": [
+     "וְכָל הַמְקַיֵּם אֶת דְּבָרוֹ, רוּחַ חֲכָמִים נוֹחָה מִמֶּנּו"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "רמב\"ם",
+   "תוספות רבי עקיבא איגר",
+   "ברטנורא",
+   "מלאכת שלמה",
+   "רש משנץ",
+   "תוספות יום טוב",
+   "הון עשיר",
+   "רש\"ש",
+   "עיקר תוספות יום טוב",
+   "לחם שמים",
+   "בועז",
+   "פתח עינים"
+  ]
+ }
 }
