@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-20",
+ "hebrew_date": {
+  "hebrew": "י׳ בְּכִסְלֵו תשפ״ז",
+  "english": "10 Kislev 5787"
+ },
  "masechet": "terumot",
  "perek": 1,
  "ref": "Mishnah Terumot 1",
@@ -43,5 +48,941 @@
    "he": "אֵין תּוֹרְמִין מִדָּבָר שֶׁנִּגְמְרָה מְלַאכְתּוֹ עַל דָּבָר שֶׁלֹּא נִגְמְרָה מְלַאכְתּוֹ, וְלֹא מִדָּבָר שֶׁלֹּא נִגְמְרָה מְלַאכְתּוֹ עַל דָּבָר שֶׁנִּגְמְרָה מְלַאכְתּוֹ, וְלֹא מִדָּבָר שֶׁלֹּא נִגְמְרָה מְלַאכְתּוֹ עַל דָּבָר שֶׁלֹּא נִגְמְרָה מְלַאכְתּוֹ. וְאִם תָּרְמוּ, תְּרוּמָתָן תְּרוּמָה: \n",
    "en": "They may not take terumah from produce whose processing has been completed for produce whose processing has not been completed, or from produce whose processing has not been completed for produce whose processing has been completed or from produce whose processing has not been completed for other produce whose processing has not been completed. If they did take terumah, their terumah is terumah."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 Five may not give terumah and, if they do, it is not terumah: a heresh, an imbecile, a minor, one who gives from what is not his, and a non-Jew, even with permission.\nMishnah 2 A heresh who speaks but cannot hear should not give terumah, but if he does it is terumah; the heresh of whom the Sages speak elsewhere hears and speaks neither.\nMishnah 3 Rabbi Judah says a minor's terumah is terumah; Rabbi Yose says it is so only from the age of vows.\nMishnah 4 One may not give terumah from olives for oil or grapes for wine; Bet Shammai say the produce itself is terumah, Bet Hillel say it is not.\nMishnah 5 One may not give terumah from gleanings, peah, ownerless produce, redeemed tithe, or between mismatched kinds, and if they do it is not terumah.\nMishnah 6 Five more may not give terumah, but if they do it is valid: the mute, the drunk, the naked, the blind and one who has had an emission.\nMishnayot 7–10 One does not give terumah by measure, weight or number; not oil for crushed olives (he must give again); but oil for pickled olives is allowed; and not between finished and unfinished produce, though if they did, it is terumah.",
+  "topics": [
+   {
+    "term": "Terumah gedolah",
+    "explanation": "Terumah is the first portion of the produce of grain, wine and oil that a Jew must separate and give to a kohen, once the produce is finished. It becomes holy and may then be eaten only by kohanim and their households. The perek sets out who may separate it, and how.",
+    "mishnah": 1,
+    "anchors": [
+     "אין תרומתן תרומה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 1:1:1",
+     "quote": "ותרומה הנזכרת בכאן היא הנזכרת בתורה באמרו יתברך ראשית דגנך תירושך ויצהרך"
+    }
+   },
+   {
+    "term": "Shoteh (the imbecile)",
+    "explanation": "A shoteh is a person who lacks the understanding to act as the Torah requires. The mefarshim describe him by signs, such as one who loses what he is given. His terumah is not terumah, because the Torah requires \"whom his heart moves\".",
+    "mishnah": 1,
+    "anchors": [
+     "החרש והשוטה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 1:1:2",
+     "quote": "המאבד מה שנותנים לו קרוי שוטה"
+    }
+   },
+   {
+    "term": "Shelichut (an agent for terumah)",
+    "explanation": "A person may appoint another as his agent to separate terumah. But the agent must himself be bound by the covenant, so a non-Jew who separates terumah, even with permission, does not make it terumah.",
+    "mishnah": 1,
+    "anchors": [
+     "אפלו ברשות"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 1:1:3",
+     "quote": "גם לרבות שלוחכם מה אתם בני ברית אף שלוחכם בני ברית"
+    }
+   },
+   {
+    "term": "Heresh (deaf-mute)",
+    "explanation": "In this mishnah the \"heresh\" who may not give terumah l'chatchilah is one who speaks but cannot hear, since he must hear himself make the blessing. The \"heresh\" of whom the Sages speak elsewhere is one who neither hears nor speaks.",
+    "mishnah": 2,
+    "anchors": [
+     "חרש שדברו בו חכמים בכל מקום"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 1:2:1",
+     "quote": "לכתחלה דצריך להשמיע לאזנו כשיברך"
+    }
+   },
+   {
+    "term": "Onat nedarim (the age of vows)",
+    "explanation": "Onat nedarim is the age at which a child's vows are valid: a boy from twelve years and a day and a girl from eleven years and a day. Rabbi Yose says that from that age his terumah is terumah, and the halachah follows him.",
+    "mishnah": 3,
+    "anchors": [
+     "לעונת נדרים"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 1:3:1",
+     "quote": "והוא שיהיה הזכר מבן שתים עשרה שנה ויום אחד"
+    }
+   },
+   {
+    "term": "Measure, weight and number",
+    "explanation": "One may not give terumah gedolah by measuring, weighing or counting; it is separated by estimate. One may, however, give it from produce that was already measured, and a half-filled measuring basket is allowed, since it is not a full measure.",
+    "mishnah": 7,
+    "anchors": [
+     "אין תורמין לא במדה ולא במשקל"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 1:7:1",
+     "quote": "במחשבה אתה תורם כלומר מאמד"
+    }
+   },
+   {
+    "term": "Meduma' and the added fifth",
+    "explanation": "Terumah that falls into less than a hundred times its amount of ordinary produce makes it all meduma', forbidden to non-kohanim, and the whole is sold to a kohen. A non-kohen who eats terumah by mistake pays its value and an added fifth.",
+    "mishnah": 8,
+    "anchors": [
+     "מדמעת בפני עצמה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 1:8:4",
+     "quote": "אם נפלה לפחות ממאה חולין נעשה הכל מדומע"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why does the mishnah say \"five\"?",
+    "pasuk": {
+     "text": "חמשה לא יתרמו ואם תרמו אין תרומתן תרומה",
+     "ref": "Mishnah Terumot 1:1:1",
+     "label": "Mishnah Terumot 1:1"
+    },
+    "question": "The mishnah lists five who may not give terumah. Why count them at all? If the number refers to \"may not give\", it implies that others may give even l'chatchilah; if to \"their terumah is not terumah\", it implies that others' terumah is valid even b'di'avad.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 1:1:2",
+      "era": "acharon",
+      "quote": "ומיהו תימה לפרושי למעוטי בכה\"ג דממ\"נ אי קיימת מניינא על לא יתרומו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura (and the Rambam) explain that the count comes to exclude Rabbi Judah's view, quoted later in the perek, that a minor's terumah is terumah; the mishnah teaches that it is not.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 1:1:1",
+        "quote": "מנינא למעוטי הא דאמר רבי יהודה לקמן קטן שלא הביא שתי שערות"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 1:6:1",
+        "quote": "ואמר חמשה למעוטי מדר' יהודה שאמר קטן שתרם תרומתו תרומה"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov himself, on mishnah 6, says the number there refers to \"if they gave\", so it fits; the earlier count is needed so that mishnah 6 can exclude the case of a minor who has reached thirteen but has no hairs.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 1:6:1",
+        "quote": "הכא אתי שפיר דמנינא דחמשה קאי על ואם תרמו"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a single number in the mishnah is read against the machlokes of Rabbi Judah and Rabbi Yose.",
+    "mishnah": 1,
+    "anchors": [
+     "חמשה לא יתרמו ואם תרמו אין תרומתן תרומה"
+    ]
+   },
+   {
+    "title": "Why isn't the mute counted among the first five?",
+    "pasuk": {
+     "text": "האלם והשכור והערום והסומא ובעל קרי",
+     "ref": "Mishnah Terumot 1:1:6",
+     "label": "Mishnah Terumot 1:6"
+    },
+    "question": "Why does the mishnah not simply include a heresh who speaks but cannot hear among the first five and teach six, instead of giving him his own mishnah (2)?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 1:6:2",
+      "era": "acharon",
+      "quote": "וא\"ת אמאי לא כליל בהדי הנך ה' חרש המדבר ואינו שומע"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 1:6:1",
+      "era": "acharon",
+      "quote": "וְאִם תֹּאמַר אַמַּאי לֹא כָלֵיל בַּהֲדֵי הֲנָךְ חֲמִשָּׁה חֵרֵשׁ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Because the earlier mishnah needed to teach the machlokes of Rabbi Judah and Rabbi Yose about a minor, it also taught the explanation of \"heresh\", which was stated before the minor.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 1:6:2",
+        "quote": "וי\"ל דהואיל ולעיל בעי למתני פלוגתא דרבי יהודא ורבי יוסי בקטן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the order and numbering of the mishnayot are themselves a subject of the mefarshim's study.",
+    "mishnah": 6,
+    "anchors": [
+     "האלם והשכור והערום והסומא ובעל קרי"
+    ]
+   },
+   {
+    "title": "How young a minor does Rabbi Judah validate?",
+    "pasuk": {
+     "text": "קטן שלא הביא שתי שערות רבי יהודה אומר תרומתו תרומה",
+     "ref": "Mishnah Terumot 1:1:3",
+     "label": "Mishnah Terumot 1:3"
+    },
+    "question": "Does Rabbi Judah validate the terumah of every minor, or only of one close to puberty who has not yet grown two hairs? Rabbi Yose's wording (\"before the age of vows\") suggests Rabbi Judah is speaking even of a younger child.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 1:3:1",
+      "era": "acharon",
+      "quote": "אבל הר\"ש מוכיח דהכא בכל קטן קאמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov first suggests, following the Tosafot, that the mishnah speaks of one close to the age of chinuch, as the wording \"has not grown two hairs\" implies.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 1:3:1",
+        "quote": "תנן שלא הביא שתי שערות דמשמע דבסמוך להן מיירי"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh brings Rabbi Shelomo's reading that Rabbi Judah validates even before the age of vows and even without hairs, since terumah is more lenient than a vow.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 1:3:1",
+        "quote": "משמע דר' יהודה סבר דאפי' קמי עונת נדרים הוי תרומה ואפי' דליכא שערות בו"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura reads Rabbi Judah as validating only b'di'avad, since he does not accept the exclusion \"from every man, excluding a minor\"; the halachah follows Rabbi Yose.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 1:3:1",
+        "quote": "דלית ליה לרבי יהודה הך דרשא מאת כל איש פרט לקטן"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 1:3:2",
+        "quote": "והלכה כרבי יוסי"
+       }
+      ]
+     }
+    ],
+    "why": "The machlokes decides whether any child's terumah can ever stand.",
+    "mishnah": 3,
+    "anchors": [
+     "קטן שלא הביא שתי שערות רבי יהודה אומר תרומתו תרומה"
+    ]
+   },
+   {
+    "title": "Unfinished onto finished: a contradiction?",
+    "pasuk": {
+     "text": "אין תורמין זיתים על השמן ולא ענבים על היין",
+     "ref": "Mishnah Terumot 1:1:4",
+     "label": "Mishnah Terumot 1:4"
+    },
+    "question": "Bartenura learns the ban from \"as the grain from the threshing floor\", meaning finished produce for finished produce. But the end of the perek (mishnah 10) says that if they gave terumah from unfinished produce for finished produce, their terumah is terumah. Why is olives-for-oil different?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 1:4:1",
+      "era": "acharon",
+      "quote": "ואם תרמו תרומתן תרומה ובכאן כ\"ע ס\"ל דאינה תרומה"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 1:4:2",
+      "era": "acharon",
+      "quote": "ומזה תמוה לי על הר\"ב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura, on mishnah 10, answers that the rule applies to other produce, but for olives on oil or grapes on wine the terumah is not terumah because the kohen suffers a loss.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 1:10:3",
+        "quote": "אבל התורם מן הזיתים על השמן או מן הענבים על היין הא אמרינן לעיל דאין תרומתו תרומה משום דאית ביה פסידא לכהן"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh brings the Yerushalmi's answer of Rabbi Ila in the name of Rabbi Yochanan: the reason is the trouble the kohen has in pressing the olives and grapes.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 1:4:1",
+        "quote": "מפני הטורח שצריך הכהן לדורכן ולעשות מהם יין ושמן"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger adds that here it is different because of the kohen's loss, as the Yerushalmi says.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 1:4:2",
+        "quote": "הכא שאני דהוי פסידא לכהן כך איתא בירושלמי"
+       }
+      ]
+     }
+    ],
+    "why": "The reason (a Torah derivation or a rabbinic concern for the kohen) determines when the terumah is valid at all.",
+    "mishnah": 4,
+    "anchors": [
+     "אין תורמין זיתים על השמן ולא ענבים על היין"
+    ]
+   },
+   {
+    "title": "On what do Bet Shammai and Bet Hillel disagree?",
+    "pasuk": {
+     "text": "בית שמאי אומרים תרומת עצמן בהם ובית הלל אומרים אין תרומתן תרומה",
+     "ref": "Mishnah Terumot 1:1:4",
+     "label": "Mishnah Terumot 1:4"
+    },
+    "question": "If someone gave terumah from olives intending it also for the oil, why does Bet Shammai say the olives themselves are terumah, while Bet Hillel says there is no terumah at all? Is Bet Hillel simply following their view that a mistaken consecration is not a consecration?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 1:4:1",
+      "era": "acharon",
+      "quote": "לכאורה דב\"ה לטעמייהו דהקדש טעות אינו הקדש"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam explains Bet Shammai: the produce he gave suffices for the terumah the olives require, and he still has to give terumah for the oil.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 1:4:1",
+        "quote": "כי זה שתרם מן הענבים יספיק לתרומה החייבת לענבים ונשאר עליו לתרום את היין"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura explains Bet Hillel: since he intended it for the oil too, there is no terumah on the olives nor on the oil, as if he had not given at all.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 1:4:3",
+        "quote": "הואיל ונתכוון לתרום גם על השמן אין כאן תרומה לא על הזיתים ולא על השמן"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash concludes that they follow their positions in the machlokes on vows in Nedarim, rather than the principle of mistaken consecration.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Terumot 1:4:1",
+        "quote": "לכן נ\"ל דאזלי לשיטתייהו בפלוגתתן בנדרים"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a short machlokes is anchored in each school's broader principles.",
+    "mishnah": 4,
+    "anchors": [
+     "בית שמאי אומרים תרומת עצמן בהם ובית הלל אומרים אין תרומתן תרומה"
+    ]
+   },
+   {
+    "title": "Why does oil on crushed olives need a second terumah?",
+    "pasuk": {
+     "text": "ואם תרם תרומתו תרומה ויחזר ויתרם",
+     "ref": "Mishnah Terumot 1:1:8",
+     "label": "Mishnah Terumot 1:8"
+    },
+    "question": "In mishnah 4, giving olives for oil is not terumah at all, yet in mishnah 8 giving oil for crushed olives is terumah, and he must give again. What is the difference between the two?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Terumot 1:8:6",
+      "era": "rishon",
+      "quote": "ואי קשיא מאי שנא הכא בתורם שמן על הזיתים הנכתשים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: where he gave olives for the oil there is a loss to the kohen, so it is not terumah; where he gave oil for crushed olives there is no loss, and the Rabbis only required that he give again.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 1:8:6",
+        "quote": "דהתורם זיתים על השמן איכא פסידא לכהן"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam, on mishnah 9, explains why oil may be given for pickled olives: each is already finished and the kohen gains from it.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 1:9:1",
+        "quote": "לפי שכל א' מהם נגמרה מלאכתו ויש לכהן בזה תועלת וזכות"
+       }
+      ]
+     }
+    ],
+    "why": "It ties together the principle of the kohen's loss across mishnayot 4, 8, 9 and 10.",
+    "mishnah": 8,
+    "anchors": [
+     "ואם תרם תרומתו תרומה ויחזר ויתרם"
+    ]
+   },
+   {
+    "title": "Does \"wine for grapes\" mean raisins?",
+    "pasuk": {
+     "text": "ויין על ענבים לעשותם צמוקים",
+     "ref": "Mishnah Terumot 1:1:9",
+     "label": "Mishnah Terumot 1:9"
+    },
+    "question": "Tosafot Yom Tov reads Bartenura's \"wine for raisins\" as non-literal, meaning grapes that are meant to become raisins, since otherwise the last clause would be the same as the first. Lechem Shamayim asks what he meant, and why the last clause must be a different case.",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 1:9:1-9",
+      "era": "acharon",
+      "quote": "וגם תימה לפי דרכו ז\"ל שהבין דסיפא לא דמיא לרישא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: Bartenura's wording is not exact; he means grapes that are meant to become raisins.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 1:9:1",
+        "quote": "כלומר על העומדים להעשות צמוקים"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura himself writes that wine may be given for raisins and oil for pickled olives.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 1:9:1",
+        "quote": "אבל יין על צמוקים ושמן על זיתים הנכבשים שרי"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: the last clause is parallel to the first, since grapes for eating means grapes that will become raisins; it teaches the novelty of the one who changes his mind.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 1:9:1-9",
+        "quote": "אבל פשוט מאד דסיפא דומיא דרישא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the acharonim reading the Rishonim's precise wording closely.",
+    "mishnah": 9,
+    "anchors": [
+     "ויין על ענבים לעשותם צמוקים"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Bartenura",
+   "Rambam",
+   "Ikar Tosafot Yom Tov",
+   "Melekhet Shelomoh",
+   "Tosafot Rabbi Akiva Eiger",
+   "Rashash",
+   "Lechem Shamayim"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א חמשה לא יתרמו ואם תרמו אין תרומתם תרומה: חרש, שוטה, קטן, התורם את שאינו שלו, ונכרי אפילו ברשות.\nמשנה ב חרש המדבר ואינו שומע לא יתרום ואם תרם תרומתו תרומה; והחרש שדברו בו חכמים בכל מקום אינו שומע ואינו מדבר.\nמשנה ג רבי יהודה אומר תרומת קטן תרומה; רבי יוסי אומר רק מעונת נדרים.\nמשנה ד אין תורמין זיתים על השמן וענבים על היין; בית שמאי אומרים תרומת עצמן בהם, ובית הלל אומרים אינה תרומה.\nמשנה ה אין תורמין מן הלקט, הפאה, ההפקר, מעשר שנפדה, או בין מינים שאינם שווים, ואם תרמו אינה תרומה.\nמשנה ו עוד חמשה לא יתרמו ואם תרמו תרומתם תרומה: האלם, השכור, הערום, הסומא ובעל קרי.\nמשניות ז-י אין תורמין במדה, במשקל או במניין; לא שמן על זיתים הנכתשים (וחוזר ותורם); אבל שמן על זיתים נכבשים מותר; ולא בין גמור לשאינו גמור, ואם תרמו תרומתן תרומה.",
+  "topics": [
+   {
+    "term": "תרומה גדולה",
+    "explanation": "תרומה גדולה היא החלק הראשון מתבואה, יין ושמן שישראל חייב להפריש ולתת לכהן, לאחר גמר מלאכת הפירות. היא נעשית קדושה ואוכלים אותה רק כהנים ובני ביתם. הפרק מפרט מי רשאי להפרישה ואיך.",
+    "mishnah": 1,
+    "anchors": [
+     "אין תרומתן תרומה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 1:1:1",
+     "quote": "ותרומה הנזכרת בכאן היא הנזכרת בתורה באמרו יתברך ראשית דגנך תירושך ויצהרך"
+    }
+   },
+   {
+    "term": "שוטה",
+    "explanation": "שוטה הוא מי שאין בו דעת לפעול כנדרש בתורה. המפרשים מתארים אותו לפי סימנים, כגון המאבד מה שנותנים לו. תרומתו אינה תרומה, כי התורה דורשת \"אשר ידבנו לבו\".",
+    "mishnah": 1,
+    "anchors": [
+     "החרש והשוטה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 1:1:2",
+     "quote": "המאבד מה שנותנים לו קרוי שוטה"
+    }
+   },
+   {
+    "term": "שליחות בתרומה",
+    "explanation": "אדם יכול למנות אחר כשליח להפריש תרומה. אך השליח עצמו צריך להיות בן ברית, ולכן נכרי שתרם, אפילו ברשות, אין תרומתו תרומה.",
+    "mishnah": 1,
+    "anchors": [
+     "אפלו ברשות"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 1:1:3",
+     "quote": "גם לרבות שלוחכם מה אתם בני ברית אף שלוחכם בני ברית"
+    }
+   },
+   {
+    "term": "חרש",
+    "explanation": "ה\"חרש\" שלא יתרום לכתחילה הוא זה שמדבר ואינו שומע, כי עליו להשמיע לאוזנו כשהוא מברך. ה\"חרש\" שדברו בו חכמים בכל מקום הוא מי שאינו שומע ואינו מדבר.",
+    "mishnah": 2,
+    "anchors": [
+     "חרש שדברו בו חכמים בכל מקום"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 1:2:1",
+     "quote": "לכתחלה דצריך להשמיע לאזנו כשיברך"
+    }
+   },
+   {
+    "term": "עונת נדרים",
+    "explanation": "עונת נדרים היא הגיל שבו נדרי הילד קיימים: זכר מבן שתים עשרה שנה ויום אחד ונקבה מבת אחת עשרה שנה ויום אחד. רבי יוסי אומר שמגיל זה תרומתו תרומה, וההלכה כמותו.",
+    "mishnah": 3,
+    "anchors": [
+     "לעונת נדרים"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 1:3:1",
+     "quote": "והוא שיהיה הזכר מבן שתים עשרה שנה ויום אחד"
+    }
+   },
+   {
+    "term": "מדה, משקל ומניין",
+    "explanation": "אין תורמים תרומה גדולה במדה, במשקל או במניין אלא באומד. מותר לתרום ממה שכבר נמדד, ובסל חצי מלא מותר, כי אינו מדה שלמה.",
+    "mishnah": 7,
+    "anchors": [
+     "אין תורמין לא במדה ולא במשקל"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 1:7:1",
+     "quote": "במחשבה אתה תורם כלומר מאמד"
+    }
+   },
+   {
+    "term": "מדומע וחומש",
+    "explanation": "תרומה שנפלה לפחות ממאה חולין עושה הכל מדומע, אסור לזרים, ומוכרים הכל לכהן. זר שאכל תרומה בשוגג משלם קרן וחומש.",
+    "mishnah": 8,
+    "anchors": [
+     "מדמעת בפני עצמה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 1:8:4",
+     "quote": "אם נפלה לפחות ממאה חולין נעשה הכל מדומע"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "למה המשנה מונה \"חמשה\"?",
+    "pasuk": {
+     "text": "חמשה לא יתרמו ואם תרמו אין תרומתן תרומה",
+     "ref": "Mishnah Terumot 1:1:1",
+     "label": "משנה תרומות א, א"
+    },
+    "question": "המשנה מונה חמשה שלא יתרומו. למה מנו אותם? אם המניין מכוון ל\"לא יתרומו\", משמע שאחרים תורמים אפילו לכתחילה; ואם הוא מכוון ל\"אין תרומתן תרומה\", משמע שאחרים תרומתם תרומה אפילו בדיעבד.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 1:1:2",
+      "era": "acharon",
+      "quote": "ומיהו תימה לפרושי למעוטי בכה\"ג דממ\"נ אי קיימת מניינא על לא יתרומו"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא והרמב\"ם מבארים שהמניין בא למעט את דעת רבי יהודה שהובאה בהמשך הפרק, שתרומת קטן היא תרומה; והמשנה מלמדת שאינה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 1:1:1",
+        "quote": "מנינא למעוטי הא דאמר רבי יהודה לקמן קטן שלא הביא שתי שערות"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 1:6:1",
+        "quote": "ואמר חמשה למעוטי מדר' יהודה שאמר קטן שתרם תרומתו תרומה"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב עצמו, במשנה ו, אומר שהמניין שם מכוון ל\"ואם תרמו\", ולכן הוא מובן; והמניין הקודם נצרך כדי שמשנה ו תמעט גם קטן שהגיע לשלוש עשרה ויום אחד ועדיין לא הביא שתי שערות.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 1:6:1",
+        "quote": "הכא אתי שפיר דמנינא דחמשה קאי על ואם תרמו"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה איך מניין אחד במשנה נקרא מול מחלוקת רבי יהודה ורבי יוסי.",
+    "mishnah": 1,
+    "anchors": [
+     "חמשה לא יתרמו ואם תרמו אין תרומתן תרומה"
+    ]
+   },
+   {
+    "title": "למה האלם אינו נמנה עם החמשה הראשונים?",
+    "pasuk": {
+     "text": "האלם והשכור והערום והסומא ובעל קרי",
+     "ref": "Mishnah Terumot 1:1:6",
+     "label": "משנה תרומות א, ו"
+    },
+    "question": "למה לא כללה המשנה את החרש המדבר ואינו שומע בין החמשה הראשונים ושנתה ששה, ובמקום זה נתנה לו משנה נפרדת (ב)?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 1:6:2",
+      "era": "acharon",
+      "quote": "וא\"ת אמאי לא כליל בהדי הנך ה' חרש המדבר ואינו שומע"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 1:6:1",
+      "era": "acharon",
+      "quote": "וְאִם תֹּאמַר אַמַּאי לֹא כָלֵיל בַּהֲדֵי הֲנָךְ חֲמִשָּׁה חֵרֵשׁ"
+     }
+    ],
+    "answers": [
+     {
+      "text": "מכיוון שהמשנה הקודמת רצתה לשנות את מחלוקת רבי יהודה ורבי יוסי בקטן, שנתה גם את פירוש \"חרש\" שנשנה לפני הקטן.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 1:6:2",
+        "quote": "וי\"ל דהואיל ולעיל בעי למתני פלוגתא דרבי יהודא ורבי יוסי בקטן"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה שגם סדר המשניות ומניינן הם נושא ללימוד המפרשים.",
+    "mishnah": 6,
+    "anchors": [
+     "האלם והשכור והערום והסומא ובעל קרי"
+    ]
+   },
+   {
+    "title": "עד כמה קטן מכשיר רבי יהודה?",
+    "pasuk": {
+     "text": "קטן שלא הביא שתי שערות רבי יהודה אומר תרומתו תרומה",
+     "ref": "Mishnah Terumot 1:1:3",
+     "label": "משנה תרומות א, ג"
+    },
+    "question": "האם רבי יהודה מכשיר תרומת כל קטן, או רק קטן הסמוך לבגרות שעדיין לא הביא שתי שערות? לשון רבי יוסי (\"עד שלא בא לעונת נדרים\") מרמזת שרבי יהודה מדבר אף בקטן צעיר יותר.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 1:3:1",
+      "era": "acharon",
+      "quote": "אבל הר\"ש מוכיח דהכא בכל קטן קאמר"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב מציע תחילה, על פי התוספות, שהמשנה מדברת בקטן הסמוך לגיל חינוך, כפי שמשמע מלשון \"שלא הביא שתי שערות\".",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 1:3:1",
+        "quote": "תנן שלא הביא שתי שערות דמשמע דבסמוך להן מיירי"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את פירוש רבי שלמה שרבי יהודה מכשיר אפילו לפני עונת נדרים ואפילו בלי שערות, כי תרומה קלה מנדר.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 1:3:1",
+        "quote": "משמע דר' יהודה סבר דאפי' קמי עונת נדרים הוי תרומה ואפי' דליכא שערות בו"
+       }
+      ]
+     },
+     {
+      "text": "הברטנורא מפרש שרבי יהודה מכשיר רק בדיעבד, כי אינו דורש \"מאת כל איש - פרט לקטן\"; וההלכה כרבי יוסי.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 1:3:1",
+        "quote": "דלית ליה לרבי יהודה הך דרשא מאת כל איש פרט לקטן"
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 1:3:2",
+        "quote": "והלכה כרבי יוסי"
+       }
+      ]
+     }
+    ],
+    "why": "המחלוקת מכריעה אם תרומת ילד כלשהו יכולה לעמוד.",
+    "mishnah": 3,
+    "anchors": [
+     "קטן שלא הביא שתי שערות רבי יהודה אומר תרומתו תרומה"
+    ]
+   },
+   {
+    "title": "מן הגמור על שאינו גמור: סתירה?",
+    "pasuk": {
+     "text": "אין תורמין זיתים על השמן ולא ענבים על היין",
+     "ref": "Mishnah Terumot 1:1:4",
+     "label": "משנה תרומות א, ד"
+    },
+    "question": "הברטנורא לומד את האיסור מ\"כדגן מן הגורן\", דהיינו מן הגמור על הגמור. אבל בסוף הפרק (משנה י) נאמר שאם תרמו מדבר שלא נגמרה מלאכתו על דבר שנגמרה מלאכתו, תרומתן תרומה. מה שונה זיתים על שמן?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 1:4:1",
+      "era": "acharon",
+      "quote": "ואם תרמו תרומתן תרומה ובכאן כ\"ע ס\"ל דאינה תרומה"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 1:4:2",
+      "era": "acharon",
+      "quote": "ומזה תמוה לי על הר\"ב"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא, במשנה י, משיב שהכלל נאמר בשאר פירות, אבל בתורם זיתים על שמן או ענבים על יין אין תרומתו תרומה משום שיש בו הפסד לכהן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 1:10:3",
+        "quote": "אבל התורם מן הזיתים על השמן או מן הענבים על היין הא אמרינן לעיל דאין תרומתו תרומה משום דאית ביה פסידא לכהן"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את תשובת הירושלמי, רבי אילא בשם רבי יוחנן: הטעם הוא הטורח שיש לכהן בדריכת הזיתים והענבים.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 1:4:1",
+        "quote": "מפני הטורח שצריך הכהן לדורכן ולעשות מהם יין ושמן"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר מוסיף שכאן שונה הדבר משום הפסד הכהן, כפי שנאמר בירושלמי.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 1:4:2",
+        "quote": "הכא שאני דהוי פסידא לכהן כך איתא בירושלמי"
+       }
+      ]
+     }
+    ],
+    "why": "הטעם (דרשה מן התורה או חשש רבני להפסד הכהן) קובע מתי התרומה תקפה בכלל.",
+    "mishnah": 4,
+    "anchors": [
+     "אין תורמין זיתים על השמן ולא ענבים על היין"
+    ]
+   },
+   {
+    "title": "במה נחלקים בית שמאי ובית הלל?",
+    "pasuk": {
+     "text": "בית שמאי אומרים תרומת עצמן בהם ובית הלל אומרים אין תרומתן תרומה",
+     "ref": "Mishnah Terumot 1:1:4",
+     "label": "משנה תרומות א, ד"
+    },
+    "question": "אם תרם מן הזיתים מתוך כוונה שתהיה תרומה גם על השמן, מדוע בית שמאי אומרים שהזיתים עצמם תרומה, ובית הלל אומרים שאין כאן תרומה כלל? האם בית הלל הולכים כאן לשיטתם ש\"הקדש טעות אינו הקדש\"?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 1:4:1",
+      "era": "acharon",
+      "quote": "לכאורה דב\"ה לטעמייהו דהקדש טעות אינו הקדש"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם מבאר את בית שמאי: מה שתרם מן הזיתים מספיק לתרומה החייבת לזיתים, ועדיין נשאר עליו לתרום על השמן.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 1:4:1",
+        "quote": "כי זה שתרם מן הענבים יספיק לתרומה החייבת לענבים ונשאר עליו לתרום את היין"
+       }
+      ]
+     },
+     {
+      "text": "הברטנורא מבאר את בית הלל: מאחר שנתכוון לתרום גם על השמן, אין כאן תרומה לא על הזיתים ולא על השמן, והרי הוא כאילו לא תרם כלל.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 1:4:3",
+        "quote": "הואיל ונתכוון לתרום גם על השמן אין כאן תרומה לא על הזיתים ולא על השמן"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש מסיק שהם הולכים לשיטתם במחלוקתם בעניין נדרים, ולא לפי הכלל של הקדש טעות.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Terumot 1:4:1",
+        "quote": "לכן נ\"ל דאזלי לשיטתייהו בפלוגתתן בנדרים"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה איך מחלוקת קצרה נשענת על העקרונות הרחבים של כל אחת מן הבתים.",
+    "mishnah": 4,
+    "anchors": [
+     "בית שמאי אומרים תרומת עצמן בהם ובית הלל אומרים אין תרומתן תרומה"
+    ]
+   },
+   {
+    "title": "למה שמן על זיתים הנכתשים צריך תרומה שנייה?",
+    "pasuk": {
+     "text": "ואם תרם תרומתו תרומה ויחזר ויתרם",
+     "ref": "Mishnah Terumot 1:1:8",
+     "label": "משנה תרומות א, ח"
+    },
+    "question": "במשנה ד, תרומת זיתים על שמן אינה תרומה כלל, ואילו במשנה ח תרומת שמן על זיתים הנכתשים היא תרומה, ועם זאת עליו לחזור ולתרום. מה ההבדל ביניהם?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Terumot 1:8:6",
+      "era": "rishon",
+      "quote": "ואי קשיא מאי שנא הכא בתורם שמן על הזיתים הנכתשים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הברטנורא: בתורם זיתים על השמן יש הפסד לכהן ולכן אינה תרומה; ובתורם שמן על זיתים הנכתשים אין הפסד לכהן, וחכמים רק גזרו שיחזור ויתרום.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 1:8:6",
+        "quote": "דהתורם זיתים על השמן איכא פסידא לכהן"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם, במשנה ט, מבאר למה תורמים שמן על זיתים נכבשים: כל אחד מהם כבר נגמרה מלאכתו ויש לכהן בכך תועלת.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 1:9:1",
+        "quote": "לפי שכל א' מהם נגמרה מלאכתו ויש לכהן בזה תועלת וזכות"
+       }
+      ]
+     }
+    ],
+    "why": "היא קושרת יחד את עיקרון הפסד הכהן במשניות ד, ח, ט ו-י.",
+    "mishnah": 8,
+    "anchors": [
+     "ואם תרם תרומתו תרומה ויחזר ויתרם"
+    ]
+   },
+   {
+    "title": "האם \"יין על ענבים\" הוא על צמוקים?",
+    "pasuk": {
+     "text": "ויין על ענבים לעשותם צמוקים",
+     "ref": "Mishnah Terumot 1:1:9",
+     "label": "משנה תרומות א, ט"
+    },
+    "question": "התוספות יום טוב מפרש את לשון הברטנורא \"יין על צמוקים\" שלא בדווקא, אלא על ענבים העומדים להיעשות צמוקים, שאם לא כן הסיפא היא הרישא. הלחם שמים מקשה מה כוונתו, ולמה הסיפא צריכה להיות מקרה אחר.",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 1:9:1-9",
+      "era": "acharon",
+      "quote": "וגם תימה לפי דרכו ז\"ל שהבין דסיפא לא דמיא לרישא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב: לשון הברטנורא אינו מדויק, וכוונתו לענבים העומדים להיעשות צמוקים.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 1:9:1",
+        "quote": "כלומר על העומדים להעשות צמוקים"
+       }
+      ]
+     },
+     {
+      "text": "הברטנורא עצמו כותב שמותר לתרום יין על צמוקים ושמן על זיתים נכבשים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 1:9:1",
+        "quote": "אבל יין על צמוקים ושמן על זיתים הנכבשים שרי"
+       }
+      ]
+     },
+     {
+      "text": "הלחם שמים: הסיפא דומה לרישא, כי ענבים לאכילה הם ענבים העומדים להיעשות צמוקים, והיא מלמדת את חידוש הנמלך.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 1:9:1-9",
+        "quote": "אבל פשוט מאד דסיפא דומיא דרישא"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה את האחרונים מדייקים בלשון הראשונים.",
+    "mishnah": 9,
+    "anchors": [
+     "ויין על ענבים לעשותם צמוקים"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "ברטנורא",
+   "רמב\"ם",
+   "עיקר תוספות יום טוב",
+   "מלאכת שלמה",
+   "תוספות רבי עקיבא איגר",
+   "רש\"ש",
+   "לחם שמים"
+  ]
+ }
 }
