@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-21",
+ "hebrew_date": {
+  "hebrew": "י״א בכסלו תשפ״ז",
+  "english": "11 Kislev 5787"
+ },
  "masechet": "terumot",
  "perek": 2,
  "ref": "Mishnah Terumot 2",
@@ -27,5 +32,1083 @@
    "he": "וְתוֹרְמִין זֵיתֵי שֶׁמֶן עַל זֵיתֵי כֶבֶשׁ, וְלֹא זֵיתֵי כֶבֶשׁ עַל זֵיתֵי שָׁמֶן. וְיַיִן שֶׁאֵינוֹ מְבֻשָּׁל עַל הַמְבֻשָּׁל, וְלֹא מִן הַמְבֻשָּׁל עַל שֶׁאֵינוֹ מְבֻשָּׁל. זֶה הַכְּלָל, כָּל שֶׁהוּא כִלְאַיִם בַּחֲבֵרוֹ, לֹא יִתְרֹם מִזֶּה עַל זֶה, אֲפִלּוּ מִן הַיָּפֶה עַל הָרָע. וְכָל שֶׁאֵינוֹ כִלְאַיִם בַּחֲבֵרוֹ, תּוֹרֵם מִן הַיָּפֶה עַל הָרָע, אֲבָל לֹא מִן הָרַע עַל הַיָּפֶה. וְאִם תָּרַם מִן הָרַע עַל הַיָּפֶה, תְּרוּמָתוֹ תְרוּמָה, חוּץ מִן הַזּוּנִין עַל הַחִטִּים, שֶׁאֵינָן אֹכֶל. וְהַקִּשּׁוּת וְהַמְּלָפְפוֹן, מִין אֶחָד. רַבִּי יְהוּדָה אוֹמֵר, שְׁנֵי מִינִין: \n",
    "en": "They may give terumah from olives [to be used] for oil for those to be preserved, but not from olives due to be preserved for olives [to be used] for oil. [They may give] from unboiled wine for boiled wine, but not from boiled wine for unboiled wine. This is the general rule: any two things which together are kilayim (mixed species) he should not give terumah from one for the other, even if one is superior and the other inferior. But if they are not kilayim, then one may give terumah from the superior for that which is inferior, but not from the inferior for that which is superior. If one does give terumah from the inferior for that which is superior, his terumah is terumah, except for zunin given for wheat, since these (zunin) are not food. Cucumbers and melon count are one kind. Rabbi Judah says: two kinds."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 forbids separating terumah from pure produce for impure produce, but a partly defiled cake of figs, bunch or stack allows it, and Rabbi Eliezer permits it even between two separate piles. Mishnah 2 forbids the reverse, taking from impure for pure, valid if unwitting and void if deliberate, with Rabbi Judah stricter if he knew of it at the outset. Mishnah 3 lists acts on Shabbat (immersing vessels, tithing, cooking, planting) that are allowed if unwitting and forbidden if deliberate, and in the Sabbatical year planting is uprooted either way. Mishnah 4 forbids giving terumah from one kind for another kind, says that all wheats are one kind and that fresh figs, dried figs and fig cakes are one kind, and sets the rule of giving from the best where there is a priest and from what lasts where there is none, which Rabbi Judah rejects. Mishnah 5 takes up onions: a whole small onion rather than half a large one, with Rabbi Judah reversing it, and village versus town onions. Mishnah 6 gives the general rule that kilayim may not be separated one for the other, gives olives and wine as examples, notes the exception of darnel for wheat, and records Rabbi Judah's view that cucumber and melon are two kinds.",
+  "topics": [
+   {
+    "term": "Terumah gedolah and terumat maaser",
+    "explanation": "Terumah gedolah is the first portion a farmer gives to the priest from his produce. Terumat maaser is the tenth that the Levite in turn gives to the priest from the maaser he received. The restriction in this mishnah applies to terumah gedolah, and the mefarshim ask whether it applies to terumat maaser as well.",
+    "mishnah": 1,
+    "anchors": [
+     "אין תורמין מטהור על הטמא"
+    ],
+    "source": {
+     "name": "Tosafot Yom Tov",
+     "ref": "Tosafot Yom Tov on Mishnah Terumot 2:1:1",
+     "quote": "והכא בתרומה גדולה. אבל תרומת מעשר לא בעינן"
+    }
+   },
+   {
+    "term": "Mukaf (produce adjacent to the terumah)",
+    "explanation": "Mukaf means that the produce separated as terumah must be right next to the produce it exempts, so that the terumah is not given from a different place. Bartenura links the prohibition in this mishnah to a concern that someone giving from pure for impure will end up giving from what is not adjacent.",
+    "mishnah": 1,
+    "anchors": [
+     "תרומתן תרומה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 2:1:1",
+     "quote": "שמא יתרום שלא מן המוקף משום דמסתפי שמא יגע הטמא בטהור ויטמאנו"
+    }
+   },
+   {
+    "term": "An unwitting error that is close to deliberate",
+    "explanation": "The mishnah treats someone who gave terumah from the impure for the pure differently if he was unwitting or deliberate. Bartenura explains that Rabbi Judah regards someone who knew of the problem and then forgot as unwitting only in name, since his act is close to deliberate.",
+    "mishnah": 2,
+    "anchors": [
+     "שוגג",
+     "מזיד"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 2:2:5",
+     "quote": "הוי שוגג קרוב למזיד"
+    }
+   },
+   {
+    "term": "Maaser tevel",
+    "explanation": "Maaser tevel is the first tithe given to the Levite from which terumat maaser has not yet been taken. The mishnah speaks of a Levite who separates from it for his other tithes, and Rambam explains why the term refers to terumat maaser.",
+    "mishnah": 2,
+    "anchors": [
+     "מעשר טבל"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 2:2:2",
+     "quote": "ומעשר טבל הוא מעשר ראשון קודם שיוציאו ממנו תרומת מעשר"
+    }
+   },
+   {
+    "term": "Suspicion on the Sabbatical year",
+    "explanation": "The mishnah is stricter in the Sabbatical year than on Shabbat: a tree planted in the seventh year is uprooted even if planted unwittingly. Bartenura gives the reason, that Israel was suspected regarding the Sabbatical year but not regarding Shabbat.",
+    "mishnah": 3,
+    "anchors": [
+     "ובשביעית"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 2:3:4",
+     "quote": "שנחשדו ישראל על השביעית ולא נחשדו על השבת"
+    }
+   },
+   {
+    "term": "The best versus that which lasts",
+    "explanation": "Mishnah 4 says that where a priest is present one gives terumah from the best, and where there is none from the produce that keeps longest. Rambam explains that the point is to separate what will keep until it reaches the priest's hand.",
+    "mishnah": 4,
+    "anchors": [
+     "תורם מן היפה",
+     "תורם מן המתקיים"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 2:4:1",
+     "quote": "יתרום מן הדבר העומד והמתקיים יותר עד שיגיענו ליד הכהן"
+    }
+   },
+   {
+    "term": "Politikin",
+    "explanation": "Rabbi Judah gives as the reason that town onions are not given for village onions that they are the food of the politikin. Bartenura explains who they were and why town onions are the better ones.",
+    "mishnah": 5,
+    "anchors": [
+     "מאכל פוליטיקין"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 2:5:5",
+     "quote": "בצלים של בני המדינה הוא מאכל לאנשים חשובים"
+    }
+   },
+   {
+    "term": "Kilayim between kinds of produce",
+    "explanation": "The mishnah's general rule is that if two kinds are kilayim with each other one may not give terumah from one for the other, even from the better for the worse. Bartenura brings the verse from which the rule is learned, that the Torah says to give a portion for each separately.",
+    "mishnah": 6,
+    "anchors": [
+     "כל שהוא כלאים בחברו"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 2:6:4",
+     "quote": "כל חלב יצהר וכל חלב תירוש ודגן אמרה תורה תן חלב לזה וחלב לזה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why not from pure for impure?",
+    "pasuk": {
+     "text": "אין תורמין מטהור על הטמא",
+     "ref": "Mishnah Terumot 2:1",
+     "label": "Mishnah Terumot 2:1"
+    },
+    "question": "Why does the mishnah forbid giving terumah from pure produce for impure produce, and does the prohibition apply even when the terumah is separated from adjacent produce, and to every kind of terumah?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 2:1:1",
+      "quote": "אפ\"ה לכתחלה לא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: a decree, lest he give from what is not adjacent, fearing that the impure will touch the pure.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 2:1:1",
+        "quote": "גזרה שמא יתרום שלא מן המוקף"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: the rule applies only to terumah gedolah, which is taken by estimate.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 2:1:3",
+        "quote": "ובתרומה גדולה דווקא. לפי שניטלת באומד"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: the mishnah speaks of terumah gedolah, and terumat maaser may be given from the pure for the impure from the outset.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 2:1:1",
+        "quote": "בתרומה גדולה מיירי אבל תמ\"ע לכתחלה תורמין מן הטהור על הטמא"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the scope of the prohibition and the kinds of terumah it covers.",
+    "mishnah": 1,
+    "anchors": [
+     "אין תורמין מטהור על הטמא"
+    ]
+   },
+   {
+    "title": "Does \"in truth they said\" mean a law from Sinai?",
+    "pasuk": {
+     "text": "באמת אמרו העגול של דבלה שנטמא מקצתו",
+     "ref": "Mishnah Terumot 2:1",
+     "label": "Mishnah Terumot 2:1"
+    },
+    "question": "When the mishnah says \"in truth they said\", is it presenting a law given to Moses at Sinai?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Terumot 2:1:2",
+      "quote": "כל היכא דתנינן באמת אמרו כאלו היא הלכה למשה מסיני",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: yes, wherever the Mishnah says \"in truth\" it is a law to Moses from Sinai.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 2:1:1",
+        "quote": "וכל מקום שאמר באמת הוא הלכה למשה מסיני"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: it is not precisely a law to Moses, proven from the first chapter of Shabbat where it is rabbinic.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 2:1:2",
+        "quote": "שהרי בפרק קמא דשבת שנינו באמת אמרו החזן רואה היכן התינוקות קורין ומדרבנן היא"
+       }
+      ]
+     }
+    ],
+    "why": "The two mefarshim disagree on the status of the law the mishnah introduces.",
+    "mishnah": 1,
+    "anchors": [
+     "באמת אמרו העגול של דבלה שנטמא מקצתו"
+    ]
+   },
+   {
+    "title": "What does \"unwitting\" mean for Rabbi Judah?",
+    "pasuk": {
+     "text": "רבי יהודה אומר אם היה יודע בו בתחלה אף על פי שהוא שוגג לא עשה כלום",
+     "ref": "Mishnah Terumot 2:2",
+     "label": "Mishnah Terumot 2:2"
+    },
+    "question": "Rabbi Judah says that if he knew of it at the outset, even an unwitting act accomplishes nothing. Is this someone who forgot, or someone who erred about the law?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 2:2:3",
+      "quote": "ועוד הפרש יש בין דברי הרמב\"ם בפירושו לחבורו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura and Rambam: he knew and then forgot, so it is unwitting but close to deliberate.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 2:2:5",
+        "quote": "הוי שוגג קרוב למזיד"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 2:2:2",
+        "quote": "אבל אם ידע שהוא טבל ואח\"כ שכח והוציא ממנו התרומה"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir: he erred about the law, thinking it permitted, and then he is like deliberate, but if he merely forgot even Rabbi Judah agrees it is unwitting.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Terumot 2:2:1",
+        "quote": "דכסבור שמותר לתרום מן הטמא על הטהור הרי הוא כמזיד"
+       }
+      ]
+     }
+    ],
+    "why": "The Rambam's commentary and his Mishneh Torah are read differently, and the answer sets what counts as an excuse.",
+    "mishnah": 2,
+    "anchors": [
+     "רבי יהודה אומר אם היה יודע בו בתחלה אף על פי שהוא שוגג לא עשה כלום"
+    ]
+   },
+   {
+    "title": "Why does separating from tevel accomplish nothing?",
+    "pasuk": {
+     "text": "בן לוי שהיה לו מעשר טבל היה מפריש עליו והולך",
+     "ref": "Mishnah Terumot 2:2",
+     "label": "Mishnah Terumot 2:2"
+    },
+    "question": "If the case is tevel of terumat maaser, why does the act accomplish nothing, when the Sifrei says that when one sanctifies it within itself he makes terumah gedolah of it?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 2:2:2",
+      "quote": "וקשיא אם כן אמאי לא עשה כלום",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 2:2:2",
+      "quote": "וקשה דאם כן אמאי לא עשה כלום",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: this is maaser that is both tevel and impure.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 2:2:2",
+        "quote": "ולפירושם נראה דבמעשר טבל טמא איירינן"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: the tevel is one from which not even terumah gedolah has been taken, since the Levite was placed before the priest on the pile.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 2:2:2",
+        "quote": "נראה דמעשר טבל מיירי שלא ניטלה ממנו גם תרומה גדולה והקדימו לוי לכהן בכרי"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies what kind of tevel the mishnah is speaking about.",
+    "mishnah": 2,
+    "anchors": [
+     "בן לוי שהיה לו מעשר טבל היה מפריש עליו והולך"
+    ]
+   },
+   {
+    "title": "Why is tithing grouped with cooking?",
+    "pasuk": {
+     "text": "המעשר והמבשל בשבת שוגג יאכל מזיד לא יאכל",
+     "ref": "Mishnah Terumot 2:3",
+     "label": "Mishnah Terumot 2:3"
+    },
+    "question": "Cooking on Shabbat is a Torah prohibition and tithing is not, so why does the mishnah teach them together?",
+    "asked_by": [
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 2:3:1",
+      "quote": "ואף על גב דמבשל עביד איסור דאורייתא ומעשר לא עביד איסור דאורייתא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ikar Tosafot Yom Tov: the tithing is explained in the Gemara as a case where he has other fruit.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 2:3:1",
+        "quote": "מוקמיה להמעשר בדאית ליה פירי אחריני"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: both are food.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 2:3:1",
+        "quote": "ולכן נ\"ל הא דשנאן יחד משום דתרווייהו מידי דמיכל"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir: the mishnah places tithing next to immersion to show that the reason for its prohibition is the same, repairing a vessel.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Terumot 2:3:2",
+        "quote": "ועוד סמך מעשר למטביל לגלות טעם איסור המעשר שהוא משום תקוני מנא כמטביל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mefarshim explain the mishnah's grouping of unlike prohibitions.",
+    "mishnah": 3,
+    "anchors": [
+     "המעשר והמבשל בשבת שוגג יאכל מזיד לא יאכל"
+    ]
+   },
+   {
+    "title": "Why is the Sabbatical year stricter than Shabbat?",
+    "pasuk": {
+     "text": "ובשביעית בין שוגג בין מזיד יעקר",
+     "ref": "Mishnah Terumot 2:3",
+     "label": "Mishnah Terumot 2:3"
+    },
+    "question": "Why does the mishnah allow an unwitting planting to stand on Shabbat but require uprooting in the Sabbatical year in every case?",
+    "asked_by": [
+     {
+      "name": "Rambam",
+      "ref": "Rambam on Mishnah Terumot 2:3:2",
+      "quote": "ומה שהצריכו להחמיר בשביעית יותר משבת",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: Israel were not suspected about Shabbat but were suspected about the Sabbatical year.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 2:3:2",
+        "quote": "לא נחשדו ישראל על השבת ונחשדו על השביעית"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 2:3:4",
+        "quote": "שנחשדו ישראל על השביעית ולא נחשדו על השבת"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: a planting on Shabbat is not recognizable, but a planting in the Sabbatical year is.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 2:3:4",
+        "quote": "אינו ניכר שנטעוהו בשבת אבל נטיעה של שביעית ניכרת"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov quoting Rashi: because it is recognizable, one might permit planting in the Sabbatical year.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 2:3:3",
+        "quote": "איכא למיחש מתוך שהדבר ניכר אתי למשרי נטיעה בשביעית"
+       }
+      ]
+     }
+    ],
+    "why": "It shows two different reasons for the stricter rule: suspicion and recognizability.",
+    "mishnah": 3,
+    "anchors": [
+     "ובשביעית בין שוגג בין מזיד יעקר"
+    ]
+   },
+   {
+    "title": "Is the onion dispute only a repeat of Mishnah 4?",
+    "pasuk": {
+     "text": "תורמין בצל קטן שלם ולא חצי בצל גדול",
+     "ref": "Mishnah Terumot 2:5",
+     "label": "Mishnah Terumot 2:5"
+    },
+    "question": "If the sages prefer the whole small onion because it keeps longer, and Rabbi Judah the half large one because it is better, is this just the dispute of the previous mishnah?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 2:5:1",
+      "quote": "ואם כן הך פלוגתא פירושא דפלוגתא דרישא הוא והוא דוחק",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 2:5:1",
+      "quote": "הך פלגתא פירושא דפלוגתא דרישא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam and Bartenura: the sages prefer the small onion whether or not there is a priest because it keeps.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 2:5:1",
+        "quote": "לדעת תנא קמא שוה יותר בין במקום שיש כהן לפי שהוא אצלו יפה בין במקום שאין כהן לפי שהוא מתקיים"
+       },
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 2:5:1",
+        "quote": "לפי שהוא מתקיים"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: in truth this mishnah is a separate dispute about whether the whole or the important one is better.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 2:5:1",
+        "quote": "קושטא דמלתא דהך מתניתין דבצל פלוגתא באפי נפשה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the onion dispute adds a new rule.",
+    "mishnah": 5,
+    "anchors": [
+     "תורמין בצל קטן שלם ולא חצי בצל גדול"
+    ]
+   },
+   {
+    "title": "How can one give from olives for oil?",
+    "pasuk": {
+     "text": "ותורמין זיתי שמן על זיתי כבש",
+     "ref": "Mishnah Terumot 2:6",
+     "label": "Mishnah Terumot 2:6"
+    },
+    "question": "If the oil olives are meant for oil, they are not yet finished, so how can terumah be taken from them for pickled olives?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 2:6:2",
+      "quote": "וקשה הא הוי דבר שלא נגמר מלאכתו",
+      "era": "acharon"
+     },
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 2:6:1",
+      "quote": "דהא הזיתי שמן לא נגמרה מלאכתן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Boaz: the mishnah means olives that are fit for oil, but speaks of ones gathered for eating.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Terumot 2:3",
+        "quote": "נ\"ל דכוונת רבותינו דר\"ל שראויין להוציא שמן. אבל מיירי ביחדם לאכילה"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: oil olives are also usually pickled and they are better than pickling olives because they are oily.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 2:6:1",
+        "quote": "נראה דזיתי שמן גם הם רגילות לכובשם והם יותר משובחין מזיתי כבש כיון שהם שמנים"
+       }
+      ]
+     }
+    ],
+    "why": "It tests whether terumah may be taken from what is not yet finished.",
+    "mishnah": 6,
+    "anchors": [
+     "ותורמין זיתי שמן על זיתי כבש"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Lechem Shamayim",
+   "Bartenura",
+   "Melekhet Shelomoh",
+   "Rambam",
+   "Tosafot Rabbi Akiva Eiger",
+   "Hon Ashir",
+   "Tosafot Yom Tov",
+   "Ikar Tosafot Yom Tov",
+   "Boaz"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א אוסרת לתרום מן הטהור על הטמא, אבל עיגול דבלה, אגודה או ערימה שנטמאו מקצתם מותר לתרום בהם מן הטהור על הטמא, ורבי אליעזר מתיר אף בין שתי ערימות נפרדות. משנה ב אוסרת את ההפך, מן הטמא על הטהור, ותרומתו תרומה בשוגג ואינה כלום במזיד, ורבי יהודה מחמיר אם ידע בתחילה. משנה ג מונה פעולות בשבת (הטבלת כלים, מעשר, בישול, נטיעה) שמותרות בשוגג ואסורות במזיד, ובשביעית נוטע יעקור בכל מקרה. משנה ד אוסרת לתרום ממין על שאינו מינו, קובעת שכל מין חיטים אחד ושתאנים, גרוגרות ודבלה מין אחד, וקובעת שבמקום שיש כהן תורמים מן היפה ובמקום שאין כהן מן המתקיים, ורבי יהודה חולק. משנה ה עוסקת בבצל: תורמים בצל קטן שלם ולא חצי בצל גדול, ורבי יהודה הופך, ובצלי בני המדינה וכופרים. משנה ו קובעת את הכלל שכל שהוא כלאים בחברו לא יתרום מזה על זה, מביאה דוגמאות מזיתים ויין, מוציאה את הזונין שעל החיטים, ומביאה את דעת רבי יהודה שקישות ומלפפון שני מינים.",
+  "topics": [
+   {
+    "term": "תרומה גדולה ותרומת מעשר",
+    "explanation": "תרומה גדולה היא המתנה הראשונה שנותן בעל השדה לכהן מן התבואה. תרומת מעשר היא העשירית שהלוי נותן לכהן מן המעשר שקיבל. האיסור במשנה זו נאמר בתרומה גדולה, והמפרשים דנים אם הוא חל גם בתרומת מעשר.",
+    "mishnah": 1,
+    "anchors": [
+     "אין תורמין מטהור על הטמא"
+    ],
+    "source": {
+     "name": "תוספות יום טוב",
+     "ref": "Tosafot Yom Tov on Mishnah Terumot 2:1:1",
+     "quote": "והכא בתרומה גדולה. אבל תרומת מעשר לא בעינן"
+    }
+   },
+   {
+    "term": "מוקף",
+    "explanation": "מוקף הוא תנאי שהתרומה תהיה סמוכה לפירות שהיא פוטרת, ולא תיתרם ממקום אחר. ברטנורא מסביר שהאיסור במשנה נובע מחשש שמי שתורם מן הטהור על הטמא יתרום שלא מן המוקף.",
+    "mishnah": 1,
+    "anchors": [
+     "תרומתן תרומה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 2:1:1",
+     "quote": "שמא יתרום שלא מן המוקף משום דמסתפי שמא יגע הטמא בטהור ויטמאנו"
+    }
+   },
+   {
+    "term": "שוגג קרוב למזיד",
+    "explanation": "המשנה מבחינה בין מי שתרם מן הטמא על הטהור בשוגג לבין במזיד. ברטנורא מבאר שרבי יהודה רואה במי שידע ושכח שוגג רק בשם, שכן מעשהו קרוב למזיד.",
+    "mishnah": 2,
+    "anchors": [
+     "שוגג",
+     "מזיד"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 2:2:5",
+     "quote": "הוי שוגג קרוב למזיד"
+    }
+   },
+   {
+    "term": "מעשר טבל",
+    "explanation": "מעשר טבל הוא מעשר ראשון שניתן ללוי וטרם הופרשה ממנו תרומת מעשר. המשנה עוסקת בלוי שמפריש ממנו על שאר מעשרותיו, והרמב״ם מבאר מדוע המונח מתייחס לתרומת מעשר.",
+    "mishnah": 2,
+    "anchors": [
+     "מעשר טבל"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 2:2:2",
+     "quote": "ומעשר טבל הוא מעשר ראשון קודם שיוציאו ממנו תרומת מעשר"
+    }
+   },
+   {
+    "term": "נחשדו על השביעית",
+    "explanation": "המשנה מחמירה בשביעית יותר מבשבת, ונטיעה בשביעית נעקרת אף בשוגג. ברטנורא מבאר שישראל נחשדו על השביעית ולא נחשדו על השבת.",
+    "mishnah": 3,
+    "anchors": [
+     "ובשביעית"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 2:3:4",
+     "quote": "שנחשדו ישראל על השביעית ולא נחשדו על השבת"
+    }
+   },
+   {
+    "term": "מן היפה ומן המתקיים",
+    "explanation": "משנה ד קובעת שבמקום שיש כהן תורמים מן היפה, ובמקום שאין כהן מן המתקיים. הרמב״ם מסביר שהכוונה לתרום מן הדבר שיתקיים עד שיגיע לידי הכהן.",
+    "mishnah": 4,
+    "anchors": [
+     "תורם מן היפה",
+     "תורם מן המתקיים"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 2:4:1",
+     "quote": "יתרום מן הדבר העומד והמתקיים יותר עד שיגיענו ליד הכהן"
+    }
+   },
+   {
+    "term": "פוליטיקין",
+    "explanation": "רבי יהודה מנמק מדוע לא תורמים מבצלי הכפרים על בצלי בני המדינה, שהם מאכל פוליטיקין. ברטנורא מבאר מי הם ומדוע בצלי בני המדינה טובים יותר.",
+    "mishnah": 5,
+    "anchors": [
+     "מאכל פוליטיקין"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 2:5:5",
+     "quote": "בצלים של בני המדינה הוא מאכל לאנשים חשובים"
+    }
+   },
+   {
+    "term": "כלאיים בין מינים",
+    "explanation": "הכלל במשנה הוא שאם שני מינים כלאיים זה בזה, אין תורמים מזה על זה, אפילו מן היפה על הרע. ברטנורא מביא את הפסוק שממנו נלמד הכלל, שהתורה אמרה לתת חלב לזה וחלב לזה.",
+    "mishnah": 6,
+    "anchors": [
+     "כל שהוא כלאים בחברו"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 2:6:4",
+     "quote": "כל חלב יצהר וכל חלב תירוש ודגן אמרה תורה תן חלב לזה וחלב לזה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע לא מן הטהור על הטמא?",
+    "pasuk": {
+     "text": "אין תורמין מטהור על הטמא",
+     "ref": "Mishnah Terumot 2:1",
+     "label": "משנה תרומות ב, א"
+    },
+    "question": "מדוע אוסרת המשנה לתרום מן הטהור על הטמא, והאם האיסור חל גם כשהתרומה נתרמת מן המוקף, ובכל סוגי התרומה?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 2:1:1",
+      "quote": "אפ\"ה לכתחלה לא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: גזרה, שמא יתרום שלא מן המוקף מחשש שהטמא יגע בטהור.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 2:1:1",
+        "quote": "גזרה שמא יתרום שלא מן המוקף"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: הדין נאמר בתרומה גדולה דווקא, שניטלת באומד.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 2:1:3",
+        "quote": "ובתרומה גדולה דווקא. לפי שניטלת באומד"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: המשנה עוסקת בתרומה גדולה, ותרומת מעשר תורמים מן הטהור על הטמא לכתחילה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 2:1:1",
+        "quote": "בתרומה גדולה מיירי אבל תמ\"ע לכתחלה תורמין מן הטהור על הטמא"
+       }
+      ]
+     }
+    ],
+    "why": "קובע את היקף האיסור ואת סוגי התרומה שהוא חל בהם.",
+    "mishnah": 1,
+    "anchors": [
+     "אין תורמין מטהור על הטמא"
+    ]
+   },
+   {
+    "title": "האם ״באמת אמרו״ הוא הלכה למשה מסיני?",
+    "pasuk": {
+     "text": "באמת אמרו העגול של דבלה שנטמא מקצתו",
+     "ref": "Mishnah Terumot 2:1",
+     "label": "משנה תרומות ב, א"
+    },
+    "question": "כשהמשנה אומרת ״באמת אמרו״, האם היא מציגה הלכה למשה מסיני?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Terumot 2:1:2",
+      "quote": "כל היכא דתנינן באמת אמרו כאלו היא הלכה למשה מסיני",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב״ם: כן, כל מקום שנאמר ״באמת״ הוא הלכה למשה מסיני.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 2:1:1",
+        "quote": "וכל מקום שאמר באמת הוא הלכה למשה מסיני"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: אין זו דווקא הלכה למשה מסיני, כראיה מפרק ראשון של שבת שהיא מדרבנן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 2:1:2",
+        "quote": "שהרי בפרק קמא דשבת שנינו באמת אמרו החזן רואה היכן התינוקות קורין ומדרבנן היא"
+       }
+      ]
+     }
+    ],
+    "why": "שני המפרשים חלוקים במעמדו של הדין שהמשנה מציגה.",
+    "mishnah": 1,
+    "anchors": [
+     "באמת אמרו העגול של דבלה שנטמא מקצתו"
+    ]
+   },
+   {
+    "title": "מהו ״שוגג״ לרבי יהודה?",
+    "pasuk": {
+     "text": "רבי יהודה אומר אם היה יודע בו בתחלה אף על פי שהוא שוגג לא עשה כלום",
+     "ref": "Mishnah Terumot 2:2",
+     "label": "משנה תרומות ב, ב"
+    },
+    "question": "רבי יהודה אומר שאם ידע בתחילה, אף שוגג לא עשה כלום. האם מדובר במי ששכח או במי שטעה בדין?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 2:2:3",
+      "quote": "ועוד הפרש יש בין דברי הרמב\"ם בפירושו לחבורו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא והרמב״ם: הוא ידע ושכח, ולכן שוגג קרוב למזיד.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 2:2:5",
+        "quote": "הוי שוגג קרוב למזיד"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 2:2:2",
+        "quote": "אבל אם ידע שהוא טבל ואח\"כ שכח והוציא ממנו התרומה"
+       }
+      ]
+     },
+     {
+      "text": "הון עשיר: הוא טעה בדין וחשב שמותר, ואז הוא כמזיד, אבל אם רק שכח אף רבי יהודה מודה שהוא שוגג.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Terumot 2:2:1",
+        "quote": "דכסבור שמותר לתרום מן הטמא על הטהור הרי הוא כמזיד"
+       }
+      ]
+     }
+    ],
+    "why": "פירוש הרמב״ם ויד החזקה נקראים אחרת, והתשובה קובעת מהו תירוץ.",
+    "mishnah": 2,
+    "anchors": [
+     "רבי יהודה אומר אם היה יודע בו בתחלה אף על פי שהוא שוגג לא עשה כלום"
+    ]
+   },
+   {
+    "title": "מדוע ההפרשה מן הטבל אינה כלום?",
+    "pasuk": {
+     "text": "בן לוי שהיה לו מעשר טבל היה מפריש עליו והולך",
+     "ref": "Mishnah Terumot 2:2",
+     "label": "משנה תרומות ב, ב"
+    },
+    "question": "אם המדובר בטבל של תרומת מעשר, מדוע המעשה אינו כלום, והרי כשמקדשו בתוכו עושה ממנו תרומה גדולה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 2:2:2",
+      "quote": "וקשיא אם כן אמאי לא עשה כלום",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 2:2:2",
+      "quote": "וקשה דאם כן אמאי לא עשה כלום",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: מדובר במעשר טבל שהוא גם טמא.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 2:2:2",
+        "quote": "ולפירושם נראה דבמעשר טבל טמא איירינן"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: מדובר בטבל שלא ניטלה ממנו גם תרומה גדולה, שהקדימו לוי לכהן בכרי.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 2:2:2",
+        "quote": "נראה דמעשר טבל מיירי שלא ניטלה ממנו גם תרומה גדולה והקדימו לוי לכהן בכרי"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר באיזה סוג טבל עוסקת המשנה.",
+    "mishnah": 2,
+    "anchors": [
+     "בן לוי שהיה לו מעשר טבל היה מפריש עליו והולך"
+    ]
+   },
+   {
+    "title": "מדוע המעשר נמנה עם המבשל?",
+    "pasuk": {
+     "text": "המעשר והמבשל בשבת שוגג יאכל מזיד לא יאכל",
+     "ref": "Mishnah Terumot 2:3",
+     "label": "משנה תרומות ב, ג"
+    },
+    "question": "בישול בשבת אסור מן התורה ומעשר לא, אז מדוע המשנה שונה אותם יחד?",
+    "asked_by": [
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 2:3:1",
+      "quote": "ואף על גב דמבשל עביד איסור דאורייתא ומעשר לא עביד איסור דאורייתא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עיקר תוספות יום טוב: בגמרא מעמידים את המעשר במי שיש לו פירות אחרים.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 2:3:1",
+        "quote": "מוקמיה להמעשר בדאית ליה פירי אחריני"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: שניהם דברי מאכל.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 2:3:1",
+        "quote": "ולכן נ\"ל הא דשנאן יחד משום דתרווייהו מידי דמיכל"
+       }
+      ]
+     },
+     {
+      "text": "הון עשיר: המשנה סמכה את המעשר להטבלה כדי לגלות שטעם האיסור זהה, תיקון מנא.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Terumot 2:3:2",
+        "quote": "ועוד סמך מעשר למטביל לגלות טעם איסור המעשר שהוא משום תקוני מנא כמטביל"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד המפרשים מסבירים את הצירוף של איסורים שונים.",
+    "mishnah": 3,
+    "anchors": [
+     "המעשר והמבשל בשבת שוגג יאכל מזיד לא יאכל"
+    ]
+   },
+   {
+    "title": "מדוע שביעית חמורה משבת?",
+    "pasuk": {
+     "text": "ובשביעית בין שוגג בין מזיד יעקר",
+     "ref": "Mishnah Terumot 2:3",
+     "label": "משנה תרומות ב, ג"
+    },
+    "question": "מדוע המשנה מתירה להשאיר נטיעה שוגגת בשבת אך בשביעית דורשת עקירה בכל מקרה?",
+    "asked_by": [
+     {
+      "name": "רמב\"ם",
+      "ref": "Rambam on Mishnah Terumot 2:3:2",
+      "quote": "ומה שהצריכו להחמיר בשביעית יותר משבת",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב״ם: ישראל לא נחשדו על השבת ונחשדו על השביעית.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 2:3:2",
+        "quote": "לא נחשדו ישראל על השבת ונחשדו על השביעית"
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 2:3:4",
+        "quote": "שנחשדו ישראל על השביעית ולא נחשדו על השבת"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: נטיעה בשבת אינה ניכרת, אך נטיעה בשביעית ניכרת.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 2:3:4",
+        "quote": "אינו ניכר שנטעוהו בשבת אבל נטיעה של שביעית ניכרת"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב בשם רש״י: מתוך שהדבר ניכר, יבוא להתיר נטיעה בשביעית.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 2:3:3",
+        "quote": "איכא למיחש מתוך שהדבר ניכר אתי למשרי נטיעה בשביעית"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שתי סיבות שונות לחומרה: חשד וניכרות.",
+    "mishnah": 3,
+    "anchors": [
+     "ובשביעית בין שוגג בין מזיד יעקר"
+    ]
+   },
+   {
+    "title": "האם מחלוקת הבצל חוזרת על משנה ד?",
+    "pasuk": {
+     "text": "תורמין בצל קטן שלם ולא חצי בצל גדול",
+     "ref": "Mishnah Terumot 2:5",
+     "label": "משנה תרומות ב, ה"
+    },
+    "question": "אם חכמים מעדיפים בצל קטן שלם מפני שהוא מתקיים ורבי יהודה חצי בצל גדול מפני שהוא יפה, האם זו רק המחלוקת של המשנה הקודמת?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 2:5:1",
+      "quote": "ואם כן הך פלוגתא פירושא דפלוגתא דרישא הוא והוא דוחק",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 2:5:1",
+      "quote": "הך פלגתא פירושא דפלוגתא דרישא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב״ם וברטנורא: חכמים מעדיפים את הבצל הקטן בין אם יש כהן ובין אם אין, מפני שהוא מתקיים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 2:5:1",
+        "quote": "לדעת תנא קמא שוה יותר בין במקום שיש כהן לפי שהוא אצלו יפה בין במקום שאין כהן לפי שהוא מתקיים"
+       },
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 2:5:1",
+        "quote": "לפי שהוא מתקיים"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: האמת שזו מחלוקת בפני עצמה אם שלם עדיף או חשוב.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 2:5:1",
+        "quote": "קושטא דמלתא דהך מתניתין דבצל פלוגתא באפי נפשה"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם מחלוקת הבצל מוסיפה דין חדש.",
+    "mishnah": 5,
+    "anchors": [
+     "תורמין בצל קטן שלם ולא חצי בצל גדול"
+    ]
+   },
+   {
+    "title": "כיצד תורמים מזיתי שמן?",
+    "pasuk": {
+     "text": "ותורמין זיתי שמן על זיתי כבש",
+     "ref": "Mishnah Terumot 2:6",
+     "label": "משנה תרומות ב, ו"
+    },
+    "question": "אם זיתי השמן מיועדים לשמן, הם עדיין לא נגמרה מלאכתם, אז כיצד תורמים מהם על זיתי כבש?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 2:6:2",
+      "quote": "וקשה הא הוי דבר שלא נגמר מלאכתו",
+      "era": "acharon"
+     },
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 2:6:1",
+      "quote": "דהא הזיתי שמן לא נגמרה מלאכתן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "בועז: המשנה מתכוונת לזיתים הראויים לשמן, אך עוסקת בכאלה שנאספו לאכילה.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Terumot 2:3",
+        "quote": "נ\"ל דכוונת רבותינו דר\"ל שראויין להוציא שמן. אבל מיירי ביחדם לאכילה"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: זיתי שמן גם הם רגילים לכבוש, והם משובחים יותר מזיתי כבש מפני שהם שמנים.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 2:6:1",
+        "quote": "נראה דזיתי שמן גם הם רגילות לכובשם והם יותר משובחין מזיתי כבש כיון שהם שמנים"
+       }
+      ]
+     }
+    ],
+    "why": "בודק אם אפשר לתרום ממה שעדיין לא נגמרה מלאכתו.",
+    "mishnah": 6,
+    "anchors": [
+     "ותורמין זיתי שמן על זיתי כבש"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "לחם שמים",
+   "ברטנורא",
+   "מלאכת שלמה",
+   "רמב\"ם",
+   "תוספות רבי עקיבא איגר",
+   "הון עשיר",
+   "תוספות יום טוב",
+   "עיקר תוספות יום טוב",
+   "בועז"
+  ]
+ }
 }
