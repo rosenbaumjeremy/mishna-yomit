@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-22",
+ "hebrew_date": {
+  "hebrew": "י״ב בְּכִסְלֵו תשפ״ז",
+  "english": "12 Kislev 5787"
+ },
  "masechet": "terumot",
  "perek": 3,
  "ref": "Mishnah Terumot 3",
@@ -39,5 +44,1193 @@
    "he": "הַנָּכְרִי וְהַכּוּתִי, תְּרוּמָתָן תְּרוּמָה, וּמַעַשְׂרוֹתֵיהֶן מַעֲשֵׂר, וְהֶקְדֵּשָׁן הֶקְדֵּשׁ. רַבִּי יְהוּדָה אוֹמֵר, אֵין לַנָּכְרִי כֶּרֶם רְבָעִי. וַחֲכָמִים אוֹמְרִים, יֶשׁ לוֹ. תְּרוּמַת הַנָּכְרִי מְדַמַּעַת, וְחַיָּבִין עָלֶיהָ חֹמֶשׁ. וְרַבִּי שִׁמְעוֹן פּוֹטֵר: \n",
    "en": "Terumah given by a non-Jew or a Samaritan is terumah and their tithes are tithes and their dedications [to the Temple] are dedications. Rabbi Judah says: the law of the vineyard in the fourth year is not applicable to a non-Jew. But the sages say: it is. The terumah of a non-Jew renders [produce into which it falls] medumma and [one who eats it unwittingly] is obligated [to pay back an extra] fifth. But Rabbi Shimon exempts it."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 A terumah that turns out bitter or rotten is still terumah, but he must separate again; wine found to be vinegar is not terumah if it was so beforehand, and a doubtful case needs a second terumah, with neither one making a mixture medumma or carrying the fifth by itself. Mishnah 2 If one falls into ordinary produce it does not make it medumma, nor the second elsewhere; both together do, by the size of the smaller. Mishnah 3 Partners who gave terumah in turn: Rabbi Akiva says both count, the Sages say the first, Rabbi Yose says it depends on whether the first gave the measure. Mishnah 4 This is when he did not speak; if he authorized a household member, slave or maid, it is terumah, and cancelling matters only before it was taken; workers cannot give terumah except the treaders. Mishnah 5 One who says the terumah is within the pile has designated it according to Rabbi Shimon, while the Sages require north or south. Mishnayot 6–7 One who gave terumah before first-fruits, or first tithe before terumah, has transgressed but what is done is done, and the order is learned from the names 'first'. Mishnah 8 A statement counts only when mouth and heart are equal. Mishnah 9 A non-Jew's or Samaritan's terumah is terumah, and there is a dispute about the fourth-year vineyard and the fifth.",
+  "topics": [
+   {
+    "term": "Medumma: terumah that falls into non-sacred produce",
+    "explanation": "When terumah falls into ordinary produce, the mixture is called medumma. If there is a hundred times as much ordinary produce as the terumah, the terumah is lifted out and the rest stays ordinary. If there is less, the whole becomes medumma and is forbidden to non-Kohanim.",
+    "mishnah": 2,
+    "anchors": [
+     "מְדַמְּעוֹת כַּקְּטַנָּה שֶׁבִּשְׁתֵּיהֶן"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 3:2:1",
+     "quote": "התרומה עולה בא' ומאה"
+    }
+   },
+   {
+    "term": "The added fifth (chomesh)",
+    "explanation": "A non-Kohen who eats terumah by mistake repays its value plus a fifth. The mishnah says the doubtful terumah of the first two jars does not carry this fifth.",
+    "mishnah": 1,
+    "anchors": [
+     "אֵין חַיָּבִין עָלֶיהָ חֹמֶשׁ"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 3:1:6",
+     "quote": "זָר שֶׁאָכַל הָרִאשׁוֹנָה לְבַדָּהּ אוֹ הַשְּׁנִיָּה לְבַדָּהּ אֵינוֹ מְשַׁלֵּם חֹמֶש"
+    }
+   },
+   {
+    "term": "Partners who gave terumah one after the other",
+    "explanation": "Two partners who each gave terumah from the same pile without knowing about the other raise the question of whose terumah counts. Rabbi Akiva, the Sages and Rabbi Yose each give a different answer.",
+    "mishnah": 3,
+    "anchors": [
+     "הַשֻּׁתָּפִין שֶׁתָּרְמוּ זֶה אַחַר זֶה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 3:3:1",
+     "quote": "דִתְרוּמַת כָּל אֶחָד מֵהֶן חֶצְיָהּ תְּרוּמָה וְחֶצְיָהּ חֻלִּין"
+    }
+   },
+   {
+    "term": "Shelichut: giving terumah through an agent",
+    "explanation": "A person can allow a member of his household, a slave or a maid to give terumah for him. Such permission can be cancelled only if the agent has not yet acted, and workers have no such permission unless the mishnah says so.",
+    "mishnah": 4,
+    "anchors": [
+     "הִרְשָׁה אֶת בֶּן בֵּיתוֹ"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 3:4:2",
+     "quote": "אין אדם מבטל שליחותו בדבור"
+    }
+   },
+   {
+    "term": "'Kara shem': designating the place of terumah",
+    "explanation": "One who says the terumah is 'within' the pile has to say exactly where. Rabbi Shimon holds the words are enough, while the Sages require a named place, north or south.",
+    "mishnah": 5,
+    "anchors": [
+     "קָרָא שֵׁם"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 3:5:1",
+     "quote": "שהוא חייב להוציא מאותו הכרי כל החוקים שזכר"
+    }
+   },
+   {
+    "term": "The order of the gifts",
+    "explanation": "First-fruits come before terumah, terumah before first tithe, and first tithe before second tithe, each because it carries a name of 'first'.",
+    "mishnah": 7,
+    "anchors": [
+     "וּמַעֲשֵׂר רִאשׁוֹן לַשֵּׁנִי"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 3:7:3",
+     "quote": "דִּבְמַעֲשֵׂר רִאשׁוֹן יֵשׁ בּוֹ תְּרוּמַת מַעֲשֵׂר"
+    }
+   },
+   {
+    "term": "'Peh and lev shavin': mouth and heart equal",
+    "explanation": "A statement does not take effect unless the speaker's mouth and heart agree. If he meant 'terumah' and said 'tithe', he has said nothing.",
+    "mishnah": 8,
+    "anchors": [
+     "עַד שֶׁיִּהְיוּ פִיו וְלִבּוֹ שָׁוִין"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 3:8:1",
+     "quote": "בָּעִינַן גּוֹמֵר בְּלִבּוֹ וּמוֹצִיא בִשְׂפָתָיו"
+    }
+   },
+   {
+    "term": "Terumah of a non-Jew and a Samaritan",
+    "explanation": "A non-Jew or Samaritan who separates terumah from their own grain has made valid terumah. The mishnah then states a dispute about the fifth.",
+    "mishnah": 9,
+    "anchors": [
+     "הַנָּכְרִי וְהַכּוּתִי"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 3:9:1",
+     "quote": "אִם הִפְרִישׁוּ תְּרוּמָה מִן הַתְּבוּאָה שֶׁלָּהֶן"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "The Kohen pays for the first terumah, so was it ever terumah?",
+    "pasuk": {
+     "text": "תְּרוּמָה, וְיַחֲזֹר וְיִתְרֹם",
+     "ref": "Mishnah Terumot 3:1",
+     "label": "Mishnah Terumot 3:1"
+    },
+    "question": "If a cucumber turned out bitter or a melon rotten, the mishnah says it is terumah and he must separate again. The Kohen then takes both, and pays back the value of the larger first one. But if the Kohen pays for the first, then no terumah was actually given from it. How can that be?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 3:1:2",
+      "quote": "וקצת קשה כיון דמשלם הכהן הראשונה",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 3:1:2",
+      "quote": "וּקְצָת קָשֶׁה, כֵּיוָן דִּמְשַׁלֵּם הַכֹּהֵן הָרִאשׁוֹנָה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov answers that since the Kohen receives only the value of terumah back, the Kohen is not taking from the tribe of Levi / the priests what is theirs, so there is no robbing of the priestly tribe in this arrangement.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 3:1:2",
+        "quote": "וי\"ל דכיון דאינו מקבל מהכהן אלא דמי תרומה לבד נמצא שאין כאן גזל השבט"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash reads the mishnah differently: one terumah was separated generously and the other with a poor eye or a medium one.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Terumot 3:1:1",
+        "quote": "ול\"נ לפרש כגון דאחת מהן הפריש בעין יפה והב' בע\"ר או בבינונית"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura explains the mechanism itself: the Kohen is the one taking from the other and the burden of proof is on the one who extracts, so he pays for the larger one.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 3:1:4",
+        "quote": "וּלְפִי שֶׁהַכֹּהֵן הוּא הַמּוֹצִיא מֵחֲבֵרוֹ וַאֲנַן קַיְמָא לָן בְּכָל דּוּכְתָּא הַמּוֹצִיא מֵחֲבֵרוֹ עָלָיו הָרְאָיָה, לְפִיכָךְ אֵינוֹ לוֹקֵחַ בְּלֹא דָמִים אֶלָּא הַקְּטַנָּה, וְצָרִיךְ שֶׁיִּתֵּן לוֹ דְּמֵי הַגְּדוֹלָה שֶׁהִיא הָרִאשׁוֹנָה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how far a doubtful or mistaken terumah is treated as real terumah, and where the loss falls.",
+    "mishnah": 1,
+    "anchors": [
+     "תְּרוּמָה, וְיַחֲזֹר וְיִתְרֹם"
+    ]
+   },
+   {
+    "title": "Wine found to be vinegar: why is it not terumah?",
+    "pasuk": {
+     "text": "הַתּוֹרֵם חָבִית שֶׁל יַיִן וְנִמְצֵאת שֶׁל חֹמֶץ, אִם יָדוּעַ שֶׁהָיְתָה שֶׁל חֹמֶץ עַד שֶׁלֹּא תְרָמָהּ, אֵינָה תְרוּמָה",
+     "ref": "Mishnah Terumot 3:1",
+     "label": "Mishnah Terumot 3:1"
+    },
+    "question": "One who gives a jar of wine as terumah and it was already vinegar: the mishnah says it is not terumah. But one who gave a cucumber that turned out bitter has given valid terumah. Why is vinegar different, if wine and vinegar are one kind?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 3:1:1",
+      "quote": "ויש שואלין א\"כ היאך אמרו במס' תרומות בתורם חבית של יין ונמצאת חומץ שאם ידע שהיתה חומץ עד שלא נתרמה אינה תרומה והלא יין וחומץ אחד הוא",
+      "era": "acharon"
+     },
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Terumot 3:1:2",
+      "quote": "אבל לרבנן דאמרי מין אחד קשה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: wine and vinegar are two different kinds, so terumah taken from vinegar for wine is not valid.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 3:1:2",
+        "quote": "דְּיַיִן וְחֹמֶץ שְׁנֵי מִינִים הֵן"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: this is the view of Rabbi, who holds that wine and vinegar are two kinds.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 3:1:4",
+        "quote": "רבי הוא דסבר יין וחומץ שני מינין"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim adds a second reason: terumah taken in error is not terumah at all, so on either view the mishnah deals with a mistaken giver.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 3:1:4-9",
+        "quote": "ובין למ\"ד משום דתרומה בטעות אינה תרומה. [רמב\"ם פ' ה' מהל' תרומות הל' כ\"ב וע\"ש בכ\"מ] וכיון דנתכוין לתרום יין. ועלה בידו חומץ. לכ\"ע לאו כלום הוא"
+       }
+      ]
+     }
+    ],
+    "why": "It turns on whether wine and vinegar are one kind or two, and on how an error in giving terumah is treated.",
+    "mishnah": 1,
+    "anchors": [
+     "הַתּוֹרֵם חָבִית שֶׁל יַיִן וְנִמְצֵאת שֶׁל חֹמֶץ, אִם יָדוּעַ שֶׁהָיְתָה שֶׁל חֹמֶץ עַד שֶׁלֹּא תְרָמָהּ, אֵינָה תְרוּמָה"
+    ]
+   },
+   {
+    "title": "Why is a doubtful terumah exempt from the added fifth?",
+    "pasuk": {
+     "text": "אֵין חַיָּבִין עָלֶיהָ חֹמֶש",
+     "ref": "Mishnah Terumot 3:1",
+     "label": "Mishnah Terumot 3:1"
+    },
+    "question": "A non-Kohen who eats one of the two doubtful terumot by mistake does not pay the added fifth. Why is a doubtful terumah treated more leniently than a certain one, and why does it not make other produce medumma by itself?",
+    "asked_by": [
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Terumot 3:1",
+      "quote": "ק\"ל באכל ספק תרומה בסיפא למה פטור מחומש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: each of the two carries a doubt whether it is terumah at all, so the fifth is not paid.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 3:1:2",
+        "quote": "לפי שכל א' מהן יש בו ספק אם היא תרומה אם לאו"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: the main law of medumma is only rabbinic, with the verse a mere support, so they were lenient in a doubt.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 3:1:10",
+        "quote": "לפי שעיקר דימוע אינו אלא מדבריהם וקרא אסמכתא בעלמא. משו\"ה הקלו בספקו"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: medumma is rabbinic, and in a rabbinic doubt we are lenient.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Terumot 3:8:1",
+        "quote": "דדמוע מד\"ס דמדאו' ברובא בטל וספק דרבנן לקולא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the Torah-level and rabbinic-level force of doubtful terumah are separated.",
+    "mishnah": 1,
+    "anchors": [
+     "אֵין חַיָּבִין עָלֶיהָ חֹמֶש"
+    ]
+   },
+   {
+    "title": "Rabbi Yose: which 'shiur'?",
+    "pasuk": {
+     "text": "אִם תָּרַם הָרִאשׁוֹן כַּשִּׁעוּר",
+     "ref": "Mishnah Terumot 3:3",
+     "label": "Mishnah Terumot 3:3"
+    },
+    "question": "Rabbi Yose says that if the first partner gave 'the shiur', the second one's terumah is not terumah. What is 'the shiur': the Torah's measure, or the amount the second partner gave? And is Rabbi Yose then arguing with the Sages or explaining them?",
+    "asked_by": [
+     {
+      "name": "Rambam",
+      "ref": "Rambam on Mishnah Terumot 3:3:1",
+      "quote": "נסתפקו בגמ' במה שאמר ר' יוסי כשיעור איזה שיעור",
+      "era": "rishon"
+     },
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Terumot 3:3:1",
+      "quote": "גרסינן בירושלמי (ה\"ב טז.) מה כשיעור תורה או כשיעור חביריו",
+      "era": "acharon"
+     },
+     {
+      "name": "Yachin",
+      "ref": "Yachin on Mishnah Terumot 3:16:1",
+      "quote": "המשנה תמוה דמאי עדיף שני מראשון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: if he means the Torah's measure, one in fifty, he disagrees with the Sages; if he means the measure of his fellow, he explains their words, and the halakha follows the Sages.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 3:3:1",
+        "quote": "אם רצה באמרו כשיעור התורה והוא אחד מחמשים הרי הוא חולק על דברי חכמים ואם ר\"ל שיעור חברו הרי הוא מפרש דברי חכמים ומסכים לדעתם והלכה כחכמים"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: the first reading, one in fifty, is the main one, and the halakha follows Rabbi Yose, who comes to explain the Sages.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 3:3:2",
+        "quote": "אֶחָד מֵחֲמִשִּׁים, כַּשִּׁעוּר שֶׁנָּתְנוּ חֲכָמִים, תְּרוּמָתוֹ תְרוּמָה. וַהֲלָכָה כְּרַבִּי יוֹסֵי"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim rejects the second reading: if the first did not give the measure of the second, why is the second one's terumah terumah, when the first showed he was not pleased?",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 3:3:3-6",
+        "quote": "וקשיא לי אהדין פירושא. אי הכי כי לא תרם הראשון כשיעור אמאי תרומת הב' תרומה. כיון דראשון גלי דעתיה דלא ניחא ליה בשיעורו דשני. מאי אולמיה דהאי מהאי"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether Rabbi Yose disagrees with the Sages or only clarifies them.",
+    "mishnah": 3,
+    "anchors": [
+     "אִם תָּרַם הָרִאשׁוֹן כַּשִּׁעוּר"
+    ]
+   },
+   {
+    "title": "The treaders: why may they give terumah?",
+    "pasuk": {
+     "text": "חוּץ מִן הַדָּרוֹכוֹת, שֶׁהֵן מְטַמְּאִים אֶת הַגַּת מִיָּד",
+     "ref": "Mishnah Terumot 3:4",
+     "label": "Mishnah Terumot 3:4"
+    },
+    "question": "Workers have no permission to give terumah, except the 'darokhot', who defile the winepress at once. Who are they, and why do they have permission? Is it the owners who defile the winepress, or the workers?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 3:4:5-6",
+      "quote": "וזה דוחק לא קטן",
+      "era": "acharon"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 3:4:1",
+      "quote": "וק\"ל הא א\"ת מן הטהור על הטמא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: when owners who are amei haaretz hire workers who are haverim, the workers may separate terumah at once, since if the owners came they would defile the winepress, and they have wine set aside for it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 3:4:5",
+        "quote": "שֶׁאִם יָבֹאוּ בְּעָלִים וִיטַמְּאוּ הַגַּת קֹדֶם שֶׁיִּגְמְרוּ יֵשׁ לָהֶן יַיִן מְזֻמָּן לְהַפְרִישׁ עַל הַכֹּל בְּטָהֳרָה"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the darokhot are the grape treaders, and since he hired them and handed them his winepress he has accepted what they do.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 3:4:3",
+        "quote": "וכיון ששכר אותם לדרוך ומסר להם גתו הנה הניחם במקומו וקבל עליו מעשיהם"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim reads 'darokhot' as the trodden grapes, and the whole clause as one matter.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 3:4:5-6",
+        "quote": "הדרוכות הענבי' הדרוכות"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the limit of what an owner is assumed to allow, and how the word 'darokhot' is read.",
+    "mishnah": 4,
+    "anchors": [
+     "חוּץ מִן הַדָּרוֹכוֹת, שֶׁהֵן מְטַמְּאִים אֶת הַגַּת מִיָּד"
+    ]
+   },
+   {
+    "title": "'To what does this apply?': to whom does it refer?",
+    "pasuk": {
+     "text": "בַּמֶּה דְבָרִים אֲמוּרִים, בְּשֶׁלֹּא דִבֵּר",
+     "ref": "Mishnah Terumot 3:4",
+     "label": "Mishnah Terumot 3:4"
+    },
+    "question": "Bartenura explains 'to what does this apply' as about Rabbi Akiva's ruling that the terumah of both is terumah. Why only Rabbi Akiva, when it seems to apply to the Sages as well?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 3:4:1",
+      "quote": "תמיה לי אמאי מפר' אליבא דר\"ע לחוד",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 3:4:1",
+      "quote": "תְּמִיהַּ לִי אַמַּאי מְפָרֵשׁ אַלִּיבָּא דְרַבִּי עֲקִיבָא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rash MiShantz: the dispute above is about one who did not tell the other, meaning he did not take permission from his fellow to give terumah.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Terumot 3:4:1",
+        "quote": "הא דפליגי לעיל דלר' עקיבא תרומת שניהן תרומה בשלא דבר כלו' שלא נטל רשות מחברו לתרום"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim defends Bartenura: Rabbi Akiva is named because if even he says so, certainly the Sages do, and their words are precise.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 3:4:1",
+        "quote": "ונקט ר\"ע וכ\"ש לרבנן דר\"ע תרומתו תרומה. דהא אפי' בשותף התורם שלא מדעת חברו. ס\"ל דתרומתו תרומה. והוצרך להאריך בלשון. כדי ליישב לישנא דמתני' דאבל הרשה. דלרבנן מאי אבל. וזה פשוט מאד אין כדאי לכותבו. רק מפני שהרבתי\"ט האריך בו בדבור שלם. לדקדק על הרע\"ב והר\"ש ז\"ל בחנם. ולא ידעתי כוונתו שהטריח עצמו בכך שלא לצורך כלל. ודבריהם ז\"ל מדוקדקים בתכלית הדיוק"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash too says Bartenura was precise.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Terumot 3:4:2",
+        "quote": "ול\"נ דהרע\"ב דק שפיר"
+       }
+      ]
+     }
+    ],
+    "why": "It decides how the second half of the mishnah relates to the dispute before it.",
+    "mishnah": 4,
+    "anchors": [
+     "בַּמֶּה דְבָרִים אֲמוּרִים, בְּשֶׁלֹּא דִבֵּר"
+    ]
+   },
+   {
+    "title": "Transgressing a lav yet 'what he did is done'",
+    "pasuk": {
+     "text": "מַה שֶּׁעָשָׂה עָשׂוּי",
+     "ref": "Mishnah Terumot 3:6",
+     "label": "Mishnah Terumot 3:6"
+    },
+    "question": "If one gives terumah before first-fruits he breaks a negative commandment, yet 'what he did is done'. Why does a forbidden act still take effect? Rava elsewhere holds such an act does not take effect.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 3:6:1",
+      "quote": "ופריך ממתני' לרבא ומשני שאני התם דאמר קרא מכל מעשרותיכם תרימו",
+      "era": "acharon"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 3:6:1",
+      "quote": "וְרָבָא אָמַר לֹא מְהַנֵּי מִידֵי, וְהַאי דְלָקֵי דְּעָבַר אַמֵּימְרָא דְּרַחֲמָנָא. וּפָרֵיךְ מִמַּתְנִיתִין לְרָבָא, וּמְשָׁנֵי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: here it is different, because the verse says 'from all your tithes you shall lift up'.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 3:6:1",
+        "quote": "ומשני שאני התם דאמר קרא מכל מעשרותיכם תרימו"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: it is effective here because the verse itself brings out the effect.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Terumot 3:32:1",
+        "quote": "הכא שאני דאפקי קרא דלהני"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh quotes Rabbi Yochanan in the Yerushalmi: one is not even lashed for this lav, as it is a mere asmachta about delaying giving it to the Kohen.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 3:6:1",
+        "quote": "אמר ר' יוחנן דאינו לוקה על לאו זה דאסמכתא בעלמא"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the rule for whether a forbidden act is valid, and what the verse 'do not delay' teaches.",
+    "mishnah": 6,
+    "anchors": [
+     "מַה שֶּׁעָשָׂה עָשׂוּי"
+    ]
+   },
+   {
+    "title": "Rabbi Yehudah: no neta revai for a non-Jew",
+    "pasuk": {
+     "text": "אֵין לַנָּכְרִי כֶּרֶם רְבָעִי",
+     "ref": "Mishnah Terumot 3:9",
+     "label": "Mishnah Terumot 3:9"
+    },
+    "question": "Rabbi Yehudah says a non-Jew has no 'fourth-year vineyard', which implies a non-Jew can own land in Eretz Yisrael. But in Menachot he says one may give terumah from a non-Jew's produce for a Jew's. How can both be?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 3:9:3",
+      "quote": "וקשה דבמנחות פ' ר' ישמעאל שמעי' ליה לר' יהודה דאמר תורמין משל עובד כוכבים על של ישראל",
+      "era": "acharon"
+     },
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Terumot 3:9:3",
+      "quote": "וקשה דבמנחות פ' רבי ישמעאל",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rash MiShantz: Rabbi Yehudah exempts only in Syria.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Terumot 3:9:3",
+        "quote": "וי\"ל דלא פטר רבי יהודה הכא אלא בסוריא"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov: Rabbi Yehudah's reason is not that the non-Jew acquires land in Eretz Yisrael, since we hear the opposite in Menachot; he said it only in Syria.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 3:9:2",
+        "quote": "וְטַעֲמוֹ דְרַבִּי יְהוּדָה לֹא מִשּׁוּם דְּסָבַר דְּיֵשׁ קִנְיָן לַנָּכְרִי בְּאֶרֶץ יִשְׂרָאֵל לְהַפְקִיעַ מֵחוֹבוֹתָיו, דְּהָא אִיפְּכָא שָׁמְעִינַן לֵיהּ בִּמְנָחוֹת, אֶלָּא לֹא קָאָמַר רַבִּי יְהוּדָה הָכָא אֶלָּא בְסוּרְיָא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how a seeming contradiction in one tanna's view is resolved by place.",
+    "mishnah": 9,
+    "anchors": [
+     "אֵין לַנָּכְרִי כֶּרֶם רְבָעִי"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Ikar Tosafot Yom Tov",
+   "Rashash",
+   "Bartenura",
+   "Melekhet Shelomoh",
+   "Rash MiShantz",
+   "Lechem Shamayim",
+   "Boaz",
+   "Rambam",
+   "Yachin",
+   "Hon Ashir"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א התורם קישות שנמצאה מרה או אבטיח סרוח – תרומה, ויחזור ויתרום; חבית יין שנמצאה חומץ – אם ידוע שהייתה חומץ קודם, אינה תרומה, ובספק יחזור ויתרום, ואחת מהן אינה מדמעת ואינה חייבת בחומש בפני עצמה. משנה ב נפלה אחת לחולין אינה מדמעתן, וכן השנייה למקום אחר; נפלו שתיהן למקום אחד – מדמעות כקטנה שבשתיהן. משנה ג שותפים שתרמו זה אחר זה: רבי עקיבא אומר תרומת שניהם תרומה, חכמים אומרים תרומת הראשון, ורבי יוסי אומר לפי אם תרם הראשון כשיעור. משנה ד כל זה בשלא דבר; הרשה בן ביתו או עבדו או שפחתו – תרומתו תרומה, וביטול מועיל רק קודם שתרם; הפועלים אינם רשאים לתרום חוץ מן הדרוכות. משנה ה האומר תרומת הכרי בתוכו – רבי שמעון אומר קרא שם, וחכמים אומרים עד שיאמר בצפונו או בדרומו. משניות ו-ז המקדים תרומה לבכורים או מעשר ראשון לתרומה עובר בלא תעשה, אבל מה שעשה עשוי, והסדר נלמד משם 'ראשית'. משנה ח דיבורו חל רק כשפיו ולבו שווין. משנה ט תרומת נכרי וכותי תרומה, ויש מחלוקת על כרם רבעי ועל החומש.",
+  "topics": [
+   {
+    "term": "דימוע: תרומה שנפלה לחולין",
+    "explanation": "כשתרומה נופלת לחולין, התערובת נקראת מדומע. אם יש בחולין פי מאה מן התרומה, מוציאים את התרומה והשאר נשאר חולין. אם פחות, הכל מדומע ואסור לזרים.",
+    "mishnah": 2,
+    "anchors": [
+     "מְדַמְּעוֹת כַּקְּטַנָּה שֶׁבִּשְׁתֵּיהֶן"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 3:2:1",
+     "quote": "התרומה עולה בא' ומאה"
+    }
+   },
+   {
+    "term": "חומש",
+    "explanation": "זר שאכל תרומה בשוגג משלם קרן וחומש. המשנה אומרת שתרומה הבאה מן הספק של שתי החביות אינה חייבת בחומש זה.",
+    "mishnah": 1,
+    "anchors": [
+     "אֵין חַיָּבִין עָלֶיהָ חֹמֶשׁ"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 3:1:6",
+     "quote": "זָר שֶׁאָכַל הָרִאשׁוֹנָה לְבַדָּהּ אוֹ הַשְּׁנִיָּה לְבַדָּהּ אֵינוֹ מְשַׁלֵּם חֹמֶש"
+    }
+   },
+   {
+    "term": "שותפים שתרמו זה אחר זה",
+    "explanation": "שני שותפים שתרמו כל אחד מאותו כרי בלי לדעת על חברו, ונשאלת השאלה של מי תרומה קיימת. רבי עקיבא, חכמים ורבי יוסי נחלקים.",
+    "mishnah": 3,
+    "anchors": [
+     "הַשֻּׁתָּפִין שֶׁתָּרְמוּ זֶה אַחַר זֶה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 3:3:1",
+     "quote": "דִתְרוּמַת כָּל אֶחָד מֵהֶן חֶצְיָהּ תְּרוּמָה וְחֶצְיָהּ חֻלִּין"
+    }
+   },
+   {
+    "term": "שליחות בתרומה",
+    "explanation": "אדם יכול להרשות לבן ביתו, לעבדו או לשפחתו לתרום עבורו. ביטול ההרשאה מועיל רק לפני שהשליח עשה, ולפועלים אין רשות כזו אלא במקרה שהמשנה מציינת.",
+    "mishnah": 4,
+    "anchors": [
+     "הִרְשָׁה אֶת בֶּן בֵּיתוֹ"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 3:4:2",
+     "quote": "אין אדם מבטל שליחותו בדבור"
+    }
+   },
+   {
+    "term": "קרא שם",
+    "explanation": "האומר שהתרומה 'בתוכו' צריך לקבוע את מקומה. רבי שמעון סבור שהדברים מספיקים, וחכמים מצריכים מקום מסוים, בצפון או בדרום.",
+    "mishnah": 5,
+    "anchors": [
+     "קָרָא שֵׁם"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 3:5:1",
+     "quote": "שהוא חייב להוציא מאותו הכרי כל החוקים שזכר"
+    }
+   },
+   {
+    "term": "סדר ההפרשות",
+    "explanation": "בכורים קודמים לתרומה, תרומה למעשר ראשון, ומעשר ראשון למעשר שני, כל אחד משום ששם 'ראשית' שייך בו.",
+    "mishnah": 7,
+    "anchors": [
+     "וּמַעֲשֵׂר רִאשׁוֹן לַשֵּׁנִי"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 3:7:3",
+     "quote": "דִּבְמַעֲשֵׂר רִאשׁוֹן יֵשׁ בּוֹ תְּרוּמַת מַעֲשֵׂר"
+    }
+   },
+   {
+    "term": "פיו ולבו שווין",
+    "explanation": "דיבור אינו חל אלא אם פיו ולבו של האומר שווים. אם התכוון לומר 'תרומה' ואמר 'מעשר', לא אמר כלום.",
+    "mishnah": 8,
+    "anchors": [
+     "עַד שֶׁיִּהְיוּ פִיו וְלִבּוֹ שָׁוִין"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 3:8:1",
+     "quote": "בָּעִינַן גּוֹמֵר בְּלִבּוֹ וּמוֹצִיא בִשְׂפָתָיו"
+    }
+   },
+   {
+    "term": "תרומת נכרי וכותי",
+    "explanation": "נכרי וכותי שהפרישו תרומה מתבואתם שלהם – תרומתם תרומה. ואחר כך המשנה מזכירה מחלוקת על החומש.",
+    "mishnah": 9,
+    "anchors": [
+     "הַנָּכְרִי וְהַכּוּתִי"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 3:9:1",
+     "quote": "אִם הִפְרִישׁוּ תְּרוּמָה מִן הַתְּבוּאָה שֶׁלָּהֶן"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "הכהן משלם על הראשונה – האם היא תרומה?",
+    "pasuk": {
+     "text": "תְּרוּמָה, וְיַחֲזֹר וְיִתְרֹם",
+     "ref": "Mishnah Terumot 3:1",
+     "label": "משנה תרומות ג, 1"
+    },
+    "question": "תורם קישות שנמצאה מרה או אבטיח שנמצא סרוח – תרומתו תרומה ויחזור ויתרום. הכהן נוטל את שתיהן ומשלם לו את דמי הראשונה הגדולה. אם כן, מן הראשונה עצמה לא ניתנה תרומה. כיצד זה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 3:1:2",
+      "quote": "וקצת קשה כיון דמשלם הכהן הראשונה",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 3:1:2",
+      "quote": "וּקְצָת קָשֶׁה, כֵּיוָן דִּמְשַׁלֵּם הַכֹּהֵן הָרִאשׁוֹנָה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב מתרץ: מכיוון שהכהן מקבל בחזרה רק דמי תרומה, אין כאן גזל השבט אצלו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 3:1:2",
+        "quote": "וי\"ל דכיון דאינו מקבל מהכהן אלא דמי תרומה לבד נמצא שאין כאן גזל השבט"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש מפרש אחרת: אחת הופרשה בעין יפה והשנייה בעין רעה או בבינונית.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Terumot 3:1:1",
+        "quote": "ול\"נ לפרש כגון דאחת מהן הפריש בעין יפה והב' בע\"ר או בבינונית"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא מבאר את המנגנון: הכהן הוא המוציא מחברו, ועליו הראיה, ולכן משלם דמי הגדולה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 3:1:4",
+        "quote": "וּלְפִי שֶׁהַכֹּהֵן הוּא הַמּוֹצִיא מֵחֲבֵרוֹ וַאֲנַן קַיְמָא לָן בְּכָל דּוּכְתָּא הַמּוֹצִיא מֵחֲבֵרוֹ עָלָיו הָרְאָיָה, לְפִיכָךְ אֵינוֹ לוֹקֵחַ בְּלֹא דָמִים אֶלָּא הַקְּטַנָּה, וְצָרִיךְ שֶׁיִּתֵּן לוֹ דְּמֵי הַגְּדוֹלָה שֶׁהִיא הָרִאשׁוֹנָה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה עד כמה תרומה בספק או בטעות נחשבת תרומה, ועל מי נופל ההפסד.",
+    "mishnah": 1,
+    "anchors": [
+     "תְּרוּמָה, וְיַחֲזֹר וְיִתְרֹם"
+    ]
+   },
+   {
+    "title": "יין שנמצא חומץ – למה אינה תרומה?",
+    "pasuk": {
+     "text": "הַתּוֹרֵם חָבִית שֶׁל יַיִן וְנִמְצֵאת שֶׁל חֹמֶץ, אִם יָדוּעַ שֶׁהָיְתָה שֶׁל חֹמֶץ עַד שֶׁלֹּא תְרָמָהּ, אֵינָה תְרוּמָה",
+     "ref": "Mishnah Terumot 3:1",
+     "label": "משנה תרומות ג, 1"
+    },
+    "question": "התורם חבית של יין ונמצאת של חומץ מעיקרא – אינה תרומה. ואילו התורם קישות שנמצאה מרה – תרומתו תרומה. מה שונה חומץ, אם יין וחומץ מין אחד?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 3:1:1",
+      "quote": "ויש שואלין א\"כ היאך אמרו במס' תרומות בתורם חבית של יין ונמצאת חומץ שאם ידע שהיתה חומץ עד שלא נתרמה אינה תרומה והלא יין וחומץ אחד הוא",
+      "era": "acharon"
+     },
+     {
+      "name": "ר\"ש משנץ",
+      "ref": "Rash MiShantz on Mishnah Terumot 3:1:2",
+      "quote": "אבל לרבנן דאמרי מין אחד קשה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: יין וחומץ שני מינים הם, ולכן תרומה מן החומץ על היין אינה תרומה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 3:1:2",
+        "quote": "דְּיַיִן וְחֹמֶץ שְׁנֵי מִינִים הֵן"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: זו שיטת רבי, הסובר שיין וחומץ שני מינין.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 3:1:4",
+        "quote": "רבי הוא דסבר יין וחומץ שני מינין"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים מוסיף טעם שני: תרומה בטעות אינה תרומה, ולכולי עלמא אין זה כלום.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 3:1:4-9",
+        "quote": "ובין למ\"ד משום דתרומה בטעות אינה תרומה. [רמב\"ם פ' ה' מהל' תרומות הל' כ\"ב וע\"ש בכ\"מ] וכיון דנתכוין לתרום יין. ועלה בידו חומץ. לכ\"ע לאו כלום הוא"
+       }
+      ]
+     }
+    ],
+    "why": "תלוי בשאלה אם יין וחומץ מין אחד או שני מינים, ובדין תרומה שהופרשה בטעות.",
+    "mishnah": 1,
+    "anchors": [
+     "הַתּוֹרֵם חָבִית שֶׁל יַיִן וְנִמְצֵאת שֶׁל חֹמֶץ, אִם יָדוּעַ שֶׁהָיְתָה שֶׁל חֹמֶץ עַד שֶׁלֹּא תְרָמָהּ, אֵינָה תְרוּמָה"
+    ]
+   },
+   {
+    "title": "למה ספק תרומה פטור מחומש?",
+    "pasuk": {
+     "text": "אֵין חַיָּבִין עָלֶיהָ חֹמֶש",
+     "ref": "Mishnah Terumot 3:1",
+     "label": "משנה תרומות ג, 1"
+    },
+    "question": "זר שאכל אחת משתי התרומות שבספק בשוגג אינו משלם חומש. מדוע ספק תרומה קל מתרומה ודאית, ומדוע אינה מדמעת בפני עצמה?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (בועז)",
+      "ref": "Boaz on Mishnah Terumot 3:1",
+      "quote": "ק\"ל באכל ספק תרומה בסיפא למה פטור מחומש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: בכל אחת מהן יש ספק אם היא תרומה אם לאו, ולכן אין חומש.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 3:1:2",
+        "quote": "לפי שכל א' מהן יש בו ספק אם היא תרומה אם לאו"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: עיקר דימוע אינו אלא מדבריהם והפסוק אסמכתא, ולכן הקלו בספקו.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 3:1:10",
+        "quote": "לפי שעיקר דימוע אינו אלא מדבריהם וקרא אסמכתא בעלמא. משו\"ה הקלו בספקו"
+       }
+      ]
+     },
+     {
+      "text": "יכין: דימוע מדרבנן, וספק דרבנן לקולא.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Terumot 3:8:1",
+        "quote": "דדמוע מד\"ס דמדאו' ברובא בטל וספק דרבנן לקולא"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך מפרידים בין כוחה מן התורה לכוחה מדרבנן של תרומה בספק.",
+    "mishnah": 1,
+    "anchors": [
+     "אֵין חַיָּבִין עָלֶיהָ חֹמֶש"
+    ]
+   },
+   {
+    "title": "רבי יוסי: איזה 'שיעור'?",
+    "pasuk": {
+     "text": "אִם תָּרַם הָרִאשׁוֹן כַּשִּׁעוּר",
+     "ref": "Mishnah Terumot 3:3",
+     "label": "משנה תרומות ג, 3"
+    },
+    "question": "רבי יוסי אומר: אם תרם הראשון כשיעור – אין תרומת השני תרומה. איזה שיעור – שיעור התורה או שיעור מה שתרם חברו? והאם רבי יוסי חולק על חכמים או מפרש את דבריהם?",
+    "asked_by": [
+     {
+      "name": "רמב\"ם",
+      "ref": "Rambam on Mishnah Terumot 3:3:1",
+      "quote": "נסתפקו בגמ' במה שאמר ר' יוסי כשיעור איזה שיעור",
+      "era": "rishon"
+     },
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Terumot 3:3:1",
+      "quote": "גרסינן בירושלמי (ה\"ב טז.) מה כשיעור תורה או כשיעור חביריו",
+      "era": "acharon"
+     },
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Terumot 3:16:1",
+      "quote": "המשנה תמוה דמאי עדיף שני מראשון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: אם כוונתו לשיעור התורה, אחד מחמישים, הרי הוא חולק על חכמים; ואם לשיעור חברו, הרי הוא מפרש דבריהם, וההלכה כחכמים.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 3:3:1",
+        "quote": "אם רצה באמרו כשיעור התורה והוא אחד מחמשים הרי הוא חולק על דברי חכמים ואם ר\"ל שיעור חברו הרי הוא מפרש דברי חכמים ומסכים לדעתם והלכה כחכמים"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: הפירוש הראשון, אחד מחמישים, הוא העיקר, וההלכה כרבי יוסי.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 3:3:2",
+        "quote": "אֶחָד מֵחֲמִשִּׁים, כַּשִּׁעוּר שֶׁנָּתְנוּ חֲכָמִים, תְּרוּמָתוֹ תְרוּמָה. וַהֲלָכָה כְּרַבִּי יוֹסֵי"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים דוחה את הפירוש השני: אם לא תרם הראשון כשיעור השני, מדוע תרומת השני תרומה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 3:3:3-6",
+        "quote": "וקשיא לי אהדין פירושא. אי הכי כי לא תרם הראשון כשיעור אמאי תרומת הב' תרומה. כיון דראשון גלי דעתיה דלא ניחא ליה בשיעורו דשני. מאי אולמיה דהאי מהאי"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם רבי יוסי חולק על חכמים או רק מבאר אותם.",
+    "mishnah": 3,
+    "anchors": [
+     "אִם תָּרַם הָרִאשׁוֹן כַּשִּׁעוּר"
+    ]
+   },
+   {
+    "title": "הדרוכות: מדוע רשאים לתרום?",
+    "pasuk": {
+     "text": "חוּץ מִן הַדָּרוֹכוֹת, שֶׁהֵן מְטַמְּאִים אֶת הַגַּת מִיָּד",
+     "ref": "Mishnah Terumot 3:4",
+     "label": "משנה תרומות ג, 4"
+    },
+    "question": "הפועלים אין להם רשות לתרום, חוץ מן הדרוכות שהן מטמאין את הגת מיד. מי הם, ומדוע יש להם רשות?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 3:4:5-6",
+      "quote": "וזה דוחק לא קטן",
+      "era": "acharon"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 3:4:1",
+      "quote": "וק\"ל הא א\"ת מן הטהור על הטמא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: בעלים עמי הארץ ששכרו פועלים חברים – הפועלים תורמים מיד, שאם יבואו הבעלים יטמאו את הגת, ויש להם יין מזומן להפריש.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 3:4:5",
+        "quote": "שֶׁאִם יָבֹאוּ בְּעָלִים וִיטַמְּאוּ הַגַּת קֹדֶם שֶׁיִּגְמְרוּ יֵשׁ לָהֶן יַיִן מְזֻמָּן לְהַפְרִישׁ עַל הַכֹּל בְּטָהֳרָה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: דרוכות הם דורכי הענבים, וכיון ששכר אותם ומסר להם גתו, קיבל עליו מעשיהם.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 3:4:3",
+        "quote": "וכיון ששכר אותם לדרוך ומסר להם גתו הנה הניחם במקומו וקבל עליו מעשיהם"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים מפרש 'הדרוכות' כענבים הדרוכות, וכל הבבא דבר אחד.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 3:4:5-6",
+        "quote": "הדרוכות הענבי' הדרוכות"
+       }
+      ]
+     }
+    ],
+    "why": "מראה את גבול מה שהבעלים מסכימים לו, ואת פירוש המילה 'דרוכות'.",
+    "mishnah": 4,
+    "anchors": [
+     "חוּץ מִן הַדָּרוֹכוֹת, שֶׁהֵן מְטַמְּאִים אֶת הַגַּת מִיָּד"
+    ]
+   },
+   {
+    "title": "'במה דברים אמורים': על מי?",
+    "pasuk": {
+     "text": "בַּמֶּה דְבָרִים אֲמוּרִים, בְּשֶׁלֹּא דִבֵּר",
+     "ref": "Mishnah Terumot 3:4",
+     "label": "משנה תרומות ג, 4"
+    },
+    "question": "ברטנורא מפרש 'במה דברים אמורים' על דברי רבי עקיבא שתרומת שניהם תרומה. מדוע רק לפי רבי עקיבא, והרי נראה שאף לחכמים שייך הדבר?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 3:4:1",
+      "quote": "תמיה לי אמאי מפר' אליבא דר\"ע לחוד",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 3:4:1",
+      "quote": "תְּמִיהַּ לִי אַמַּאי מְפָרֵשׁ אַלִּיבָּא דְרַבִּי עֲקִיבָא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ר\"ש משנץ: מה שנחלקו למעלה הוא בשלא דבר, כלומר שלא נטל רשות מחברו לתרום.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Terumot 3:4:1",
+        "quote": "הא דפליגי לעיל דלר' עקיבא תרומת שניהן תרומה בשלא דבר כלו' שלא נטל רשות מחברו לתרום"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים מגן על ברטנורא: נקט ר\"ע, וכל שכן לרבנן, ודבריהם מדוקדקים בתכלית הדיוק.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 3:4:1",
+        "quote": "ונקט ר\"ע וכ\"ש לרבנן דר\"ע תרומתו תרומה. דהא אפי' בשותף התורם שלא מדעת חברו. ס\"ל דתרומתו תרומה. והוצרך להאריך בלשון. כדי ליישב לישנא דמתני' דאבל הרשה. דלרבנן מאי אבל. וזה פשוט מאד אין כדאי לכותבו. רק מפני שהרבתי\"ט האריך בו בדבור שלם. לדקדק על הרע\"ב והר\"ש ז\"ל בחנם. ולא ידעתי כוונתו שהטריח עצמו בכך שלא לצורך כלל. ודבריהם ז\"ל מדוקדקים בתכלית הדיוק"
+       }
+      ]
+     },
+     {
+      "text": "גם הרש\"ש: הרע\"ב דק שפיר.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Terumot 3:4:2",
+        "quote": "ול\"נ דהרע\"ב דק שפיר"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע כיצד הבבא השנייה קשורה למחלוקת שלפניה.",
+    "mishnah": 4,
+    "anchors": [
+     "בַּמֶּה דְבָרִים אֲמוּרִים, בְּשֶׁלֹּא דִבֵּר"
+    ]
+   },
+   {
+    "title": "עובר בלא תעשה ו'מה שעשה עשוי'",
+    "pasuk": {
+     "text": "מַה שֶּׁעָשָׂה עָשׂוּי",
+     "ref": "Mishnah Terumot 3:6",
+     "label": "משנה תרומות ג, 6"
+    },
+    "question": "המקדים תרומה לבכורים עובר בלא תעשה, ובכל זאת מה שעשה עשוי. מדוע מעשה אסור מועיל? רבא סובר במקום אחר שאין מעשה כזה מועיל.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 3:6:1",
+      "quote": "ופריך ממתני' לרבא ומשני שאני התם דאמר קרא מכל מעשרותיכם תרימו",
+      "era": "acharon"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 3:6:1",
+      "quote": "וְרָבָא אָמַר לֹא מְהַנֵּי מִידֵי, וְהַאי דְלָקֵי דְּעָבַר אַמֵּימְרָא דְּרַחֲמָנָא. וּפָרֵיךְ מִמַּתְנִיתִין לְרָבָא, וּמְשָׁנֵי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: שאני התם, דאמר קרא 'מכל מעשרותיכם תרימו'.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 3:6:1",
+        "quote": "ומשני שאני התם דאמר קרא מכל מעשרותיכם תרימו"
+       }
+      ]
+     },
+     {
+      "text": "יכין: הכא מהני, כי הפסוק עצמו הוציא למועיל.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Terumot 3:32:1",
+        "quote": "הכא שאני דאפקי קרא דלהני"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את רבי יוחנן בירושלמי: אינו לוקה על לאו זה, כי הוא אסמכתא בעלמא.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 3:6:1",
+        "quote": "אמר ר' יוחנן דאינו לוקה על לאו זה דאסמכתא בעלמא"
+       }
+      ]
+     }
+    ],
+    "why": "קובע אם מעשה אסור תופס, ומה מלמד הפסוק 'לא תאחר'.",
+    "mishnah": 6,
+    "anchors": [
+     "מַה שֶּׁעָשָׂה עָשׂוּי"
+    ]
+   },
+   {
+    "title": "רבי יהודה: אין לנכרי כרם רבעי",
+    "pasuk": {
+     "text": "אֵין לַנָּכְרִי כֶּרֶם רְבָעִי",
+     "ref": "Mishnah Terumot 3:9",
+     "label": "משנה תרומות ג, 9"
+    },
+    "question": "רבי יהודה אומר שאין לנכרי כרם רבעי, ומשמע שיש לנכרי קנין בארץ ישראל. אך במנחות הוא אומר שתורמין משל עובד כוכבים על של ישראל. כיצד שניהם?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 3:9:3",
+      "quote": "וקשה דבמנחות פ' ר' ישמעאל שמעי' ליה לר' יהודה דאמר תורמין משל עובד כוכבים על של ישראל",
+      "era": "acharon"
+     },
+     {
+      "name": "ר\"ש משנץ",
+      "ref": "Rash MiShantz on Mishnah Terumot 3:9:3",
+      "quote": "וקשה דבמנחות פ' רבי ישמעאל",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ר\"ש משנץ: לא פטר רבי יהודה אלא בסוריא.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Terumot 3:9:3",
+        "quote": "וי\"ל דלא פטר רבי יהודה הכא אלא בסוריא"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: טעמו של רבי יהודה אינו משום שיש קנין לנכרי בארץ ישראל, שהרי אנו שומעים ההפך במנחות, אלא אמרו רק בסוריא.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 3:9:2",
+        "quote": "וְטַעֲמוֹ דְרַבִּי יְהוּדָה לֹא מִשּׁוּם דְּסָבַר דְּיֵשׁ קִנְיָן לַנָּכְרִי בְּאֶרֶץ יִשְׂרָאֵל לְהַפְקִיעַ מֵחוֹבוֹתָיו, דְּהָא אִיפְּכָא שָׁמְעִינַן לֵיהּ בִּמְנָחוֹת, אֶלָּא לֹא קָאָמַר רַבִּי יְהוּדָה הָכָא אֶלָּא בְסוּרְיָא"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך סתירה בדברי תנא אחד מתורצת לפי המקום.",
+    "mishnah": 9,
+    "anchors": [
+     "אֵין לַנָּכְרִי כֶּרֶם רְבָעִי"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "עיקר תוספות יום טוב",
+   "רש\"ש",
+   "ברטנורא",
+   "מלאכת שלמה",
+   "ר\"ש משנץ",
+   "לחם שמים",
+   "תפארת ישראל (בועז)",
+   "רמב\"ם",
+   "תפארת ישראל (יכין)",
+   "הון עשיר"
+  ]
+ }
 }
