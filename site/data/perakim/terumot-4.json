@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-23",
+ "hebrew_date": {
+  "hebrew": "י״ג בְּכִסְלֵו תשפ״ז",
+  "english": "13 Kislev 5787"
+ },
  "masechet": "terumot",
  "perek": 4,
  "ref": "Mishnah Terumot 4",
@@ -55,5 +60,999 @@
    "he": "אָמַר רַבִּי יוֹסֵי, מַעֲשֶׂה בָא לִפְנֵי רַבִּי עֲקִיבָא בַּחֲמִשִּׁים אֲגֻדּוֹת שֶׁל יָרָק, שֶׁנָּפְלָה אַחַת מֵהֶן לְתוֹכָן, חֶצְיָהּ תְּרוּמָה, וְאָמַרְתִּי לְפָנָיו, תַּעֲלֶה. לֹא שֶׁהַתְּרוּמָה תַעֲלֶה בַּחֲמִשִּׁים וְאֶחָד, אֶלָּא שֶׁהָיוּ שָׁם מֵאָה וּשְׁנֵי חֲצָיִים:  ",
    "en": "Rabbi Yose said: A case once came before Rabbi Akiva concerning fifty bundles of vegetables into which a bundle of the same size had fallen, half of which was terumah. And I said in front of him, that it can be brought up, not because terumah can be brought up in fifty-one, but because there were one hundred and two halves there."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1 One who separated only part of the terumah and tithes may take the rest from that same part but not for other produce; Rabbi Meir allows it for other produce too. Mishnah 2 One who gave a seah to a Levite and a seah to a poor person may separate eight seahs more and eat them, says Rabbi Meir, while the Sages say only in proportion. Mishnayot 3–4 The measure of terumah is a fortieth, a fiftieth or a sixtieth (a thirtieth for Beit Shammai), a messenger gives by the owner's habit, and an intention to add even one part cancels it. Mishnayot 5–6 Rabbi Eliezer, Rabbi Yishmael and Rabbi Tarfon and Rabbi Akiva dispute how much terumah one may give, and the basket is measured at three times of the year. Mishnayot 7–11 Terumah rises in a hundred and one, with Rabbi Yehoshua and Rabbi Yose ben Meshullam on the 'more'; the figs, the cakes of figs, the jars and the skimming of a pile give more cases of Rabbi Eliezer and Rabbi Yehoshua. Mishnayot 12–13 Two baskets or piles in doubt bring each other up, even in two cities according to Rabbi Shimon, and Rabbi Yose tells of the fifty bundles that came before Rabbi Akiva.",
+  "topics": [
+   {
+    "term": "Giving terumah with a generous eye",
+    "explanation": "Terumah gedolah has no Torah minimum. The mishnah names three customary measures: a generous giver separates one fortieth, an average one a fiftieth, a stingy one a sixtieth; Beit Shammai make the generous measure a thirtieth.",
+    "mishnah": 3,
+    "anchors": [
+     "עין יפה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 4:3:1",
+     "quote": "מי שהוא נדיב לב ותורם בעין יפה מפריש אחד מארבעים"
+    }
+   },
+   {
+    "term": "Taking terumah from a place that is not 'mukaf'",
+    "explanation": "Terumah may only be separated from produce that sits together in one enclosed place (the mukaf). Rabbi Yehudah allows a second, additional separation even from produce that is not close by.",
+    "mishnah": 3,
+    "anchors": [
+     "שלא מן המוקף"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 4:3:2",
+     "quote": "ממה שהוא תוך הקף מקום אחד"
+    }
+   },
+   {
+    "term": "A messenger who gives terumah",
+    "explanation": "An agent sent to give terumah must follow the owner's own habit (a generous, average or stingy measure); if he does not know it, he gives the average, one fiftieth. Within ten parts either way the terumah still stands.",
+    "mishnah": 4,
+    "anchors": [
+     "תורם כדעתו של בעל הבית"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 4:4:1",
+     "quote": "לפי שיש תורם בעין יפה ויש בעין רעה ויש בבינונית"
+    }
+   },
+   {
+    "term": "Terumat ma'aser",
+    "explanation": "The tenth that the Levite takes from the tithe and gives to the kohen is itself called terumah. It is separated at about one tenth of the tithe, which is why a tenth is the limit of the extra terumah in Rabbi Eliezer's view.",
+    "mishnah": 5,
+    "anchors": [
+     "תרומת מעשר"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 4:5:1",
+     "quote": "כי תרומת מעשר הוא העשור ונקראת תרומה"
+    }
+   },
+   {
+    "term": "The kalkalah (basket)",
+    "explanation": "The kalkalah is the basket used to measure the produce when terumat ma'aser and tithes are separated. The mishnah says it must be measured at three times of the year, because the same basket holds different amounts as the fruit changes.",
+    "mishnah": 6,
+    "anchors": [
+     "הכלכלה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 4:6:1",
+     "quote": "כלכלה הוא הסל שבו מודדין להוציא התרומה"
+    }
+   },
+   {
+    "term": "Terumah 'rises' in one hundred and one",
+    "explanation": "When a seah of terumah falls into one hundred seahs of ordinary produce, the terumah is lifted out, a seah is given to the kohen, and the rest stays ordinary produce. Below that ratio the whole becomes medumma.",
+    "mishnah": 7,
+    "anchors": [
+     "עולה באחד ומאה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 4:7:1",
+     "quote": "נוטל אחת מהן ונותנה לכהן, והשאר חולין כמו שהיו"
+    }
+   },
+   {
+    "term": "Items that 'bring each other up'",
+    "explanation": "When it is not known which kind of fig fell into the mixture, all the kinds count together toward the one hundred needed to neutralize the terumah, because each kind is in doubt.",
+    "mishnah": 9,
+    "anchors": [
+     "מעלות זו את זו"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 4:8:4",
+     "quote": "כיון דכלן בספק איסור, מעלות זו את זו"
+    }
+   },
+   {
+    "term": "Kippui (skimming)",
+    "explanation": "To skim (kippui) is to lift off the top layer of a pile where a seah of terumah fell, so that only the top is removed and the rest is permitted.",
+    "mishnah": 11,
+    "anchors": [
+     "וקפאה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 4:11:1",
+     "quote": "וקפאה הוא הדבר הנקפא מגזרת קפאו תהומות"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Which reading: 'for another place' or 'from another place'?",
+    "pasuk": {
+     "text": "אבל לא למקום אחר",
+     "ref": "Mishnah Terumot 4:1",
+     "label": "Mishnah Terumot 4:1"
+    },
+    "question": "Whether the mishnah says he may not separate for other produce ('lemakom acher') or may not take from another place ('mimakom acher') changes what the first tanna forbids. How should the mishnah be read, and does the pronoun 'alav' still fit?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 4:1:1",
+      "quote": "והראב\"ד השיג עליו לפי שהוא גורס למקום אחר. ועוד הקשה שהל\"ל עליה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam reads the words as 'from another place': what he has separated stays tevel and may not be used for tevel from elsewhere; only the produce of that part must be separated.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 4:1:1",
+        "quote": "ואין לו להוציא על אותו קצת שהוציא תרומה ומעשרות ממקום אחר"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh answers the Ra'avad's difficulty about the pronoun: on the Rambam's reading 'alav' refers to 'mikzat', which is masculine.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 4:1:2",
+        "quote": "ונלע\"ד דלא קשיא ג\"כ מלת עליו לפי' הרמב\"ם ז\"ל שהוא ז\"ל יסבור דקאי אמלת מקצת שהוא ל' זכר"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura reads 'for other produce': one may not separate on this part for other tevel, since the other produce might be taken from what is already fixed.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 4:1:2",
+        "quote": "דלגבי אחרים תלינן דלמא מן המתוקן הוא מוציא עליהן"
+       }
+      ]
+     }
+    ],
+    "why": "The text decides what exactly Rabbi Meir permits.",
+    "mishnah": 1,
+    "anchors": [
+     "אבל לא למקום אחר"
+    ]
+   },
+   {
+    "title": "Why does the messenger's shortfall also spoil his terumah?",
+    "pasuk": {
+     "text": "אם נתכוין להוסיף אפילו אחת",
+     "ref": "Mishnah Terumot 4:4",
+     "label": "Mishnah Terumot 4:4"
+    },
+    "question": "The mishnah says that if the messenger intended to add even one part, the terumah is not terumah. Why is it not enough to let him add what is missing, as in the earlier case of one sixty-first?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 4:4:1-4",
+      "quote": "ומ\"מ קשיא לי מה טעם לא יוסיף כדרך ששנינו למעלה עלה בידו מששים ואחד",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov, citing the Rash: if the amount counted as terumah, the added part would be mixed in with the tevel, so part would be fixed and part tevel, mixed together.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 4:4:1",
+        "quote": "נמצא שמקצת מתוקן ומקצת טבל מדומעין זה בזה"
+       }
+      ]
+     },
+     {
+      "text": "The Rashash adds that when he meant to add, everything stays tevel until he completes; here, if the shortfall counted, part would have to be treated as already fixed.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Terumot 4:4:2",
+        "quote": "הכא אם תאמר דכשיעור הוי תרומה ע\"כ נצטרך לומר דמקצתו הוה מתוקן"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the mishnah treats mixed tevel and chullin.",
+    "mishnah": 4,
+    "anchors": [
+     "אם נתכוין להוסיף אפילו אחת"
+    ]
+   },
+   {
+    "title": "Why must the extra be 'terumat ma'aser' for another place?",
+    "pasuk": {
+     "text": "יעשנה תרומת מעשר למקום אחר",
+     "ref": "Mishnah Terumot 4:5",
+     "label": "Mishnah Terumot 4:5"
+    },
+    "question": "The mishnah says that beyond a tenth the extra becomes terumat ma'aser 'for another place'. Why not simply apply it to the tithe owed from the same heap?",
+    "asked_by": [
+     {
+      "name": "Tiferet Yisrael (Yachin)",
+      "ref": "Yachin on Mishnah Terumot 4:24:1",
+      "quote": "למקום אחר המשנה תמוה למה לא יעשהו תמ\"ע על מעשר שחייב מכרי זה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the excess is made terumat ma'aser because terumah may only be taken from the mukaf, while terumat ma'aser may be taken from elsewhere.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 4:5:1",
+        "quote": "לפי שאין תורמין שלא מן המוקף, אבל תרומת מעשר מפרישין אותה שלא מן המוקף"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz: since chullin cannot be separated from the terumah itself, he makes the excess terumat ma'aser.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Terumot 4:5:1",
+        "quote": "ומשום דלא אפשר חולין מן התרומה עושה היתר תרומת מעשר"
+       }
+      ]
+     },
+     {
+      "text": "The Yachin himself explains that, by Torah law, there is no retroactive clarification of which is terumah and which is the remainder.",
+      "sources": [
+       {
+        "name": "Tiferet Yisrael (Yachin)",
+        "ref": "Yachin on Mishnah Terumot 4:24:1",
+        "quote": "אלא נ\"ל דלהכי א\"א דהרי מדאו' אין ברירה איזהו תרומה ואיזהו מותר"
+       }
+      ]
+     }
+    ],
+    "why": "It fixes who may use the excess and for which produce.",
+    "mishnah": 5,
+    "anchors": [
+     "יעשנה תרומת מעשר למקום אחר"
+    ]
+   },
+   {
+    "title": "What does the Levite give back in Bartenura's explanation?",
+    "pasuk": {
+     "text": "יותר מכאן יעשנה תרומת מעשר",
+     "ref": "Mishnah Terumot 4:5",
+     "label": "Mishnah Terumot 4:5"
+    },
+    "question": "Bartenura says the Levite makes the excess terumat ma'aser and gives the owner chullin in return. Does that make sense, given that the excess is already mixed with terumah?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 4:5:1-3",
+      "quote": "ולא הבינותי דברים הללו כלל מה שאמר שיתן ללוי אותו הריבוי",
+      "era": "acharon"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 4:5:1",
+      "quote": "תמוה דממ\"נ אם כוונתו למ\"ש הר\"ש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: the mishnah follows Abba Elazar ben Gamla, that an Israelite may give terumat ma'aser.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 4:5:1",
+        "quote": "דישראל רשאי לתרום תרומת מעשר"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing Rabbi Yosef, reads 'another place' as joining it with other chullin.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 4:5:2",
+        "quote": "יעשנה תרומת מעשר על מקום אחר פי' שיצרפנה עם חולין אחרים"
+       }
+      ]
+     }
+    ],
+    "why": "It tests how the excess terumah is actually put to use.",
+    "mishnah": 5,
+    "anchors": [
+     "יותר מכאן יעשנה תרומת מעשר"
+    ]
+   },
+   {
+    "title": "Why measure the basket three times a year?",
+    "pasuk": {
+     "text": "בשלשה פרקים משערים את הכלכלה",
+     "ref": "Mishnah Terumot 4:6",
+     "label": "Mishnah Terumot 4:6"
+    },
+    "question": "The mishnah says the kalkalah is measured at three times of the year. What is being measured, and why does it matter for terumah?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 4:6:1",
+      "quote": "פי' זה קשה מאוד דאין כאן מקומו",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 4:6:1-11",
+      "quote": "מה בכך אם מכילה פ\"א יותר או פחות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rambam: once a person knows how much the basket holds at each time, he can measure with it and separate the right amount.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 4:6:1",
+        "quote": "וכשידע האדם כמה מכילה הכלכלה בכל הזמנים ימוד בה ויוציא מה שראוי בה להוציא"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing Rabbi Shimshon: the measure is checked so that he does not take for himself in a large one and give the kohen in a small one.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 4:6:1",
+        "quote": "משערין את המדה כדי שלא יקח לעצמו בגדולה ויתן לכהן בקטנה"
+       }
+      ]
+     }
+    ],
+    "why": "The reason depends on how the Rambam and Rash MiShantz read the word.",
+    "mishnah": 6,
+    "anchors": [
+     "בשלשה פרקים משערים את הכלכלה"
+    ]
+   },
+   {
+    "title": "Does mixing the figs break 'one may not annul a prohibition'?",
+    "pasuk": {
+     "text": "תאנים שחורות מעלות את הלבנות",
+     "ref": "Mishnah Terumot 4:8",
+     "label": "Mishnah Terumot 4:8"
+    },
+    "question": "Bartenura says the black and white figs join because the owner could have pressed them together. But a later mishnah forbids adding permitted produce to annul a prohibition on purpose. How are these two reconciled?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 4:8:1",
+      "quote": "וקשיא לי דבפ' דלקמן סוף מ\"ט דאם במזיד הוסיף בהיתר על האיסור אסור",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: all the figs join together to neutralize it, because he could have pressed them together.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 4:8:1",
+        "quote": "שאם היה רוצה היה דורסן ומערבן הכל ביחד"
+       }
+      ]
+     },
+     {
+      "text": "Boaz: the prohibition on annulling applies when one adds to the permitted portion, not when it is only reshaped.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Terumot 4:2",
+        "quote": "ואף דאין מבטלין איסור לכתחלה כל כה\"ג שאין מרבה בהיתר"
+       }
+      ]
+     }
+    ],
+    "why": "It limits how far the logic of 'he could have mixed them' reaches.",
+    "mishnah": 8,
+    "anchors": [
+     "תאנים שחורות מעלות את הלבנות"
+    ]
+   },
+   {
+    "title": "Why does the count work even if weight does not?",
+    "pasuk": {
+     "text": "עגולי דבלה הגדולים מעלים את הקטנים",
+     "ref": "Mishnah Terumot 4:8",
+     "label": "Mishnah Terumot 4:8"
+    },
+    "question": "The Rambam says large and small cakes help neutralize one another by weight, and the reverse by number. What difference does it make that a count alone suffices?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 4:8:1",
+      "quote": "וצ\"ע בלישנא דהרמב\"ם שם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "The Rashash answers that it matters when a large cake fell into a hundred small ones and they were later mixed.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Terumot 4:8:1",
+        "quote": "ולענ\"ד נ\"מ היכא דנפלה גדולה למאה קטנות"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies the Rambam's rule for cakes of different sizes.",
+    "mishnah": 8,
+    "anchors": [
+     "עגולי דבלה הגדולים מעלים את הקטנים"
+    ]
+   },
+   {
+    "title": "Why are Rabbi Eliezer and Rabbi Yehoshua reversed from one mishnah to the next?",
+    "pasuk": {
+     "text": "ובזו רבי אליעזר מיקל ורבי יהושע מחמיר",
+     "ref": "Mishnah Terumot 4:10",
+     "label": "Mishnah Terumot 4:10"
+    },
+    "question": "In mishnah 9 Rabbi Eliezer is stringent and Rabbi Yehoshua lenient, and in mishnah 10 the opposite. What is the reason for each?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 4:10:1",
+      "quote": "וצריך טעם בין לרבי אליעזר בין לרבי יהושע מ\"ש לבנות ושחורות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov, citing the Yerushalmi: the black ones are not eligible for doubtful medumma, since they are always recognizable among the white ones.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 4:10:1",
+        "quote": "דהשחורות אינן ראויות להיות בספק דמוע שלעולם השחורות ניכרות מתוך לבנות"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov, citing the Yerushalmi's question and answer on the difference between the two mishnayot.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 4:10:1",
+        "quote": "דבירושלמי מקשה מ\"ש הכא שר\"א מחמיר ור\"י מיקל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the dispute is about the structure of each mixture, not about leniency.",
+    "mishnah": 10,
+    "anchors": [
+     "ובזו רבי אליעזר מיקל ורבי יהושע מחמיר"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Yom Tov",
+   "Rambam",
+   "Melekhet Shelomoh",
+   "Bartenura",
+   "Lechem Shamayim",
+   "Rashash",
+   "Tiferet Yisrael (Yachin)",
+   "Rash MiShantz",
+   "Boaz",
+   "Tosafot Rabbi Akiva Eiger"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א המפריש מקצת תרומה ומעשרות מוציא ממנו עליו אבל לא למקום אחר; רבי מאיר מתיר גם למקום אחר. משנה ב מי שנתן סאה ללוי וסאה לעני מפריש עד שמונה סאין ואוכלן, דברי רבי מאיר, וחכמים אומרים רק לפי חשבון. משניות ג-ד שיעור התרומה אחד מארבעים, מחמישים או מששים (ובית שמאי משלושים), השליח תורם כדעת בעל הבית, וכוונה להוסיף אפילו אחת פוסלת. משניות ה-ו רבי אליעזר, רבי ישמעאל ורבי טרפון ורבי עקיבא חלוקים בכמה מותר להרבות בתרומה, והכלכלה נמדדת בשלושה פרקים בשנה. משניות ז-יא תרומה עולה באחד ומאה, ורבי יהושע ורבי יוסי בן משולם על ה'עוד'; התאנים, עיגולי הדבלה, הכדים והקיפוי הם עוד מקרים של רבי אליעזר ורבי יהושע. משניות יב-יג שתי קופות ושתי מגורות בספק מעלות זו את זו, ולרבי שמעון אף בשתי עיירות, ורבי יוסי מספר על חמישים אגודות שבאו לפני רבי עקיבא.",
+  "topics": [
+   {
+    "term": "תרומה בעין יפה",
+    "explanation": "אין לתרומה גדולה שיעור מן התורה. המשנה מונה שלושה שיעורים מקובלים: נדיב לב מפריש אחד מארבעים, בינוני אחד מחמישים, וצר עין אחד מששים; ובית שמאי מעמידים את העין היפה על אחד משלושים.",
+    "mishnah": 3,
+    "anchors": [
+     "עין יפה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 4:3:1",
+     "quote": "מי שהוא נדיב לב ותורם בעין יפה מפריש אחד מארבעים"
+    }
+   },
+   {
+    "term": "שלא מן המוקף",
+    "explanation": "תורמים רק מפירות שנמצאים יחד בתוך מקום אחד מוקף. רבי יהודה מתיר תרומה נוספת אף מפירות שאינם סמוכים.",
+    "mishnah": 3,
+    "anchors": [
+     "שלא מן המוקף"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 4:3:2",
+     "quote": "ממה שהוא תוך הקף מקום אחד"
+    }
+   },
+   {
+    "term": "שליח שתורם",
+    "explanation": "שליח שנשלח לתרום חייב לנהוג כמנהגו של בעל הבית (עין יפה, בינונית או רעה); ואם אינו יודע, תורם כבינונית, אחד מחמישים. בתוך עשרה חלקים לכאן או לכאן התרומה תרומה.",
+    "mishnah": 4,
+    "anchors": [
+     "תורם כדעתו של בעל הבית"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 4:4:1",
+     "quote": "לפי שיש תורם בעין יפה ויש בעין רעה ויש בבינונית"
+    }
+   },
+   {
+    "term": "תרומת מעשר",
+    "explanation": "העשירית שהלוי מפריש מן המעשר ונותן לכהן נקראת גם היא תרומה. שיעורה כעשירית המעשר, ולכן לדעת רבי אליעזר עד אחד מעשרה אפשר להרבות בתרומה.",
+    "mishnah": 5,
+    "anchors": [
+     "תרומת מעשר"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 4:5:1",
+     "quote": "כי תרומת מעשר הוא העשור ונקראת תרומה"
+    }
+   },
+   {
+    "term": "הכלכלה",
+    "explanation": "הכלכלה היא הסל שמודדים בו את הפירות בהפרשת תרומת מעשר ומעשרות. המשנה קובעת ששיעורה נבדק בשלושה זמנים בשנה, כי אותו סל מכיל כמויות שונות כשהפירות משתנים.",
+    "mishnah": 6,
+    "anchors": [
+     "הכלכלה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 4:6:1",
+     "quote": "כלכלה הוא הסל שבו מודדין להוציא התרומה"
+    }
+   },
+   {
+    "term": "תרומה עולה באחד ומאה",
+    "explanation": "סאה תרומה שנפלה למאה סאין חולין – מוציאים סאה ונותנים לכהן, והשאר חולין. בפחות מזה הכול נעשה מדומע.",
+    "mishnah": 7,
+    "anchors": [
+     "עולה באחד ומאה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 4:7:1",
+     "quote": "נוטל אחת מהן ונותנה לכהן, והשאר חולין כמו שהיו"
+    }
+   },
+   {
+    "term": "מעלות זו את זו",
+    "explanation": "כשאין ידוע איזה מין נפל, כל המינים מצטרפים למאה הדרושה לבטל את התרומה, כי כל מין הוא בספק.",
+    "mishnah": 9,
+    "anchors": [
+     "מעלות זו את זו"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 4:8:4",
+     "quote": "כיון דכלן בספק איסור, מעלות זו את זו"
+    }
+   },
+   {
+    "term": "קיפוי",
+    "explanation": "קיפוי הוא הסרת השכבה העליונה מכרי שנפלה עליו סאה תרומה, כך שמסירים רק את העליון והשאר מותר.",
+    "mishnah": 11,
+    "anchors": [
+     "וקפאה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 4:11:1",
+     "quote": "וקפאה הוא הדבר הנקפא מגזרת קפאו תהומות"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "הגרסה: 'למקום אחר' או 'ממקום אחר'?",
+    "pasuk": {
+     "text": "אבל לא למקום אחר",
+     "ref": "Mishnah Terumot 4:1",
+     "label": "משנה תרומות ד, 1"
+    },
+    "question": "אם גרסת המשנה היא 'למקום אחר' או 'ממקום אחר' – משתנה מה שתנא קמא אוסר. כיצד יש לקרוא את המשנה, והאם הלשון 'עליו' מתיישבת?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 4:1:1",
+      "quote": "והראב\"ד השיג עליו לפי שהוא גורס למקום אחר. ועוד הקשה שהל\"ל עליה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם גורס 'ממקום אחר': מה שהפריש נשאר טבל ואין להוציא עליו תרומה לטבל ממקום אחר; יש להוציא רק את חיובו של אותו חלק.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 4:1:1",
+        "quote": "ואין לו להוציא על אותו קצת שהוציא תרומה ומעשרות ממקום אחר"
+       }
+      ]
+     },
+     {
+      "text": "המלאכת שלמה מיישב את קושיית הראב\"ד על לשון 'עליו': לפי הרמב\"ם הכינוי חוזר אל 'מקצת', והוא לשון זכר.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 4:1:2",
+        "quote": "ונלע\"ד דלא קשיא ג\"כ מלת עליו לפי' הרמב\"ם ז\"ל שהוא ז\"ל יסבור דקאי אמלת מקצת שהוא ל' זכר"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא גורס 'למקום אחר': אין להפריש מחלק זה על טבל אחר, כי ייתכן שהוא מוציא מן המתוקן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 4:1:2",
+        "quote": "דלגבי אחרים תלינן דלמא מן המתוקן הוא מוציא עליהן"
+       }
+      ]
+     }
+    ],
+    "why": "הגרסה קובעת מה בדיוק רבי מאיר מתיר.",
+    "mishnah": 1,
+    "anchors": [
+     "אבל לא למקום אחר"
+    ]
+   },
+   {
+    "title": "מדוע גם חסרון בשיעור פוסל את תרומת השליח?",
+    "pasuk": {
+     "text": "אם נתכוין להוסיף אפילו אחת",
+     "ref": "Mishnah Terumot 4:4",
+     "label": "משנה תרומות ד, 4"
+    },
+    "question": "המשנה אומרת שאם נתכוון להוסיף אפילו אחת, אין תרומתו תרומה. מדוע אי אפשר לתת לו להשלים, כמו במקרה של אחד מששים ואחד?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 4:4:1-4",
+      "quote": "ומ\"מ קשיא לי מה טעם לא יוסיף כדרך ששנינו למעלה עלה בידו מששים ואחד",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב בשם הר\"ש: אילו נחשב כשיעור לתרומה, התוספת תתערב בטבל ומקצת יהיה מתוקן ומקצת טבל.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 4:4:1",
+        "quote": "נמצא שמקצת מתוקן ומקצת טבל מדומעין זה בזה"
+       }
+      ]
+     },
+     {
+      "text": "הרש\"ש מוסיף שבמקרה של כוונה להוסיף הכל נשאר טבל עד שישלים, ואילו כאן, אם החסרון נחשב, יצטרכו לדון חלק כמתוקן.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Terumot 4:4:2",
+        "quote": "הכא אם תאמר דכשיעור הוי תרומה ע\"כ נצטרך לומר דמקצתו הוה מתוקן"
+       }
+      ]
+     }
+    ],
+    "why": "מראה איך המשנה רואה תערובת של טבל וחולין.",
+    "mishnah": 4,
+    "anchors": [
+     "אם נתכוין להוסיף אפילו אחת"
+    ]
+   },
+   {
+    "title": "מדוע התוספת היא 'תרומת מעשר' למקום אחר?",
+    "pasuk": {
+     "text": "יעשנה תרומת מעשר למקום אחר",
+     "ref": "Mishnah Terumot 4:5",
+     "label": "משנה תרומות ד, 5"
+    },
+    "question": "המשנה אומרת שמעבר לעשירית יעשנה תרומת מעשר למקום אחר. מדוע לא ליישם אותה על המעשר שחייב מאותו כרי עצמו?",
+    "asked_by": [
+     {
+      "name": "תפארת ישראל (יכין)",
+      "ref": "Yachin on Mishnah Terumot 4:24:1",
+      "quote": "למקום אחר המשנה תמוה למה לא יעשהו תמ\"ע על מעשר שחייב מכרי זה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: התוספת נעשית תרומת מעשר כי תרומה גדולה אינה אלא מן המוקף ואילו תרומת מעשר מפרישים שלא מן המוקף.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 4:5:1",
+        "quote": "לפי שאין תורמין שלא מן המוקף, אבל תרומת מעשר מפרישין אותה שלא מן המוקף"
+       }
+      ]
+     },
+     {
+      "text": "רש משנץ: כיון שאי אפשר להפריש חולין מן התרומה עצמה, עושה את היתר תרומת מעשר.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Terumot 4:5:1",
+        "quote": "ומשום דלא אפשר חולין מן התרומה עושה היתר תרומת מעשר"
+       }
+      ]
+     },
+     {
+      "text": "היכין עצמו מסביר שמן התורה אין ברירה איזו תרומה ואיזו היתר.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Terumot 4:24:1",
+        "quote": "אלא נ\"ל דלהכי א\"א דהרי מדאו' אין ברירה איזהו תרומה ואיזהו מותר"
+       }
+      ]
+     }
+    ],
+    "why": "קובע מי רשאי להשתמש בתוספת ובעבור איזה פירות.",
+    "mishnah": 5,
+    "anchors": [
+     "יעשנה תרומת מעשר למקום אחר"
+    ]
+   },
+   {
+    "title": "מה נותן הלוי בחזרה לפי ברטנורא?",
+    "pasuk": {
+     "text": "יותר מכאן יעשנה תרומת מעשר",
+     "ref": "Mishnah Terumot 4:5",
+     "label": "משנה תרומות ד, 5"
+    },
+    "question": "ברטנורא אומר שהלוי עושה את התוספת תרומת מעשר ונותן לבעל הבית חולין תמורתה. האם יש בכך טעם, והרי התוספת כבר מעורבת בתרומה?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 4:5:1-3",
+      "quote": "ולא הבינותי דברים הללו כלל מה שאמר שיתן ללוי אותו הריבוי",
+      "era": "acharon"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 4:5:1",
+      "quote": "תמוה דממ\"נ אם כוונתו למ\"ש הר\"ש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב: המשנה כאבא אלעזר בן גמלא, שישראל רשאי לתרום תרומת מעשר.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 4:5:1",
+        "quote": "דישראל רשאי לתרום תרומת מעשר"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם רבי יוסף: 'למקום אחר' – שיצרפנה עם חולין אחרים.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 4:5:2",
+        "quote": "יעשנה תרומת מעשר על מקום אחר פי' שיצרפנה עם חולין אחרים"
+       }
+      ]
+     }
+    ],
+    "why": "בוחן איך משתמשים בפועל בתוספת התרומה.",
+    "mishnah": 5,
+    "anchors": [
+     "יותר מכאן יעשנה תרומת מעשר"
+    ]
+   },
+   {
+    "title": "מדוע משערים את הכלכלה בשלושה זמנים?",
+    "pasuk": {
+     "text": "בשלשה פרקים משערים את הכלכלה",
+     "ref": "Mishnah Terumot 4:6",
+     "label": "משנה תרומות ד, 6"
+    },
+    "question": "המשנה אומרת שמשערים את הכלכלה בשלושה פרקים בשנה. מה משערים, ומדוע זה חשוב לתרומה?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 4:6:1",
+      "quote": "פי' זה קשה מאוד דאין כאן מקומו",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 4:6:1-11",
+      "quote": "מה בכך אם מכילה פ\"א יותר או פחות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרמב\"ם: כשיודע האדם כמה מכילה הכלכלה בכל זמן, ימוד בה ויוציא את הראוי.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 4:6:1",
+        "quote": "וכשידע האדם כמה מכילה הכלכלה בכל הזמנים ימוד בה ויוציא מה שראוי בה להוציא"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם רבי שמשון: משערים את המדה כדי שלא יקח לעצמו בגדולה ויתן לכהן בקטנה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 4:6:1",
+        "quote": "משערין את המדה כדי שלא יקח לעצמו בגדולה ויתן לכהן בקטנה"
+       }
+      ]
+     }
+    ],
+    "why": "הטעם תלוי באיך הרמב\"ם ורש משנץ מפרשים את המילה.",
+    "mishnah": 6,
+    "anchors": [
+     "בשלשה פרקים משערים את הכלכלה"
+    ]
+   },
+   {
+    "title": "האם ערבוב התאנים נוגד 'אין מבטלין איסור לכתחילה'?",
+    "pasuk": {
+     "text": "תאנים שחורות מעלות את הלבנות",
+     "ref": "Mishnah Terumot 4:8",
+     "label": "משנה תרומות ד, 8"
+    },
+    "question": "ברטנורא אומר שהשחורות והלבנות מצטרפות כי היה יכול לדרוס ולערב. אך משנה אחרת אוסרת להוסיף היתר לבטל איסור במזיד. איך מיישבים?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 4:8:1",
+      "quote": "וקשיא לי דבפ' דלקמן סוף מ\"ט דאם במזיד הוסיף בהיתר על האיסור אסור",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: כל התאנים מצטרפות לבטלה, כי היה יכול לדרוס ולערב.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 4:8:1",
+        "quote": "שאם היה רוצה היה דורסן ומערבן הכל ביחד"
+       }
+      ]
+     },
+     {
+      "text": "בועז: האיסור לבטל איסור לכתחילה הוא כשמרבה בהיתר, ולא כשרק משנה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (בועז)",
+        "ref": "Boaz on Mishnah Terumot 4:2",
+        "quote": "ואף דאין מבטלין איסור לכתחלה כל כה\"ג שאין מרבה בהיתר"
+       }
+      ]
+     }
+    ],
+    "why": "מגביל עד היכן מגיע הנימוק 'היה יכול לערב'.",
+    "mishnah": 8,
+    "anchors": [
+     "תאנים שחורות מעלות את הלבנות"
+    ]
+   },
+   {
+    "title": "מדוע מספיק מנין כשאין משקל?",
+    "pasuk": {
+     "text": "עגולי דבלה הגדולים מעלים את הקטנים",
+     "ref": "Mishnah Terumot 4:8",
+     "label": "משנה תרומות ד, 8"
+    },
+    "question": "הרמב\"ם אומר שהגדולים מעלים את הקטנים במשקל והקטנים את הגדולים במנין. מה נפקא מינה אם מנין לבדו מספיק?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 4:8:1",
+      "quote": "וצ\"ע בלישנא דהרמב\"ם שם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הרש\"ש מתרץ שיש נפקא מינה כשנפלה גדולה למאה קטנות ואחר כך נתערבו.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Terumot 4:8:1",
+        "quote": "ולענ\"ד נ\"מ היכא דנפלה גדולה למאה קטנות"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר את דינו של הרמב\"ם בעיגולי דבלה בגדלים שונים.",
+    "mishnah": 8,
+    "anchors": [
+     "עגולי דבלה הגדולים מעלים את הקטנים"
+    ]
+   },
+   {
+    "title": "מדוע רבי אליעזר ורבי יהושע מתחלפים ממשנה למשנה?",
+    "pasuk": {
+     "text": "ובזו רבי אליעזר מיקל ורבי יהושע מחמיר",
+     "ref": "Mishnah Terumot 4:10",
+     "label": "משנה תרומות ד, 10"
+    },
+    "question": "במשנה ט רבי אליעזר מחמיר ורבי יהושע מיקל, ובמשנה י להפך. מה הטעם בכל אחד?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 4:10:1",
+      "quote": "וצריך טעם בין לרבי אליעזר בין לרבי יהושע מ\"ש לבנות ושחורות",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "התוספות יום טוב בשם התוספות: השחורות אינן ראויות להיות בספק דמוע, כי הן ניכרות בין הלבנות.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 4:10:1",
+        "quote": "דהשחורות אינן ראויות להיות בספק דמוע שלעולם השחורות ניכרות מתוך לבנות"
+       }
+      ]
+     },
+     {
+      "text": "התוספות יום טוב בשם הירושלמי: קושיה ותירוץ על ההבדל בין שתי המשניות.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 4:10:1",
+        "quote": "דבירושלמי מקשה מ\"ש הכא שר\"א מחמיר ור\"י מיקל"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהמחלוקת היא על מבנה התערובת ולא על חומרה וקולה.",
+    "mishnah": 10,
+    "anchors": [
+     "ובזו רבי אליעזר מיקל ורבי יהושע מחמיר"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות יום טוב",
+   "רמב\"ם",
+   "מלאכת שלמה",
+   "ברטנורא",
+   "לחם שמים",
+   "רש\"ש",
+   "תפארת ישראל (יכין)",
+   "רש משנץ",
+   "תפארת ישראל (בועז)",
+   "תוספות רבי עקיבא איגר"
+  ]
+ }
 }
