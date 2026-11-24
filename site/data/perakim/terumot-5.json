@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-24",
+ "hebrew_date": {
+  "hebrew": "י״ד בְּכִסְלֵו תשפ״ז",
+  "english": "14 Kislev 5787"
+ },
  "masechet": "terumot",
  "perek": 5,
  "ref": "Mishnah Terumot 5",
@@ -39,5 +44,1111 @@
    "he": "סְאָה תְרוּמָה שֶׁנָּפְלָה לְמֵאָה, וּטְחָנָן וּפָחֲתוּ, כְּשֵׁם שֶׁפָּחֲתוּ הַחֻלִּין, כָּךְ פָּחֲתָה הַתְּרוּמָה, וּמֻתָּר. סְאָה תְרוּמָה שֶׁנָּפְלָה לְפָחוֹת מִמֵּאָה, וּטְחָנָן וְהוֹתִירוּ, כְּשֵׁם שֶׁהוֹתִירוּ הַחֻלִּין, כָּךּ הוֹתִירָה הַתְּרוּמָה, וְאָסוּר. אִם יָדוּעַ שֶׁהַחִטִּים שֶׁל חֻלִּין יָפוֹת מִשֶּׁל תְּרוּמָה, מֻתָּר. סְאָה תְרוּמָה שֶׁנָּפְלָה לְפָחוֹת מִמֵּאָה, וְאַחַר כֵּן נָפְלוּ שָׁם חֻלִּין, אִם שׁוֹגֵג, מֻתָּר, וְאִם מֵזִיד, אָסוּר:  ",
    "en": "If a seah of terumah fell into a hundred [of hullin], and they were ground together and reduced in bulk, just as the hullin was reduced so too the terumah was reduced, and it is permitted. If a seah of terumah fell into less than a hundred [of hullin] and they were ground together and increased in bulk, just as the hullin became more, so too the terumah became more, and it is forbidden. If it is known that the kernels of hullin were better than the terumah, it is permitted. If a seah of terumah fell into less than a hundred [of hullin], and more hullin fell in afterwards, if it was accidental it is permissible, but if intentional it is forbidden."
   }
- ]
+ ],
+ "english": {
+  "topics": [
+   {
+    "term": "Unclean terumah",
+    "explanation": "Terumah that became ritually unclean. It may not be eaten by a kohen, yet it still has the status of terumah and cannot be eaten by others. When it falls into hullin it creates the cases of this perek.",
+    "mishnah": 1,
+    "anchors": [
+     "סאה תרומה טמאה"
+    ],
+    "source": {
+     "name": "Tosafot Yom Tov",
+     "ref": "Tosafot Yom Tov on Mishnah Terumot 5:1:1",
+     "quote": "דטמאה אסורה באכילה בעשה"
+    }
+   },
+   {
+    "term": "One part in a hundred and one (dimua)",
+    "explanation": "Terumah that falls into fewer than a hundred parts of hullin makes the whole mixture medumma. If it falls into a hundred or more, it is nullified, and a seah is lifted out.",
+    "mishnah": 1,
+    "anchors": [
+     "לפחות ממאה חולין"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 5:1:1",
+     "quote": "דִּתְרוּמָה טְמֵאָה נַמִּי עוֹלָה בְּאַחַת וּמֵאָה"
+    }
+   },
+   {
+    "term": "Nikudim and kelayot",
+    "explanation": "Ways to eat the hullin that were mixed with terumah so that the unclean food does not spread uncleanness: dry or roasted, kneaded with fruit juice, or divided into portions below the size of an egg.",
+    "mishnah": 1,
+    "anchors": [
+     "נקודים או קליות"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 5:1:10",
+     "quote": "דְּאֹכֶל שֶׁהוּא פָּחוֹת מִכַּבֵּיצָה אֵינוֹ מְקַבֵּל טֻמְאַת אֳכָלִים"
+    }
+   },
+   {
+    "term": "Fruit juice (mei peirot)",
+    "explanation": "Juice of fruit, such as mulberry or pomegranate juice, does not make food able to receive uncleanness, so dough kneaded with it does not spread uncleanness.",
+    "mishnah": 1,
+    "anchors": [
+     "ילושו במי פירות"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 5:1:9",
+     "quote": "כְּגוֹן מֵי תוּתִים וְרִמּוֹנִים"
+    }
+   },
+   {
+    "term": "Terumat maaser",
+    "explanation": "The part of the first tithe that the Levite separates for the kohen. When terumah falls into first tithe, one declares the needed terumat maaser over it.",
+    "mishnah": 1,
+    "anchors": [
+     "יקרא שם לתרומת מעשר"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 5:1:5",
+     "quote": "עֲשֵׂם הַלֵּוִי תְּרוּמַת מַעֲשֵׂר עַל טִבְלוֹ"
+    }
+   },
+   {
+    "term": "Beit Shammai and Beit Hillel",
+    "explanation": "The two schools of the Tannaim. Here Beit Shammai first forbid and Beit Hillel permit the mixture of unclean terumah in clean terumah, and Beit Shammai later concede.",
+    "mishnah": 4,
+    "anchors": [
+     "בית שמאי אוסרים",
+     "ובית הלל מתירין"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 5:4:1",
+     "quote": "לא נמצא בשום מקום לעולם שיחזרו ב\"ש לדברי ב\"ה אלא בכאן"
+    }
+   },
+   {
+    "term": "Robbing the tribe (gezel hashevet)",
+    "explanation": "The reason given for lifting terumah that was nullified: the kohanim should not lose their share. When everything is already terumah, no one is robbed, so lifting is not needed.",
+    "mishnah": 4,
+    "anchors": [
+     "אבדה במעוטה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 5:4:4",
+     "quote": "כֵּיוָן דְּהַכֹּל תְּרוּמָה וְאֵין כָּאן גֶּזֶל הַשֵּׁבֶט"
+    }
+   },
+   {
+    "term": "Medumma \"by proportion\"",
+    "explanation": "A mixture of terumah and hullin counts as terumah only for the actual amount of terumah in it, so when it falls into more hullin it forbids them only by calculation.",
+    "mishnah": 6,
+    "anchors": [
+     "אין המדומע מדמע אלא לפי חשבון"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 5:6:1",
+     "quote": "כיצד סאתים של תרומה שנתערבו בעשרים סאין חולין הרי כל זה המדומע כ\"ב סאה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why rot, not burn?",
+    "pasuk": {
+     "text": "בֵּין טְמֵאִין בֵּין טְהוֹרִים, יֵרָקֵבוּ",
+     "ref": "Mishnah Terumot 5:1",
+     "label": "Mishnah Terumot 5:1"
+    },
+    "question": "Why does the mishnah say the mixture must be left to rot, and not that it be burned like other unclean terumah?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Terumot 5:1:2",
+      "quote": "וְהָא דְלֹא תְּנַן יִדָּלְקוּ, מִשּׁוּם דְּחַיְשִׁינַן דִּלְמָא אַדְּמַדְלִיק לְהוּ אָתֵי בְּהוּ לִידֵי תַקָּלָה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: burning could lead him to stumble and eat from it, since people take a mixture (dimua) lightly and are not careful with it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 5:1:2",
+        "quote": "מִשּׁוּם דְּדִמּוּעַ קִיל לְהוּ לְאִינְשֵׁי וְלֹא מִזְדַּהֲרֵי בֵיהּ כֻּלֵּי הַאי"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov: oil can be burned because it is put in a loathsome vessel, but here the produce is dry and not made loathsome, so he may stumble by it.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 5:1:3",
+        "quote": "וְהָכָא בְּדָבָר יָבֵשׁ…וְאָתֵי בְהוּ לִידֵי תַקָּלָה"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov, bringing the Rambam: for something not usually eaten raw they leave it to rot, but for something eaten raw he should burn it all.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 5:1:3",
+        "quote": "אבל בדבר שדרכו להאכל חי. לא יניחן שמא יתקל בהן ויאכל מהן אלא ידליק הכל"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the Rambam and Bartenura/Rash differ on how to dispose of the mixture.",
+    "mishnah": 1,
+    "anchors": [
+     "בֵּין טְמֵאִין בֵּין טְהוֹרִים, יֵרָקֵבוּ"
+    ]
+   },
+   {
+    "title": "What are nikudim?",
+    "pasuk": {
+     "text": "יֵאָכְלוּ נִקּוּדִים אוֹ קְלָיוֹת",
+     "ref": "Mishnah Terumot 5:1",
+     "label": "Mishnah Terumot 5:1"
+    },
+    "question": "What does \"nikudim\" mean, and why must the hullin be eaten that way or divided into doughs of less than an egg?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 5:1:6",
+      "quote": "א\"כ או קליות למאי נ\"מ איצטריך למתני",
+      "era": "acharon"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 5:1:1",
+      "quote": "קשה גם ביצה מכוונת לישתרי ממ\"נ",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: nikudim means dry, as in \"the bread was dry (nikudim)\".",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 5:1:7",
+        "quote": "פֵּרוּשׁ בְּיֹבֶשׁ, כְּמוֹ יָבֵשׁ הָיָה נְקוּדִים"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: nikudim means making small loaves, each half an egg.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 5:1:1",
+        "quote": "ונקודים הוא שיעשנה ככרות קטנות תהיה כל אחת כחצי ביצה"
+       }
+      ]
+     },
+     {
+      "text": "Rashash: the Rambam did not permit exactly an egg, as in Pesachim, lest one end up making more than an egg.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Terumot 5:1:1",
+        "quote": "דילמא אתי למיעבד יותר מכביצה"
+       }
+      ]
+     }
+    ],
+    "why": "The two readings give different laws for how the hullin may be handled.",
+    "mishnah": 1,
+    "anchors": [
+     "יֵאָכְלוּ נִקּוּדִים אוֹ קְלָיוֹת"
+    ]
+   },
+   {
+    "title": "Why lift it at all?",
+    "pasuk": {
+     "text": "תֵּרוֹם וְתִשָּׂרֵף, שֶׁאֲנִי אוֹמֵר",
+     "ref": "Mishnah Terumot 5:2",
+     "label": "Mishnah Terumot 5:2"
+    },
+    "question": "If the seah is burned with no benefit, there is no \"robbing the tribe\" (of the kohanim); why then must it be lifted out?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 5:2:1",
+      "quote": "אין כאן גזל השבט. ולמה ירים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Ikar Tosafot Yom Tov: the Tosafot wrote it is because the Rabbis did not distinguish between cases (lo plug).",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 5:2:1",
+        "quote": "כָּתְבוּ הַתּוֹסָפוֹת מִשּׁוּם דְּלֹא פְּלוּג רַבָּנָן"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: on the Yerushalmi reading it comes to teach that the kohen may benefit by using it as fuel under his pot, and so it is understood why it must be lifted.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 5:2:1",
+        "quote": "שיש לו לכהן להנות ממנו להסיק תחת תבשילו. וניחא נמי דצריך להרים"
+       }
+      ]
+     }
+    ],
+    "why": "It tests the reason for lifting terumah that has already been nullified.",
+    "mishnah": 2,
+    "anchors": [
+     "תֵּרוֹם וְתִשָּׂרֵף, שֶׁאֲנִי אוֹמֵר"
+    ]
+   },
+   {
+    "title": "Is the lifted seah still terumah?",
+    "pasuk": {
+     "text": "תַּעֲלֶה וְתֵאָכֵל נִקּוּדִים",
+     "ref": "Mishnah Terumot 5:2",
+     "label": "Mishnah Terumot 5:2"
+    },
+    "question": "When the Sages say the seah may be taken up and eaten, is it now hullin permitted to non-priests, or does it keep the holiness of terumah?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 5:2:3",
+      "quote": "והר\"ש גם התוספות חולקים…דקדושת תרומה יש בה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov, citing Rashi: since the Sages did not say \"lift it\", it is nullified and permitted to non-priests; it is lifted only because of robbing the tribe.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 5:2:3",
+        "quote": "דס\"ל דנתבטלה ומותרת לזרים אלא עולה משום גזל השבט"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Rabbi Akiva Eiger, citing the Rosh: terumah-holiness remains in it, so it is truly lifted.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 5:2:2",
+        "quote": "דקדושת תרומה יש בה. הלכך נר' תעלה בעלי' ממש"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the lifted seah may be eaten by a non-priest.",
+    "mishnah": 2,
+    "anchors": [
+     "תַּעֲלֶה וְתֵאָכֵל נִקּוּדִים"
+    ]
+   },
+   {
+    "title": "Beit Shammai conceded",
+    "pasuk": {
+     "text": "לְאַחַר שֶׁהוֹדוּ, רַבִּי אֱלִיעֶזֶר אוֹמֵר",
+     "ref": "Mishnah Terumot 5:4",
+     "label": "Mishnah Terumot 5:4"
+    },
+    "question": "Who conceded to whom, and does Beit Hillel's argument really prove that unclean terumah is nullified?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Terumot 5:4:2",
+      "quote": "בעו מי הודה למי",
+      "era": "rishon"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 5:4:1",
+      "quote": "לכאורה יפלא דמ\"מ איכא למיפרך הך פירכא גופה גם על הק\"ו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: nowhere else do Beit Shammai return to the view of Beit Hillel except here.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 5:4:1",
+        "quote": "לא נמצא בשום מקום לעולם שיחזרו ב\"ש לדברי ב\"ה אלא בכאן"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: Beit Hillel argued that clean terumah, which carries death for non-priests, can be lifted, so unclean terumah, which is only a positive command for kohanim, certainly can; so Beit Shammai returned.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 5:4:2",
+        "quote": "וּמַה תְּרוּמָה טְהוֹרָה שֶׁהִיא בְּמִיתָה אֵצֶל הַזָּרִים עוֹלָה, טְמֵאָה שֶׁהִיא בַּעֲשֵׂה אֵצֶל כֹּהֵן לֹא כָּל שֶׁכֵּן"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz, citing the Yerushalmi: R. Bun answers with the same argument — clean terumah, a capital matter for non-priests, can be lifted; unclean, only a positive command for kohanim, all the more so.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Terumot 5:4:2",
+        "quote": "ומה טהורה שהיא בעון מיתה אצל הזרים עולה טמאה שהיא בעשה אצל הכהנים לא כל שכן"
+       }
+      ]
+     }
+    ],
+    "why": "It is the rare case of Beit Shammai conceding.",
+    "mishnah": 4,
+    "anchors": [
+     "לְאַחַר שֶׁהוֹדוּ, רַבִּי אֱלִיעֶזֶר אוֹמֵר"
+    ]
+   },
+   {
+    "title": "Do the hullin inside help nullify?",
+    "pasuk": {
+     "text": "אֵין הַמְדֻמָּע מְדַמֵּעַ אֶלָּא לְפִי חֶשְׁבּוֹן",
+     "ref": "Mishnah Terumot 5:6",
+     "label": "Mishnah Terumot 5:6"
+    },
+    "question": "When part of a medumma mixture falls elsewhere, do the hullin already in it help nullify the terumah, or is only fresh hullin counted?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 5:6:1",
+      "quote": "דאין החולין שבמדומע מסייעי' לבטל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: if eleven seahs of the mixture fall into fewer than a hundred of other hullin, all becomes medumma, since eleven seahs of it hold only one seah of terumah.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 5:6:1",
+        "quote": "אם נתערב ממנו י\"א סאה בפחות ממאה חולין אחרים אז יהיה הכל מדומע לפי שי\"א סאה של מדומע יש בהן סאה אחת של תרומה בלבד"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: we need a hundred of hullin against the terumah actually in the mixture, not a hundred seahs against the whole mixture.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 5:6:1",
+        "quote": "בָּעִינַן מֵאָה מִן הַחֻלִּין, וְלֹא בָעִינַן מֵאָה סְאִין כְּנֶגֶד כָּל אוֹתָהּ סְאָה שֶׁל דִּמּוּעַ"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Rabbi Akiva Eiger: the Rash writes that the hullin inside the mixture also help nullify.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 5:6:1",
+        "quote": "עי' בהר\"ש שכתב דאף החולין שבדמוע מסייעי' לבטל"
+       }
+      ]
+     }
+    ],
+    "why": "The Rambam and the Rash disagree on how nullification works.",
+    "mishnah": 6,
+    "anchors": [
+     "אֵין הַמְדֻמָּע מְדַמֵּעַ אֶלָּא לְפִי חֶשְׁבּוֹן"
+    ]
+   },
+   {
+    "title": "What does \"until terumah increases\" mean?",
+    "pasuk": {
+     "text": "עַד שֶׁתִּרְבֶּה תְרוּמָה עַל הַחֻלִּין",
+     "ref": "Mishnah Terumot 5:7",
+     "label": "Mishnah Terumot 5:7"
+    },
+    "question": "How much terumah must fall in for the hullin to be forbidden? Bartenura says fifty-one seahs, but that seems to contradict mishnah 5.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 5:7:1",
+      "quote": "ולפי שיש להקשות על פירוש זה ממשנה ה דאפי' חכמים אומרים אינו מדמע אלא לפי חשבון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: until fifty-one seahs of terumah fall in; half and half is permitted.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 5:7:3",
+        "quote": "עַד שֶׁיִּפְּלוּ שָׁם חֲמִשִּׁים וְאֶחָד שֶׁל תְּרוּמָה, אֲבָל מֶחֱצָה עַל מֶחֱצָה שָׁרֵי"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov, citing the Raavad: perhaps when he lifted a seah he lifted hullin, so all the terumah remained.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 5:6:3",
+        "quote": "שֶׁמָּא כְּשֶׁהִגְבִּיהַּ הִגְבִּיהַּ הַחֻלִּין וְהַתְּרוּמָה כֻלָּהּ נִשְׁאֶרֶת"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: until a hundred seahs and a little more of terumah fall in, one after another.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 5:7:1",
+        "quote": "הוא שיפול בק' סאה של חולין מאה ומשהו של תרומה זה אחר זה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows three readings of one phrase.",
+    "mishnah": 7,
+    "anchors": [
+     "עַד שֶׁתִּרְבֶּה תְרוּמָה עַל הַחֻלִּין"
+    ]
+   },
+   {
+    "title": "Grinding to permit",
+    "pasuk": {
+     "text": "כְּשֵׁם שֶׁפָּחֲתוּ הַחֻלִּין, כָּךְ פָּחֲתָה הַתְּרוּמָה, וּמֻתָּר",
+     "ref": "Mishnah Terumot 5:9",
+     "label": "Mishnah Terumot 5:9"
+    },
+    "question": "Is grinding the mixture so the hullin shrink a way of nullifying a forbidden thing in advance, which is not allowed?",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 5:9:2",
+      "quote": "אבל הר\"ש כתב דמתני' ר' יוסי היא דאמר אף מתכוין",
+      "era": "acharon"
+     },
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Terumot 5:5",
+      "quote": "וק\"ל הא בסוגיא דגיטין דנ\"ד ב' אדפרכינן דר\"י אדר\"י",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: this is not nullifying in advance; grinding only reveals that the permitted part was larger than we thought.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 5:9:1",
+        "quote": "ולא הוה מבטל איסור לכתחלה שאין זה אלא שנתגלה עי\"ז שטוחן"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: even in advance he may grind in order to permit it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 5:9:3",
+        "quote": "וַאֲפִלּוּ לְכַתְּחִלָּה יָכוֹל לִטְחֹן כְּדֵי לְהַתִּירָן"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Rabbi Akiva Eiger, citing the Yerushalmi: since he does not intend to nullify but only to grind the wheat, it is permitted in advance.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 5:9:2",
+        "quote": "כיון דאין כוונתו לבטל רק לטחון החטים מש\"ה מותר לכתחלה"
+       }
+      ]
+     }
+    ],
+    "why": "The Rambam explains that one who deliberately adds hullin is penalized for nullifying an issur in advance.",
+    "mishnah": 9,
+    "anchors": [
+     "כְּשֵׁם שֶׁפָּחֲתוּ הַחֻלִּין, כָּךְ פָּחֲתָה הַתְּרוּמָה, וּמֻתָּר"
+    ]
+   }
+  ],
+  "summary": "Mishnah 1 Unclean terumah that falls into fewer than a hundred of hullin, tithe or dedicated produce must rot, while clean terumah has the mixture sold to priests, and unclean hullin may be eaten in small amounts or in portions below an egg. Mishnayot 2–3 A seah of unclean terumah in a hundred of clean hullin is burned, says Rabbi Eliezer, but the Sages say it is lifted and the rest eaten as in mishnah 1, and Rabbi Eliezer agrees where clean terumah fell into unclean hullin. Mishnah 4 Beit Shammai forbid and Beit Hillel permit unclean terumah in a hundred of clean terumah, until Beit Shammai concede, and Rabbi Eliezer would have it lifted and burned while the Sages say it is lost in the minority. Mishnayot 5–6 Terumah lifted out and fallen elsewhere is medumma as certain terumah, says Rabbi Eliezer, but the Sages say only by proportion, as with leaven and drawn water in a mikveh. Mishnayot 7–8 Terumah may fall in and be lifted again and again until the terumah exceeds the hullin, but a second seah falling before lifting forbids all, and Rabbi Shimon permits. Mishnah 9 After grinding, terumah decreases or increases as the hullin do, and one who adds hullin intentionally after terumah fell in forbids the mixture.",
+  "sources_consulted": [
+   "Bartenura",
+   "Ikar Tosafot Yom Tov",
+   "Tosafot Yom Tov",
+   "Rashash",
+   "Rambam",
+   "Lechem Shamayim",
+   "Tosafot Rabbi Akiva Eiger",
+   "Rash MiShantz",
+   "Boaz"
+  ]
+ },
+ "hebrew": {
+  "topics": [
+   {
+    "term": "תרומה טמאה",
+    "explanation": "תרומה שנטמאה. כהן אינו רשאי לאוכלה, ועם זאת היא עדיין תרומה ואסורה לזרים. נפילתה בחולין יוצרת את המקרים שבפרק.",
+    "mishnah": 1,
+    "anchors": [
+     "סאה תרומה טמאה"
+    ],
+    "source": {
+     "name": "תוספות יום טוב",
+     "ref": "Tosafot Yom Tov on Mishnah Terumot 5:1:1",
+     "quote": "דטמאה אסורה באכילה בעשה"
+    }
+   },
+   {
+    "term": "אחד ומאה ודמוע",
+    "explanation": "תרומה שנפלה לפחות ממאה חלקי חולין עושה את הכל מדומע. אם נפלה למאה ויותר היא בטלה, ומרימים סאה.",
+    "mishnah": 1,
+    "anchors": [
+     "לפחות ממאה חולין"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 5:1:1",
+     "quote": "דִּתְרוּמָה טְמֵאָה נַמִּי עוֹלָה בְּאַחַת וּמֵאָה"
+    }
+   },
+   {
+    "term": "נקודים וקליות",
+    "explanation": "דרכים לאכול את החולין שנתערבה בהם תרומה כדי שלא תתפשט הטומאה: ביובש או קלויים, בלישה במי פירות, או בחלוקה לעיסות פחות מכביצה.",
+    "mishnah": 1,
+    "anchors": [
+     "נקודים או קליות"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 5:1:10",
+     "quote": "דְּאֹכֶל שֶׁהוּא פָּחוֹת מִכַּבֵּיצָה אֵינוֹ מְקַבֵּל טֻמְאַת אֳכָלִים"
+    }
+   },
+   {
+    "term": "מי פירות",
+    "explanation": "מי פירות, כגון מי תותים ורימונים, אינם מכשירים את האוכל לקבל טומאה, ולכן עיסה שנילושה בהם אינה מטמאה.",
+    "mishnah": 1,
+    "anchors": [
+     "ילושו במי פירות"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 5:1:9",
+     "quote": "כְּגוֹן מֵי תוּתִים וְרִמּוֹנִים"
+    }
+   },
+   {
+    "term": "תרומת מעשר",
+    "explanation": "החלק ממעשר ראשון שהלוי מפריש לכהן. כשתרומה נופלת במעשר ראשון קוראים שם לתרומת מעשר.",
+    "mishnah": 1,
+    "anchors": [
+     "יקרא שם לתרומת מעשר"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 5:1:5",
+     "quote": "עֲשֵׂם הַלֵּוִי תְּרוּמַת מַעֲשֵׂר עַל טִבְלוֹ"
+    }
+   },
+   {
+    "term": "בית שמאי ובית הלל",
+    "explanation": "שני בתי המדרש של התנאים. כאן בית שמאי אוסרים ובית הלל מתירים תערובת תרומה טמאה בטהורה, ולבסוף בית שמאי הודו.",
+    "mishnah": 4,
+    "anchors": [
+     "בית שמאי אוסרים",
+     "ובית הלל מתירין"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 5:4:1",
+     "quote": "לא נמצא בשום מקום לעולם שיחזרו ב\"ש לדברי ב\"ה אלא בכאן"
+    }
+   },
+   {
+    "term": "גזל השבט",
+    "explanation": "הטעם להרמת תרומה שנתבטלה: שלא יפסיד שבט הכהנים. כשהכל תרומה אין גזל, ואין צורך להרים.",
+    "mishnah": 4,
+    "anchors": [
+     "אבדה במעוטה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 5:4:4",
+     "quote": "כֵּיוָן דְּהַכֹּל תְּרוּמָה וְאֵין כָּאן גֶּזֶל הַשֵּׁבֶט"
+    }
+   },
+   {
+    "term": "מדומע לפי חשבון",
+    "explanation": "תערובת של תרומה וחולין נחשבת תרומה רק לפי כמות התרומה שבה, ולכן כשהיא נופלת לחולין אחרים היא אוסרת רק לפי חשבון.",
+    "mishnah": 6,
+    "anchors": [
+     "אין המדומע מדמע אלא לפי חשבון"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 5:6:1",
+     "quote": "כיצד סאתים של תרומה שנתערבו בעשרים סאין חולין הרי כל זה המדומע כ\"ב סאה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "למה ירקבו ולא ידלקו?",
+    "pasuk": {
+     "text": "בֵּין טְמֵאִין בֵּין טְהוֹרִים, יֵרָקֵבוּ",
+     "ref": "Mishnah Terumot 5:1",
+     "label": "משנה תרומות ה, 1"
+    },
+    "question": "מדוע אומרת המשנה שהתערובת תרקב, ולא שתישרף כשאר תרומה טמאה?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Terumot 5:1:2",
+      "quote": "וְהָא דְלֹא תְּנַן יִדָּלְקוּ, מִשּׁוּם דְּחַיְשִׁינַן דִּלְמָא אַדְּמַדְלִיק לְהוּ אָתֵי בְּהוּ לִידֵי תַקָּלָה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: בשרפה עלול לבוא לידי תקלה ולאכול ממנה, כי אנשים מקילים בדמוע ואינם נזהרים בו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 5:1:2",
+        "quote": "מִשּׁוּם דְּדִמּוּעַ קִיל לְהוּ לְאִינְשֵׁי וְלֹא מִזְדַּהֲרֵי בֵיהּ כֻּלֵּי הַאי"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: בשמן מדליקים כי נותנים אותו בכלי מאוס, אבל כאן הדבר יבש ואינו מאוס, ובא בו לידי תקלה.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 5:1:3",
+        "quote": "וְהָכָא בְּדָבָר יָבֵשׁ…וְאָתֵי בְהוּ לִידֵי תַקָּלָה"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב מביא את הרמב\"ם: בדבר שאין דרכו להיאכל חי מניחים לרקוב, ובדבר שדרכו להיאכל חי ידליק הכל.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 5:1:3",
+        "quote": "אבל בדבר שדרכו להאכל חי. לא יניחן שמא יתקל בהן ויאכל מהן אלא ידליק הכל"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שהרמב\"ם וברטנורא נחלקים כיצד לנהוג בתערובת.",
+    "mishnah": 1,
+    "anchors": [
+     "בֵּין טְמֵאִין בֵּין טְהוֹרִים, יֵרָקֵבוּ"
+    ]
+   },
+   {
+    "title": "מהם נקודים?",
+    "pasuk": {
+     "text": "יֵאָכְלוּ נִקּוּדִים אוֹ קְלָיוֹת",
+     "ref": "Mishnah Terumot 5:1",
+     "label": "משנה תרומות ה, 1"
+    },
+    "question": "מהם \"נקודים\", ומדוע צריך לאכול את החולין כך או לחלקם לעיסות פחות מכביצה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 5:1:6",
+      "quote": "א\"כ או קליות למאי נ\"מ איצטריך למתני",
+      "era": "acharon"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 5:1:1",
+      "quote": "קשה גם ביצה מכוונת לישתרי ממ\"נ",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: נקודים פירושו ביובש, כמו \"יבש היה נקודים\".",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 5:1:7",
+        "quote": "פֵּרוּשׁ בְּיֹבֶשׁ, כְּמוֹ יָבֵשׁ הָיָה נְקוּדִים"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: נקודים הם ככרות קטנות, כל אחת כחצי ביצה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 5:1:1",
+        "quote": "ונקודים הוא שיעשנה ככרות קטנות תהיה כל אחת כחצי ביצה"
+       }
+      ]
+     },
+     {
+      "text": "רש\"ש: הרמב\"ם לא התיר כביצה מכוונת, כמו בפסחים, שמא יעשה יותר מכביצה.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Terumot 5:1:1",
+        "quote": "דילמא אתי למיעבד יותר מכביצה"
+       }
+      ]
+     }
+    ],
+    "why": "לשתי הדעות דינים שונים כיצד אפשר לנהוג בחולין.",
+    "mishnah": 1,
+    "anchors": [
+     "יֵאָכְלוּ נִקּוּדִים אוֹ קְלָיוֹת"
+    ]
+   },
+   {
+    "title": "למה להרים?",
+    "pasuk": {
+     "text": "תֵּרוֹם וְתִשָּׂרֵף, שֶׁאֲנִי אוֹמֵר",
+     "ref": "Mishnah Terumot 5:2",
+     "label": "משנה תרומות ה, 2"
+    },
+    "question": "אם הסאה נשרפת בלא הנאה אין כאן גזל השבט; מדוע אפוא צריך להרים אותה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 5:2:1",
+      "quote": "אין כאן גזל השבט. ולמה ירים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "עיקר תוספות יום טוב: כתבו התוספות משום שלא פלוג רבנן.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 5:2:1",
+        "quote": "כָּתְבוּ הַתּוֹסָפוֹת מִשּׁוּם דְּלֹא פְּלוּג רַבָּנָן"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: לפי גרסת בני מערבא בא ללמד שהכהן רשאי ליהנות ממנה להסיק תחת תבשילו, וניחא שצריך להרים.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 5:2:1",
+        "quote": "שיש לו לכהן להנות ממנו להסיק תחת תבשילו. וניחא נמי דצריך להרים"
+       }
+      ]
+     }
+    ],
+    "why": "בוחן את טעם ההרמה בתרומה שכבר נתבטלה.",
+    "mishnah": 2,
+    "anchors": [
+     "תֵּרוֹם וְתִשָּׂרֵף, שֶׁאֲנִי אוֹמֵר"
+    ]
+   },
+   {
+    "title": "האם הסאה שהורמה עדיין תרומה?",
+    "pasuk": {
+     "text": "תַּעֲלֶה וְתֵאָכֵל נִקּוּדִים",
+     "ref": "Mishnah Terumot 5:2",
+     "label": "משנה תרומות ה, 2"
+    },
+    "question": "כשחכמים אומרים \"תעלה ותאכל\", האם הסאה כבר חולין המותרים לזרים, או שנשארת בה קדושת תרומה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 5:2:3",
+      "quote": "והר\"ש גם התוספות חולקים…דקדושת תרומה יש בה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב בשם רש\"י: מדלא אמרו חכמים \"תירום\", נתבטלה ומותרת לזרים, ועולה משום גזל השבט.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 5:2:3",
+        "quote": "דס\"ל דנתבטלה ומותרת לזרים אלא עולה משום גזל השבט"
+       }
+      ]
+     },
+     {
+      "text": "תוספות רבי עקיבא איגר בשם הרא\"ש: קדושת תרומה יש בה, ולכן עולה בעלייה ממש.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 5:2:2",
+        "quote": "דקדושת תרומה יש בה. הלכך נר' תעלה בעלי' ממש"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם הסאה שהורמה מותרת לזר.",
+    "mishnah": 2,
+    "anchors": [
+     "תַּעֲלֶה וְתֵאָכֵל נִקּוּדִים"
+    ]
+   },
+   {
+    "title": "בית שמאי הודו",
+    "pasuk": {
+     "text": "לְאַחַר שֶׁהוֹדוּ, רַבִּי אֱלִיעֶזֶר אוֹמֵר",
+     "ref": "Mishnah Terumot 5:4",
+     "label": "משנה תרומות ה, 4"
+    },
+    "question": "מי הודה למי, והאם טענת בית הלל אכן מוכיחה שתרומה טמאה בטלה?",
+    "asked_by": [
+     {
+      "name": "רש משנץ",
+      "ref": "Rash MiShantz on Mishnah Terumot 5:4:2",
+      "quote": "בעו מי הודה למי",
+      "era": "rishon"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 5:4:1",
+      "quote": "לכאורה יפלא דמ\"מ איכא למיפרך הך פירכא גופה גם על הק\"ו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: בשום מקום לא חזרו בית שמאי לדברי בית הלל אלא כאן.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 5:4:1",
+        "quote": "לא נמצא בשום מקום לעולם שיחזרו ב\"ש לדברי ב\"ה אלא בכאן"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: בית הלל הקשו שתרומה טהורה שבמיתה אצל זרים עולה, וטמאה שבעשה אצל כהן לא כל שכן, וחזרו בית שמאי.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 5:4:2",
+        "quote": "וּמַה תְּרוּמָה טְהוֹרָה שֶׁהִיא בְּמִיתָה אֵצֶל הַזָּרִים עוֹלָה, טְמֵאָה שֶׁהִיא בַּעֲשֵׂה אֵצֶל כֹּהֵן לֹא כָּל שֶׁכֵּן"
+       }
+      ]
+     },
+     {
+      "text": "רש משנץ בשם הירושלמי: רבי בון משיב באותו טיעון — טהורה בעון מיתה אצל הזרים עולה, וטמאה בעשה אצל הכהנים לא כל שכן.",
+      "sources": [
+       {
+        "name": "רש משנץ",
+        "ref": "Rash MiShantz on Mishnah Terumot 5:4:2",
+        "quote": "ומה טהורה שהיא בעון מיתה אצל הזרים עולה טמאה שהיא בעשה אצל הכהנים לא כל שכן"
+       }
+      ]
+     }
+    ],
+    "why": "זהו מקרה נדיר של הודאת בית שמאי.",
+    "mishnah": 4,
+    "anchors": [
+     "לְאַחַר שֶׁהוֹדוּ, רַבִּי אֱלִיעֶזֶר אוֹמֵר"
+    ]
+   },
+   {
+    "title": "האם החולין שבמדומע מסייעים לבטל?",
+    "pasuk": {
+     "text": "אֵין הַמְדֻמָּע מְדַמֵּעַ אֶלָּא לְפִי חֶשְׁבּוֹן",
+     "ref": "Mishnah Terumot 5:6",
+     "label": "משנה תרומות ה, 6"
+    },
+    "question": "כשחלק מהמדומע נופל למקום אחר, האם החולין שבו מסייעים לבטל את התרומה, או שמא מונים רק חולין חדשים?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 5:6:1",
+      "quote": "דאין החולין שבמדומע מסייעי' לבטל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: אם נפלו י\"א סאה מהמדומע בפחות ממאה חולין אחרים הכל מדומע, שביא\"א סאה של מדומע יש סאה אחת של תרומה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 5:6:1",
+        "quote": "אם נתערב ממנו י\"א סאה בפחות ממאה חולין אחרים אז יהיה הכל מדומע לפי שי\"א סאה של מדומע יש בהן סאה אחת של תרומה בלבד"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: צריך מאה מן החולין כנגד התרומה שבדמוע, ולא מאה סאין כנגד כל הדמוע.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 5:6:1",
+        "quote": "בָּעִינַן מֵאָה מִן הַחֻלִּין, וְלֹא בָעִינַן מֵאָה סְאִין כְּנֶגֶד כָּל אוֹתָהּ סְאָה שֶׁל דִּמּוּעַ"
+       }
+      ]
+     },
+     {
+      "text": "תוספות רבי עקיבא איגר: הר\"ש כתב שגם החולין שבדמוע מסייעים לבטל.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 5:6:1",
+        "quote": "עי' בהר\"ש שכתב דאף החולין שבדמוע מסייעי' לבטל"
+       }
+      ]
+     }
+    ],
+    "why": "הרמב\"ם והר\"ש חלוקים בדרך הביטול.",
+    "mishnah": 6,
+    "anchors": [
+     "אֵין הַמְדֻמָּע מְדַמֵּעַ אֶלָּא לְפִי חֶשְׁבּוֹן"
+    ]
+   },
+   {
+    "title": "מהו \"עד שתרבה תרומה\"?",
+    "pasuk": {
+     "text": "עַד שֶׁתִּרְבֶּה תְרוּמָה עַל הַחֻלִּין",
+     "ref": "Mishnah Terumot 5:7",
+     "label": "משנה תרומות ה, 7"
+    },
+    "question": "כמה תרומה צריכה ליפול כדי שהחולין יאסרו? ברטנורא אומר נ\"א סאין, אך נראה שזה סותר את משנה ה.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 5:7:1",
+      "quote": "ולפי שיש להקשות על פירוש זה ממשנה ה דאפי' חכמים אומרים אינו מדמע אלא לפי חשבון",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: עד שיפלו נ\"א סאים של תרומה; מחצה על מחצה מותר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 5:7:3",
+        "quote": "עַד שֶׁיִּפְּלוּ שָׁם חֲמִשִּׁים וְאֶחָד שֶׁל תְּרוּמָה, אֲבָל מֶחֱצָה עַל מֶחֱצָה שָׁרֵי"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב בשם הראב\"ד: שמא כשהגביה הגביה החולין והתרומה כולה נשארת.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 5:6:3",
+        "quote": "שֶׁמָּא כְּשֶׁהִגְבִּיהַּ הִגְבִּיהַּ הַחֻלִּין וְהַתְּרוּמָה כֻלָּהּ נִשְׁאֶרֶת"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: עד שיפלו מאה ומשהו של תרומה זה אחר זה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 5:7:1",
+        "quote": "הוא שיפול בק' סאה של חולין מאה ומשהו של תרומה זה אחר זה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שלוש דרכים להבין ביטוי אחד.",
+    "mishnah": 7,
+    "anchors": [
+     "עַד שֶׁתִּרְבֶּה תְרוּמָה עַל הַחֻלִּין"
+    ]
+   },
+   {
+    "title": "לטחון כדי להתיר",
+    "pasuk": {
+     "text": "כְּשֵׁם שֶׁפָּחֲתוּ הַחֻלִּין, כָּךְ פָּחֲתָה הַתְּרוּמָה, וּמֻתָּר",
+     "ref": "Mishnah Terumot 5:9",
+     "label": "משנה תרומות ה, 9"
+    },
+    "question": "האם טחינה שמקטינה את החולין היא ביטול איסור לכתחילה, שאינו מותר?",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 5:9:2",
+      "quote": "אבל הר\"ש כתב דמתני' ר' יוסי היא דאמר אף מתכוין",
+      "era": "acharon"
+     },
+     {
+      "name": "בועז",
+      "ref": "Boaz on Mishnah Terumot 5:5",
+      "quote": "וק\"ל הא בסוגיא דגיטין דנ\"ד ב' אדפרכינן דר\"י אדר\"י",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: אין זה ביטול איסור לכתחילה, אלא נתגלה על ידי הטחינה שההיתר היה יותר ממה שחשבנו.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 5:9:1",
+        "quote": "ולא הוה מבטל איסור לכתחלה שאין זה אלא שנתגלה עי\"ז שטוחן"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: אפילו לכתחילה יכול לטחון כדי להתירן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 5:9:3",
+        "quote": "וַאֲפִלּוּ לְכַתְּחִלָּה יָכוֹל לִטְחֹן כְּדֵי לְהַתִּירָן"
+       }
+      ]
+     },
+     {
+      "text": "תוספות רבי עקיבא איגר בשם הירושלמי: כיוון שאין כוונתו לבטל אלא לטחון את החיטים, מותר לכתחילה.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 5:9:2",
+        "quote": "כיון דאין כוונתו לבטל רק לטחון החטים מש\"ה מותר לכתחלה"
+       }
+      ]
+     }
+    ],
+    "why": "הרמב\"ם מבאר שמי שמרבה חולין במזיד נקנס משום ביטול איסור לכתחילה.",
+    "mishnah": 9,
+    "anchors": [
+     "כְּשֵׁם שֶׁפָּחֲתוּ הַחֻלִּין, כָּךְ פָּחֲתָה הַתְּרוּמָה, וּמֻתָּר"
+    ]
+   }
+  ],
+  "summary": "משנה א תרומה טמאה שנפלה לפחות ממאה חולין, מעשר או הקדש תרקב, ובטהורה ימכרו לכהנים, וחולין טמאים יאכלו נקודים או קליות או בעיסות פחות מכביצה. משניות ב-ג סאה תרומה טמאה במאה חולין טהורים תרום ותשרף, דברי רבי אליעזר, וחכמים אומרים תעלה ותאכל כנזכר במשנה א, ורבי אליעזר מודה בתרומה טהורה שנפלה לחולין טמאים. משנה ד תרומה טמאה במאה תרומה טהורה בית שמאי אוסרים ובית הלל מתירים עד שהודו, ורבי אליעזר אומר תרום ותשרף וחכמים אומרים אבדה במעוטה. משניות ה-ו סאה שהורמה ונפלה למקום אחר מדמעת כתרומה ודאי לרבי אליעזר, ולחכמים רק לפי חשבון, וכן במחמץ ובמים שאובין במקוה. משניות ז-ח סאה שנפלה והורמה וחוזר חלילה מותרת עד שתרבה תרומה על החולין, ואם נפלה אחרת לפני שהורמה הכל אסור ורבי שמעון מתיר. משנה ט אחרי טחינה התרומה פוחתת או מוסיפה כחולין, ומי שהרבה חולין במזיד אחרי שנפלה התרומה אסר את התערובת.",
+  "sources_consulted": [
+   "ברטנורא",
+   "עיקר תוספות יום טוב",
+   "תוספות יום טוב",
+   "רש\"ש",
+   "רמב\"ם",
+   "לחם שמים",
+   "תוספות רבי עקיבא איגר",
+   "רש משנץ",
+   "בועז"
+  ]
+ }
 }
