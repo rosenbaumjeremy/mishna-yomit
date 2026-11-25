@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-25",
+ "hebrew_date": {
+  "hebrew": "ט״ו בְּכִסְלֵו תשפ״ז",
+  "english": "15 Kislev 5787"
+ },
  "masechet": "terumot",
  "perek": 6,
  "ref": "Mishnah Terumot 6",
@@ -27,5 +32,1073 @@
    "he": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, מְשַׁלְּמִין מִמִּין עַל שֶׁאֵינוֹ מִינוֹ, בִּלְבַד שֶׁיְּשַׁלֵּם מִן הַיָּפֶה עַל הָרָע. וְרַבִּי עֲקִיבָא אוֹמֵר, אֵין מְשַׁלְּמִין אֶלָּא מִמִּין עַל מִינוֹ. לְפִיכָךְ, אִם אָכַל קִשּׁוּאִין שֶׁל עֶרֶב שְׁבִיעִית, יַמְתִּין לְקִשּׁוּאִין שֶׁל מוֹצָאֵי שְׁבִיעִית, וִישַׁלֵּם מֵהֶם. מִמְּקוֹם שֶׁרַבִּי אֱלִיעֶזֶר מֵקֵל, מִשָּׁם רַבִּי עֲקִיבָא מַחְמִיר, שֶׁנֶּאֱמַר (ויקרא כב), וְנָתַן לַכֹּהֵן אֶת הַקֹּדֶשׁ, כָּל שֶׁהוּא רָאוּי לִהְיוֹת קֹדֶשׁ, דִּבְרֵי רַבִּי אֱלִיעֶזֶר. וְרַבִּי עֲקִיבָא אוֹמֵר, וְנָתַן לַכֹּהֵן אֶת הַקֹּדֶשׁ, קֹדֶשׁ שֶׁאָכָל:  ",
    "en": "Rabbi Eliezer says: they may make repayment from one kind for another, provided that it is from a superior kind for an inferior kind. Rabbi Akiva says: they may make repayment only from the same kind. Hence if a man ate cucumbers grown a year before the seventh year, he must wait for those grown after the termination of the seventh year and repay with them. The same source which causes Rabbi Eliezer to be lenient causes Rabbi Akiva to be stringent, for it says: “And he shall give the priest the holy thing (hakodesh)” (Leviticus 22:14), [implying,] whatever is liable to become “kodesh,” the words of Rabbi Eliezer. But Rabbi Akiva says: “And he shall give the priest the holy thing (kodesh),” [implying] the same kind of holy thing which he ate."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1: An unwitting eater of terumah pays the principal plus a fifth, whether he ate, drank or anointed, and the fifth itself carries a fifth if he eats it again. He pays with tithed ordinary produce that becomes terumah, and the priest may not waive it. Mishnah 2: A daughter of an Israelite who ate terumah and then married a priest pays to herself if no priest had acquired it, and otherwise pays the principal to the owners and the fifth to herself. Mishnah 3: One who feeds his workers or guests terumah pays the principal and they pay the fifth, according to R. Meir, while the Sages say they pay both and he pays them for their meal. Mishnah 4: A thief of terumah pays double, and if he ate it he pays two principals and a fifth. For hekdesh terumah he pays two fifths and the principal, with no double payment. Mishnah 5: One may not pay from leket, shikhechah, peah, hefker, first tithe, or redeemed second tithe and hekdesh, according to R. Meir; the Sages permit these. Mishnah 6: R. Eliezer permits paying from one kind for another if it is better, R. Akiva only kind for kind, and cites 'he shall give to the priest the holy thing'.",
+  "topics": [
+   {
+    "term": "The fifth (chomesh)",
+    "explanation": "The Torah adds a fifth when someone eats sacred food by mistake. Because the fifth is counted as one fifth of the final total, it equals a quarter of what he ate. If he ate a dinar's worth, he pays a dinar and a quarter, so the principal plus the fifth make five quarter-units.",
+    "mishnah": 1,
+    "anchors": [
+     "משלם קרן וחומש"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 6:1:1",
+     "quote": "והחומש הוא רביעית מה שאכל כגון אם אכל תרומה ששוה דינר משלם דינר ורביע"
+    }
+   },
+   {
+    "term": "Unwitting eating (shogeg)",
+    "explanation": "Here shogeg is not only someone who did not know the food was terumah. He may know that it is forbidden to a non-priest, and still be liable for a fifth, as long as he did not know that the penalty for eating it is death at the hands of Heaven. Deliberate eaters are not covered by this payment.",
+    "mishnah": 1,
+    "anchors": [
+     "שוגג"
+    ],
+    "source": {
+     "name": "Yachin",
+     "ref": "Yachin on Mishnah Terumot 6:1:1",
+     "quote": "האוכל תרומה שוגג אפי' ידע שאסורה"
+    }
+   },
+   {
+    "term": "Tithed hullin (chulin metukanim)",
+    "explanation": "The payment is made from ordinary produce from which terumah and the tithes have already been separated. Once the priest receives it, it takes on the status of terumah. Untithed produce (tevel) cannot be used.",
+    "mishnah": 1,
+    "anchors": [
+     "אלא חולין מתוקנים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 6:1:6",
+     "quote": "שהפרישו מהן תרומות ומעשרות"
+    }
+   },
+   {
+    "term": "Double payment (tashlumei kefel)",
+    "explanation": "A thief pays back twice the value of what he stole, as the Torah says 'he shall pay two'. In the mishnah this is paid at the price of terumah, which is cheaper than ordinary produce. If he also ate it, he adds the principal and fifth from ordinary produce.",
+    "mishnah": 4,
+    "anchors": [
+     "תשלומי כפל"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 6:4:1",
+     "quote": "תשלום כפל הגניבה כמו שאמר ה' ית' וחייב לגנב באמרו שנים ישלם"
+    }
+   },
+   {
+    "term": "Hekdesh terumah",
+    "explanation": "This is terumah that a priest consecrated to the Temple maintenance fund. It now carries two prohibitions: terumah and Temple property. Whoever eats it must therefore add two fifths, one for each.",
+    "mishnah": 4,
+    "anchors": [
+     "תרומת הקדש"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 6:4:4",
+     "quote": "שהקדיש הכהן תרומה לבדק הבית"
+    }
+   },
+   {
+    "term": "Leket, shikhechah, peah (the poor's gifts)",
+    "explanation": "These are gifts left in the field for the poor. They were never liable for terumah or tithes, and so were never 'fit to become holy' in the sense that the verse requires. That is why one cannot pay terumah debts from them.",
+    "mishnah": 5,
+    "anchors": [
+     "מן הלקט ומן השכחה ומן הפאה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 6:5:1",
+     "quote": "משום דאין בהם זיקת תרומה ומעשרות"
+    }
+   },
+   {
+    "term": "Paying 'kind for kind' (min al mino)",
+    "explanation": "R. Eliezer allows paying with a different kind of produce, provided it is a better kind. R. Akiva says the payment must be of the same kind that was eaten. Bartenura illustrates the case of someone who ate figs and pays with dates, and says the payment is measured by quantity, not by price.",
+    "mishnah": 6,
+    "anchors": [
+     "ממין על מינו"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 6:6:1",
+     "quote": "ולפי מדה שאכל גרוגרות ישלם תמרים ולא לפי דמים"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why can't he pay with terumah?",
+    "pasuk": {
+     "text": "האוכל תרומה שוגג, משלם קרן וחומש. אחד האוכל ואחד השותה ואחד הסך",
+     "ref": "Mishnah Terumot 6:1",
+     "label": "Mishnah Terumot 6:1"
+    },
+    "question": "Bartenura says he cannot pay with terumah because the priest's terumah is a debt he owes and he cannot pay a debt from another source. Lechem Shamayim and Rashash press: if so, someone who inherited terumah from his mother's father, a priest, could pay with it. Why does the mishnah need to say this?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 6:1:2",
+      "quote": "ואני תמיה על זה מה צורך לדרוש טעם זה למצוה זו",
+      "era": "acharon"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 6:1:1",
+      "quote": "אם נפלה לו מבית אבי אמו כהן יכול לפורעה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura says it is a debt he cannot pay from another source.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 6:1:5",
+        "quote": "ותשלומי מה שאכל הם חוב עליו ואינו יכול לפרוע חובו ממקום אחר"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: it is the Torah's decree that the payment be ordinary produce, which then becomes terumah.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 6:1:2",
+        "quote": "כי גזרת הכתוב היא לשלם דווקא חולין והן נעשין תרומה"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: even terumah inherited from his mother's father cannot be used, since the verse says 'fit to become holy'.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Terumot 6:5:1",
+        "quote": "ואפי' ירש תרומה מאבי אמו שיכול למוכרה והדמי' שלו אפ\"ה אינו יכול לשלם ממנו"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "It shows what the payment is based on: a debt, or a verse that demands ordinary produce.",
+     "היא מראה על מה נשען התשלום: חוב, או פסוק הדורש חולין."
+    ],
+    "mishnah": 1,
+    "anchors": [
+     "האוכל תרומה שוגג, משלם קרן וחומש. אחד האוכל ואחד השותה ואחד הסך"
+    ]
+   },
+   {
+    "title": "The fifth of the fifth",
+    "pasuk": {
+     "text": "חֻמְשָׁהּ וְחֹמֶשׁ חֻמְשָׁהּ",
+     "ref": "Mishnah Terumot 6:1",
+     "label": "Mishnah Terumot 6:1"
+    },
+    "question": "Tosafot Yom Tov is surprised that the Rambam derives 'a fifth of a fifth' from a different verse in Leviticus, and does not mention the derivation in the Gemara. How is this fifth learned?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 6:1:4",
+      "quote": "ותמיהני שלא כתב דרשא שבגמרא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rash MiShantz: the Gemara derives it from the verse 'he shall add its fifth', with the letter vav moved.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Terumot 6:1:4",
+        "quote": "ובפ' הזהב דרשי לה מקרא מדכתיב"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: from the other verse, 'its fifths he shall add to it', which teaches that he adds a fifth to a fifth.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 6:1:2",
+        "quote": "מלמד שהוא מוסיף חומש על חומש"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "Two ways of learning the same law.",
+     "שתי דרכים ללמוד אותו דין."
+    ],
+    "mishnah": 1,
+    "anchors": [
+     "חֻמְשָׁהּ וְחֹמֶשׁ חֻמְשָׁהּ"
+    ]
+   },
+   {
+    "title": "Why can't the priest forgive?",
+    "pasuk": {
+     "text": "אִם רָצָה הַכֹּהֵן לִמְחֹל, אֵינוֹ מוֹחֵל",
+     "ref": "Mishnah Terumot 6:1",
+     "label": "Mishnah Terumot 6:1"
+    },
+    "question": "The mishnah says the priest cannot waive the payment. Melekhet Shelomoh asks, in the name of the Rosh: why not, if one who robbed and swore falsely can be forgiven the fifth?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 6:1:9",
+      "quote": "אבל אין לומר משום דהוי כעין קרבן כיון דמחייב חומש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the payment must be ordinary produce fit to become holy, and cannot be settled with money, so it does not depend on the owner.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 6:1:9",
+        "quote": "אין הדבר תלוי בבעלים"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing Tosafot: the priest cannot waive the separation itself, but after it has been separated he can forgive it.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 6:1:8",
+        "quote": "אבל לאחר שהפריש יכול למחול לו"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "It fixes what the priest can and cannot give up.",
+     "היא קובעת מה הכהן יכול לוותר עליו."
+    ],
+    "mishnah": 1,
+    "anchors": [
+     "אִם רָצָה הַכֹּהֵן לִמְחֹל, אֵינוֹ מוֹחֵל"
+    ]
+   },
+   {
+    "title": "But they already ate",
+    "pasuk": {
+     "text": "הוּא מְשַׁלֵּם אֶת הַקֶּרֶן",
+     "ref": "Mishnah Terumot 6:3",
+     "label": "Mishnah Terumot 6:3"
+    },
+    "question": "The Yerushalmi asks, according to Rabbi Meir: if the householder pays the principal, why? They already ate the food, so they gained from it. Tosafot Yom Tov cites the answer.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 6:3:1",
+      "quote": "ופריך בירושלמי והלא כבר אכלו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: a person's soul is disgusted by forbidden food, so it is not counted as eating.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 6:3:1",
+        "quote": "שהנפש קצה באכילת איסור אף על פי שאינו יודע בדבר"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: the question was only asked against R. Meir, since the Rabbis hold the householder owes only the value of the meal.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 6:3:1-5",
+        "quote": "ולרבנן לא מיבעי ליה לשלומי אלא דמי סעודתן בלבד"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "It shows how the Yerushalmi understands eating forbidden food.",
+     "היא מראה כיצד הירושלמי מבין אכילת איסור."
+    ],
+    "mishnah": 3,
+    "anchors": [
+     "הוּא מְשַׁלֵּם אֶת הַקֶּרֶן"
+    ]
+   },
+   {
+    "title": "What does the householder pay?",
+    "pasuk": {
+     "text": "הוּא מְשַׁלֵּם אֶת הַקֶּרֶן, וְהֵם מְשַׁלְּמִין אֶת הַחֹמֶשׁ",
+     "ref": "Mishnah Terumot 6:3",
+     "label": "Mishnah Terumot 6:3"
+    },
+    "question": "Bartenura says that, according to R. Meir, the householder pays only the price of terumah. Lechem Shamayim finds this puzzling: how would the verse 'he shall give to the priest the holy thing' be fulfilled?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 6:3:1-5",
+      "quote": "וזה דבר תימה בעיני כי היאך א\"כ יתקיים המקרא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: according to R. Meir the householder pays only the price of terumah, and according to the Rabbis, the price of ordinary produce.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 6:3:3",
+        "quote": "דלרבי מאיר אין המאכיל משלם אלא דמי תרומה ולרבנן משלם דמי חולין"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing the Rosh: when R. Meir says he pays 'the principal', he means tithed ordinary produce.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 6:3:1",
+        "quote": "הוא משלם את הקרן דקאמר ר\"מ היינו חולין מתוקנין"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: the reverse of Bartenura. For R. Meir the householder pays the whole principal in ordinary produce, while for the Rabbis he pays only the cost of their meal.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 6:3:1-5",
+        "quote": "ואיפכא מדעת הרע\"ב"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "It is a real disagreement about who pays what.",
+     "זו מחלוקת ממשית על מי משלם מה."
+    ],
+    "mishnah": 3,
+    "anchors": [
+     "הוּא מְשַׁלֵּם אֶת הַקֶּרֶן, וְהֵם מְשַׁלְּמִין אֶת הַחֹמֶשׁ"
+    ]
+   },
+   {
+    "title": "Paying by value or by measure",
+    "pasuk": {
+     "text": "וְקֶרֶן דְּמֵי תְרוּמָה",
+     "ref": "Mishnah Terumot 6:4",
+     "label": "Mishnah Terumot 6:4"
+    },
+    "question": "Is the principal paid according to the price of terumah, or according to the quantity? Tosafot Yom Tov says that even the principal and fifth from ordinary produce are paid at terumah's price. Tosafot Rabbi Akiva Eiger and Lechem Shamayim object.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 6:4:2",
+      "quote": "ומ\"מ עדיין קשה לי",
+      "era": "acharon"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 6:4:2-6",
+      "quote": "ותמיהני על זה מי הכריחו לכך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: both are paid at the value of the terumah.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 6:4:1",
+        "quote": "קרן וחומש דמשלם מן החולין נמי בשווי התרומה משלם"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz: 'the price of terumah' lets him pay in money, whereas the rest is ordinary produce.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Terumot 6:4:1",
+        "quote": "גם יכול לשלם דמים ואין צריך לשלם פירות"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "It decides how much the payer actually gives.",
+     "היא קובעת כמה בפועל משלם."
+    ],
+    "mishnah": 4,
+    "anchors": [
+     "וְקֶרֶן דְּמֵי תְרוּמָה"
+    ]
+   },
+   {
+    "title": "Why not from leket, shikhechah and peah?",
+    "pasuk": {
+     "text": "אֵין מְשַׁלְּמִין מִן הַלֶּקֶט וּמִן הַשִּׁכְחָה וּמִן הַפֵּאָה",
+     "ref": "Mishnah Terumot 6:5",
+     "label": "Mishnah Terumot 6:5"
+    },
+    "question": "Bartenura says such produce was never fit to become holy, unlike tithed produce, which was. Tosafot Yom Tov asks: the beginning of the perek seems to require that it be fit now, and before it was tithed it was not fit either.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 6:5:1",
+      "quote": "וקשה דבריש פרקין משמע דדבר הראוי להיות קדש היינו שעכשיו הוא ראוי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov: both are needed, fit now, and fit from the start to be called holy.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 6:5:1",
+        "quote": "וי\"ל דתרתי בעינן שיהיה עכשיו ראוי לשלם ממנו להיות קדש"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: the verse requires something that was fit to become holy, meaning ordinary produce that once had terumah on it.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 6:5:2-4",
+        "quote": "אלא ה\"פ שיתן דבר שהיה ראוי להיות קודש"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: these were never fit to become terumah.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Terumot 6:15:1",
+        "quote": "כל אלו מעולם לא היו ראויין להיות תרומה"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "It defines what 'fit to become holy' means.",
+     "היא מגדירה מה פירוש \"ראוי להיות קודש\"."
+    ],
+    "mishnah": 5,
+    "anchors": [
+     "אֵין מְשַׁלְּמִין מִן הַלֶּקֶט וּמִן הַשִּׁכְחָה וּמִן הַפֵּאָה"
+    ]
+   },
+   {
+    "title": "Why wait until after shemittah?",
+    "pasuk": {
+     "text": "יַמְתִּין לְקִשּׁוּאִין שֶׁל מוֹצָאֵי שְׁבִיעִית",
+     "ref": "Mishnah Terumot 6:6",
+     "label": "Mishnah Terumot 6:6"
+    },
+    "question": "Why can't he pay with shemittah cucumbers? Bartenura says paying a debt with shemittah produce looks like trade. Rambam says shemittah produce is ownerless. Tosafot Rabbi Akiva Eiger asks about the reasons.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 6:6:1",
+      "quote": "ויש לעיין דהא קשואין של שביעית בלא\"ה א\"א לשלם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: shemittah produce may not be used to pay a debt, because it looks like trade.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 6:6:2",
+        "quote": "דמשל שביעית אסור לפרוע חובו דדמי לסחורה"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: it is ownerless, and one cannot pay from ownerless produce.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 6:6:1",
+        "quote": "לפי שהם הפקר לכל וכבר קדם לך שאין משלמין מן ההפקר"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing the Ra'avad: shemittah produce was never subject to terumah.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 6:6:2",
+        "quote": "ולא שייך בהו זיקת תרומה כלל"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "The same law is justified in different ways, and each leads to a different result.",
+     "אותו דין מנומק בדרכים שונות, ולכל אחת תוצאה אחרת."
+    ],
+    "mishnah": 6,
+    "anchors": [
+     "יַמְתִּין לְקִשּׁוּאִין שֶׁל מוֹצָאֵי שְׁבִיעִית"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Lechem Shamayim",
+   "Rashash",
+   "Bartenura",
+   "Yachin",
+   "Tosafot Yom Tov",
+   "Rash MiShantz",
+   "Rambam",
+   "Melekhet Shelomoh",
+   "Ikar Tosafot Yom Tov",
+   "Tosafot Rabbi Akiva Eiger"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א: האוכל תרומה בשוגג משלם קרן וחומש, בין אכל בין שתה בין סך, וחומש החומש אם אכלו שוב. הוא משלם מחולין מתוקנים שנעשים תרומה, והכהן אינו מוחל. משנה ב: בת ישראל שאכלה תרומה ונישאה לכהן משלמת לעצמה אם לא זכה בה כהן, ואם זכה בה כהן משלמת קרן לבעלים וחומש לעצמה. משנה ג: המאכיל את פועליו ואורחיו תרומה משלם קרן והם חומש לדעת רבי מאיר, וחכמים אומרים הם משלמים קרן וחומש והוא משלם להם דמי סעודתן. משנה ד: הגונב תרומה משלם כפל, ואם אכלה משלם שני קרנות וחומש. בתרומת הקדש משלם שני חומשים וקרן, ואין כפל בהקדש. משנה ה: אין משלמים מלקט שכחה פאה והפקר, ממעשר ראשון שניטלה תרומתו, וממעשר שני והקדש שנפדו, לדעת רבי מאיר, וחכמים מתירים. משנה ו: רבי אליעזר מתיר לשלם ממין על שאינו מינו מן היפה על הרע, ורבי עקיבא אומר רק ממין על מינו, ודורש \"ונתן לכהן את הקדש\".",
+  "topics": [
+   {
+    "term": "החומש",
+    "explanation": "התורה מוסיפה חומש על מי שאכל קודש בשוגג. החומש נמדד כחמישית מן הסך הכול, ולכן הוא רבע ממה שאכל. מי שאכל תרומה ששווה דינר משלם דינר ורבע, והקרן והחומש יחד הם חמישה רבעים.",
+    "mishnah": 1,
+    "anchors": [
+     "משלם קרן וחומש"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 6:1:1",
+     "quote": "והחומש הוא רביעית מה שאכל כגון אם אכל תרומה ששוה דינר משלם דינר ורביע"
+    }
+   },
+   {
+    "term": "שוגג באכילת תרומה",
+    "explanation": "שוגג כאן אינו רק מי שלא ידע שהמאכל תרומה. גם מי שידע שהיא אסורה לזר חייב בחומש, כל עוד לא ידע שהאוכלה חייב מיתה. מי שאכל במזיד אינו בכלל תשלום זה.",
+    "mishnah": 1,
+    "anchors": [
+     "שוגג"
+    ],
+    "source": {
+     "name": "תפארת ישראל (יכין)",
+     "ref": "Yachin on Mishnah Terumot 6:1:1",
+     "quote": "האוכל תרומה שוגג אפי' ידע שאסורה"
+    }
+   },
+   {
+    "term": "חולין מתוקנים",
+    "explanation": "התשלום נעשה מפירות חולין שכבר הופרשו מהם תרומות ומעשרות. משנמסרו לכהן הם נעשים תרומה. טבל אינו כשר לתשלום.",
+    "mishnah": 1,
+    "anchors": [
+     "אלא חולין מתוקנים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 6:1:6",
+     "quote": "שהפרישו מהן תרומות ומעשרות"
+    }
+   },
+   {
+    "term": "תשלומי כפל",
+    "explanation": "הגנב משלם כפל, שני קרנות, כמו שנאמר \"שנים ישלם\". במשנה זה נעשה לפי דמי תרומה, שהם זולים מחולין. אם גם אכל, מוסיף קרן וחומש מן החולין.",
+    "mishnah": 4,
+    "anchors": [
+     "תשלומי כפל"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 6:4:1",
+     "quote": "תשלום כפל הגניבה כמו שאמר ה' ית' וחייב לגנב באמרו שנים ישלם"
+    }
+   },
+   {
+    "term": "תרומת הקדש",
+    "explanation": "זו תרומה שכהן הקדיש לבדק הבית. עתה חלים עליה שני איסורים, תרומה והקדש, ולכן האוכלה מוסיף שני חומשים, אחד על כל איסור.",
+    "mishnah": 4,
+    "anchors": [
+     "תרומת הקדש"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 6:4:4",
+     "quote": "שהקדיש הכהן תרומה לבדק הבית"
+    }
+   },
+   {
+    "term": "לקט, שכחה ופאה",
+    "explanation": "אלה מתנות עניים שנשארות בשדה. הן לא היו חייבות מעולם בתרומה ומעשרות, ולכן לא היו ראויות מעולם להיעשות קודש כפי שהפסוק דורש. משום כך אין משלמים מהן.",
+    "mishnah": 5,
+    "anchors": [
+     "מן הלקט ומן השכחה ומן הפאה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 6:5:1",
+     "quote": "משום דאין בהם זיקת תרומה ומעשרות"
+    }
+   },
+   {
+    "term": "ממין על מינו",
+    "explanation": "רבי אליעזר מתיר לשלם ממין אחר ובלבד שיהיה יפה יותר, ורבי עקיבא אומר שאין משלמים אלא מאותו מין שאכל. ברטנורא מדגים באוכל גרוגרות ומשלם תמרים, ואומר שהתשלום לפי מדה ולא לפי דמים.",
+    "mishnah": 6,
+    "anchors": [
+     "ממין על מינו"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 6:6:1",
+     "quote": "ולפי מדה שאכל גרוגרות ישלם תמרים ולא לפי דמים"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע אינו משלם תרומה?",
+    "pasuk": {
+     "text": "האוכל תרומה שוגג, משלם קרן וחומש. אחד האוכל ואחד השותה ואחד הסך",
+     "ref": "Mishnah Terumot 6:1",
+     "label": "משנה תרומות ו, א"
+    },
+    "question": "ברטנורא מסביר שאינו משלם תרומה כי התרומה כבר שייכת לכהן, והתשלום הוא חוב שאינו יכול לפרוע ממקום אחר. לחם שמים והרש\"ש מקשים: לפי זה מי שירש תרומה מאבי אמו הכהן היה יכול לשלם בה. אם כן, מה בא המשנה להשמיענו?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 6:1:2",
+      "quote": "ואני תמיה על זה מה צורך לדרוש טעם זה למצוה זו",
+      "era": "acharon"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 6:1:1",
+      "quote": "אם נפלה לו מבית אבי אמו כהן יכול לפורעה",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: זה חוב שאינו יכול לפרוע ממקום אחר.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 6:1:5",
+        "quote": "ותשלומי מה שאכל הם חוב עליו ואינו יכול לפרוע חובו ממקום אחר"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: זו גזרת הכתוב שישלם חולין, והם נעשים תרומה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 6:1:2",
+        "quote": "כי גזרת הכתוב היא לשלם דווקא חולין והן נעשין תרומה"
+       }
+      ]
+     },
+     {
+      "text": "יכין: אפילו תרומה שירש מאבי אמו אינה כשרה, שהפסוק אומר דבר הראוי להיות קודש.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Terumot 6:5:1",
+        "quote": "ואפי' ירש תרומה מאבי אמו שיכול למוכרה והדמי' שלו אפ\"ה אינו יכול לשלם ממנו"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "הוא מראה על מה נשען התשלום: חוב, או פסוק הדורש חולין."
+    ],
+    "mishnah": 1,
+    "anchors": [
+     "האוכל תרומה שוגג, משלם קרן וחומש. אחד האוכל ואחד השותה ואחד הסך"
+    ]
+   },
+   {
+    "title": "חומש חומשה",
+    "pasuk": {
+     "text": "חֻמְשָׁהּ וְחֹמֶשׁ חֻמְשָׁהּ",
+     "ref": "Mishnah Terumot 6:1",
+     "label": "משנה תרומות ו, א"
+    },
+    "question": "התוספות יום טוב תמה על הרמב\"ם שלמד חומש על חומש מפסוק אחר בספר ויקרא ולא הזכיר את הדרשה שבגמרא. מנין לומדים חומש חומשה?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 6:1:4",
+      "quote": "ותמיהני שלא כתב דרשא שבגמרא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ר\"ש משנץ: הגמרא דורשת מן הפסוק \"ויסף חמישיתו\" בהעברת האות וי\"ו.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Terumot 6:1:4",
+        "quote": "ובפ' הזהב דרשי לה מקרא מדכתיב"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: מן הפסוק האחר \"וחמישיתו יוסף עליו\", שמלמד שמוסיף חומש על חומש.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 6:1:2",
+        "quote": "מלמד שהוא מוסיף חומש על חומש"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "שתי דרכים ללמוד אותו דין."
+    ],
+    "mishnah": 1,
+    "anchors": [
+     "חֻמְשָׁהּ וְחֹמֶשׁ חֻמְשָׁהּ"
+    ]
+   },
+   {
+    "title": "מדוע אינו מוחל?",
+    "pasuk": {
+     "text": "אִם רָצָה הַכֹּהֵן לִמְחֹל, אֵינוֹ מוֹחֵל",
+     "ref": "Mishnah Terumot 6:1",
+     "label": "משנה תרומות ו, א"
+    },
+    "question": "המשנה אומרת שהכהן אינו יכול למחול. מלאכת שלמה מקשה בשם הרא\"ש: למה לא, והרי הגוזל חברו ונשבע לו, ואפשר למחול לו על החומש.",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 6:1:9",
+      "quote": "אבל אין לומר משום דהוי כעין קרבן כיון דמחייב חומש",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: חובה לשלם דבר הראוי להיות קודש ואי אפשר בדמים, ולכן אין זה תלוי בבעלים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 6:1:9",
+        "quote": "אין הדבר תלוי בבעלים"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם התוספות: הכהן אינו יכול למחול על עצם ההפרשה, אך לאחר שהפריש יכול למחול.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 6:1:8",
+        "quote": "אבל לאחר שהפריש יכול למחול לו"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "היא קובעת מה הכהן יכול לוותר עליו."
+    ],
+    "mishnah": 1,
+    "anchors": [
+     "אִם רָצָה הַכֹּהֵן לִמְחֹל, אֵינוֹ מוֹחֵל"
+    ]
+   },
+   {
+    "title": "והלא כבר אכלו",
+    "pasuk": {
+     "text": "הוּא מְשַׁלֵּם אֶת הַקֶּרֶן",
+     "ref": "Mishnah Terumot 6:3",
+     "label": "משנה תרומות ו, ג"
+    },
+    "question": "הירושלמי שואל לפי רבי מאיר: אם בעל הבית משלם את הקרן, למה? והלא כבר אכלו והאכילה הועילה להם. התוספות יום טוב מביא את התשובה.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 6:3:1",
+      "quote": "ופריך בירושלמי והלא כבר אכלו",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: נפשו של אדם קצה באכילת איסור, ולכן אינה נחשבת אכילה.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 6:3:1",
+        "quote": "שהנפש קצה באכילת איסור אף על פי שאינו יודע בדבר"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: הקושיה היא רק לר\"מ, כי לרבנן בעל הבית משלם רק את דמי הסעודה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 6:3:1-5",
+        "quote": "ולרבנן לא מיבעי ליה לשלומי אלא דמי סעודתן בלבד"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "היא מראה כיצד הירושלמי מבין אכילת איסור."
+    ],
+    "mishnah": 3,
+    "anchors": [
+     "הוּא מְשַׁלֵּם אֶת הַקֶּרֶן"
+    ]
+   },
+   {
+    "title": "מה משלם בעל הבית?",
+    "pasuk": {
+     "text": "הוּא מְשַׁלֵּם אֶת הַקֶּרֶן, וְהֵם מְשַׁלְּמִין אֶת הַחֹמֶשׁ",
+     "ref": "Mishnah Terumot 6:3",
+     "label": "משנה תרומות ו, ג"
+    },
+    "question": "ברטנורא אומר שלרבי מאיר בעל הבית משלם רק דמי תרומה. לחם שמים תמה: איך יתקיים אז הפסוק \"ונתן לכהן את הקדש\"?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 6:3:1-5",
+      "quote": "וזה דבר תימה בעיני כי היאך א\"כ יתקיים המקרא",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: לר\"מ בעל הבית משלם דמי תרומה בלבד, ולרבנן דמי חולין.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 6:3:3",
+        "quote": "דלרבי מאיר אין המאכיל משלם אלא דמי תרומה ולרבנן משלם דמי חולין"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם הרא\"ש: כשרבי מאיר אומר שהוא משלם את הקרן, הכוונה לחולין מתוקנין.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 6:3:1",
+        "quote": "הוא משלם את הקרן דקאמר ר\"מ היינו חולין מתוקנין"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: להפך מברטנורא. לר\"מ בעל הבית משלם כל הקרן בחולין מתוקנים, ולרבנן רק את דמי סעודתם.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 6:3:1-5",
+        "quote": "ואיפכא מדעת הרע\"ב"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "זו מחלוקת ממשית על מי משלם מה."
+    ],
+    "mishnah": 3,
+    "anchors": [
+     "הוּא מְשַׁלֵּם אֶת הַקֶּרֶן, וְהֵם מְשַׁלְּמִין אֶת הַחֹמֶשׁ"
+    ]
+   },
+   {
+    "title": "לפי דמים או לפי מדה",
+    "pasuk": {
+     "text": "וְקֶרֶן דְּמֵי תְרוּמָה",
+     "ref": "Mishnah Terumot 6:4",
+     "label": "משנה תרומות ו, ד"
+    },
+    "question": "האם הקרן משולם לפי דמי תרומה או לפי המדה? התוספות יום טוב אומר שגם הקרן והחומש מן החולין משלמים לפי שווי התרומה. תוספות רבי עקיבא איגר ולחם שמים מקשים.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 6:4:2",
+      "quote": "ומ\"מ עדיין קשה לי",
+      "era": "acharon"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 6:4:2-6",
+      "quote": "ותמיהני על זה מי הכריחו לכך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: גם הם משלמים לפי שווי התרומה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 6:4:1",
+        "quote": "קרן וחומש דמשלם מן החולין נמי בשווי התרומה משלם"
+       }
+      ]
+     },
+     {
+      "text": "ר\"ש משנץ: \"דמי תרומה\" מתירה לשלם בכסף, ואילו השאר בפירות.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Terumot 6:4:1",
+        "quote": "גם יכול לשלם דמים ואין צריך לשלם פירות"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "היא קובעת כמה בפועל משלם."
+    ],
+    "mishnah": 4,
+    "anchors": [
+     "וְקֶרֶן דְּמֵי תְרוּמָה"
+    ]
+   },
+   {
+    "title": "מדוע לא מן הלקט והשכחה והפאה?",
+    "pasuk": {
+     "text": "אֵין מְשַׁלְּמִין מִן הַלֶּקֶט וּמִן הַשִּׁכְחָה וּמִן הַפֵּאָה",
+     "ref": "Mishnah Terumot 6:5",
+     "label": "משנה תרומות ו, ה"
+    },
+    "question": "ברטנורא אומר שהם מעולם לא נראו להיות קודש, בניגוד לחולין מתוקנים. התוספות יום טוב שואל: בתחילת הפרק משמע שצריך להיות ראוי עכשיו, וקודם שנתקנו גם הם לא היו ראויים.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 6:5:1",
+      "quote": "וקשה דבריש פרקין משמע דדבר הראוי להיות קדש היינו שעכשיו הוא ראוי",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב: צריך שני דברים, שיהיה ראוי עכשיו וראוי מתחילה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 6:5:1",
+        "quote": "וי\"ל דתרתי בעינן שיהיה עכשיו ראוי לשלם ממנו להיות קדש"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: הפסוק דורש דבר שהיה ראוי להיות קודש, דהיינו חולין שהיו שייכים לתרומה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 6:5:2-4",
+        "quote": "אלא ה\"פ שיתן דבר שהיה ראוי להיות קודש"
+       }
+      ]
+     },
+     {
+      "text": "יכין: אלו מעולם לא היו ראויים להיות תרומה.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Terumot 6:15:1",
+        "quote": "כל אלו מעולם לא היו ראויין להיות תרומה"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "היא מגדירה מה פירוש \"ראוי להיות קודש\"."
+    ],
+    "mishnah": 5,
+    "anchors": [
+     "אֵין מְשַׁלְּמִין מִן הַלֶּקֶט וּמִן הַשִּׁכְחָה וּמִן הַפֵּאָה"
+    ]
+   },
+   {
+    "title": "מדוע ימתין עד מוצאי שביעית?",
+    "pasuk": {
+     "text": "יַמְתִּין לְקִשּׁוּאִין שֶׁל מוֹצָאֵי שְׁבִיעִית",
+     "ref": "Mishnah Terumot 6:6",
+     "label": "משנה תרומות ו, ו"
+    },
+    "question": "מדוע אי אפשר לשלם בקישואים של שביעית? ברטנורא אומר שפרעון חוב מפירות שביעית דומה לסחורה. הרמב\"ם אומר שפירות שביעית הפקר. תוספות רבי עקיבא איגר מקשה על הטעמים.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 6:6:1",
+      "quote": "ויש לעיין דהא קשואין של שביעית בלא\"ה א\"א לשלם",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: משל שביעית אסור לפרוע חובו כי דומה לסחורה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 6:6:2",
+        "quote": "דמשל שביעית אסור לפרוע חובו דדמי לסחורה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: הם הפקר, ואין משלמים מן ההפקר.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 6:6:1",
+        "quote": "לפי שהם הפקר לכל וכבר קדם לך שאין משלמין מן ההפקר"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם הראב\"ד: פירות שביעית אינם בני תרומה כלל.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 6:6:2",
+        "quote": "ולא שייך בהו זיקת תרומה כלל"
+       }
+      ]
+     }
+    ],
+    "why": [
+     "אותו דין מנומק בדרכים שונות, ולכל אחת תוצאה אחרת."
+    ],
+    "mishnah": 6,
+    "anchors": [
+     "יַמְתִּין לְקִשּׁוּאִין שֶׁל מוֹצָאֵי שְׁבִיעִית"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "לחם שמים",
+   "רש\"ש",
+   "ברטנורא",
+   "תפארת ישראל (יכין)",
+   "תוספות יום טוב",
+   "ר\"ש משנץ",
+   "רמב\"ם",
+   "מלאכת שלמה",
+   "עיקר תוספות יום טוב",
+   "תוספות רבי עקיבא איגר"
+  ]
+ }
 }
