@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-26",
+ "hebrew_date": {
+  "hebrew": "ט״ז בְּכִסְלֵו תשפ״ז",
+  "english": "16 Kislev 5787"
+ },
  "masechet": "terumot",
  "perek": 7,
  "ref": "Mishnah Terumot 7",
@@ -31,5 +36,1119 @@
    "he": "זָרַע אֶת אַחַת מֵהֶן, פָּטוּר, וְהַשְּׁנִיָּה, נוֹהֵג בָּהּ כִּתְרוּמָה, וְחַיֶּבֶת בְּחַלָּה, דִּבְרֵי רַבִּי מֵאִיר. וְרַבִּי יוֹסֵי פּוֹטֵר. זָרַע אַחֵר אֶת הַשְּׁנִיָּה, פָּטוּר. זָרַע אֶחָד אֶת שְׁתֵּיהֶן, בְּדָבָר שֶׁזַּרְעוֹ כָלֶה, מֻתָּר, וּבְדָבָר שֶׁאֵין זַרְעוֹ כָלֶה. אָסוּר:  ",
    "en": "If he used one of these [baskets] as seed, he is exempt, and the second is treated as if it were terumah and subject to the law of hallah, the words of Rabbi Meir. But Rabbi Yose exempts it. If another person uses the second as seed, then he is exempt. If one man uses both as seed, if it is of a kind whose seed disintegrates [in the ground] it is permissible, but if it is of the kind whose seed does not disintegrate it is prohibited."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1: One who eats terumah intentionally pays the principal but not the fifth, and the payment is hullin that the priest may forgive. Mishnah 2: A priest's daughter who married an Israelite pays the principal only and is burned if she commits adultery, while Rabbi Meir says that if she married a disqualified man she pays the fifth too and is strangled; the Sages say she is burned and pays no fifth. Mishnayot 3–4: One who feeds his small children or slaves, eats terumah of outside the Land, or eats less than an olive's bulk pays the principal only, and the general rule is that where one pays the fifth the payment becomes terumah, and where one does not it is hullin. Mishnah 5: Of two baskets, one of terumah and one of hullin, when a se'ah of terumah falls into one of them, we say it fell into the terumah; if it is not known which is which, one who eats one is exempt and the second is treated as terumah and obligated in challah according to Rabbi Meir, but Rabbi Yose exempts it. Mishnayot 6–7: If one basket falls into hullin it does not make it medumma, and if both fall into one place they make it medumma according to the smaller of them; and if one sows one basket he is exempt, while if one person sows both, a seed that disintegrates is permitted and one that does not is forbidden.",
+  "topics": [
+   {
+    "term": "Keren and chomesh (the principal and the fifth)",
+    "explanation": "One who eats terumah by mistake pays back the value of what he ate (the keren) and adds a fifth (the chomesh), which goes to the priest. The mishnah teaches that one who eats it intentionally pays only the keren. The Rambam says the Torah required the fifth only of one who ate by mistake.",
+    "mishnah": 1,
+    "anchors": [
+     "משלם את הקרן",
+     "החומש"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 7:1:1",
+     "quote": "לא חייב ה' יתברך בחומש אלא למי שאכל בשגגה"
+    }
+   },
+   {
+    "term": "Intentional eating and warning (hatra'ah)",
+    "explanation": "A person who eats terumah intentionally, with no warning beforehand, is liable to death at the hands of Heaven but is not exempt from paying. If witnesses had warned him he would receive lashes and would not pay. The Bartenura reads the mishnah as speaking of an unwarned eater.",
+    "mishnah": 1,
+    "anchors": [
+     "מזיד"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 7:1:1",
+     "quote": "בלא התראה, דאילו אתרו ביה לוקה ואינו משלם"
+    }
+   },
+   {
+    "term": "A priest's daughter who married a disqualified man",
+    "explanation": "A priest's daughter who married an Israelite may not eat terumah. If she married someone from the disqualified groups, for example a challal or a mamzer, she is profaned by the relations and is like a stranger to terumah. Rabbi Meir therefore has her pay the fifth too, while the Sages do not.",
+    "mishnah": 2,
+    "anchors": [
+     "נשאת לאחד מכל הפסולין"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 7:2:4",
+     "quote": "כגון חלל נתין וממזר, משלמת קרן וחומש"
+    }
+   },
+   {
+    "term": "Bnei chiyuva (those who can be held liable)",
+    "explanation": "The mishnah exempts one who feeds his small children or his slaves from the fifth. The Bartenura gives as the reason that they are not 'bnei chiyuva', people who can be held liable to pay.",
+    "mishnah": 3,
+    "anchors": [
+     "המאכיל את בניו קטנים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 7:3:1",
+     "quote": "דלאו בני חיובא נינהו"
+    }
+   },
+   {
+    "term": "Terumah of outside the Land",
+    "explanation": "Terumah separated outside the Land of Israel is rabbinic, yet it can make hullin into a mixture (medumma). Even so, the Bartenura says the fifth is not added for it.",
+    "mishnah": 3,
+    "anchors": [
+     "תרומת חוצה לארץ"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 7:3:2",
+     "quote": "אף על פי שהיא מדמעת, אין מוסיפין חומש עליה"
+    }
+   },
+   {
+    "term": "Medumma (terumah mixed into hullin)",
+    "explanation": "When terumah falls into hullin the mixture is called medumma. Hon Ashir notes that by the Torah's law one part in two parts is nullified. Here the mishnah says the basket that fell does not make the hullin medumma, because it may have been the hullin basket.",
+    "mishnah": 6,
+    "anchors": [
+     "אינה מדמעתן"
+    ],
+    "source": {
+     "name": "Hon Ashir",
+     "ref": "Hon Ashir on Mishnah Terumot 7:6:1",
+     "quote": "דמדאורייתא חד בתרי בטיל"
+    }
+   },
+   {
+    "term": "The second basket and the law of challah",
+    "explanation": "Rabbi Meir says the remaining basket is treated as terumah and is also obligated in challah, since it may be hullin. Rabbi Yose exempts it, treating it like a medumma that is exempt from challah. The Rambam rules like Rabbi Yose.",
+    "mishnah": 5,
+    "anchors": [
+     "וחייבת בחלה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 7:5:1",
+     "quote": "ור' יוסי אומר נדון אותה כדין מדומע שאינו חייב בחלה"
+    }
+   },
+   {
+    "term": "A seed that disintegrates and one that does not",
+    "explanation": "A seed whose seed 'is consumed' in the ground, such as wheat and barley, is permitted after sowing. One whose seed stays whole, such as garlic and onions, is forbidden. The Rambam explains the difference by what happens to the seed in the soil.",
+    "mishnah": 7,
+    "anchors": [
+     "בדבר שזרעו כלה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 7:7:1",
+     "quote": "דבר שזרעו כלה הוא כמו תבואה וקטנית"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why does the intentional eater pay at all?",
+    "pasuk": {
+     "text": "האוכל תרומה מזיד, משלם את הקרן ואינו משלם את החומש",
+     "ref": "Mishnah Terumot 7:1",
+     "label": "Mishnah Terumot 7:1"
+    },
+    "question": "The Yerushalmi, as brought by Rash MiShantz and Melekhet Shelomoh, asks about Reish Lakish, who says that one who is liable to lashes is exempt from payment: why then does our mishnah have the intentional eater of terumah pay the keren?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Terumot 7:1:1",
+      "quote": "ואמאי תנן האוכל תרומה שוגג משלם קרן וחומש והאוכל תרומה מזיד משלם קרן",
+      "era": "rishon"
+     },
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 7:1:1",
+      "quote": "אמאי תנן שאוכל תרומה שוגג משלם קרן וחומש ואוכל תרומה מזיד משלם קרן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rash MiShantz says the Yerushalmi answers that these mishnayot follow Rabbi Meir, who says he receives lashes and also pays.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Terumot 7:1:1",
+        "quote": "ומשני דכל הנך דמתני' כרבי מאיר דאמר לוקה ומשלם"
+       },
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 7:1:1",
+        "quote": "ומשני דכל הנך מתנייתא כר\"מ דאמר לוקה ומשלם"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura and the Rambam: the mishnah speaks of one who ate without a warning; if he had been warned he would receive lashes and not pay.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 7:1:1",
+        "quote": "בלא התראה, דאילו אתרו ביה לוקה ואינו משלם"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 7:1:1",
+        "quote": "אבל אם היתה שם התראה לוקה ואינו משלם"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the mishnah follows Rabbi Meir or speaks of an unwarned eater.",
+    "mishnah": 1,
+    "anchors": [
+     "האוכל תרומה מזיד, משלם את הקרן ואינו משלם את החומש"
+    ]
+   },
+   {
+    "title": "Payment of hullin or payment of terumah?",
+    "pasuk": {
+     "text": "התשלומין חולין, אם רצה הכהן למחול, מוחל",
+     "ref": "Mishnah Terumot 7:1",
+     "label": "Mishnah Terumot 7:1"
+    },
+    "question": "The Rashash finds it difficult (tzarich iyun) that this mishnah does not say, as the earlier perek does for the mistaken eater, whether the payment is terumah or its value. What does the intentional eater pay, and why are the payments hullin?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 7:1:1",
+      "quote": "אבל צ\"ע מדוע לא תני הכא ג\"כ",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Lechem Shamayim: here he pays only the value of terumah.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 7:1:1",
+        "quote": "הכא ודאי לא משלם אלא דמי תרומה"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam: the mistaken eater's payment is holy, but the intentional eater is the opposite in every law, so his payment is hullin.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 7:1:1",
+        "quote": "ובכאן שתשלומיהן חולין לפי שמזיד הפך השוגג בכל הדינים"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: only the payment of a mistaken eater is called holy by the Torah.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 7:1:3",
+        "quote": "אבל תשלומין דמזיד חולין הן"
+       }
+      ]
+     }
+    ],
+    "why": "It explains why the priest may forgive this payment.",
+    "mishnah": 1,
+    "anchors": [
+     "התשלומין חולין, אם רצה הכהן למחול, מוחל"
+    ]
+   },
+   {
+    "title": "Why does Rabbi Meir give strangulation?",
+    "pasuk": {
+     "text": "נשאת לאחד מכל הפסולין, משלמת קרן וחומש, ומיתתה בחנק, דברי רבי מאיר",
+     "ref": "Mishnah Terumot 7:2",
+     "label": "Mishnah Terumot 7:2"
+    },
+    "question": "What is the reason for Rabbi Meir's position, that a priest's daughter who married a disqualified man pays the fifth and is strangled, while the Sages say she pays no fifth and is burned?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Terumot 7:2:3",
+      "quote": "מה טעם דר' מאיר כי תחל לזנות את אביה את שאינה ראויה לחזור לבית אביה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the verse speaks of one fit to return to her father's house; one who was with a disqualified man is not fit.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 7:2:5",
+        "quote": "מי שראויה לחזור לבית אביה אלמלא זנות זה היא בשרפה"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz, quoting the Yerushalmi: the verse means one whose profanation came from the zenut itself, not from marriage.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Terumot 7:2:3",
+        "quote": "כי תחל לזנות את שחילוליה מחמת זנות ולא מחמת נישואים"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam on the Sages: they mean a profaned woman by zenut, and the Torah calls only a married woman's act zenut.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 7:2:1",
+        "quote": "וחכמים כוונתם על חללים שבזנות והתורה לא קראה זנות אלא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows what 'fit to return to her father's house' means in the dispute.",
+    "mishnah": 2,
+    "anchors": [
+     "נשאת לאחד מכל הפסולין, משלמת קרן וחומש, ומיתתה בחנק, דברי רבי מאיר"
+    ]
+   },
+   {
+    "title": "Why are the children and slaves exempt?",
+    "pasuk": {
+     "text": "המאכיל את בניו קטנים, ואת עבדיו בין גדולים בין קטנים",
+     "ref": "Mishnah Terumot 7:3",
+     "label": "Mishnah Terumot 7:3"
+    },
+    "question": "The Bartenura says the children and slaves are exempt because they are not 'bnei chiyuva'. Rabbi Akiva Eiger and Melekhet Shelomoh question this: slaves are bnei chiyuva, and why does the mishnah specify children and slaves?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 7:3:1",
+      "quote": "אין זה הטעם נראה עיקר דהא עבדים בני חיובא נינהו",
+      "era": "acharon"
+     },
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 7:3:1",
+      "quote": "יקשה ממתני' דהכא דמאי איריא דנקט בניו קטנים ועבדים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: they are not bnei chiyuva.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 7:3:1",
+        "quote": "דלאו בני חיובא נינהו"
+       }
+      ]
+     },
+     {
+      "text": "Ikar Tosafot Yom Tov: we cannot hold them liable because they have nothing, though they are bnei chiyuva.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 7:3:1",
+        "quote": "שאין אנו יכולין לחייבם לפי שאין להם"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh quoting Rabbi Yosef: the reason is that they have nothing to pay with.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 7:3:1",
+        "quote": "אלא הטעם הוא משום דאין להם מה לשלם"
+       }
+      ]
+     },
+     {
+      "text": "Rabbi Akiva Eiger: the mishnah names them to teach that the feeder is exempt from the fifth even when they cannot pay.",
+      "sources": [
+       {
+        "name": "Tosafot Rabbi Akiva Eiger",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 7:3:1",
+        "quote": "י\"ל דנקט בניו קטנים עבדים לרבותא"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether a child or slave who ate terumah owes payment.",
+    "mishnah": 3,
+    "anchors": [
+     "המאכיל את בניו קטנים, ואת עבדיו בין גדולים בין קטנים"
+    ]
+   },
+   {
+    "title": "Why do the Amoraim not dispute our mishnah?",
+    "pasuk": {
+     "text": "הרי אני אומר, לתוך של תרומה נפלה",
+     "ref": "Mishnah Terumot 7:5",
+     "label": "Mishnah Terumot 7:5"
+    },
+    "question": "Rash MiShantz finds it surprising that Rabbi Yochanan and Reish Lakish dispute the case of two baskets with two se'ah in the Bavli, but not the mishnah here. What distinguishes our mishnah?",
+    "asked_by": [
+     {
+      "name": "Rash MiShantz",
+      "ref": "Rash MiShantz on Mishnah Terumot 7:5:1",
+      "quote": "ותימה בסוף הערל גבי ב' קופות ולפניהן ב' סאין דאיפלוג עליה רבי יוחנן וריש לקיש אמאי לא פליגי אמתני' דהכא",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rash MiShantz: the Baraita's novelty is greater, as there are two baskets and two se'ah.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Terumot 7:5:1",
+        "quote": "וי\"ל דהאי רבותא טפי דאיכא תרי שאני אומר"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: with a single se'ah even Reish Lakish may permit without a majority, relying on the hullin basket's status.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 7:5:1",
+        "quote": "ואפשר דבסאה אחת אפי' ר\"ל שרי בלא רבייה דסמכינן אחזקת חולין שבקופה"
+       }
+      ]
+     },
+     {
+      "text": "The Rambam (in Ikar Tosafot Yom Tov): this holds today, when terumah is rabbinic; for terumah of the Torah the hullin must outnumber it.",
+      "sources": [
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 7:5:1",
+        "quote": "בזמן הזה שהוא מדבריהם אבל בתרומה של תורה עד שירבו חולין על התרומה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how far 'I say it fell into the terumah' reaches.",
+    "mishnah": 5,
+    "anchors": [
+     "הרי אני אומר, לתוך של תרומה נפלה"
+    ]
+   },
+   {
+    "title": "Why only terumah and hullin?",
+    "pasuk": {
+     "text": "שתי קופות, אחת של תרומה ואחת של חולין",
+     "ref": "Mishnah Terumot 7:5",
+     "label": "Mishnah Terumot 7:5"
+    },
+    "question": "The Bartenura limits the rule to a basket of terumah and a basket of hullin. If one basket were hullin and the other tevel, he asks, why should one be forbidden rather than the other?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Terumot 7:5:1",
+      "quote": "דמאי חזית לאסור קופה זו יותר מזו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: wherever one basket is not spoiled by it, we assume it fell there.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 7:5:1",
+        "quote": "כל היכא דאחת אינה מתקלקלת תלינן בה"
+       }
+      ]
+     },
+     {
+      "text": "Rash MiShantz, citing the Tosefta: the doubt of a medumma was permitted only where each has a permitted side.",
+      "sources": [
+       {
+        "name": "Rash MiShantz",
+        "ref": "Rash MiShantz on Mishnah Terumot 7:5:1",
+        "quote": "שלא התירו ספק מדומע אלא בדבר שיש לו מתירים"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the boundaries of assuming where the terumah fell.",
+    "mishnah": 5,
+    "anchors": [
+     "שתי קופות, אחת של תרומה ואחת של חולין"
+    ]
+   },
+   {
+    "title": "Why is the second basket still doubtful?",
+    "pasuk": {
+     "text": "נפלה אחת מהן לתוך החולין, אינה מדמעתן, והשנייה, נוהג בה כתרומה",
+     "ref": "Mishnah Terumot 7:6",
+     "label": "Mishnah Terumot 7:6"
+    },
+    "question": "Hon Ashir asks why, when a se'ah of terumah falls into a basket the hullin is simply permitted, while here, even though the one that fell does not make the hullin medumma, the second basket remains in doubt according to Rabbi Meir.",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Terumot 7:6:2",
+      "quote": "מאי שנא דבנפל סאה תרומה החולין מותרין ולא מספקינן בהו כלל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir: we leave things on their prior status, but here the status of both baskets was already unsettled.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Terumot 7:6:2",
+        "quote": "והוא כי לעולם אוקי מלתא אחזקתא"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: it is obligated in challah because it is a doubtful hullin.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 7:5:3",
+        "quote": "דספק חולין היא"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura on Rabbi Yose: since it is not known, it is like a medumma, which is exempt from challah.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 7:5:4",
+        "quote": "דכיון דלא ידיע הוה ליה כמדומע דפטור מן החלה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the status of a doubtful terumah basket.",
+    "mishnah": 6,
+    "anchors": [
+     "נפלה אחת מהן לתוך החולין, אינה מדמעתן, והשנייה, נוהג בה כתרומה"
+    ]
+   },
+   {
+    "title": "Why repeat the second basket's law?",
+    "pasuk": {
+     "text": "זרע את אחת מהן, פטור, והשנייה, נוהג בה כתרומה",
+     "ref": "Mishnah Terumot 7:7",
+     "label": "Mishnah Terumot 7:7"
+    },
+    "question": "Hon Ashir says that stating again that the second basket is treated as terumah is not needed in the case of sowing. Why does the mishnah repeat it?",
+    "asked_by": [
+     {
+      "name": "Hon Ashir",
+      "ref": "Hon Ashir on Mishnah Terumot 7:7:1",
+      "quote": "הא ודאי לא אצטריך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir: it is repeated because of the pattern of the earlier mishnayot.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Terumot 7:7:1",
+        "quote": "אלא דסירכא דמשניות הקודמות נקט"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: for Rabbi Yose it is needed, to teach that it is still a doubtful medumma and obligated in challah.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 7:7:1",
+        "quote": "וליחייב בחלה קמ\"ל מ\"מ ספק מדומע הוא"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the repetition teaches a new law.",
+    "mishnah": 7,
+    "anchors": [
+     "זרע את אחת מהן, פטור, והשנייה, נוהג בה כתרומה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Rash MiShantz",
+   "Melekhet Shelomoh",
+   "Bartenura",
+   "Rambam",
+   "Rashash",
+   "Lechem Shamayim",
+   "Tosafot Rabbi Akiva Eiger",
+   "Ikar Tosafot Yom Tov",
+   "Hon Ashir"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א: האוכל תרומה במזיד משלם את הקרן ואינו משלם את החומש, והתשלומין חולין שהכהן יכול למחול עליהם. משנה ב: בת כהן שנישאה לישראל משלמת קרן בלבד ומיתתה בשריפה, ורבי מאיר אומר שאם נישאה לפסול משלמת גם חומש ומיתתה בחנק, וחכמים אומרים שמיתתה בשריפה ואינה משלמת חומש. משניות ג-ד: המאכיל את בניו הקטנים או את עבדיו, האוכל תרומת חוץ לארץ או פחות מכזית משלם קרן בלבד, והכלל הוא שמי שמשלם קרן וחומש התשלומין תרומה, ומי שמשלם קרן בלבד התשלומין חולין. משנה ה: בשתי קופות, אחת של תרומה ואחת של חולין, כשנפלה סאה תרומה לאחת מהן אומרים שנפלה לתוך של תרומה; ואם אין ידוע איזו היא, האוכל אחת פטור והשנייה נוהגים בה כתרומה וחייבת בחלה לדברי רבי מאיר, ורבי יוסי פוטר. משניות ו-ז: אם נפלה אחת לחולין אינה מדמעתן, ואם נפלו שתיהן למקום אחד מדמעות כקטנה שבהן; והזורע אחת מהן פטור, והזורע שתיהן, בדבר שזרעו כלה מותר ובדבר שאין זרעו כלה אסור.",
+  "topics": [
+   {
+    "term": "קרן וחומש",
+    "explanation": "האוכל תרומה בשוגג משלם את ערך מה שאכל (הקרן) ומוסיף חומש, ונותן לכהן. המשנה מלמדת שהאוכל במזיד משלם רק את הקרן. הרמב\"ם מסביר שהתורה חייבה חומש רק את מי שאכל בשגגה.",
+    "mishnah": 1,
+    "anchors": [
+     "משלם את הקרן",
+     "החומש"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 7:1:1",
+     "quote": "לא חייב ה' יתברך בחומש אלא למי שאכל בשגגה"
+    }
+   },
+   {
+    "term": "אכילה במזיד והתראה",
+    "explanation": "האוכל תרומה במזיד בלי התראה חייב מיתה בידי שמים, ובכל זאת אינו פטור מן התשלומין. אילו התרו בו היה לוקה ואינו משלם. ברטנורא מבין שהמשנה עוסקת באוכל בלי התראה.",
+    "mishnah": 1,
+    "anchors": [
+     "מזיד"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 7:1:1",
+     "quote": "בלא התראה, דאילו אתרו ביה לוקה ואינו משלם"
+    }
+   },
+   {
+    "term": "בת כהן שנישאה לפסול",
+    "explanation": "בת כהן שנישאה לישראל אסורה באכילת תרומה. אם נישאה לאחד מן הפסולים, כגון חלל או ממזר, היא נתחללה בביאתו והרי היא כזרה. לכן רבי מאיר מחייב אותה גם בחומש, והחכמים אינם מחייבים.",
+    "mishnah": 2,
+    "anchors": [
+     "נשאת לאחד מכל הפסולין"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 7:2:4",
+     "quote": "כגון חלל נתין וממזר, משלמת קרן וחומש"
+    }
+   },
+   {
+    "term": "בני חיובא",
+    "explanation": "המשנה פוטרת מחומש את המאכיל את בניו הקטנים ואת עבדיו. ברטנורא נותן טעם: הם אינם 'בני חיובא', כלומר אנשים שאפשר לחייבם בתשלום.",
+    "mishnah": 3,
+    "anchors": [
+     "המאכיל את בניו קטנים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 7:3:1",
+     "quote": "דלאו בני חיובא נינהו"
+    }
+   },
+   {
+    "term": "תרומת חוץ לארץ",
+    "explanation": "תרומה שהופרשה בחוץ לארץ היא מדרבנן, ובכל זאת היא מדמעת. אף על פי כן, אומר ברטנורא, אין מוסיפים עליה חומש.",
+    "mishnah": 3,
+    "anchors": [
+     "תרומת חוצה לארץ"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 7:3:2",
+     "quote": "אף על פי שהיא מדמעת, אין מוסיפין חומש עליה"
+    }
+   },
+   {
+    "term": "מדומע",
+    "explanation": "כשתרומה נופלת לחולין התערובת נקראת מדומע. הון עשיר מזכיר שמן התורה אחד בשניים בטל. כאן המשנה אומרת שהקופה שנפלה אינה מדמעת, כי שמא היא הקופה של החולין.",
+    "mishnah": 6,
+    "anchors": [
+     "אינה מדמעתן"
+    ],
+    "source": {
+     "name": "הון עשיר",
+     "ref": "Hon Ashir on Mishnah Terumot 7:6:1",
+     "quote": "דמדאורייתא חד בתרי בטיל"
+    }
+   },
+   {
+    "term": "הקופה השנייה וחיוב חלה",
+    "explanation": "רבי מאיר אומר שהקופה השנייה נוהגים בה כתרומה וחייבת גם בחלה, שמא היא חולין. רבי יוסי פוטר אותה, כי דינה כמדומע הפטור מחלה. הרמב\"ם פוסק כרבי יוסי.",
+    "mishnah": 5,
+    "anchors": [
+     "וחייבת בחלה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 7:5:1",
+     "quote": "ור' יוסי אומר נדון אותה כדין מדומע שאינו חייב בחלה"
+    }
+   },
+   {
+    "term": "דבר שזרעו כלה ודבר שאין זרעו כלה",
+    "explanation": "דבר שזרעו כלה, כגון חיטים ושעורים, מותר אחרי הזריעה. דבר שזרעו נשאר שלם, כגון שום ובצלים, אסור. הרמב\"ם מסביר את ההבדל לפי מה שקורה לזרע באדמה.",
+    "mishnah": 7,
+    "anchors": [
+     "בדבר שזרעו כלה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 7:7:1",
+     "quote": "דבר שזרעו כלה הוא כמו תבואה וקטנית"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע האוכל במזיד משלם?",
+    "pasuk": {
+     "text": "האוכל תרומה מזיד, משלם את הקרן ואינו משלם את החומש",
+     "ref": "Mishnah Terumot 7:1",
+     "label": "משנה תרומות ז, א"
+    },
+    "question": "הירושלמי, כפי שמביאים ר\"ש משנץ ומלאכת שלמה, שואל על ריש לקיש האומר שמי שחייב מלקות פטור מתשלומין: אם כן, מדוע במשנה שלנו האוכל תרומה במזיד משלם קרן?",
+    "asked_by": [
+     {
+      "name": "ר\"ש משנץ",
+      "ref": "Rash MiShantz on Mishnah Terumot 7:1:1",
+      "quote": "ואמאי תנן האוכל תרומה שוגג משלם קרן וחומש והאוכל תרומה מזיד משלם קרן",
+      "era": "rishon"
+     },
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 7:1:1",
+      "quote": "אמאי תנן שאוכל תרומה שוגג משלם קרן וחומש ואוכל תרומה מזיד משלם קרן",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ר\"ש משנץ: הירושלמי עונה שהמשניות האלה כרבי מאיר, האומר שלוקה ומשלם.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Terumot 7:1:1",
+        "quote": "ומשני דכל הנך דמתני' כרבי מאיר דאמר לוקה ומשלם"
+       },
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 7:1:1",
+        "quote": "ומשני דכל הנך מתנייתא כר\"מ דאמר לוקה ומשלם"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא והרמב\"ם: המשנה עוסקת באוכל בלי התראה; אילו התרו בו היה לוקה ואינו משלם.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 7:1:1",
+        "quote": "בלא התראה, דאילו אתרו ביה לוקה ואינו משלם"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 7:1:1",
+        "quote": "אבל אם היתה שם התראה לוקה ואינו משלם"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה אם המשנה כרבי מאיר או עוסקת באוכל בלי התראה.",
+    "mishnah": 1,
+    "anchors": [
+     "האוכל תרומה מזיד, משלם את הקרן ואינו משלם את החומש"
+    ]
+   },
+   {
+    "title": "תשלום חולין או תרומה?",
+    "pasuk": {
+     "text": "התשלומין חולין, אם רצה הכהן למחול, מוחל",
+     "ref": "Mishnah Terumot 7:1",
+     "label": "משנה תרומות ז, א"
+    },
+    "question": "הרש\"ש מציין שצריך עיון מדוע המשנה כאן אינה אומרת, כמו בפרק הקודם באוכל בשוגג, אם משלם תרומה או את דמיה. מה משלם האוכל במזיד, ומדוע התשלומין חולין?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 7:1:1",
+      "quote": "אבל צ\"ע מדוע לא תני הכא ג\"כ",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "לחם שמים: כאן הוא משלם רק את דמי התרומה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 7:1:1",
+        "quote": "הכא ודאי לא משלם אלא דמי תרומה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: תשלום השוגג הוא קודש, אבל המזיד הפוך מן השוגג בכל הדינים, ולכן תשלומיו חולין.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 7:1:1",
+        "quote": "ובכאן שתשלומיהן חולין לפי שמזיד הפך השוגג בכל הדינים"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: רק תשלום השוגג נקרא קודש בתורה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 7:1:3",
+        "quote": "אבל תשלומין דמזיד חולין הן"
+       }
+      ]
+     }
+    ],
+    "why": "היא מסבירה מדוע הכהן יכול למחול על תשלום זה.",
+    "mishnah": 1,
+    "anchors": [
+     "התשלומין חולין, אם רצה הכהן למחול, מוחל"
+    ]
+   },
+   {
+    "title": "מדוע רבי מאיר מחייב חנק?",
+    "pasuk": {
+     "text": "נשאת לאחד מכל הפסולין, משלמת קרן וחומש, ומיתתה בחנק, דברי רבי מאיר",
+     "ref": "Mishnah Terumot 7:2",
+     "label": "משנה תרומות ז, ב"
+    },
+    "question": "מה טעמו של רבי מאיר, שבת כהן שנישאה לפסול משלמת חומש ומיתתה בחנק, ואילו החכמים אומרים שאינה משלמת חומש ומיתתה בשריפה?",
+    "asked_by": [
+     {
+      "name": "ר\"ש משנץ",
+      "ref": "Rash MiShantz on Mishnah Terumot 7:2:3",
+      "quote": "מה טעם דר' מאיר כי תחל לזנות את אביה את שאינה ראויה לחזור לבית אביה",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: הפסוק מדבר במי שראויה לחזור לבית אביה, ומי שנבעלה לפסול אינה ראויה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 7:2:5",
+        "quote": "מי שראויה לחזור לבית אביה אלמלא זנות זה היא בשרפה"
+       }
+      ]
+     },
+     {
+      "text": "ר\"ש משנץ בשם הירושלמי: הפסוק מדבר במי שחילוליה מחמת זנות ולא מחמת נישואים.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Terumot 7:2:3",
+        "quote": "כי תחל לזנות את שחילוליה מחמת זנות ולא מחמת נישואים"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם בדעת החכמים: הכוונה לחללים שבזנות, והתורה לא קראה זנות אלא לאשת איש.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 7:2:1",
+        "quote": "וחכמים כוונתם על חללים שבזנות והתורה לא קראה זנות אלא"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה מה פירוש 'ראויה לחזור לבית אביה' במחלוקת.",
+    "mishnah": 2,
+    "anchors": [
+     "נשאת לאחד מכל הפסולין, משלמת קרן וחומש, ומיתתה בחנק, דברי רבי מאיר"
+    ]
+   },
+   {
+    "title": "מדוע הבנים והעבדים פטורים?",
+    "pasuk": {
+     "text": "המאכיל את בניו קטנים, ואת עבדיו בין גדולים בין קטנים",
+     "ref": "Mishnah Terumot 7:3",
+     "label": "משנה תרומות ז, ג"
+    },
+    "question": "ברטנורא אומר שהבנים והעבדים פטורים כי אינם בני חיובא. תוספות רבי עקיבא איגר ומלאכת שלמה מקשים: העבדים בני חיובא הם, ומדוע המשנה מזכירה דווקא בנים ועבדים?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 7:3:1",
+      "quote": "אין זה הטעם נראה עיקר דהא עבדים בני חיובא נינהו",
+      "era": "acharon"
+     },
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 7:3:1",
+      "quote": "יקשה ממתני' דהכא דמאי איריא דנקט בניו קטנים ועבדים",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: הם אינם בני חיובא.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 7:3:1",
+        "quote": "דלאו בני חיובא נינהו"
+       }
+      ]
+     },
+     {
+      "text": "עיקר תוספות יום טוב: איננו יכולים לחייבם כי אין להם, אבל הם בני חיובא.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 7:3:1",
+        "quote": "שאין אנו יכולין לחייבם לפי שאין להם"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם ר' יוסף: הטעם הוא שאין להם במה לשלם.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 7:3:1",
+        "quote": "אלא הטעם הוא משום דאין להם מה לשלם"
+       }
+      ]
+     },
+     {
+      "text": "רבי עקיבא איגר: המשנה מזכירה אותם כדי ללמד שהמאכיל פטור מן החומש גם כשאין להם לשלם.",
+      "sources": [
+       {
+        "name": "תוספות רבי עקיבא איגר",
+        "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 7:3:1",
+        "quote": "י\"ל דנקט בניו קטנים עבדים לרבותא"
+       }
+      ]
+     }
+    ],
+    "why": "היא מכריעה אם ילד או עבד שאכלו תרומה חייבים לשלם.",
+    "mishnah": 3,
+    "anchors": [
+     "המאכיל את בניו קטנים, ואת עבדיו בין גדולים בין קטנים"
+    ]
+   },
+   {
+    "title": "מדוע האמוראים אינם חלוקים במשנה?",
+    "pasuk": {
+     "text": "הרי אני אומר, לתוך של תרומה נפלה",
+     "ref": "Mishnah Terumot 7:5",
+     "label": "משנה תרומות ז, ה"
+    },
+    "question": "ר\"ש משנץ תמה מדוע ר' יוחנן וריש לקיש חלוקים בבבלי בשתי קופות ושתי סאין, אבל אינם חלוקים במשנתנו. במה שונה משנתנו?",
+    "asked_by": [
+     {
+      "name": "ר\"ש משנץ",
+      "ref": "Rash MiShantz on Mishnah Terumot 7:5:1",
+      "quote": "ותימה בסוף הערל גבי ב' קופות ולפניהן ב' סאין דאיפלוג עליה רבי יוחנן וריש לקיש אמאי לא פליגי אמתני' דהכא",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ר\"ש משנץ: חידוש הברייתא גדול יותר כי יש בה שתי קופות ושתי סאין.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Terumot 7:5:1",
+        "quote": "וי\"ל דהאי רבותא טפי דאיכא תרי שאני אומר"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: בסאה אחת אפילו ריש לקיש מתיר בלי רוב, כי סומכים על חזקת החולין שבקופה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 7:5:1",
+        "quote": "ואפשר דבסאה אחת אפי' ר\"ל שרי בלא רבייה דסמכינן אחזקת חולין שבקופה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם (בעיקר תוספות יום טוב): זה בזמן הזה, כשהתרומה מדרבנן; בתרומה של תורה צריך שיִרבו החולין על התרומה.",
+      "sources": [
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 7:5:1",
+        "quote": "בזמן הזה שהוא מדבריהם אבל בתרומה של תורה עד שירבו חולין על התרומה"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה עד היכן מגיע 'הריני אומר לתוך של תרומה נפלה'.",
+    "mishnah": 5,
+    "anchors": [
+     "הרי אני אומר, לתוך של תרומה נפלה"
+    ]
+   },
+   {
+    "title": "מדוע רק תרומה וחולין?",
+    "pasuk": {
+     "text": "שתי קופות, אחת של תרומה ואחת של חולין",
+     "ref": "Mishnah Terumot 7:5",
+     "label": "משנה תרומות ז, ה"
+    },
+    "question": "ברטנורא מגביל את הכלל לקופה של תרומה וקופה של חולין. אם האחת חולין והאחרת טבל, הוא שואל: מה ראית לאסור קופה זו יותר מזו?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Terumot 7:5:1",
+      "quote": "דמאי חזית לאסור קופה זו יותר מזו",
+      "era": "rishon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: בכל מקום שאחת מהן אינה מתקלקלת, תולים בה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 7:5:1",
+        "quote": "כל היכא דאחת אינה מתקלקלת תלינן בה"
+       }
+      ]
+     },
+     {
+      "text": "ר\"ש משנץ בשם התוספתא: לא התירו ספק מדומע אלא בדבר שיש לו מתירים.",
+      "sources": [
+       {
+        "name": "ר\"ש משנץ",
+        "ref": "Rash MiShantz on Mishnah Terumot 7:5:1",
+        "quote": "שלא התירו ספק מדומע אלא בדבר שיש לו מתירים"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת את גבולות התליה היכן נפלה התרומה.",
+    "mishnah": 5,
+    "anchors": [
+     "שתי קופות, אחת של תרומה ואחת של חולין"
+    ]
+   },
+   {
+    "title": "מדוע הקופה השנייה נשארת בספק?",
+    "pasuk": {
+     "text": "נפלה אחת מהן לתוך החולין, אינה מדמעתן, והשנייה, נוהג בה כתרומה",
+     "ref": "Mishnah Terumot 7:6",
+     "label": "משנה תרומות ז, ו"
+    },
+    "question": "הון עשיר שואל מדוע כשסאה תרומה נופלת לאחת הקופות החולין מותרים לגמרי, ואילו כאן, אף שהקופה שנפלה אינה מדמעת, הקופה השנייה נשארת בספק לרבי מאיר.",
+    "asked_by": [
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Terumot 7:6:2",
+      "quote": "מאי שנא דבנפל סאה תרומה החולין מותרין ולא מספקינן בהו כלל",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הון עשיר: אנו מעמידים על החזקה, אך כאן החזקה של שתי הקופות כבר נתערערה.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Terumot 7:6:2",
+        "quote": "והוא כי לעולם אוקי מלתא אחזקתא"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: היא חייבת בחלה כי היא ספק חולין.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 7:5:3",
+        "quote": "דספק חולין היא"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא בדעת רבי יוסי: מכיוון שלא ידוע, היא כמדומע הפטור מחלה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 7:5:4",
+        "quote": "דכיון דלא ידיע הוה ליה כמדומע דפטור מן החלה"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה מה דינה של קופת תרומה בספק.",
+    "mishnah": 6,
+    "anchors": [
+     "נפלה אחת מהן לתוך החולין, אינה מדמעתן, והשנייה, נוהג בה כתרומה"
+    ]
+   },
+   {
+    "title": "מדוע לחזור על דין השנייה?",
+    "pasuk": {
+     "text": "זרע את אחת מהן, פטור, והשנייה, נוהג בה כתרומה",
+     "ref": "Mishnah Terumot 7:7",
+     "label": "משנה תרומות ז, ז"
+    },
+    "question": "הון עשיר אומר שאין צורך לחזור כאן על כך שהשנייה נוהגים בה כתרומה. מדוע המשנה חוזרת על זה?",
+    "asked_by": [
+     {
+      "name": "הון עשיר",
+      "ref": "Hon Ashir on Mishnah Terumot 7:7:1",
+      "quote": "הא ודאי לא אצטריך",
+      "era": "acharon"
+     }
+    ],
+    "answers": [
+     {
+      "text": "הון עשיר: זה נאמר בגלל סירכא של המשניות הקודמות.",
+      "sources": [
+       {
+        "name": "הון עשיר",
+        "ref": "Hon Ashir on Mishnah Terumot 7:7:1",
+        "quote": "אלא דסירכא דמשניות הקודמות נקט"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: לרבי יוסי זה נצרך, להשמיע שהוא ספק מדומע וחייב בחלה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 7:7:1",
+        "quote": "וליחייב בחלה קמ\"ל מ\"מ ספק מדומע הוא"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה אם החזרה מלמדת דין חדש.",
+    "mishnah": 7,
+    "anchors": [
+     "זרע את אחת מהן, פטור, והשנייה, נוהג בה כתרומה"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "ר\"ש משנץ",
+   "מלאכת שלמה",
+   "ברטנורא",
+   "רמב\"ם",
+   "רש\"ש",
+   "לחם שמים",
+   "תוספות רבי עקיבא איגר",
+   "עיקר תוספות יום טוב",
+   "הון עשיר"
+  ]
+ }
 }
