@@ -3,7 +3,7 @@
 // published day; later online visits add the new days. Online, files still come from the
 // network first (up to 4s), so updates show up; the saved copy is the fallback.
 const CACHE = "site-v2";
-const SHELL = ["./", "app.css", "app.js", "apple-touch-icon.png", "icon-home.svg", "icon.svg", "index.html", "mail.css", "mail.js", "offline.js", "pdf.css", "pdf.js", "share.css", "share.js", "data/masechtot.json"];
+const SHELL = ["./", "app.css", "app.js", "apple-touch-icon.png", "ask.js", "icon-home.svg", "icon.svg", "index.html", "mail.css", "mail.js", "offline.js", "pdf.css", "pdf.js", "share.css", "share.js", "data/masechtot.json"];
 // [index, its entries -> file paths, whether a saved copy is final]
 const DAYS = [
   ["data/perakim/index.json", d => `data/perakim/${d.masechet}-${d.perek}.json`, j => "english" in j],  // a text-only perek gets its brief later
