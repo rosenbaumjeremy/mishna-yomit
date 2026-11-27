@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-27",
+ "hebrew_date": {
+  "hebrew": "י״ז בְּכִסְלֵו תשפ״ז",
+  "english": "17 Kislev 5787"
+ },
  "masechet": "terumot",
  "perek": 8,
  "ref": "Mishnah Terumot 8",
@@ -51,5 +56,1017 @@
    "he": "וְכֵן נָשִׁים שֶׁאָמְרוּ לָהֶם נָכְרִים, תְּנוּ אַחַת מִכֶּם וּנְטַמֵּא, וְאִם לָאו, הֲרֵי אָנוּ מְטַמְּאִים אֶת כֻּלְּכֶם, יְטַמְּאוּ אֶת כֻּלָּן, וְאַל יִמְסְרוּ לָהֶם נֶפֶשׁ אַחַת מִיִּשְׂרָאֵל: \n",
    "en": "Similarly, if gentiles say to women, “Give us one of you that we may defile her, and if not, we will defile you all”, then let them all be defiled rather than hand over to them one soul from Israel."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1: A woman, slave or priest ate terumah and then learned they were not entitled to it; R. Eliezer obligates the principal and fifth and R. Yehoshua exempts, and a priest who offers on the altar and is found to be the son of a divorcee is disputed, while a blemished priest's service is disqualified. Mishnah 2: R. Eliezer says that terumah still in the mouth is swallowed and R. Yehoshua says it is spat out; in cases of prior impurity or untithed produce all agree to spit it out. Mishnah 3: R. Eliezer and R. Yehoshua argue about finishing a cluster after entering the courtyard, and about nightfall on Shabbat eve. Mishnayot 4–7: wine, water and milk left uncovered are forbidden; the measure of water, the fruit with bite marks, and the wine strainer are given. Mishnayot 8–10: for a jar of terumah of doubtful impurity R. Eliezer, R. Yehoshua and Rabban Gamaliel give three views, and for a jar broken in the upper press they agree to save a revi'it if possible. Mishnayot 11–12: R. Yehoshua says they are warned about eating it; if a gentile demands that one loaf be defiled, R. Eliezer says defile them all, and women do not hand one over.",
+  "topics": [
+   {
+    "term": "Son of a divorcee or halutzah (challal)",
+    "explanation": "A priest whose mother was a divorced woman or one released by halitzah is disqualified from eating terumah. The mishnah asks what happens to terumah that such a priest ate before this became known.",
+    "mishnah": 1,
+    "anchors": [
+     "בן גרושה או בן חלוצה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 8:1:3",
+     "era": "acharon",
+     "quote": "שֶׁהוּא בֶן גְּרוּשָׁה אוֹ בֶן חֲלוּצָה. וּפָסוּל מִלֶּאֱכֹל בִּתְרוּמָה"
+    }
+   },
+   {
+    "term": "Gilui (uncovered liquids)",
+    "explanation": "Water, wine and milk left uncovered are forbidden for fear that a snake drank from them and left poison. The mishnah sets how long they must be left for this to apply.",
+    "mishnah": 4,
+    "anchors": [
+     "משום גילוי"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 8:4:1",
+     "era": "acharon",
+     "quote": "גזירה שמא שתה מהם נחש או אפעה או זולתם מבעלי הארס ויסתכן השותה אותן וימות"
+    }
+   },
+   {
+    "term": "Marah (the snake's poison)",
+    "explanation": "The mishnah gives the measure of uncovered water as enough that the marah is lost in it. The marah is the poison that the snake leaves.",
+    "mishnah": 5,
+    "anchors": [
+     "כדי שתאבד בהם המרה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 8:5:1",
+     "era": "acharon",
+     "quote": "מרה הוא הארס שמקיאין מפיהם הנחשים"
+    }
+   },
+   {
+    "term": "Nikurim (bite marks)",
+    "explanation": "Fruit with a mark where something pecked it is forbidden for fear that a snake bit it and left poison.",
+    "mishnah": 6,
+    "anchors": [
+     "נקורי תאנים"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 8:6:1",
+     "era": "acharon",
+     "quote": "שֶׁמָּא נִקֵּר בָּהּ נָחָשׁ וְהִטִּיל בָּהּ אֶרֶס"
+    }
+   },
+   {
+    "term": "Mishmeret (wine strainer)",
+    "explanation": "A strainer placed over the vessel does not remove the prohibition, since the poison is said to pass through it. R. Nehemiah permits.",
+    "mishnah": 7,
+    "anchors": [
+     "המשמרת של יין"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 8:7:1",
+     "era": "acharon",
+     "quote": "שהיא אסורה משום גלוי אע\"פ שהמשמרת מכסה אותו"
+    }
+   },
+   {
+    "term": "Place of turfah and hidden place",
+    "explanation": "R. Eliezer and R. Yehoshua argue about where to put a jar of terumah of doubtful impurity: in a protected place, or in an open one where it may be lost.",
+    "mishnah": 8,
+    "anchors": [
+     "במקום תרפה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 8:8:1",
+     "era": "acharon",
+     "quote": "תורפה הוא המקום הפחות שברוב יארעו בו מקרים ומאורעות"
+    }
+   },
+   {
+    "term": "Safek tumah (doubtful impurity)",
+    "explanation": "A case such as two jars in a private domain where a creeping animal touched one and it is not known which.",
+    "mishnah": 8,
+    "anchors": [
+     "ספק טמאה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 8:8:1",
+     "era": "acharon",
+     "quote": "כְּגוֹן שְׁתֵּי חָבִיּוֹת בִּרְשׁוּת הַיָּחִיד וְנָגַע שֶׁרֶץ בְּאַחַת מֵהֶן"
+    }
+   },
+   {
+    "term": "The upper press and lower press",
+    "explanation": "The upper press is where the grapes are pressed and the lower is the pit that the wine flows into. The case is terumah wine broken above while the lower one holds unclean ordinary wine.",
+    "mishnah": 9,
+    "anchors": [
+     "בגת העליונה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 8:9:1",
+     "era": "acharon",
+     "quote": "מָקוֹם שֶׁעוֹצְרִים שָׁם"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why does R. Yehoshua exempt the added fifth?",
+    "pasuk": {
+     "text": "רַבִּי אֱלִיעֶזֶר מְחַיֵּב קֶרֶן וְחֹמֶשׁ, וְרַבִּי יְהוֹשֻׁעַ פּוֹטֵר",
+     "ref": "Mishnah Terumot 8:1",
+     "label": "Mishnah Terumot 8:1"
+    },
+    "question": "R. Yehoshua exempts someone who ate terumah by mistake from the added fifth. Rabbi Akiva Eiger and Boaz ask why: elsewhere a person who acted without fulfilling a mitzvah is liable even when his time was pressing, so the exemption seems unexplained.",
+    "asked_by": [
+     {
+      "name": "Tosafot Rabbi Akiva Eiger",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 8:1:1",
+      "era": "acharon",
+      "quote": "קשה לי הא לסתם מתני' (פי\"ט מ\"ד דשבת) סבר ר\"י דבמל של אחר השבת בשבת דחייב כיון שלא עשה מצוה. הרי אף דזמנו בהול מחייב היכא דלא עשה מצוה"
+     },
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Terumot 8:1",
+      "era": "acharon",
+      "quote": "ק\"ל הא לסתם מתני' כו' וצ\"ע"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: the exemption is limited to someone eating terumah of chametz on the eve of Pesach, when his time is pressing because he is about to burn it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 8:1:5",
+        "quote": "בַּגְּמָרָא מוֹקֵי לַהּ דַּוְקָא בְּאוֹכֵל תְּרוּמַת חָמֵץ בְּעֶרֶב פֶּסַח, מִפְּנֵי שֶׁזְּמַנּוֹ בָּהוּל, שֶׁהַשָּׁעָה דְחוּקָה"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the words of Rabbi Yehoshua hold only for terumah of chametz on the eve of Pesach, whose time is pressing.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 8:1:1",
+        "quote": "לא נתקיים אלא בתרומת חמץ ערב פסח שזמנו בהול ענינו שהשעה דחוקה מאד"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: another answer given there is that eating terumah is called a service, and the Torah validated a service of a challal done in error.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 8:1:4",
+        "quote": "ואכילת תרומה איקרי עבודה ועבודה של חלל בשוגג רחמנא אכשרה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the dispute depends on whether eating terumah in error is treated as a mitzvah-time or a service.",
+    "mishnah": 1,
+    "anchors": [
+     "רַבִּי אֱלִיעֶזֶר מְחַיֵּב קֶרֶן וְחֹמֶשׁ, וְרַבִּי יְהוֹשֻׁעַ פּוֹטֵר"
+    ]
+   },
+   {
+    "title": "Why must one who swallows pay the fifth?",
+    "pasuk": {
+     "text": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, יִבְלְעוּ. וְרַבִּי יְהוֹשֻׁעַ אוֹמֵר, יִפְלֹטו",
+     "ref": "Mishnah Terumot 8:2",
+     "label": "Mishnah Terumot 8:2"
+    },
+    "question": "According to R. Eliezer they swallow the terumah that is in their mouths. The Rashash and Boaz ask: the swallowing is not an error and was begun with permission, so why would they pay the principal and the fifth for it?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 8:2:1",
+      "era": "acharon",
+      "quote": "תמוה דמה שבלע עתה אינו בשוגג ועוד כיון שהכניס לתוך פיו בהיתרא ומה שבולע הוא ברשות אמאי יהא חייב"
+     },
+     {
+      "name": "Boaz",
+      "ref": "Boaz on Mishnah Terumot 8:2",
+      "era": "acharon",
+      "quote": "ק\"ל לרמב\"ם דעכ\"פ ישלם קרן וחומש הרי חומש רק בשוגג והכא יכול לפלוט"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: R. Eliezer says they swallow only for a woman and a slave, who first ate with permission; a son of a divorcee or halutzah, who never ate with permission, spits it out even according to him.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 8:2:1",
+        "quote": "עֶבֶד וְאִשָּׁה שֶׁאָכְלוּ מִתְּחִלָּה בְּהֶתֵּר, בְּהָא קָאָמַר רַבִּי אֱלִיעֶזֶר דְּיִבְלְעו"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the swallowing is added to what they ate after the death or the divorce, and all of it is paid with the fifth, as R. Eliezer holds.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 8:2:1",
+        "quote": "ויצטרפו לזה מה שבלע למה שאכל אחר המיתה או הגרושין או כל מה שנזכר וישלם הכל בתוספת החומש כמו שסובר ר' אליעזר"
+       }
+      ]
+     },
+     {
+      "text": "Boaz: where a mitzvah outweighs a transgression the act is permitted, and the mitzvah of not spitting out and wasting the terumah is greater than the swallowing.",
+      "sources": [
+       {
+        "name": "Boaz",
+        "ref": "Boaz on Mishnah Terumot 8:2",
+        "quote": "ה\"נ מצוה שלא יפלוט ויפסד התרומה גדולה טפי מבליעה"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies in which cases R. Eliezer says to swallow and what is then owed.",
+    "mishnah": 2,
+    "anchors": [
+     "רַבִּי אֱלִיעֶזֶר אוֹמֵר, יִבְלְעוּ. וְרַבִּי יְהוֹשֻׁעַ אוֹמֵר, יִפְלֹטו"
+    ]
+   },
+   {
+    "title": "Where may he finish the cluster?",
+    "pasuk": {
+     "text": "הָיָה אוֹכֵל בְּאֶשְׁכּוֹל וְנִכְנַס מִן הַגִּנָּה לֶחָצֵר, רַבִּי אֱלִיעֶזֶר אוֹמֵר, יִגְמֹר",
+     "ref": "Mishnah Terumot 8:3",
+     "label": "Mishnah Terumot 8:3"
+    },
+    "question": "R. Eliezer says he may finish eating. Melekhet Shelomoh asks about the reading that he may finish even in the courtyard: the explanation that he may not eat in the courtyard is taken from the Yerushalmi, where it seems to be only R. Natan's view, so what is R. Eliezer's view in our mishnah?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 8:3:1",
+      "era": "acharon",
+      "quote": "ומה שפי' המפרש לא שיאכל בחצר הועתק מלשון הירושלמי אך צ\"ע בלשון הירוש' כי משמע שם שאין זה אלא דעת ר' נתן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: not that he eats in the courtyard, but he goes out of the courtyard and finishes eating the cluster in the garden.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 8:3:2",
+        "quote": "לֹא שֶׁיֹּאכַל בֶּחָצֵר. אֶלָּא יֵצֵא חוּץ לֶחָצֵר וְיִגְמֹר"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: R. Eliezer's words mean that he leaves the courtyard and finishes, but in the courtyard it is forbidden to complete the eating.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 8:3:1",
+        "quote": "ומאמר רבי אליעזר יגמור פרט ובאר כי רצונו שיצא מן החצר ויגמור אבל בחצר אסור לו להשלים האכילה"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing R. Yosef: he finishes even in the courtyard and even on Shabbat, since he began with permission.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 8:3:1",
+        "quote": "ר\"א אומר יגמור פי' יגמור אפי' בחצר ואפי' בשבת כיון שהתחיל בו בהיתר"
+       }
+      ]
+     }
+    ],
+    "why": "The two readings decide whether the courtyard fixes the obligation of tithes on a partly eaten cluster.",
+    "mishnah": 3,
+    "anchors": [
+     "הָיָה אוֹכֵל בְּאֶשְׁכּוֹל וְנִכְנַס מִן הַגִּנָּה לֶחָצֵר, רַבִּי אֱלִיעֶזֶר אוֹמֵר, יִגְמֹר"
+    ]
+   },
+   {
+    "title": "Is the animal forbidden water that was uncovered?",
+    "pasuk": {
+     "text": "שִׁעוּר הַמַּיִם הַמְגֻלִּין, כְּדֵי שֶׁתֹּאבַד בָּהֶם הַמָּרָה",
+     "ref": "Mishnah Terumot 8:5",
+     "label": "Mishnah Terumot 8:5"
+    },
+    "question": "Bartenura writes that uncovered water may not be given to one's animal. Lechem Shamayim asks about the limit set by the Ran, that this is only for an animal fit to be eaten: even an animal that works has the prohibition of wasting.",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 8:5:2",
+      "era": "acharon",
+      "quote": "מוקי לה הר\"ן בראויה לאכילה. ולא ידענא מאי דוחקיה. בעומדת למלאכה נמי איכא איסורא דב\"ת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Tosafot Yom Tov, citing the Ran: it is an animal fit for eating, because whoever eats from it is harmed.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 8:5:2",
+        "quote": "בראויה לאכילה. לפי שהאוכל ממנה נזוק"
+       }
+      ]
+     },
+     {
+      "text": "Rashash: the Tosafot hold that even for an unclean animal it is forbidden, because of wasting.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Terumot 8:5:2",
+        "quote": "אבל התוס' בב\"ק (קט\"ו ב') כ' דאפי' לטמאה אסור משום בל תשחית"
+       }
+      ]
+     }
+    ],
+    "why": "It shows whether the ban on using uncovered water for animals comes from danger to those who eat the animal or from wasting.",
+    "mishnah": 5,
+    "anchors": [
+     "שִׁעוּר הַמַּיִם הַמְגֻלִּין, כְּדֵי שֶׁתֹּאבַד בָּהֶם הַמָּרָה"
+    ]
+   },
+   {
+    "title": "Why add 'one large and one small'?",
+    "pasuk": {
+     "text": "אֲפִלּוּ הֵם כִּכָּר, אֶחָד גָּדוֹל וְאֶחָד קָטָן",
+     "ref": "Mishnah Terumot 8:6",
+     "label": "Mishnah Terumot 8:6"
+    },
+    "question": "The mishnah forbids bitten fruit even if it is 'like a loaf'. Tosafot Yom Tov asks: if that means very large, why does it add 'one large and one small'?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 8:6:1",
+      "era": "acharon",
+      "quote": "וקצת קשה למאי תני תו א' גדול וא' קטן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Hon Ashir: this is a separate statement: it says the fruit may be a large one or a small one.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Terumot 8:6:2",
+        "quote": "והכי קאמר אחד שיהיה פרי גדול ואחד שיהיה פרי קטן"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: it means whether the place of the bite is large or small.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 8:6:1",
+        "quote": "ואח\"כ אמר א' גדול וא' קטן ר\"ל בין שיהא מקום הניקור גדול או קטן"
+       }
+      ]
+     },
+     {
+      "text": "Rashash: perhaps it refers to the bite: one large bite and one small bite.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Terumot 8:6:1",
+        "quote": "א' ניקור גדול וא' ניקור קטן"
+       }
+      ]
+     }
+    ],
+    "why": "The three readings show what each phrase of the mishnah adds.",
+    "mishnah": 6,
+    "anchors": [
+     "אֲפִלּוּ הֵם כִּכָּר, אֶחָד גָּדוֹל וְאֶחָד קָטָן"
+    ]
+   },
+   {
+    "title": "Why does the jar of oil differ from the jar of wine?",
+    "pasuk": {
+     "text": "חָבִית שֶׁל שֶׁמֶן שֶׁנִּשְׁפְּכָה",
+     "ref": "Mishnah Terumot 8:10",
+     "label": "Mishnah Terumot 8:10"
+    },
+    "question": "Bartenura explains the oil that was spilled as the case of a jar broken in the upper press. Tosafot Yom Tov asks that the inference from our mishnah is still difficult and that this needs further study, and Melekhet Shelomoh asks on that explanation that the mishnah says 'and let it be swallowed up'.",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 8:10:1",
+      "era": "acharon",
+      "quote": "ואכתי קשיא דיוקא דדייקינן ממתני"
+     },
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 8:10:1",
+      "era": "acharon",
+      "quote": "קשה לפי' זה דהא ותבלע תנן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: oil is fit for lighting, so they did not mind a small loss; and for wine they differed only when there is less than a hundred of ordinary produce below.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 8:10:1",
+        "quote": "מִשּׁוּם דְּשֶׁמֶן רָאוּי לְהַדְלִיק וְלֹא חָשׁוּ לְהֶפְסֵד מֻעָט … לֹא נֶחְלְקוּ אֶלָּא דַוְקָא בִּדְאִיכָּא בַּתַּחְתּוֹנָה פָּחוֹת מִמֵּאָה חֻלִּין"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing R. Yosef: the text is 'and let him not make it unclean with his hands', to save the oil from being swallowed so that it can be lit in impurity.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 8:10:1",
+        "quote": "ה\"ר יהוסף ז\"ל הגיה ואל יטמאנה בידיו וכתב פי' כדי להציל השמן שלא יבלע ויוכל להדליקו בטומאה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows that the oil and the wine are not the same case.",
+    "mishnah": 10,
+    "anchors": [
+     "חָבִית שֶׁל שֶׁמֶן שֶׁנִּשְׁפְּכָה"
+    ]
+   },
+   {
+    "title": "To which cases does 'on both of these' refer?",
+    "pasuk": {
+     "text": "וְעַל זוֹ וְעַל זוֹ אָמַר רַבִּי יְהוֹשֻׁע",
+     "ref": "Mishnah Terumot 8:11",
+     "label": "Mishnah Terumot 8:11"
+    },
+    "question": "Rabbi Yehoshua says 'on both of these'. Melekhet Shelomoh brings R. Yosef, who says that Bartenura's reading, that it means the jar of doubtful impurity and the one being lost, does not seem right, since R. Yehoshua already said his words on that mishnah. To which cases does it refer?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 8:11:5",
+      "era": "acharon",
+      "quote": "פי' זה אינו נראה כלל כי ר' יהושע כבר אמר דבריו על אותה המשנה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: on the jar that has doubtful impurity and the one that is going to be lost, R. Yehoshua said he is not warned about making them unclean.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 8:11:1",
+        "quote": "עַל זוֹ שֶׁנּוֹלַד לָהּ סְפֵק טֻמְאָה, וְעַל זוֹ שֶׁהוֹלֶכֶת לְאִבּוּד"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh, citing R. Yosef: it refers to the two cases before it, the jar that was broken and the jar that was spilled.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 8:11:5",
+        "quote": "האי על זו ועל זו קאי על אלה השתי בבות שלפניו דהיינו חבית שנשברה וחבית שנשפכה"
+       }
+      ]
+     },
+     {
+      "text": "Rashash: for R. Yehoshua the Torah warns against defiling because it disqualifies the terumah from being eaten, so in a doubtful or doomed case there is nothing more to fear.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Terumot 8:11:1",
+        "quote": "הטעם שהזהירה התורה מלטמאה הוא מפני דפוסלה מלאכלה … כיון דכבר אסורה מלאכול תו א\"מ עליה"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether R. Yehoshua's statement covers the jars or only the case of the gentile.",
+    "mishnah": 11,
+    "anchors": [
+     "וְעַל זוֹ וְעַל זוֹ אָמַר רַבִּי יְהוֹשֻׁע"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Tosafot Rabbi Akiva Eiger",
+   "Boaz",
+   "Bartenura",
+   "Rambam",
+   "Melekhet Shelomoh",
+   "Rashash",
+   "Lechem Shamayim",
+   "Tosafot Yom Tov",
+   "Hon Ashir"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א: אשה, עבד או כהן שאכלו תרומה ואחר כך נודע שאינם זכאים לה; רבי אליעזר מחייב קרן וחומש ורבי יהושע פוטר, ובעומד ומקריב ונודע שהוא בן גרושה נחלקו, ובעל מום עבודתו פסולה. משנה ב: רבי אליעזר אומר שתרומה שבפיו יבלע ורבי יהושע אומר יפלוט; בטומאה קודמת או בטבל הכל מודים שיפלוט. משנה ג: רבי אליעזר ורבי יהושע נחלקים בגמירת האשכול אחר כניסה לחצר ובחשכה בלילי שבת. משניות ד-ז: יין, מים וחלב שנתגלו אסורים; נתנו שיעור המים, פירות נקורים והמשמרת. משניות ח-י: בחבית תרומה שנולד בה ספק טומאה רבי אליעזר, רבי יהושע ורבן גמליאל חלוקים, ובחבית שנשברה בגת העליונה הסכימו להציל רביעית אם אפשר. משניות יא-יב: רבי יהושע אומר שהוזהרו על אכילתה; אם נכרי דורש להטמא ככר אחד, רבי אליעזר אומר יטמא את כולם, ונשים לא ימסרו אחת.",
+  "topics": [
+   {
+    "term": "בן גרושה או בן חלוצה",
+    "explanation": "כהן שאמו גרושה או חלוצה פסול מלאכול בתרומה. המשנה שואלת מה דינה של תרומה שאכל קודם שנודע.",
+    "mishnah": 1,
+    "anchors": [
+     "בן גרושה או בן חלוצה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 8:1:3",
+     "era": "acharon",
+     "quote": "שֶׁהוּא בֶן גְּרוּשָׁה אוֹ בֶן חֲלוּצָה. וּפָסוּל מִלֶּאֱכֹל בִּתְרוּמָה"
+    }
+   },
+   {
+    "term": "גילוי",
+    "explanation": "מים, יין וחלב שנתגלו אסורים מחשש ששתה מהם נחש והטיל ארס. המשנה קובעת כמה זמן צריך שיעמדו.",
+    "mishnah": 4,
+    "anchors": [
+     "משום גילוי"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 8:4:1",
+     "era": "acharon",
+     "quote": "גזירה שמא שתה מהם נחש או אפעה או זולתם מבעלי הארס ויסתכן השותה אותן וימות"
+    }
+   },
+   {
+    "term": "מרה",
+    "explanation": "המשנה נותנת את שיעור המים המגולים כדי שתאבד בהם המרה. המרה היא הארס שהנחש מטיל.",
+    "mishnah": 5,
+    "anchors": [
+     "כדי שתאבד בהם המרה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 8:5:1",
+     "era": "acharon",
+     "quote": "מרה הוא הארס שמקיאין מפיהם הנחשים"
+    }
+   },
+   {
+    "term": "נקורים",
+    "explanation": "פרי שנראה בו נקור אסור מחשש שנחש נקר בו והטיל ארס.",
+    "mishnah": 6,
+    "anchors": [
+     "נקורי תאנים"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 8:6:1",
+     "era": "acharon",
+     "quote": "שֶׁמָּא נִקֵּר בָּהּ נָחָשׁ וְהִטִּיל בָּהּ אֶרֶס"
+    }
+   },
+   {
+    "term": "משמרת",
+    "explanation": "משמרת המונחת על הכלי אינה מסירה את האיסור, שכן הארס עובר דרכה. רבי נחמיה מתיר.",
+    "mishnah": 7,
+    "anchors": [
+     "המשמרת של יין"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 8:7:1",
+     "era": "acharon",
+     "quote": "שהיא אסורה משום גלוי אע\"פ שהמשמרת מכסה אותו"
+    }
+   },
+   {
+    "term": "מקום תרפה ומקום מוצנע",
+    "explanation": "רבי אליעזר ורבי יהושע נחלקים היכן להניח חבית תרומה שנולד בה ספק טומאה: במקום שמור או במקום פתוח שעלול להיאבד.",
+    "mishnah": 8,
+    "anchors": [
+     "במקום תרפה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 8:8:1",
+     "era": "acharon",
+     "quote": "תורפה הוא המקום הפחות שברוב יארעו בו מקרים ומאורעות"
+    }
+   },
+   {
+    "term": "ספק טומאה",
+    "explanation": "כגון שתי חביות ברשות היחיד שנגע שרץ באחת מהן ולא נודע באיזו.",
+    "mishnah": 8,
+    "anchors": [
+     "ספק טמאה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 8:8:1",
+     "era": "acharon",
+     "quote": "כְּגוֹן שְׁתֵּי חָבִיּוֹת בִּרְשׁוּת הַיָּחִיד וְנָגַע שֶׁרֶץ בְּאַחַת מֵהֶן"
+    }
+   },
+   {
+    "term": "הגת העליונה והתחתונה",
+    "explanation": "הגת העליונה היא מקום העצירה, והתחתונה הבור שהיין יורד לתוכו. המקרה הוא יין תרומה שנשבר למעלה כשבתחתונה חולין טמאים.",
+    "mishnah": 9,
+    "anchors": [
+     "בגת העליונה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 8:9:1",
+     "era": "acharon",
+     "quote": "מָקוֹם שֶׁעוֹצְרִים שָׁם"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע רבי יהושע פוטר מן החומש?",
+    "pasuk": {
+     "text": "רַבִּי אֱלִיעֶזֶר מְחַיֵּב קֶרֶן וְחֹמֶשׁ, וְרַבִּי יְהוֹשֻׁעַ פּוֹטֵר",
+     "ref": "Mishnah Terumot 8:1",
+     "label": "משנה תרומות ח, 1"
+    },
+    "question": "רבי יהושע פוטר את מי שאכל תרומה בטעות מן החומש. רבי עקיבא איגר ובעז מקשים: במקום אחר מי שלא עשה מצווה חייב אף שזמנו בהול, ולכן הפטור טעון הסבר.",
+    "asked_by": [
+     {
+      "name": "תוספות רבי עקיבא איגר",
+      "ref": "Tosafot Rabbi Akiva Eiger on Mishnah Terumot 8:1:1",
+      "era": "acharon",
+      "quote": "קשה לי הא לסתם מתני' (פי\"ט מ\"ד דשבת) סבר ר\"י דבמל של אחר השבת בשבת דחייב כיון שלא עשה מצוה. הרי אף דזמנו בהול מחייב היכא דלא עשה מצוה"
+     },
+     {
+      "name": "בועז",
+      "ref": "Boaz on Mishnah Terumot 8:1",
+      "era": "acharon",
+      "quote": "ק\"ל הא לסתם מתני' כו' וצ\"ע"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: הפטור הוא דווקא באוכל תרומת חמץ בערב פסח, כשזמנו בהול והוא עומד לבער אותו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 8:1:5",
+        "quote": "בַּגְּמָרָא מוֹקֵי לַהּ דַּוְקָא בְּאוֹכֵל תְּרוּמַת חָמֵץ בְּעֶרֶב פֶּסַח, מִפְּנֵי שֶׁזְּמַנּוֹ בָּהוּל, שֶׁהַשָּׁעָה דְחוּקָה"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: דברי רבי יהושע נאמרו רק בתרומת חמץ בערב פסח, ששעתה דחוקה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 8:1:1",
+        "quote": "לא נתקיים אלא בתרומת חמץ ערב פסח שזמנו בהול ענינו שהשעה דחוקה מאד"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: תשובה נוספת שם היא שאכילת תרומה נקראת עבודה, והתורה הכשירה עבודת חלל בשוגג.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 8:1:4",
+        "quote": "ואכילת תרומה איקרי עבודה ועבודה של חלל בשוגג רחמנא אכשרה"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה שהמחלוקת תלויה בשאלה אם אכילת תרומה בטעות נחשבת כשעת מצווה או כעבודה.",
+    "mishnah": 1,
+    "anchors": [
+     "רַבִּי אֱלִיעֶזֶר מְחַיֵּב קֶרֶן וְחֹמֶשׁ, וְרַבִּי יְהוֹשֻׁעַ פּוֹטֵר"
+    ]
+   },
+   {
+    "title": "מדוע הבולע חייב חומש?",
+    "pasuk": {
+     "text": "רַבִּי אֱלִיעֶזֶר אוֹמֵר, יִבְלְעוּ. וְרַבִּי יְהוֹשֻׁעַ אוֹמֵר, יִפְלֹטו",
+     "ref": "Mishnah Terumot 8:2",
+     "label": "משנה תרומות ח, 2"
+    },
+    "question": "לדעת רבי אליעזר יבלעו את התרומה שבפיהם. הרש\"ש ובעז מקשים: הבליעה אינה בשוגג והכניסוה בהיתר, ואם כן מדוע יתחייבו קרן וחומש?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 8:2:1",
+      "era": "acharon",
+      "quote": "תמוה דמה שבלע עתה אינו בשוגג ועוד כיון שהכניס לתוך פיו בהיתרא ומה שבולע הוא ברשות אמאי יהא חייב"
+     },
+     {
+      "name": "בועז",
+      "ref": "Boaz on Mishnah Terumot 8:2",
+      "era": "acharon",
+      "quote": "ק\"ל לרמב\"ם דעכ\"פ ישלם קרן וחומש הרי חומש רק בשוגג והכא יכול לפלוט"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: רבי אליעזר אומר יבלעו רק באשה ועבד שאכלו מתחילה בהיתר; אבל בן גרושה או בן חלוצה, שמעולם לא אכלו בהיתר, יפלטו גם לדבריו.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 8:2:1",
+        "quote": "עֶבֶד וְאִשָּׁה שֶׁאָכְלוּ מִתְּחִלָּה בְּהֶתֵּר, בְּהָא קָאָמַר רַבִּי אֱלִיעֶזֶר דְּיִבְלְעו"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: הבליעה מצטרפת למה שאכלו אחר המיתה או הגירושין, ומשלמים הכל בתוספת החומש כשיטת רבי אליעזר.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 8:2:1",
+        "quote": "ויצטרפו לזה מה שבלע למה שאכל אחר המיתה או הגרושין או כל מה שנזכר וישלם הכל בתוספת החומש כמו שסובר ר' אליעזר"
+       }
+      ]
+     },
+     {
+      "text": "בעז: במקום שהמצווה גדולה מן העבירה מותר, ומצוות שלא יפלוט ותפסד התרומה גדולה מן הבליעה.",
+      "sources": [
+       {
+        "name": "בועז",
+        "ref": "Boaz on Mishnah Terumot 8:2",
+        "quote": "ה\"נ מצוה שלא יפלוט ויפסד התרומה גדולה טפי מבליעה"
+       }
+      ]
+     }
+    ],
+    "why": "היא מבררת באילו מקרים אומר רבי אליעזר לבלוע ומה חייבים אז.",
+    "mishnah": 2,
+    "anchors": [
+     "רַבִּי אֱלִיעֶזֶר אוֹמֵר, יִבְלְעוּ. וְרַבִּי יְהוֹשֻׁעַ אוֹמֵר, יִפְלֹטו"
+    ]
+   },
+   {
+    "title": "היכן יגמור את האשכול?",
+    "pasuk": {
+     "text": "הָיָה אוֹכֵל בְּאֶשְׁכּוֹל וְנִכְנַס מִן הַגִּנָּה לֶחָצֵר, רַבִּי אֱלִיעֶזֶר אוֹמֵר, יִגְמֹר",
+     "ref": "Mishnah Terumot 8:3",
+     "label": "משנה תרומות ח, 3"
+    },
+    "question": "רבי אליעזר אומר יגמור. מלאכת שלמה מקשה על הפירוש שיגמור אפילו בחצר: הפירוש שלא יאכל בחצר הועתק מלשון הירושלמי, ושם נראה שזו רק דעת רבי נתן, ומה אפוא דעת רבי אליעזר במשנתנו?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 8:3:1",
+      "era": "acharon",
+      "quote": "ומה שפי' המפרש לא שיאכל בחצר הועתק מלשון הירושלמי אך צ\"ע בלשון הירוש' כי משמע שם שאין זה אלא דעת ר' נתן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: לא שיאכל בחצר, אלא יצא חוץ לחצר ויגמור לאכול את האשכול בגינה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 8:3:2",
+        "quote": "לֹא שֶׁיֹּאכַל בֶּחָצֵר. אֶלָּא יֵצֵא חוּץ לֶחָצֵר וְיִגְמֹר"
+       }
+      ]
+     },
+     {
+      "text": "הרמב\"ם: כוונת רבי אליעזר שיצא מן החצר ויגמור, אבל בחצר אסור להשלים את האכילה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 8:3:1",
+        "quote": "ומאמר רבי אליעזר יגמור פרט ובאר כי רצונו שיצא מן החצר ויגמור אבל בחצר אסור לו להשלים האכילה"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם הר\"י: יגמור אפילו בחצר ואפילו בשבת, כיון שהתחיל בהיתר.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 8:3:1",
+        "quote": "ר\"א אומר יגמור פי' יגמור אפי' בחצר ואפי' בשבת כיון שהתחיל בו בהיתר"
+       }
+      ]
+     }
+    ],
+    "why": "שתי הקריאות קובעות אם החצר קובעת למעשר אשכול שאכל ממנו.",
+    "mishnah": 3,
+    "anchors": [
+     "הָיָה אוֹכֵל בְּאֶשְׁכּוֹל וְנִכְנַס מִן הַגִּנָּה לֶחָצֵר, רַבִּי אֱלִיעֶזֶר אוֹמֵר, יִגְמֹר"
+    ]
+   },
+   {
+    "title": "האם אסור להשקות בהמה מים מגולים?",
+    "pasuk": {
+     "text": "שִׁעוּר הַמַּיִם הַמְגֻלִּין, כְּדֵי שֶׁתֹּאבַד בָּהֶם הַמָּרָה",
+     "ref": "Mishnah Terumot 8:5",
+     "label": "משנה תרומות ח, 5"
+    },
+    "question": "הברטנורא כותב שמים מגולים אסור להשקותם לבהמתו. לחם שמים מקשה על דברי הר\"ן שהדבר נאמר רק בבהמה הראויה לאכילה: גם בבהמה העומדת למלאכה יש איסור הפסד.",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 8:5:2",
+      "era": "acharon",
+      "quote": "מוקי לה הר\"ן בראויה לאכילה. ולא ידענא מאי דוחקיה. בעומדת למלאכה נמי איכא איסורא דב\"ת"
+     }
+    ],
+    "answers": [
+     {
+      "text": "תוספות יום טוב בשם הר\"ן: מדובר בבהמה הראויה לאכילה, מפני שהאוכל ממנה ניזוק.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 8:5:2",
+        "quote": "בראויה לאכילה. לפי שהאוכל ממנה נזוק"
+       }
+      ]
+     },
+     {
+      "text": "רש\"ש: התוספות כתבו שאפילו לבהמה טמאה אסור, משום בל תשחית.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Terumot 8:5:2",
+        "quote": "אבל התוס' בב\"ק (קט\"ו ב') כ' דאפי' לטמאה אסור משום בל תשחית"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה אם איסור ההשקאה בא מסכנה לאוכלי הבהמה או מבל תשחית.",
+    "mishnah": 5,
+    "anchors": [
+     "שִׁעוּר הַמַּיִם הַמְגֻלִּין, כְּדֵי שֶׁתֹּאבַד בָּהֶם הַמָּרָה"
+    ]
+   },
+   {
+    "title": "מדוע נאמר גם 'אחד גדול ואחד קטן'?",
+    "pasuk": {
+     "text": "אֲפִלּוּ הֵם כִּכָּר, אֶחָד גָּדוֹל וְאֶחָד קָטָן",
+     "ref": "Mishnah Terumot 8:6",
+     "label": "משנה תרומות ח, 6"
+    },
+    "question": "המשנה אוסרת פירות נקורים אפילו הם ככר. התוספות יום טוב מקשה: אם הכוונה לגדולים מאוד, למה נאמר עוד אחד גדול ואחד קטן?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 8:6:1",
+      "era": "acharon",
+      "quote": "וקצת קשה למאי תני תו א' גדול וא' קטן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "חון עשיר: זו מילה לעצמה: הפרי יכול להיות גדול או קטן.",
+      "sources": [
+       {
+        "name": "חון עשיר",
+        "ref": "Hon Ashir on Mishnah Terumot 8:6:2",
+        "quote": "והכי קאמר אחד שיהיה פרי גדול ואחד שיהיה פרי קטן"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: הכוונה בין שמקום הניקור גדול ובין קטן.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 8:6:1",
+        "quote": "ואח\"כ אמר א' גדול וא' קטן ר\"ל בין שיהא מקום הניקור גדול או קטן"
+       }
+      ]
+     },
+     {
+      "text": "רש\"ש: אולי הכוונה לניקור: ניקור גדול וניקור קטן.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Terumot 8:6:1",
+        "quote": "א' ניקור גדול וא' ניקור קטן"
+       }
+      ]
+     }
+    ],
+    "why": "שלוש הקריאות מראות מה מוסיפה כל לשון במשנה.",
+    "mishnah": 6,
+    "anchors": [
+     "אֲפִלּוּ הֵם כִּכָּר, אֶחָד גָּדוֹל וְאֶחָד קָטָן"
+    ]
+   },
+   {
+    "title": "במה שונה חבית השמן מחבית היין?",
+    "pasuk": {
+     "text": "חָבִית שֶׁל שֶׁמֶן שֶׁנִּשְׁפְּכָה",
+     "ref": "Mishnah Terumot 8:10",
+     "label": "משנה תרומות ח, 10"
+    },
+    "question": "הברטנורא מפרש שמן שנשפכה כחבית שנשברה בגת העליונה. התוספות יום טוב מקשה שהדיוק ממשנתנו עדיין קשה וצריך עיון, ומלאכת שלמה מקשה על פירוש זה מפני שהמשנה אומרת 'תבלע'.",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 8:10:1",
+      "era": "acharon",
+      "quote": "ואכתי קשיא דיוקא דדייקינן ממתני"
+     },
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 8:10:1",
+      "era": "acharon",
+      "quote": "קשה לפי' זה דהא ותבלע תנן"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: שמן ראוי להדליק ולא חששו להפסד מועט; וביין נחלקו רק כשיש בתחתונה פחות ממאה חולין.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 8:10:1",
+        "quote": "מִשּׁוּם דְּשֶׁמֶן רָאוּי לְהַדְלִיק וְלֹא חָשׁוּ לְהֶפְסֵד מֻעָט … לֹא נֶחְלְקוּ אֶלָּא דַוְקָא בִּדְאִיכָּא בַּתַּחְתּוֹנָה פָּחוֹת מִמֵּאָה חֻלִּין"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם הר\"י: הגירסה 'ואל יטמאנה בידיו', כדי להציל את השמן שלא יבלע ויוכל להדליקו בטומאה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 8:10:1",
+        "quote": "ה\"ר יהוסף ז\"ל הגיה ואל יטמאנה בידיו וכתב פי' כדי להציל השמן שלא יבלע ויוכל להדליקו בטומאה"
+       }
+      ]
+     }
+    ],
+    "why": "היא מראה שהשמן והיין אינם אותו מקרה.",
+    "mishnah": 10,
+    "anchors": [
+     "חָבִית שֶׁל שֶׁמֶן שֶׁנִּשְׁפְּכָה"
+    ]
+   },
+   {
+    "title": "על אילו מקרים נאמר 'על זו ועל זו'?",
+    "pasuk": {
+     "text": "וְעַל זוֹ וְעַל זוֹ אָמַר רַבִּי יְהוֹשֻׁע",
+     "ref": "Mishnah Terumot 8:11",
+     "label": "משנה תרומות ח, 11"
+    },
+    "question": "רבי יהושע אומר 'על זו ועל זו'. מלאכת שלמה מביא את הר\"י, שפירוש ברטנורא, שהכוונה לחבית ספק הטומאה ולזו שהולכת לאיבוד, אינו נראה כלל, כי רבי יהושע כבר אמר דבריו על אותה משנה. על אילו מקרים נאמרו הדברים?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 8:11:5",
+      "era": "acharon",
+      "quote": "פי' זה אינו נראה כלל כי ר' יהושע כבר אמר דבריו על אותה המשנה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: על זו שנולד לה ספק טומאה ועל זו שהולכת לאיבוד אמר רבי יהושע שאינו מוזהר על טומאתן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 8:11:1",
+        "quote": "עַל זוֹ שֶׁנּוֹלַד לָהּ סְפֵק טֻמְאָה, וְעַל זוֹ שֶׁהוֹלֶכֶת לְאִבּוּד"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה בשם הר\"י: הכוונה לשתי הבבות שלפניו: חבית שנשברה וחבית שנשפכה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 8:11:5",
+        "quote": "האי על זו ועל זו קאי על אלה השתי בבות שלפניו דהיינו חבית שנשברה וחבית שנשפכה"
+       }
+      ]
+     },
+     {
+      "text": "רש\"ש: לרבי יהושע התורה הזהירה מלטמאה מפני שהיא פוסלת מלאכלה, ולכן בספק או באבוד אין עוד ממה לחשוש.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Terumot 8:11:1",
+        "quote": "הטעם שהזהירה התורה מלטמאה הוא מפני דפוסלה מלאכלה … כיון דכבר אסורה מלאכול תו א\"מ עליה"
+       }
+      ]
+     }
+    ],
+    "why": "היא קובעת אם דברי רבי יהושע חלים על החביות או רק על מקרה הנכרי.",
+    "mishnah": 11,
+    "anchors": [
+     "וְעַל זוֹ וְעַל זוֹ אָמַר רַבִּי יְהוֹשֻׁע"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "תוספות רבי עקיבא איגר",
+   "בועז",
+   "ברטנורא",
+   "רמב\"ם",
+   "מלאכת שלמה",
+   "רש\"ש",
+   "לחם שמים",
+   "תוספות יום טוב",
+   "חון עשיר"
+  ]
+ }
 }
