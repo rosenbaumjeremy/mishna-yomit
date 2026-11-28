@@ -1,4 +1,9 @@
 {
+ "date": "2026-11-28",
+ "hebrew_date": {
+  "hebrew": "י״ח בְּכִסְלֵו תשפ״ז",
+  "english": "18 Kislev 5787"
+ },
  "masechet": "terumot",
  "perek": 9,
  "ref": "Mishnah Terumot 9",
@@ -31,5 +36,1145 @@
    "he": "הַמְנַכֵּשׁ עִם הַנָּכְרִי בַּחֲסִיּוֹת, אַף עַל פִּי שֶׁפֵּרוֹתָיו טֶבֶל, אוֹכֵל מֵהֶם עֲרַאי. שְׁתִילֵי תְרוּמָה שֶׁנִטְמְאוּ, שְׁתָלָן, טָהֲרוּ מִלְּטַמֵּא, וַאֲסוּרִין מִלֶּאֱכֹל עַד שֶׁיָּגֹם אֶת הָאֹכֶל. רַבִּי יְהוּדָה אוֹמֵר עַד שֶׁיָגֹם וְיִשְׁנֶה: \n",
    "en": "He who weeds allium plants (whose seeds do not disintegrate) for a Gentile, even though the produce is untithed he eat from them in a casual fashion. Saplings of terumah which had become unclean and were re-planted, become clean from their uncleanness. But they must not be eaten until the edible part [of the stalk] has been lopped off. Rabbi Judah says: he must [before eating] lop off a second time that which grew on the edible part."
   }
- ]
+ ],
+ "english": {
+  "summary": "Mishnah 1: Someone who sows terumah unwittingly may overturn it, but one who does so intentionally must leave it; once it has reached a third of its growth it stays either way, except flax, which is overturned even if sown intentionally. Mishnah 2: Terumah that grows is subject to gleanings, the forgotten sheaf and peah; poor Israelites and poor priests may glean, and the Israelites sell theirs to priests for the price of terumah. Rabbi Tarfon limits this to poor priests, and Rabbi Akiva answers that then only the pure should glean. Mishnah 3: It is also subject to tithes and the poor man's tithe, and one who threshes should beat the grain, or hang baskets of hullin around the animal's neck, so as neither to muzzle it nor to feed it terumah. Mishnah 4: What grows from terumah is terumah and the growths of growths are hullin, while the growths of tevel, first tithe, sabbatical aftergrowths, terumah of outside the land, medumma and first fruits are hullin; the growths of hekdesh and second tithe are hullin and are redeemed at the time of sowing. Mishnah 5: A hundred rows of terumah and one of hullin are all permitted if the seed disintegrates, but if it does not, even a hundred of hullin and one of terumah are all forbidden. Mishnah 6: The growths of tevel are permitted for a seed that disintegrates, and forbidden for one that does not (luf, garlic and onions); Rabbi Judah says garlic is like barley. Mishnah 7: One who weeds allium plants with a gentile may eat from them casually, and saplings of terumah that were impure and replanted become pure but may not be eaten until he cuts off the edible part, and Rabbi Judah says also a second time.",
+  "topics": [
+   {
+    "term": "Davar shezar'o kaleh (seed that disintegrates)",
+    "explanation": "A plant whose seed rots in the soil and becomes a new plant, such as wheat and barley. For these the new growth is considered new and is more lenient. A plant whose seed does not rot, such as garlic, onion and luf, is stricter, because the original is still there.",
+    "mishnah": 5,
+    "anchors": [
+     "דבר שזרעו כלה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 9:6:3",
+     "quote": "דבר שיהיה זרעו כלה ונאבד מהר"
+    }
+   },
+   {
+    "term": "Gidulei terumah (growths of terumah)",
+    "explanation": "What grows from sown terumah. The sages decreed that it is terumah, even though in strict law it might be hullin, so that a priest would not keep impure terumah in order to sow it.",
+    "mishnah": 4,
+    "anchors": [
+     "גדולי תרומה"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 9:4:1",
+     "quote": "עבדו רבנן תקנתא משום תרומה טמאה ביד כהן"
+    }
+   },
+   {
+    "term": "Gidulei gidulin (growths of growths)",
+    "explanation": "The next generation: what grows when the growths of terumah are sown again. These are hullin in the case of a seed that disintegrates; for a seed that does not disintegrate they remain forbidden.",
+    "mishnah": 4,
+    "anchors": [
+     "גדולי גדולין"
+    ],
+    "source": {
+     "name": "Lechem Shamayim",
+     "ref": "Lechem Shamayim on Mishnah Terumot 9:4:2",
+     "quote": "ופירוש גידולי גידולין אם חזר וזרע אותן גידולין"
+    }
+   },
+   {
+    "term": "Selling to a priest for the price of terumah",
+    "explanation": "A poor Israelite who gleans or receives a tithe may sell it to a priest at the lower price of terumah, and he keeps the money. The sale lets the gift reach a priest while the poor man keeps what he receives.",
+    "mishnah": 3,
+    "anchors": [
+     "מוכרין את שלהם לכהנים בדמי תרומה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 9:3:1",
+     "quote": "לפי שאם תהיה החטה מדה בזוז בדרך הדמיון תהיה החטה של תרומה יותר ממדה בזוז"
+    }
+   },
+   {
+    "term": "Not muzzling the threshing animal",
+    "explanation": "The Torah forbids muzzling an animal while it threshes. The mishnah's solution is to hang baskets of hullin of the same kind around its neck, so it eats hullin and is not muzzled.",
+    "mishnah": 3,
+    "anchors": [
+     "לא זומם את הבהמה"
+    ],
+    "source": {
+     "name": "Rambam",
+     "ref": "Rambam on Mishnah Terumot 9:3:2",
+     "quote": "וזמם שם המתג ענינו שלא ישים המתג בפיה בעת האכילה"
+    }
+   },
+   {
+    "term": "Chasiyot (garlic, onions and the like)",
+    "explanation": "The family of garlic, luf, onions and leeks, whose seed does not disintegrate in the soil. The mishnah uses them as its main example of the stricter case.",
+    "mishnah": 7,
+    "anchors": [
+     "בחסיות"
+    ],
+    "source": {
+     "name": "Bartenura",
+     "ref": "Bartenura on Mishnah Terumot 9:7:2",
+     "quote": "כגון השום והלוף והבצלים והכרתי כל אלו נקראים חסיות"
+    }
+   },
+   {
+    "term": "Yagom et ha'ochel (cutting off the edible part)",
+    "explanation": "To eat saplings of terumah that were impure and replanted, one must first cut off the edible part. What grows afterwards is permitted. Rabbi Judah requires that he cut a second time as well.",
+    "mishnah": 7,
+    "anchors": [
+     "עד שיגם את האכל"
+    ],
+    "source": {
+     "name": "Yachin",
+     "ref": "Yachin on Mishnah Terumot 9:35:1",
+     "quote": "עד שיחתוך מהצמח כל הראוי לאכילה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "Why must flax be overturned even once it has grown?",
+    "pasuk": {
+     "text": "וּבְפִשְׁתָּן מֵזִיד יוֹפַךְ",
+     "ref": "Mishnah Terumot 9:1",
+     "label": "Mishnah Terumot 9:1"
+    },
+    "question": "Unwitting sowing may be overturned, intentional sowing must stay, and once the crop has reached a third it stays either way. Why is flax the exception, so that it must be overturned even then? Lechem Shamayim finds this hard: the rule is that only what is food is subject to terumah, and the stalks are not food, so what is there to penalise?",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 9:1:4",
+      "era": "acharon",
+      "quote": "קשיא לי טובא. דהא כלל אמרו במעשרות כל שהוא אוכל"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 9:1:1",
+      "era": "acharon",
+      "quote": "אבל קשה מדוע נקט שלא יהנה בקסמין"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura and Rambam: the stalks are what is wanted from flax, and if it were left to grow a person might benefit from the stalks and think that only the seed is terumah. So it is overturned.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 9:1:4",
+        "quote": "שלא יהנה בקסמין ויחשב שהזרע בלבד הוא דהוי תרומה"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 9:1:3",
+        "quote": "גזרה שמא יהנה בעציו ויחשוב כי הזרע בלבד הוא האסור"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: flax is sown for the stalks and not for the seed, and the decree is meant to cancel the benefit the sower intended, and he must not be allowed to keep that benefit.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 9:1:2",
+        "quote": "דעיקר פשתן לאדם היינו משום קסמין ולא משום זרע"
+       }
+      ]
+     },
+     {
+      "text": "Yachin: because the flax is sown for the stalks, there is a concern that he will stumble into benefit from them, and according to the Rambam this is itself a penalty so that he will not intend to sow for the sake of the stalks.",
+      "sources": [
+       {
+        "name": "Yachin",
+        "ref": "Yachin on Mishnah Terumot 9:3:1",
+        "quote": "גם זה קנס' שלא יתכוון ויזרע להנות מהקשין"
+       }
+      ]
+     }
+    ],
+    "why": "It shows the rule of ‘growths of terumah’ is a rabbinic safeguard, and the commentators differ on whether flax is a safeguard or a penalty.",
+    "mishnah": 1,
+    "anchors": [
+     "וּבְפִשְׁתָּן מֵזִיד יוֹפַךְ"
+    ]
+   },
+   {
+    "title": "Is overturning an unwitting sowing a right or a duty?",
+    "pasuk": {
+     "text": "הַזּוֹרֵעַ תְּרוּמָה, שׁוֹגֵג, יוֹפַךְ. וּמֵזִיד, יְקַיֵּם",
+     "ref": "Mishnah Terumot 9:1",
+     "label": "Mishnah Terumot 9:1"
+    },
+    "question": "The mishnah says that if he sowed unwittingly, ‘it is overturned’. Does this mean he is allowed to overturn the sown terumah, or that he must, as a penalty? Lechem Shamayim points out that the Rambam implies it is only permitted, while Rash proves from the Yerushalmi that it is an obligation.",
+    "asked_by": [
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 9:1:1-3",
+      "era": "acharon",
+      "quote": "משמע דרשות הוא ולא חובה. ובפי' הר\"ש מוכיח ע\"פ הירו' דחיובא הוא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: it is permitted for a person to turn the field over and lose the seed that he sowed; but one who sowed intentionally must leave it so that what grows is terumah.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 9:1:1",
+        "quote": "מותר לו לאדם להפך הארץ ויפסד הזרע שזרע"
+       },
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 9:1:2",
+        "quote": "חייב להניחה כדי שיצמחו ויהיה הדבר הצומח תרומה"
+       }
+      ]
+     },
+     {
+      "text": "Bartenura: when the name of terumah has been called on the field, destroying it would look like wasting terumah, which is why the intentional sower must leave it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 9:1:2",
+        "quote": "כיון שנקרא שם תרומה על השדה היה נראה כמאבד את התרומה"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh brings Shirillo, who rejected the explanation that the unwitting was treated more strictly than the intentional, and wrote that the right explanation is the Rambam's.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 9:1:1",
+        "quote": "דחה הפי' שפי' רבינו שמשון ז\"ל במתני' דשוגג יופך מזיד יקיים משום דהחמירו בשוגג יותר מבמזיד"
+       }
+      ]
+     }
+    ],
+    "why": "It decides whether the unwitting sower is penalised or merely excused from preserving the crop.",
+    "mishnah": 1,
+    "anchors": [
+     "הַזּוֹרֵעַ תְּרוּמָה, שׁוֹגֵג, יוֹפַךְ. וּמֵזִיד, יְקַיֵּם"
+    ]
+   },
+   {
+    "title": "Is Rabbi Akiva a third opinion or the same as Rabbi Tarfon?",
+    "pasuk": {
+     "text": "אָמַר לוֹ רַבִּי עֲקִיבָא, אִם כֵּן, לֹא יְלַקְּטוּ אֶלָּא טְהוֹרִים",
+     "ref": "Mishnah Terumot 9:2",
+     "label": "Mishnah Terumot 9:2"
+    },
+    "question": "Rabbi Tarfon limits gleaning to poor priests, and Rabbi Akiva answers that if so only the pure should glean. The Bartenura rules like Rabbi Akiva. Does Rabbi Akiva disagree with Rabbi Tarfon, so that even impure priests are barred, or does he come only to support the first view?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 9:2:1",
+      "era": "acharon",
+      "quote": "ולכאורה משמע דר\"ע דעת שלישית דאף טמאים אסורים"
+     },
+     {
+      "name": "Ikar Tosafot Yom Tov",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 9:2:1",
+      "era": "acharon",
+      "quote": "ולכאורה משמע דרבי עקיבא דעת שלישית דאף טמאים אסורים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Rambam: just as terumah is forbidden to an Israelite, so it is forbidden to an impure priest, since it is holy; and the halakhah follows Rabbi Akiva.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 9:2:1",
+        "quote": "כך היא אסורה לכהן טמא לפי שהיא קדש ואסור לטמא לאכול קדש והלכה כר\"ע"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: Rabbi Akiva comes to assist the first view, since the Rambam rules like him in the commentary but quotes only the first view in the Mishneh Torah.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 9:2:4",
+        "quote": "משמע דר\"ע אתא לסייעי לת\"ק"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir: Rabbi Tarfon did not distinguish among priests, because he held that priests are careful.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Terumot 9:2:2",
+        "quote": "דלא חילק בכהנים נראה דס\"ל דכהנים זהירים הם"
+       }
+      ]
+     }
+    ],
+    "why": "It sets the practical halakhah: whether any priest who may be impure can glean terumah.",
+    "mishnah": 2,
+    "anchors": [
+     "אָמַר לוֹ רַבִּי עֲקִיבָא, אִם כֵּן, לֹא יְלַקְּטוּ אֶלָּא טְהוֹרִים"
+    ]
+   },
+   {
+    "title": "Why does the mishnah mention only ma'aserot and not terumah?",
+    "pasuk": {
+     "text": "וְחַיֶּבֶת בְּמַעַשְׂרוֹת וּבְמַעֲשַׂר עָנִי",
+     "ref": "Mishnah Terumot 9:3",
+     "label": "Mishnah Terumot 9:3"
+    },
+    "question": "The mishnah says that the growth is subject to tithes and the poor man's tithe and that the poor Israelites sell theirs to priests, but it does not mention terumah. Rash raises the point that the mishnah mentions only gifts that may be given to non-priests, yet maaser sheni is not sold, and still it is taught. What does the mishnah include under ‘ma'aserot’?",
+    "asked_by": [
+     {
+      "name": "Tosafot Yom Tov",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 9:3:1",
+      "era": "acharon",
+      "quote": "ומיהו מעשר שני אינו נמכר"
+     },
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 9:3:3",
+      "era": "acharon",
+      "quote": "וקשה א\"כ מדוע לא תני לה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: ‘ma'aserot’ means first and second tithe, and the same applies to terumah.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 9:3:1",
+        "quote": "מעשר ראשון ושני והוא הדין בתרומה"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: it is plain that the term ‘ma'aserot’ includes terumot everywhere, so there is no need to ask why terumah is not taught, and the only novelty is the obligation to sell the ma'aser to the priests.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 9:3:1-5",
+        "quote": "פשוט ששם מעשרות כולל התרומות בכל מקום"
+       }
+      ]
+     },
+     {
+      "text": "Melekhet Shelomoh: Rash (Rabbi Shimshon) says the mishnah mentions only matters that may be given even to non-priests so as to sell them to the priest at the price of terumah.",
+      "sources": [
+       {
+        "name": "Melekhet Shelomoh",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 9:3:1",
+        "quote": "ולא חש להזכיר אלא דברים הניתנים אף לזרים כדי למכרם לכהן בדמי תרומה"
+       }
+      ]
+     }
+    ],
+    "why": "It clarifies which gifts the mishnah has in mind when it says the growth is ‘subject to ma'aserot’.",
+    "mishnah": 3,
+    "anchors": [
+     "וְחַיֶּבֶת בְּמַעַשְׂרוֹת וּבְמַעֲשַׂר עָנִי"
+    ]
+   },
+   {
+    "title": "Does the ban on letting the animal eat apply to a priest's own animal?",
+    "pasuk": {
+     "text": "הַחוֹבֵט מְשֻׁבָּח. וְהַדָּשׁ כֵּיצַד יַעֲשֶׂה",
+     "ref": "Mishnah Terumot 9:3",
+     "label": "Mishnah Terumot 9:3"
+    },
+    "question": "The mishnah praises one who beats the grain with sticks, so that the animal need not be muzzled or fed terumah. The commentators give the reason that it is forbidden to let the animal eat terumah ‘if it is not the cow of a priest’. Does this ban depend on whose animal it is?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 9:3:1",
+      "era": "acharon",
+      "quote": "דאפי' בבהמת כהן אסור משום הפסד תרומה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: it is forbidden to let an animal eat terumah if it is not the cow of a priest.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 9:3:3",
+        "quote": "שאסור להניחה לאכול בתרומה אם אינה פרתו של כהן"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: one may not muzzle it, and one may not bring it into the terumah grain since it eats from it, except if it is the animal of a priest.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 9:3:2",
+        "quote": "ואסור לו גם כן להכניסה בזרע התרומה לפי שהיא אוכלת ממנו אלא אם היתה בהמת כהן"
+       }
+      ]
+     },
+     {
+      "text": "Rashash (citing Tosafot): even a priest's animal is forbidden, because of the loss of terumah.",
+      "sources": [
+       {
+        "name": "Rashash",
+        "ref": "Rashash on Mishnah Terumot 9:3:1",
+        "quote": "דאפי' בבהמת כהן אסור משום הפסד תרומה"
+       }
+      ]
+     }
+    ],
+    "why": "It shows two reasons for the rule, the muzzling of the animal and the loss of terumah.",
+    "mishnah": 3,
+    "anchors": [
+     "הַחוֹבֵט מְשֻׁבָּח. וְהַדָּשׁ כֵּיצַד יַעֲשֶׂה"
+    ]
+   },
+   {
+    "title": "Why are the growths of first fruits hullin?",
+    "pasuk": {
+     "text": "וְהַבִּכּוּרִים, גִּדּוּלֵיהֶן, חֻלִּין",
+     "ref": "Mishnah Terumot 9:4",
+     "label": "Mishnah Terumot 9:4"
+    },
+    "question": "Bikkurim are the strictest of the group, yet their growths are hullin. Bartenura gives as the reason that they are not common, and apply only to the seven species. Rashash asks: terumah de'oraita is also not common, since it applies only to grain, wine and oil, so why was no decree made for it? What is the real reason?",
+    "asked_by": [
+     {
+      "name": "Rashash",
+      "ref": "Rashash on Mishnah Terumot 9:4:2",
+      "era": "acharon",
+      "quote": "וק\"ל דהא תרומה דאורייתא יותר אינה מצוי'"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: they are not common, as they apply only to the seven species.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 9:4:8",
+        "quote": "שאינן מצויין שאינן נוהגים אלא בשבעת המינים"
+       }
+      ]
+     },
+     {
+      "text": "Hon Ashir: first fruits are the strictest, forbidden to a mourner like holy things, and yet their growths are hullin because they are not common: they apply only to the seven species and of these only two are sown.",
+      "sources": [
+       {
+        "name": "Hon Ashir",
+        "ref": "Hon Ashir on Mishnah Terumot 9:4:1",
+        "quote": "והבכורים חמורים הם מכלם, דאסורים לאונן כקדשים, ואפילו הכי גדוליהם חולין מפני שאינם מצויין"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov and Ikar Tosafot Yom Tov: our mishnah speaks of one who sows outside Jerusalem, and this is how the Yerushalmi establishes it.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 9:4:5",
+        "quote": "ומתני' דהכא בזורע חוץ לירושלים"
+       },
+       {
+        "name": "Ikar Tosafot Yom Tov",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 9:4:1",
+        "quote": "ומתניתין דהכא בזורע חוץ לירושלים"
+       }
+      ]
+     }
+    ],
+    "why": "It tests the stated reason, that these are not common, against the strictness of first fruits.",
+    "mishnah": 4,
+    "anchors": [
+     "וְהַבִּכּוּרִים, גִּדּוּלֵיהֶן, חֻלִּין"
+    ]
+   },
+   {
+    "title": "Why is the planted row not treated like terumah mixed in hullin?",
+    "pasuk": {
+     "text": "אֲבָל בְּדָבָר שֶׁאֵין זַרְעוֹ כָלֶה, אֲפִלּוּ מֵאָה שֶׁל חֻלִּין וְאַחַת שֶׁל תְּרוּמָה, כֻּלָּן אֲסוּרִין",
+     "ref": "Mishnah Terumot 9:5",
+     "label": "Mishnah Terumot 9:5"
+    },
+    "question": "Ordinary terumah that fell into hullin is nullified in a hundred and one. Why, when a hundred rows of hullin and one of terumah are planted, is everything forbidden for a seed that does not disintegrate?",
+    "asked_by": [
+     {
+      "name": "Melekhet Shelomoh",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 9:5:2",
+      "era": "acharon",
+      "quote": "ואע\"ג דתרומה עולה באחד ומאה הכא דזרועין אין הקרקע עולה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: because the ground does not ‘go up’ in one hundred and one.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 9:5:3",
+        "quote": "לפי שאין הקרקע עולה באחת ומאה"
+       }
+      ]
+     },
+     {
+      "text": "Rambam: the terumah is set apart and was not mixed into the hullin, so it is not judged as medumma.",
+      "sources": [
+       {
+        "name": "Rambam",
+        "ref": "Rambam on Mishnah Terumot 9:5:1",
+        "quote": "לפי שהתרומה מופרשת היא ולא נתערבה בחולין"
+       }
+      ]
+     }
+    ],
+    "why": "It shows two reasons for the same rule: the nature of the ground, or the nature of the terumah.",
+    "mishnah": 5,
+    "anchors": [
+     "אֲבָל בְּדָבָר שֶׁאֵין זַרְעוֹ כָלֶה, אֲפִלּוּ מֵאָה שֶׁל חֻלִּין וְאַחַת שֶׁל תְּרוּמָה, כֻּלָּן אֲסוּרִין"
+    ]
+   },
+   {
+    "title": "Why forbid saplings once they are pure and replanted?",
+    "pasuk": {
+     "text": "שְׁתִילֵי תְרוּמָה שֶׁנִטְמְאוּ, שְׁתָלָן, טָהֲרוּ מִלְּטַמֵּא, וַאֲסוּרִין מִלֶּאֱכֹל",
+     "ref": "Mishnah Terumot 9:7",
+     "label": "Mishnah Terumot 9:7"
+    },
+    "question": "The decree that growths of terumah are terumah was made so that a priest would not keep impure terumah to sow it. But once the impure saplings are replanted they have become pure, so what still stands behind the decree, and why forbid them to be eaten?",
+    "asked_by": [
+     {
+      "name": "Bartenura",
+      "ref": "Bartenura on Mishnah Terumot 9:7:4",
+      "era": "acharon",
+      "quote": "ואם תאמר כיון דעיקר גזירה גדולי תרומה כתרומה אינה אלא משום תרומה טמאה ביד כהן"
+     },
+     {
+      "name": "Lechem Shamayim",
+      "ref": "Lechem Shamayim on Mishnah Terumot 9:7:10-12",
+      "era": "acharon",
+      "quote": "וקשיא לי אי הכי מ\"ט אמרו גידולי תרומה תרומה לעולם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "Bartenura: terumah sells very cheaply, so even if they gave it to the priest he would not lose his field; but if the growths were hullin he would keep impure terumah in order to sow it.",
+      "sources": [
+       {
+        "name": "Bartenura",
+        "ref": "Bartenura on Mishnah Terumot 9:7:4",
+        "quote": "ויש לומר דתרומה נמכרת בזול הרבה"
+       }
+      ]
+     },
+     {
+      "text": "Tosafot Yom Tov: on the conclusion that it is only a ‘ma'alah’, forbidden even to priests, there is no difficulty, since it is forbidden to eat until he cuts it, and he would certainly not keep it.",
+      "sources": [
+       {
+        "name": "Tosafot Yom Tov",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 9:7:2",
+        "quote": "אבל למסקנא דמעלה בעלמא הוא ואף לכהנים אסורים לאכול"
+       }
+      ]
+     },
+     {
+      "text": "Lechem Shamayim: still the sages were concerned, since he would keep it in order to eat it after he cut the edible part, and the decree remains.",
+      "sources": [
+       {
+        "name": "Lechem Shamayim",
+        "ref": "Lechem Shamayim on Mishnah Terumot 9:7:10-12",
+        "quote": "אלא ודאי אפ\"ה חיישינן. דודאי משהי נמי בשביל כך"
+       }
+      ]
+     }
+    ],
+    "why": "It shows how the rabbinic decree was reasoned and how far its reason reaches.",
+    "mishnah": 7,
+    "anchors": [
+     "שְׁתִילֵי תְרוּמָה שֶׁנִטְמְאוּ, שְׁתָלָן, טָהֲרוּ מִלְּטַמֵּא, וַאֲסוּרִין מִלֶּאֱכֹל"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "Lechem Shamayim",
+   "Rashash",
+   "Bartenura",
+   "Rambam",
+   "Melekhet Shelomoh",
+   "Yachin",
+   "Tosafot Yom Tov",
+   "Ikar Tosafot Yom Tov",
+   "Hon Ashir"
+  ]
+ },
+ "hebrew": {
+  "summary": "משנה א הזורע תרומה בשוגג יופך ובמזיד יקיים, ואם הביאה שליש יקיים בין שוגג בין מזיד, ובפשתן אפילו במזיד יופך. משנה ב התרומה שצמחה חייבת בלקט שכחה ופאה, ועניי ישראל ועניי כהנים מלקטים, ועניי ישראל מוכרים לכהנים בדמי תרומה; רבי טרפון מגביל לעניי כהנים בלבד, ורבי עקיבא משיב שאז לא ילקטו אלא טהורים. משנה ג היא חייבת במעשרות ובמעשר עני, והחובט משובח, והדש תולה כפיפות בצוואר הבהמה כדי שלא יחסום אותה ולא יאכילה תרומה. משנה ד גידולי תרומה תרומה וגידולי גידולין חולין, וגידולי הטבל והמעשר ראשון וספיחי שביעית ותרומת חוצה לארץ והמדומע והביכורים חולין; גידולי הקדש ומעשר שני חולין ופודה אותם בזמן זרעם. משנה ה מאה ערוגות תרומה ואחת חולין מותרות בדבר שזרעו כלה, אבל בדבר שאין זרעו כלה אפילו מאה חולין ואחת תרומה כולן אסורות. משנה ו גידולי טבל מותרים בדבר שזרעו כלה, ובדבר שאין זרעו כלה אסורים, כגון לוף שום ובצלים; רבי יהודה אומר השום כשעורים. משנה ז המנכש עם הנכרי בחסיות אוכל עראי, ושתילי תרומה שנטמאו ונשתלו טהרו מלטמא ואסורים מלאכול עד שיגום את האוכל, ורבי יהודה אומר עד שיגום וישנה.",
+  "topics": [
+   {
+    "term": "דבר שזרעו כלה",
+    "explanation": "צמח שזרעו נרקב בקרקע וצומח חדש, כגון חיטה ושעורה. בגידולי אלה הקלו, שהגידול נחשב חדש. צמח שזרעו אינו נרקב, כגון שום, בצל ולוף, חמור, שהרי העיקר קיים.",
+    "mishnah": 5,
+    "anchors": [
+     "דבר שזרעו כלה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 9:6:3",
+     "quote": "דבר שיהיה זרעו כלה ונאבד מהר"
+    }
+   },
+   {
+    "term": "גידולי תרומה",
+    "explanation": "מה שצומח מתרומה שנזרעה. חכמים גזרו שהוא תרומה, אף שמן הדין היה יכול להיות חולין, כדי שכהן לא ישהה תרומה טמאה כדי לזרעה.",
+    "mishnah": 4,
+    "anchors": [
+     "גדולי תרומה"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 9:4:1",
+     "quote": "עבדו רבנן תקנתא משום תרומה טמאה ביד כהן"
+    }
+   },
+   {
+    "term": "גידולי גידולין",
+    "explanation": "הדור הבא: מה שצומח כשזורעים שוב את גידולי התרומה. אלה חולין בדבר שזרעו כלה, ובדבר שאין זרעו כלה הם נשארים אסורים.",
+    "mishnah": 4,
+    "anchors": [
+     "גדולי גדולין"
+    ],
+    "source": {
+     "name": "לחם שמים",
+     "ref": "Lechem Shamayim on Mishnah Terumot 9:4:2",
+     "quote": "ופירוש גידולי גידולין אם חזר וזרע אותן גידולין"
+    }
+   },
+   {
+    "term": "מכירה לכהן בדמי תרומה",
+    "explanation": "עני ישראל שליקט או שקיבל מעשר מוכר לכהן במחיר תרומה הזול, והדמים שלו. כך מגיעה המתנה לכהן והעני נשאר עם הדמים.",
+    "mishnah": 3,
+    "anchors": [
+     "מוכרין את שלהם לכהנים בדמי תרומה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 9:3:1",
+     "quote": "לפי שאם תהיה החטה מדה בזוז בדרך הדמיון תהיה החטה של תרומה יותר ממדה בזוז"
+    }
+   },
+   {
+    "term": "לא זומם את הבהמה",
+    "explanation": "התורה אוסרת לחסום את הבהמה בדישה. הפתרון במשנה הוא לתלות בצוואר הבהמה סלים ובהם חולין מאותו המין, כך שהיא אוכלת חולין ואינה חסומה.",
+    "mishnah": 3,
+    "anchors": [
+     "לא זומם את הבהמה"
+    ],
+    "source": {
+     "name": "רמב\"ם",
+     "ref": "Rambam on Mishnah Terumot 9:3:2",
+     "quote": "וזמם שם המתג ענינו שלא ישים המתג בפיה בעת האכילה"
+    }
+   },
+   {
+    "term": "חסיות",
+    "explanation": "משפחת השום, הלוף, הבצלים והכרתי, שזרעם אינו כלה בקרקע. המשנה משתמשת בהם כדוגמה העיקרית למקרה החמור.",
+    "mishnah": 7,
+    "anchors": [
+     "בחסיות"
+    ],
+    "source": {
+     "name": "ברטנורא",
+     "ref": "Bartenura on Mishnah Terumot 9:7:2",
+     "quote": "כגון השום והלוף והבצלים והכרתי כל אלו נקראים חסיות"
+    }
+   },
+   {
+    "term": "עד שיגום את האוכל",
+    "explanation": "כדי לאכול שתילי תרומה שנטמאו ונשתלו, יש לחתוך תחילה את החלק האכיל. מה שיגדל אחר כך מותר. רבי יהודה מצריך שיחתוך גם בפעם השנייה.",
+    "mishnah": 7,
+    "anchors": [
+     "עד שיגם את האכל"
+    ],
+    "source": {
+     "name": "תפארת ישראל (יכין)",
+     "ref": "Yachin on Mishnah Terumot 9:35:1",
+     "quote": "עד שיחתוך מהצמח כל הראוי לאכילה"
+    }
+   }
+  ],
+  "questions": [
+   {
+    "title": "מדוע פשתן יופך גם אחרי שהביא שליש?",
+    "pasuk": {
+     "text": "וּבְפִשְׁתָּן מֵזִיד יוֹפַךְ",
+     "ref": "Mishnah Terumot 9:1",
+     "label": "משנה תרומות ט, 1"
+    },
+    "question": "הזורע תרומה שוגג יופך, מזיד יקיים, ואם הביאה שליש יקיים בכל מקרה. מדוע פשתן יוצא מן הכלל ויופך גם אז? בעל לחם שמים מתקשה: הכלל במעשרות הוא שרק מה שהוא אוכל חייב, והעצים אינם אוכל, ומה שייך לקנוס בהם?",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 9:1:4",
+      "era": "acharon",
+      "quote": "קשיא לי טובא. דהא כלל אמרו במעשרות כל שהוא אוכל"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 9:1:1",
+      "era": "acharon",
+      "quote": "אבל קשה מדוע נקט שלא יהנה בקסמין"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא ורמב\"ם: עיקר הפשתן הוא העצים, ואילו היה מניחו לגדול היה עלול ליהנות מהעצים ולחשוב שהזרע בלבד הוא התרומה, ולכן יופך.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 9:1:4",
+        "quote": "שלא יהנה בקסמין ויחשב שהזרע בלבד הוא דהוי תרומה"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 9:1:3",
+        "quote": "גזרה שמא יהנה בעציו ויחשוב כי הזרע בלבד הוא האסור"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: פשתן נזרע בעיקר בשביל הקסמים ולא בשביל הזרע, והגזירה באה לבטל את ההנאה שהתכוון אליה הזורע.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 9:1:2",
+        "quote": "דעיקר פשתן לאדם היינו משום קסמין ולא משום זרע"
+       }
+      ]
+     },
+     {
+      "text": "יכין: מפני שזורעים פשתן בשביל הקסמים יש חשש שיכשל בהנאה מהם, ולדעת הרמב\"ם גם זה קנס כדי שלא יתכוון ויזרע להנות מהקשין.",
+      "sources": [
+       {
+        "name": "תפארת ישראל (יכין)",
+        "ref": "Yachin on Mishnah Terumot 9:3:1",
+        "quote": "גם זה קנס' שלא יתכוון ויזרע להנות מהקשין"
+       }
+      ]
+     }
+    ],
+    "why": "השאלה מראה שדין גידולי תרומה הוא סייג דרבנן, והמפרשים חלוקים אם בפשתן מדובר בסייג או בקנס.",
+    "mishnah": 1,
+    "anchors": [
+     "וּבְפִשְׁתָּן מֵזִיד יוֹפַךְ"
+    ]
+   },
+   {
+    "title": "האם ההפיכה בשוגג רשות או חובה?",
+    "pasuk": {
+     "text": "הַזּוֹרֵעַ תְּרוּמָה, שׁוֹגֵג, יוֹפַךְ. וּמֵזִיד, יְקַיֵּם",
+     "ref": "Mishnah Terumot 9:1",
+     "label": "משנה תרומות ט, 1"
+    },
+    "question": "המשנה אומרת שבשוגג 'יופך'. האם הכוונה שמותר לו להפוך את התרומה שזרע, או שחייב כקנס? בעל לחם שמים מציין שהרמב\"ם משמע שהדבר רשות בלבד, ואילו הר\"ש (רבי שמשון משנץ) מוכיח מן הירושלמי שהוא חיוב.",
+    "asked_by": [
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 9:1:1-3",
+      "era": "acharon",
+      "quote": "משמע דרשות הוא ולא חובה. ובפי' הר\"ש מוכיח ע\"פ הירו' דחיובא הוא"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: מותר לאדם להפוך את הארץ ויפסד הזרע שזרע; ואם הוא מזיד חייב להניחה כדי שהצומח יהיה תרומה.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 9:1:1",
+        "quote": "מותר לו לאדם להפך הארץ ויפסד הזרע שזרע"
+       },
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 9:1:2",
+        "quote": "חייב להניחה כדי שיצמחו ויהיה הדבר הצומח תרומה"
+       }
+      ]
+     },
+     {
+      "text": "ברטנורא: משנקרא שם תרומה על השדה נראה המאבד כמאבד את התרומה, ולכן המזיד יקיים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 9:1:2",
+        "quote": "כיון שנקרא שם תרומה על השדה היה נראה כמאבד את התרומה"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה מביא את הר\"ש שירילי\"ו שדחה את הפירוש שהחמירו בשוגג יותר מבמזיד, וכתב שהנכון כפירוש הרמב\"ם.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 9:1:1",
+        "quote": "דחה הפי' שפי' רבינו שמשון ז\"ל במתני' דשוגג יופך מזיד יקיים משום דהחמירו בשוגג יותר מבמזיד"
+       }
+      ]
+     }
+    ],
+    "why": "מכריע אם השוגג נקנס או שמא רק מותר לו שלא לשמור על היבול.",
+    "mishnah": 1,
+    "anchors": [
+     "הַזּוֹרֵעַ תְּרוּמָה, שׁוֹגֵג, יוֹפַךְ. וּמֵזִיד, יְקַיֵּם"
+    ]
+   },
+   {
+    "title": "האם רבי עקיבא דעה שלישית או כרבי טרפון?",
+    "pasuk": {
+     "text": "אָמַר לוֹ רַבִּי עֲקִיבָא, אִם כֵּן, לֹא יְלַקְּטוּ אֶלָּא טְהוֹרִים",
+     "ref": "Mishnah Terumot 9:2",
+     "label": "משנה תרומות ט, 2"
+    },
+    "question": "רבי טרפון מגביל את הלקט לעניי כהנים, ורבי עקיבא משיב שאם כן לא ילקטו אלא טהורים. ברטנורא פוסק כרבי עקיבא. האם רבי עקיבא חולק על רבי טרפון ואוסר אף כהנים טמאים, או שהוא בא לסייע לתנא קמא?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 9:2:1",
+      "era": "acharon",
+      "quote": "ולכאורה משמע דר\"ע דעת שלישית דאף טמאים אסורים"
+     },
+     {
+      "name": "עיקר תוספות יום טוב",
+      "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 9:2:1",
+      "era": "acharon",
+      "quote": "ולכאורה משמע דרבי עקיבא דעת שלישית דאף טמאים אסורים"
+     }
+    ],
+    "answers": [
+     {
+      "text": "רמב\"ם: כשם שהתרומה אסורה לישראל כך אסורה לכהן טמא, שהיא קודש, והלכה כרבי עקיבא.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 9:2:1",
+        "quote": "כך היא אסורה לכהן טמא לפי שהיא קדש ואסור לטמא לאכול קדש והלכה כר\"ע"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: רבי עקיבא בא לסייע לתנא קמא, שהרי הרמב\"ם פסק כמותו בפירוש המשנה ובחיבורו הביא רק את דברי תנא קמא.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 9:2:4",
+        "quote": "משמע דר\"ע אתא לסייעי לת\"ק"
+       }
+      ]
+     },
+     {
+      "text": "חון עשיר: רבי טרפון לא חילק בין כהנים משום שסבר שכהנים זהירים.",
+      "sources": [
+       {
+        "name": "חון עשיר",
+        "ref": "Hon Ashir on Mishnah Terumot 9:2:2",
+        "quote": "דלא חילק בכהנים נראה דס\"ל דכהנים זהירים הם"
+       }
+      ]
+     }
+    ],
+    "why": "קובע את ההלכה למעשה: אם כהן שעלול להיות טמא רשאי ללקט.",
+    "mishnah": 2,
+    "anchors": [
+     "אָמַר לוֹ רַבִּי עֲקִיבָא, אִם כֵּן, לֹא יְלַקְּטוּ אֶלָּא טְהוֹרִים"
+    ]
+   },
+   {
+    "title": "מדוע המשנה מזכירה מעשרות ולא תרומה?",
+    "pasuk": {
+     "text": "וְחַיֶּבֶת בְּמַעַשְׂרוֹת וּבְמַעֲשַׂר עָנִי",
+     "ref": "Mishnah Terumot 9:3",
+     "label": "משנה תרומות ט, 3"
+    },
+    "question": "המשנה אומרת שהגידול חייב במעשרות ובמעשר עני ושעניי ישראל מוכרים לכהנים, אך אינה מזכירה תרומה. הר\"ש מעיר שהמשנה הזכירה רק דברים הניתנים אף לזרים, אולם מעשר שני אינו נמכר ובכל זאת שנוי. מה כוללת המשנה בלשון 'מעשרות'?",
+    "asked_by": [
+     {
+      "name": "תוספות יום טוב",
+      "ref": "Tosafot Yom Tov on Mishnah Terumot 9:3:1",
+      "era": "acharon",
+      "quote": "ומיהו מעשר שני אינו נמכר"
+     },
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 9:3:3",
+      "era": "acharon",
+      "quote": "וקשה א\"כ מדוע לא תני לה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: 'מעשרות' הם מעשר ראשון ושני, והוא הדין בתרומה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 9:3:1",
+        "quote": "מעשר ראשון ושני והוא הדין בתרומה"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: פשוט ששם 'מעשרות' כולל את התרומות בכל מקום, ואין צורך לשאול למה לא נשנתה תרומה, והחידוש הוא רק החובה למכור את המעשר לכהנים.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 9:3:1-5",
+        "quote": "פשוט ששם מעשרות כולל התרומות בכל מקום"
+       }
+      ]
+     },
+     {
+      "text": "מלאכת שלמה: הר\"ש אומר שהמשנה הזכירה רק דברים הניתנים אף לזרים כדי למוכרם לכהן בדמי תרומה.",
+      "sources": [
+       {
+        "name": "מלאכת שלמה",
+        "ref": "Melekhet Shelomoh on Mishnah Terumot 9:3:1",
+        "quote": "ולא חש להזכיר אלא דברים הניתנים אף לזרים כדי למכרם לכהן בדמי תרומה"
+       }
+      ]
+     }
+    ],
+    "why": "מבהיר אילו מתנות המשנה מתכוונת אליהן בקובעה שהגידול 'חייב במעשרות'.",
+    "mishnah": 3,
+    "anchors": [
+     "וְחַיֶּבֶת בְּמַעַשְׂרוֹת וּבְמַעֲשַׂר עָנִי"
+    ]
+   },
+   {
+    "title": "האם האיסור להאכיל את הבהמה חל גם בבהמת כהן?",
+    "pasuk": {
+     "text": "הַחוֹבֵט מְשֻׁבָּח. וְהַדָּשׁ כֵּיצַד יַעֲשֶׂה",
+     "ref": "Mishnah Terumot 9:3",
+     "label": "משנה תרומות ט, 3"
+    },
+    "question": "המשנה משבחת את החובט, כדי שלא יצטרך לחסום את הבהמה או להאכילה תרומה. המפרשים מסבירים שאסור להניח לבהמה לאכול בתרומה 'אם אינה פרתו של כהן'. האם האיסור תלוי בבעלות על הבהמה?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 9:3:1",
+      "era": "acharon",
+      "quote": "דאפי' בבהמת כהן אסור משום הפסד תרומה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: אסור להניחה לאכול בתרומה אם אינה פרתו של כהן.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 9:3:3",
+        "quote": "שאסור להניחה לאכול בתרומה אם אינה פרתו של כהן"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: אסור לחסום את פיה, ואסור גם להכניסה לזרע התרומה כי היא אוכלת ממנו, אלא אם היתה בהמת כהן.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 9:3:2",
+        "quote": "ואסור לו גם כן להכניסה בזרע התרומה לפי שהיא אוכלת ממנו אלא אם היתה בהמת כהן"
+       }
+      ]
+     },
+     {
+      "text": "רש\"ש (בשם התוספות): אף בבהמת כהן אסור משום הפסד תרומה.",
+      "sources": [
+       {
+        "name": "רש\"ש",
+        "ref": "Rashash on Mishnah Terumot 9:3:1",
+        "quote": "דאפי' בבהמת כהן אסור משום הפסד תרומה"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שני טעמים לדין: חסימת הבהמה והפסד התרומה.",
+    "mishnah": 3,
+    "anchors": [
+     "הַחוֹבֵט מְשֻׁבָּח. וְהַדָּשׁ כֵּיצַד יַעֲשֶׂה"
+    ]
+   },
+   {
+    "title": "מדוע גידולי הביכורים חולין?",
+    "pasuk": {
+     "text": "וְהַבִּכּוּרִים, גִּדּוּלֵיהֶן, חֻלִּין",
+     "ref": "Mishnah Terumot 9:4",
+     "label": "משנה תרומות ט, 4"
+    },
+    "question": "הביכורים חמורים מכולם, ובכל זאת גידוליהם חולין. ברטנורא נותן טעם שאינם מצויים ונוהגים רק בשבעת המינים. הרש\"ש שואל: גם תרומה דאורייתא אינה מצויה, שהיא רק בדגן תירוש ויצהר, ומדוע לא גזרו עליה? מה הטעם?",
+    "asked_by": [
+     {
+      "name": "רש\"ש",
+      "ref": "Rashash on Mishnah Terumot 9:4:2",
+      "era": "acharon",
+      "quote": "וק\"ל דהא תרומה דאורייתא יותר אינה מצוי'"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: אינם מצויים, שנוהגים רק בשבעת המינים.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 9:4:8",
+        "quote": "שאינן מצויין שאינן נוהגים אלא בשבעת המינים"
+       }
+      ]
+     },
+     {
+      "text": "חון עשיר: הביכורים חמורים מכולם ואסורים לאונן כקדשים, ובכל זאת גידוליהם חולין מפני שאינם מצויים: נוהגים רק בשבעת המינים ומהם רק שניים נזרעים.",
+      "sources": [
+       {
+        "name": "חון עשיר",
+        "ref": "Hon Ashir on Mishnah Terumot 9:4:1",
+        "quote": "והבכורים חמורים הם מכלם, דאסורים לאונן כקדשים, ואפילו הכי גדוליהם חולין מפני שאינם מצויין"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב ועיקר תוספות יום טוב: המשנה עוסקת בזורע חוץ לירושלים, וכך מעמידה הירושלמי.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 9:4:5",
+        "quote": "ומתני' דהכא בזורע חוץ לירושלים"
+       },
+       {
+        "name": "עיקר תוספות יום טוב",
+        "ref": "Ikar Tosafot Yom Tov on Mishnah Terumot 9:4:1",
+        "quote": "ומתניתין דהכא בזורע חוץ לירושלים"
+       }
+      ]
+     }
+    ],
+    "why": "בוחן את הטעם 'אינם מצויים' מול חומרת הביכורים.",
+    "mishnah": 4,
+    "anchors": [
+     "וְהַבִּכּוּרִים, גִּדּוּלֵיהֶן, חֻלִּין"
+    ]
+   },
+   {
+    "title": "מדוע ערוגה אינה נדונה כתרומה שנתערבה בחולין?",
+    "pasuk": {
+     "text": "אֲבָל בְּדָבָר שֶׁאֵין זַרְעוֹ כָלֶה, אֲפִלּוּ מֵאָה שֶׁל חֻלִּין וְאַחַת שֶׁל תְּרוּמָה, כֻּלָּן אֲסוּרִין",
+     "ref": "Mishnah Terumot 9:5",
+     "label": "משנה תרומות ט, 5"
+    },
+    "question": "תרומה שנפלה לחולין בטלה במאה ואחד. מדוע כאשר נזרעו מאה ערוגות חולין ואחת תרומה הכול אסור בדבר שאין זרעו כלה?",
+    "asked_by": [
+     {
+      "name": "מלאכת שלמה",
+      "ref": "Melekhet Shelomoh on Mishnah Terumot 9:5:2",
+      "era": "acharon",
+      "quote": "ואע\"ג דתרומה עולה באחד ומאה הכא דזרועין אין הקרקע עולה"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: לפי שאין הקרקע עולה באחד ומאה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 9:5:3",
+        "quote": "לפי שאין הקרקע עולה באחת ומאה"
+       }
+      ]
+     },
+     {
+      "text": "רמב\"ם: התרומה מופרשת היא ולא נתערבה בחולין, ולכן אין דנים אותה כמדומע.",
+      "sources": [
+       {
+        "name": "רמב\"ם",
+        "ref": "Rambam on Mishnah Terumot 9:5:1",
+        "quote": "לפי שהתרומה מופרשת היא ולא נתערבה בחולין"
+       }
+      ]
+     }
+    ],
+    "why": "מראה שני טעמים לאותו דין: טבע הקרקע או טבע התרומה.",
+    "mishnah": 5,
+    "anchors": [
+     "אֲבָל בְּדָבָר שֶׁאֵין זַרְעוֹ כָלֶה, אֲפִלּוּ מֵאָה שֶׁל חֻלִּין וְאַחַת שֶׁל תְּרוּמָה, כֻּלָּן אֲסוּרִין"
+    ]
+   },
+   {
+    "title": "מדוע נאסרים השתילים לאחר שנטהרו?",
+    "pasuk": {
+     "text": "שְׁתִילֵי תְרוּמָה שֶׁנִטְמְאוּ, שְׁתָלָן, טָהֲרוּ מִלְּטַמֵּא, וַאֲסוּרִין מִלֶּאֱכֹל",
+     "ref": "Mishnah Terumot 9:7",
+     "label": "משנה תרומות ט, 7"
+    },
+    "question": "גזרת 'גדולי תרומה תרומה' נתקנה כדי שהכהן לא ישהה תרומה טמאה לזורעה. אבל משנטעו השתילים הטמאים הם טהרו, ומה טעם הגזירה, ולמה נאסרו באכילה?",
+    "asked_by": [
+     {
+      "name": "ברטנורא",
+      "ref": "Bartenura on Mishnah Terumot 9:7:4",
+      "era": "acharon",
+      "quote": "ואם תאמר כיון דעיקר גזירה גדולי תרומה כתרומה אינה אלא משום תרומה טמאה ביד כהן"
+     },
+     {
+      "name": "לחם שמים",
+      "ref": "Lechem Shamayim on Mishnah Terumot 9:7:10-12",
+      "era": "acharon",
+      "quote": "וקשיא לי אי הכי מ\"ט אמרו גידולי תרומה תרומה לעולם"
+     }
+    ],
+    "answers": [
+     {
+      "text": "ברטנורא: תרומה נמכרת בזול הרבה, ולכן אפילו נתנו לכהן תרומה לזרעה לא היה מפסיד את שדהו; אבל אילו היו הגידולים חולין היה משהה תרומה טמאה כדי לזרעה.",
+      "sources": [
+       {
+        "name": "ברטנורא",
+        "ref": "Bartenura on Mishnah Terumot 9:7:4",
+        "quote": "ויש לומר דתרומה נמכרת בזול הרבה"
+       }
+      ]
+     },
+     {
+      "text": "תוספות יום טוב: למסקנה שהוא מעלה בעלמא ואסור אף לכהנים אין כאן קושיא, שכיון שאסור לאכול עד שיגום ודאי לא ישהה.",
+      "sources": [
+       {
+        "name": "תוספות יום טוב",
+        "ref": "Tosafot Yom Tov on Mishnah Terumot 9:7:2",
+        "quote": "אבל למסקנא דמעלה בעלמא הוא ואף לכהנים אסורים לאכול"
+       }
+      ]
+     },
+     {
+      "text": "לחם שמים: ובכל זאת חששו, שהרי ישהה כדי לאוכלן אחר שיגום האוכל, והגזירה בעינה.",
+      "sources": [
+       {
+        "name": "לחם שמים",
+        "ref": "Lechem Shamayim on Mishnah Terumot 9:7:10-12",
+        "quote": "אלא ודאי אפ\"ה חיישינן. דודאי משהי נמי בשביל כך"
+       }
+      ]
+     }
+    ],
+    "why": "מראה כיצד נומקה הגזירה ועד היכן מגיע טעמה.",
+    "mishnah": 7,
+    "anchors": [
+     "שְׁתִילֵי תְרוּמָה שֶׁנִטְמְאוּ, שְׁתָלָן, טָהֲרוּ מִלְּטַמֵּא, וַאֲסוּרִין מִלֶּאֱכֹל"
+    ]
+   }
+  ],
+  "sources_consulted": [
+   "לחם שמים",
+   "רש\"ש",
+   "ברטנורא",
+   "רמב\"ם",
+   "מלאכת שלמה",
+   "תפארת ישראל (יכין)",
+   "תוספות יום טוב",
+   "עיקר תוספות יום טוב",
+   "חון עשיר"
+  ]
+ }
 }
